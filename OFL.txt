@@ -1,7 +1,7 @@
 ﻿Copyright (c) 2010, Matt McInerney (matt@pixelspread.com),
 Copyright (c) 2011, Pablo Impallari (www.impallari.com|impallari@gmail.com),
 Copyright (c) 2011, Rodrigo Fuenzalida (www.rfuenzalida.com|hello@rfuenzalida.com), with Reserved Font Name: RALEWAY;
-Copyright (c) 2014-2022 The Rising Sun Project Authors (https://github.com/cssobral2013/RisingSun)
+Copyright (c) 2014-2022 The Rising Sun Project Authors (https://github.com/cssobral2013/Rising-Sun)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
