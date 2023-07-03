@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gedescender-cy" format="2">
+  <advance width="543"/>
+  <unicode hex="04F6"/>
+  <anchor x="56" y="0" name="_bottomright"/>
+  <outline>
+    <component base="Ge-cy"/>
+    <contour>
+      <point x="262" y="-136" type="line"/>
+      <point x="328" y="170" type="line"/>
+      <point x="93" y="170" type="line"/>
+      <point x="56" y="0" type="line"/>
+      <point x="126" y="0" type="line"/>
+      <point x="97" y="-136" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.805,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

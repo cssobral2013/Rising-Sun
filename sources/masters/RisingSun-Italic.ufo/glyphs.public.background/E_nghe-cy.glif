@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Enghe-cy" format="2">
+  <advance width="979"/>
+  <outline>
+    <contour>
+      <point x="1020" y="630" type="line"/>
+      <point x="1037" y="710" type="line"/>
+      <point x="628" y="710" type="line"/>
+      <point x="697" y="630" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.805,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

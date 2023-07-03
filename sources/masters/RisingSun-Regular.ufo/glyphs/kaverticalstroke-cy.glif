@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kaverticalstroke-cy" format="2">
+  <advance width="565"/>
+  <unicode hex="049D"/>
+  <anchor x="238" y="253" name="_center"/>
+  <outline>
+    <contour>
+      <point x="158" y="0" type="line"/>
+      <point x="158" y="229" type="line"/>
+      <point x="286" y="229" type="line"/>
+      <point x="451" y="0" type="line"/>
+      <point x="549" y="0" type="line"/>
+      <point x="359" y="269" type="line"/>
+      <point x="525" y="522" type="line"/>
+      <point x="430" y="522" type="line"/>
+      <point x="286" y="304" type="line"/>
+      <point x="158" y="304" type="line"/>
+      <point x="158" y="522" type="line"/>
+      <point x="71" y="522" type="line"/>
+      <point x="71" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="262" y="403" type="line"/>
+      <point x="219" y="403" type="line"/>
+      <point x="219" y="131" type="line"/>
+      <point x="262" y="131" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.805,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

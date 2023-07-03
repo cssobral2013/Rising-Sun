@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gmacron" format="2">
+  <advance width="683"/>
+  <anchor x="533.642" y="904" name="top"/>
+  <outline>
+    <component base="G"/>
+    <component base="macroncomb" xOffset="189" yOffset="184"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>G+macroncomb</string>
+  </dict>
+  </lib>
+</glyph>

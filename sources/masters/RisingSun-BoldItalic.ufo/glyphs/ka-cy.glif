@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ka-cy" format="2">
+  <advance width="578"/>
+  <unicode hex="043A"/>
+  <anchor x="335" y="0" name="bottomright"/>
+  <anchor x="289" y="263" name="center"/>
+  <anchor x="354" y="526" name="top"/>
+  <outline>
+    <contour>
+      <point x="183" y="0" type="line"/>
+      <point x="225" y="196" type="line"/>
+      <point x="255" y="196" type="line"/>
+      <point x="335" y="0" type="line"/>
+      <point x="537" y="0" type="line"/>
+      <point x="418" y="268" type="line"/>
+      <point x="485" y="326"/>
+      <point x="561" y="414"/>
+      <point x="610" y="526" type="curve"/>
+      <point x="418" y="526" type="line"/>
+      <point x="388" y="448"/>
+      <point x="338" y="379"/>
+      <point x="285" y="339" type="curve"/>
+      <point x="255" y="339" type="line"/>
+      <point x="295" y="526" type="line"/>
+      <point x="106" y="526" type="line"/>
+      <point x="-6" y="0" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="257.86" x="277" y="440"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.805,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

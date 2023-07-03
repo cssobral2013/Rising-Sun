@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kabashkir-cy" format="2">
+  <advance width="538"/>
+  <outline>
+    <contour>
+      <point x="203" y="453" type="line"/>
+      <point x="293" y="522" type="line"/>
+      <point x="75" y="522" type="line"/>
+      <point x="61" y="453" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.805,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

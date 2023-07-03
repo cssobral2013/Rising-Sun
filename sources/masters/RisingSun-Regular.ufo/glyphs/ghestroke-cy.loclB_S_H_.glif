@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ghestroke-cy.loclBSH" format="2">
+  <advance width="411"/>
+  <outline>
+    <component base="ge-cy"/>
+    <contour>
+      <point x="352" y="216" type="line"/>
+      <point x="352" y="274" type="line"/>
+      <point x="100" y="274" type="line"/>
+      <point x="100" y="216" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.805,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

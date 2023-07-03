@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Scaron" format="2">
+  <advance width="602"/>
+  <unicode hex="0160"/>
+  <outline>
+    <component base="S"/>
+    <component base="caroncomb" xOffset="162" yOffset="210"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>org.robofab.fontlab.mark</key>
+  <integer>0</integer>
+  </dict>
+  </lib>
+</glyph>

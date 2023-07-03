@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexcomb_acutecomb" format="2">
+  <advance width="455"/>
+  <anchor x="232" y="522" name="_top"/>
+  <anchor x="320" y="935" name="top"/>
+  <outline>
+    <component base="circumflexcomb" xOffset="-5" yOffset="-22"/>
+    <component base="acutecomb" xOffset="236" yOffset="98"/>
+  </outline>
+</glyph>

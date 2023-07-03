@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Q</key>
+  <string>Q_.glif</string>
+  <key>Yeru-cy</key>
+  <string>Y_eru-cy.glif</string>
+  <key>cedi</key>
+  <string>cedi.glif</string>
+  <key>nine</key>
+  <string>nine.glif</string>
+  <key>nine.tnum</key>
+  <string>nine.tnum.glif</string>
+  <key>one</key>
+  <string>one.glif</string>
+  <key>one.tnum</key>
+  <string>one.tnum.glif</string>
+  <key>three</key>
+  <string>three.glif</string>
+  <key>three.tnum</key>
+  <string>three.tnum.glif</string>
+  <key>w</key>
+  <string>w.glif</string>
+  <key>won</key>
+  <string>won.glif</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wgrave" format="2">
+  <advance width="842"/>
+  <unicode hex="1E81"/>
+  <anchor x="421" y="730" name="top"/>
+  <outline>
+    <component base="w"/>
+    <component base="gravecomb" xOffset="300"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>w+gravecomb</string>
+  <key>org.robofab.fontlab.mark</key>
+  <integer>0</integer>
+  </dict>
+  </lib>
+</glyph>

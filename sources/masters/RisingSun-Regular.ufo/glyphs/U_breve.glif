@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ubreve" format="2">
+  <advance width="755"/>
+  <unicode hex="016C"/>
+  <outline>
+    <component base="U"/>
+    <component base="brevecomb" xOffset="230" yOffset="186"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>org.robofab.fontlab.mark</key>
+  <integer>0</integer>
+  </dict>
+  </lib>
+</glyph>

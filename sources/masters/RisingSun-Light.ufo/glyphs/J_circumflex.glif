@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Jcircumflex" format="2">
+  <advance width="481"/>
+  <unicode hex="0134"/>
+  <anchor x="354" y="709" name="m.uni0302"/>
+  <anchor x="0" y="0" name="m.uni031B_1"/>
+  <anchor x="0" y="0" name="b.uni0324_2"/>
+  <anchor x="0" y="0" name="b.uni0328_3"/>
+  <anchor x="0" y="0" name="b.uni0335_4"/>
+  <anchor x="240.5" y="921" name="top"/>
+  <outline>
+    <component base="J"/>
+    <component base="circumflexcomb" xOffset="260" yOffset="191"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>J+circumflexcomb</string>
+  <key>org.robofab.fontlab.mark</key>
+  <integer>0</integer>
+  </dict>
+  </lib>
+</glyph>

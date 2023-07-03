@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caroncomb.alt" format="2">
+  <advance width="284"/>
+  <anchor x="85" y="526" name="_topright"/>
+  <outline>
+    <contour>
+      <point x="264" y="730" type="line"/>
+      <point x="95" y="730" type="line"/>
+      <point x="45" y="588" type="line"/>
+      <point x="165" y="556" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>org.robofab.fontlab.mark</key>
+  <integer>0</integer>
+  </dict>
+  </lib>
+</glyph>
