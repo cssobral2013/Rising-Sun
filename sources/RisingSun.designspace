@@ -1,37 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="4.0">
  <axes>
-  <axis tag="wght" name="weight" maximum="900" minimum="100" default="400">
+  <axis minimum="325" default="400" tag="wght" name="weight" maximum="650">
    <labelname xml:lang="en">Weight</labelname>
-   <map output="100" input="100"/>
-   <map output="200" input="200"/>
-   <map output="300" input="300"/>
-   <map output="400" input="400"/>
-   <map output="500" input="500"/>
-   <map output="600" input="600"/>
-   <map output="700" input="700"/>
-   <map output="800" input="800"/>
-   <map output="900" input="900"/>
+   <map input="325" output="100"/>
+   <map input="400" output="400"/>
+   <map input="650" output="900"/>
   </axis>
  </axes>
  <sources>
-  <source name="Light" familyname="Rising Sun" stylename="Light" filename="masters/RisingSun-Light.ufo">
+  <source stylename="Bold" familyname="Rising Sun" name="Bold" filename="masters/RisingSun-Bold.ufo">
    <location>
-    <dimension name="weight" xvalue="100"/>
+    <dimension xvalue="900" name="weight"/>
    </location>
   </source>
-  <source name="Regular" familyname="Rising Sun" stylename="Regular" filename="masters/RisingSun-Regular.ufo">
+  <source stylename="Light" familyname="Rising Sun" name="Light" filename="masters/RisingSun-Light.ufo">
+   <location>
+    <dimension xvalue="100" name="weight"/>
+   </location>
+  </source>
+  <source stylename="Regular" familyname="Rising Sun" name="Regular" filename="masters/RisingSun-Regular.ufo">
    <lib copy="1"/>
    <groups copy="1"/>
    <info copy="1"/>
    <features copy="1"/>
    <location>
-    <dimension name="weight" xvalue="400"/>
-   </location>
-  </source>
-  <source name="Bold" familyname="Rising Sun" stylename="Bold" filename="masters/RisingSun-Bold.ufo">
-   <location>
-    <dimension name="weight" xvalue="900"/>
+    <dimension xvalue="400" name="weight"/>
    </location>
   </source>
  </sources>
@@ -785,49 +779,49 @@
   </dict>
  </lib>
  <instances>
-  <instance name="Thin" familyname="Rising Sun" stylename="Thin" filename="instances/RisingSun-Thin.ufo">
+  <instance stylename="Thin" familyname="Rising Sun" name="Thin" filename="instances/RisingSun-Thin.ufo">
    <location>
-    <dimension name="weight" xvalue="100"/>
+    <dimension xvalue="100" name="weight"/>
    </location>
   </instance>
-  <instance name="ExtraLight" familyname="Rising Sun" stylename="ExtraLight" filename="instances/RisingSun-ExtraLight.ufo">
+  <instance stylename="ExtraLight" familyname="Rising Sun" name="ExtraLight" filename="instances/RisingSun-ExtraLight.ufo">
    <location>
-    <dimension name="weight" xvalue="200"/>
+    <dimension xvalue="200" name="weight"/>
    </location>
   </instance>
-  <instance name="Light" familyname="Rising Sun" stylename="Light" filename="instances/RisingSun-Light.ufo">
+  <instance stylename="Light" familyname="Rising Sun" name="Light" filename="instances/RisingSun-Light.ufo">
    <location>
-    <dimension name="weight" xvalue="300"/>
+    <dimension xvalue="300" name="weight"/>
    </location>
   </instance>
-  <instance name="Regular" familyname="Rising Sun" stylename="Regular" filename="instances/RisingSun-Regular.ufo">
+  <instance stylename="Regular" familyname="Rising Sun" name="Regular" filename="instances/RisingSun-Regular.ufo">
    <location>
-    <dimension name="weight" xvalue="400"/>
+    <dimension xvalue="400" name="weight"/>
    </location>
   </instance>
-  <instance name="Medium" familyname="Rising Sun" stylename="Medium" filename="instances/RisingSun-Medium.ufo">
+  <instance stylename="Medium" familyname="Rising Sun" name="Medium" filename="instances/RisingSun-Medium.ufo">
    <location>
-    <dimension name="weight" xvalue="500"/>
+    <dimension xvalue="500" name="weight"/>
    </location>
   </instance>
-  <instance name="SemiBold" familyname="Rising Sun" stylename="SemiBold" filename="instances/RisingSun-SemiBold.ufo">
+  <instance stylename="SemiBold" familyname="Rising Sun" name="SemiBold" filename="instances/RisingSun-SemiBold.ufo">
    <location>
-    <dimension name="weight" xvalue="600"/>
+    <dimension xvalue="600" name="weight"/>
    </location>
   </instance>
-  <instance name="Bold" familyname="Rising Sun" stylename="Bold" filename="instances/RisingSun-Bold.ufo">
+  <instance stylename="Bold" familyname="Rising Sun" name="Bold" filename="instances/RisingSun-Bold.ufo">
    <location>
-    <dimension name="weight" xvalue="700"/>
+    <dimension xvalue="700" name="weight"/>
    </location>
   </instance>
-  <instance name="ExtraBold" familyname="Rising Sun" stylename="ExtraBold" filename="instances/RisingSun-ExtraBold.ufo">
+  <instance stylename="ExtraBold" familyname="Rising Sun" name="ExtraBold" filename="instances/RisingSun-ExtraBold.ufo">
    <location>
-    <dimension name="weight" xvalue="800"/>
+    <dimension xvalue="800" name="weight"/>
    </location>
   </instance>
-  <instance name="Black" familyname="Rising Sun" stylename="Black" filename="instances/RisingSun-Black.ufo">
+  <instance stylename="Black" familyname="Rising Sun" name="Black" filename="instances/RisingSun-Black.ufo">
    <location>
-    <dimension name="weight" xvalue="900"/>
+    <dimension xvalue="900" name="weight"/>
    </location>
   </instance>
  </instances>
