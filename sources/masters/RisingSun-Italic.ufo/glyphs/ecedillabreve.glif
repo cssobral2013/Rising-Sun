@@ -3,7 +3,7 @@
   <advance width="539"/>
   <outline>
     <component base="e"/>
-    <component base="cedillacomb" xOffset="120"/>
+    <component base="cedillacomb" xOffset="135"/>
     <component base="brevecomb" xOffset="129"/>
   </outline>
 </glyph>

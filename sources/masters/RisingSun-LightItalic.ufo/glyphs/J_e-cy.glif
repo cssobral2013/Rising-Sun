@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Je-cy" format="2">
-  <advance width="443"/>
+  <advance width="503"/>
   <unicode hex="0408"/>
   <anchor x="428" y="708" name="m.uni0302"/>
   <anchor x="0" y="0" name="m.uni031B_1"/>
@@ -12,6 +12,10 @@
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>J</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>J</string>
   <key>com.fontlab.recipe</key>
   <string>J</string>
   <key>public.markColor</key>

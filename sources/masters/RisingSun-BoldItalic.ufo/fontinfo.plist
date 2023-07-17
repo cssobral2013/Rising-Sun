@@ -26,16 +26,6 @@
   </dict>
   <dict>
     <key>angle</key>
-    <integer>90</integer>
-    <key>name</key>
-    <string>f1</string>
-    <key>x</key>
-    <integer>225</integer>
-    <key>y</key>
-    <integer>0</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
     <integer>0</integer>
     <key>name</key>
     <string>f2</string>
@@ -43,6 +33,16 @@
     <integer>0</integer>
     <key>y</key>
     <integer>941</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>90</integer>
+    <key>name</key>
+    <string>f1</string>
+    <key>x</key>
+    <integer>225</integer>
+    <key>y</key>
+    <integer>0</integer>
   </dict>
   </array>
   <key>italicAngle</key>
@@ -91,7 +91,7 @@
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Bold Italic</string>
   <key>openTypeNameVersion</key>
-  <string>Version 4.311</string>
+  <string>Version 4.313</string>
   <key>openTypeOS2Panose</key>
   <array>
     <integer>0</integer>
@@ -208,7 +208,7 @@
   <key>versionMajor</key>
   <integer>4</integer>
   <key>versionMinor</key>
-  <integer>311</integer>
+  <integer>313</integer>
   <key>xHeight</key>
   <integer>526</integer>
 </dict>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Jcircumflex" format="2">
-  <advance width="481"/>
+  <advance width="518"/>
   <unicode hex="0134"/>
   <anchor x="354" y="709" name="m.uni0302"/>
   <anchor x="0" y="0" name="m.uni031B_1"/>

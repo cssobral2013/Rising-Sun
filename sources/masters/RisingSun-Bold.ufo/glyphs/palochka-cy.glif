@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="palochka-cy" format="2">
-  <advance width="286"/>
+  <advance width="355"/>
   <unicode hex="04CF"/>
   <outline>
-    <component base="idotless"/>
+    <component base="l"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>l</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>l</string>
   <key>public.markColor</key>
   <string>0.805,0.6,1,1</string>
   </dict>
