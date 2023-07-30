@@ -91,7 +91,7 @@
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Light</string>
   <key>openTypeNameVersion</key>
-  <string>Version 4.313</string>
+  <string>Version 4.315</string>
   <key>openTypeOS2Panose</key>
   <array>
     <integer>0</integer>
@@ -203,7 +203,7 @@
   <key>versionMajor</key>
   <integer>4</integer>
   <key>versionMinor</key>
-  <integer>313</integer>
+  <integer>315</integer>
   <key>xHeight</key>
   <integer>519</integer>
 </dict>

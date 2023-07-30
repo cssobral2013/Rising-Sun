@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="five.tnum" format="2">
-  <advance width="670"/>
+  <advance width="703"/>
   <outline>
     <contour>
       <point x="227" y="-10" type="curve" smooth="yes"/>
@@ -33,8 +33,8 @@
       <point x="147" y="10"/>
       <point x="85" y="61"/>
       <point x="66" y="136" type="curve"/>
-      <point x="46" y="131" type="line"/>
-      <point x="65" y="44"/>
+      <point x="45" y="136" type="line"/>
+      <point x="64" y="49"/>
       <point x="132" y="-10"/>
     </contour>
   </outline>
