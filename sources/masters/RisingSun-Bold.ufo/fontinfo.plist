@@ -81,7 +81,7 @@
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Bold</string>
   <key>openTypeNameVersion</key>
-  <string>Version 4.315</string>
+  <string>Version 4.316</string>
   <key>openTypeOS2Panose</key>
   <array>
     <integer>0</integer>
@@ -199,7 +199,7 @@
   <key>versionMajor</key>
   <integer>4</integer>
   <key>versionMinor</key>
-  <integer>315</integer>
+  <integer>316</integer>
   <key>xHeight</key>
   <integer>526</integer>
 </dict>
