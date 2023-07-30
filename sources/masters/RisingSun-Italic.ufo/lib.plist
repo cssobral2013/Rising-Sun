@@ -598,7 +598,6 @@
     <string>Chedieresis-cy</string>
     <string>Gedescender-cy</string>
     <string>Yerudieresis-cy</string>
-    <string>Qa-cy</string>
     <string>We-cy</string>
     <string>De-cy.loclBGR</string>
     <string>El-cy.loclBGR</string>
@@ -981,6 +980,7 @@
     <string>circumflexcomb_tildecomb</string>
     <string>NULL</string>
     <string>dotbelow</string>
+    <string>Qa-cy</string>
   </array>
 </dict>
 </plist>

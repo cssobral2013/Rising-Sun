@@ -124,8 +124,6 @@
   <string>P_.glif</string>
   <key>Pe-cy</key>
   <string>P_e-cy.glif</string>
-  <key>Q</key>
-  <string>Q_.glif</string>
   <key>R</key>
   <string>R_.glif</string>
   <key>S</key>
@@ -190,8 +188,6 @@
   <string>a.ss02.glif</string>
   <key>acutecomb</key>
   <string>acutecomb.glif</string>
-  <key>ae</key>
-  <string>ae.glif</string>
   <key>ampersand</key>
   <string>ampersand.glif</string>
   <key>apostrophemod</key>

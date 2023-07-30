@@ -1,41 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Q" format="2">
-  <advance width="737"/>
+  <advance width="738"/>
   <unicode hex="0051"/>
+  <anchor x="315" y="0" name="bottom"/>
+  <anchor x="379" y="355" name="center"/>
+  <anchor x="371" y="0" name="ogonek"/>
+  <anchor x="458" y="708" name="top"/>
+  <anchor x="20" y="710" name="topleft"/>
+  <anchor x="616" y="636" name="topright"/>
   <outline>
     <contour>
-      <point x="302" y="-5" type="curve" smooth="yes"/>
-      <point x="532" y="-5"/>
-      <point x="732" y="203"/>
-      <point x="732" y="416" type="curve" smooth="yes"/>
-      <point x="732" y="570"/>
-      <point x="636" y="715"/>
-      <point x="459" y="715" type="curve" smooth="yes"/>
-      <point x="230" y="715"/>
-      <point x="27" y="507"/>
-      <point x="27" y="292" type="curve" smooth="yes"/>
-      <point x="27" y="137"/>
-      <point x="126" y="-5"/>
+      <point x="303" y="-6" type="curve" smooth="yes"/>
+      <point x="533" y="-6"/>
+      <point x="733" y="203"/>
+      <point x="733" y="416" type="curve" smooth="yes"/>
+      <point x="733" y="570"/>
+      <point x="637" y="714"/>
+      <point x="460" y="714" type="curve" smooth="yes"/>
+      <point x="230" y="714"/>
+      <point x="28" y="507"/>
+      <point x="28" y="292" type="curve" smooth="yes"/>
+      <point x="28" y="137"/>
+      <point x="126" y="-6"/>
     </contour>
     <contour>
-      <point x="341" y="168" type="curve" smooth="yes"/>
-      <point x="260" y="168"/>
-      <point x="227" y="234"/>
-      <point x="227" y="307" type="curve" smooth="yes"/>
-      <point x="227" y="411"/>
-      <point x="294" y="542"/>
-      <point x="419" y="542" type="curve" smooth="yes"/>
-      <point x="500" y="542"/>
-      <point x="533" y="477"/>
-      <point x="533" y="403" type="curve" smooth="yes"/>
-      <point x="533" y="300"/>
-      <point x="468" y="168"/>
+      <point x="341" y="167" type="curve" smooth="yes"/>
+      <point x="260" y="167"/>
+      <point x="228" y="233"/>
+      <point x="228" y="307" type="curve" smooth="yes"/>
+      <point x="228" y="411"/>
+      <point x="294" y="541"/>
+      <point x="420" y="541" type="curve" smooth="yes"/>
+      <point x="501" y="541"/>
+      <point x="534" y="477"/>
+      <point x="534" y="403" type="curve" smooth="yes"/>
+      <point x="534" y="300"/>
+      <point x="469" y="167"/>
     </contour>
     <contour>
-      <point x="554" y="-24" type="line"/>
-      <point x="668" y="63" type="line"/>
-      <point x="465" y="337" type="line"/>
-      <point x="348" y="253" type="line"/>
+      <point x="547" y="-24" type="line"/>
+      <point x="659" y="61" type="line"/>
+      <point x="456" y="335" type="line"/>
+      <point x="341" y="253" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>O</string>
+  <key>org.robofab.fontlab.mark</key>
+  <integer>0</integer>
+  </dict>
+  </lib>
 </glyph>
