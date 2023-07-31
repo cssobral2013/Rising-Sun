@@ -2,8 +2,21 @@
 <glyph name="Idieresis" format="2">
   <advance width="258"/>
   <unicode hex="00CF"/>
+  <anchor x="216" y="710" name="_top"/>
+  <anchor x="260" y="914" name="top"/>
   <outline>
     <component base="I"/>
-    <component base="dieresiscomb" xOffset="-4" yOffset="188"/>
+    <contour>
+      <point x="197" y="812" type="line"/>
+      <point x="219" y="914" type="line"/>
+      <point x="145" y="914" type="line"/>
+      <point x="123" y="812" type="line"/>
+    </contour>
+    <contour>
+      <point x="354" y="812" type="line"/>
+      <point x="375" y="914" type="line"/>
+      <point x="302" y="914" type="line"/>
+      <point x="280" y="812" type="line"/>
+    </contour>
   </outline>
 </glyph>

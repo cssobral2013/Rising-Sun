@@ -3,7 +3,7 @@
   <advance width="286"/>
   <anchor x="214" y="697" name="top"/>
   <outline>
-    <component base="macroncomb" xOffset="7"/>
+    <component base="macroncomb" xOffset="-63"/>
     <contour>
       <point x="128" y="-10" type="curve" smooth="yes"/>
       <point x="158" y="-10"/>

@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aie-cy" format="2">
-  <advance width="888"/>
+  <advance width="949"/>
   <unicode hex="04D5"/>
   <outline>
     <component base="ae"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>a</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>ae</string>
   <key>com.fontlab.recipe</key>
   <string>ae</string>
   <key>public.markColor</key>

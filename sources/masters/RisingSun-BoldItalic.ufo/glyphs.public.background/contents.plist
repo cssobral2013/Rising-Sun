@@ -20,6 +20,8 @@
   <string>fi.glif</string>
   <key>fl</key>
   <string>fl.glif</string>
+  <key>ge-cy.loclSRB</key>
+  <string>ge-cy.loclS_R_B_.glif</string>
   <key>nine</key>
   <string>nine.glif</string>
   <key>nine.tnum</key>
@@ -28,6 +30,8 @@
   <string>one.glif</string>
   <key>one.tnum</key>
   <string>one.tnum.glif</string>
+  <key>ordfeminine</key>
+  <string>ordfeminine.glif</string>
   <key>six</key>
   <string>six.glif</string>
   <key>six.tnum</key>
