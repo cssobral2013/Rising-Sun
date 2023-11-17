@@ -2,6 +2,6 @@
 <glyph name="nine.subs" format="2">
   <advance width="400"/>
   <outline>
-    <component base="nineinferior"/>
+    <component base="nine.inferior"/>
   </outline>
 </glyph>

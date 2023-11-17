@@ -5,22 +5,22 @@
   <anchor x="149" y="521" name="_top"/>
   <outline>
     <contour>
-      <point x="170" y="730" type="line"/>
-      <point x="94" y="730" type="line"/>
-      <point x="40" y="629" type="line"/>
-      <point x="86" y="609" type="line"/>
+      <point x="205" y="590" type="line"/>
+      <point x="254" y="590" type="line"/>
+      <point x="362" y="730" type="line"/>
+      <point x="274" y="730" type="line"/>
     </contour>
     <contour>
-      <point x="306" y="730" type="line"/>
-      <point x="230" y="730" type="line"/>
-      <point x="176" y="629" type="line"/>
-      <point x="222" y="609" type="line"/>
+      <point x="29" y="590" type="line"/>
+      <point x="78" y="590" type="line"/>
+      <point x="186" y="730" type="line"/>
+      <point x="98" y="730" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
   <key>org.robofab.fontlab.mark</key>
-  <integer>0</integer>
+  <real>0</real>
   </dict>
   </lib>
 </glyph>

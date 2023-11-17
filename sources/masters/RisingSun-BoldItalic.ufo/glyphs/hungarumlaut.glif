@@ -1,8 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hungarumlaut" format="2">
-  <advance width="460"/>
+  <advance width="399"/>
   <unicode hex="02DD"/>
+  <anchor x="175" y="525" name="_top"/>
   <outline>
-    <component base="hungarumlautcomb"/>
+    <contour>
+      <point x="491" y="730" type="line"/>
+      <point x="322" y="730" type="line"/>
+      <point x="225" y="556" type="line"/>
+      <point x="315" y="556" type="line"/>
+    </contour>
+    <contour>
+      <point x="300" y="730" type="line"/>
+      <point x="131" y="730" type="line"/>
+      <point x="34" y="556" type="line"/>
+      <point x="124" y="556" type="line"/>
+    </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>org.robofab.fontlab.mark</key>
+  <real>0</real>
+  </dict>
+  </lib>
 </glyph>

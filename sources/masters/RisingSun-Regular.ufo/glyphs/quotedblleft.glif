@@ -3,13 +3,13 @@
   <advance width="345"/>
   <unicode hex="201C"/>
   <outline>
-    <component base="quoteleft"/>
     <component base="quoteleft" xOffset="138"/>
+    <component base="quoteleft"/>
   </outline>
   <lib>
   <dict>
   <key>org.robofab.fontlab.mark</key>
-  <integer>0</integer>
+  <real>0</real>
   </dict>
   </lib>
 </glyph>

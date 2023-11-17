@@ -2,12 +2,12 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-  <key>G</key>
-  <string>G_.glif</string>
   <key>K</key>
   <string>K_.glif</string>
   <key>W</key>
   <string>W_.glif</string>
+  <key>exclam</key>
+  <string>exclam.glif</string>
   <key>f</key>
   <string>f.glif</string>
   <key>f_f</key>
@@ -20,12 +20,14 @@
   <string>fi.glif</string>
   <key>fl</key>
   <string>fl.glif</string>
-  <key>ge-cy.loclSRB</key>
-  <string>ge-cy.loclS_R_B_.glif</string>
+  <key>gecyr.loclSRB</key>
+  <string>gecyr.loclS_R_B_.glif</string>
   <key>nine</key>
   <string>nine.glif</string>
   <key>nine.tnum</key>
   <string>nine.tnum.glif</string>
+  <key>oe</key>
+  <string>oe.glif</string>
   <key>one</key>
   <string>one.glif</string>
   <key>one.tnum</key>
@@ -48,5 +50,7 @@
   <string>w.glif</string>
   <key>won</key>
   <string>won.glif</string>
+  <key>y</key>
+  <string>y.glif</string>
 </dict>
 </plist>

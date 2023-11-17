@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yucyr" format="2">
+  <advance width="1023"/>
+  <unicode hex="042E"/>
+  <outline>
+    <component base="Ocyr" xOffset="258"/>
+    <contour>
+      <point x="110" y="0" type="line"/>
+      <point x="177" y="317" type="line"/>
+      <point x="340" y="317" type="line"/>
+      <point x="356" y="397" type="line"/>
+      <point x="193" y="397" type="line"/>
+      <point x="260" y="710" type="line"/>
+      <point x="170" y="710" type="line"/>
+      <point x="20" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.805,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -11,7 +11,7 @@
   <key>com.fontlab.recipe</key>
   <string>G+commaaccentcomb</string>
   <key>org.robofab.fontlab.mark</key>
-  <integer>0</integer>
+  <real>0</real>
   </dict>
   </lib>
 </glyph>

@@ -1,20 +1,26 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="4.0">
  <axes>
-  <axis minimum="325" default="400" tag="wght" name="weight" maximum="650">
+  <axis minimum="100" name="weight" default="400" tag="wght" maximum="900">
    <labelname xml:lang="en">Weight</labelname>
-   <map input="325" output="100"/>
-   <map input="400" output="400"/>
-   <map input="650" output="900"/>
+   <map output="100" input="100"/>
+   <map output="200" input="200"/>
+   <map output="300" input="300"/>
+   <map output="400" input="400"/>
+   <map output="500" input="500"/>
+   <map output="600" input="600"/>
+   <map output="700" input="700"/>
+   <map output="800" input="800"/>
+   <map output="900" input="900"/>
   </axis>
  </axes>
  <sources>
-  <source stylename="Bold Italic" familyname="Rising Sun" name="BoldItalic" filename="masters/RisingSun-BoldItalic.ufo">
+  <source stylename="Light Italic" filename="masters/RisingSun-LightItalic.ufo" familyname="Rising Sun VF" name="LightItalic">
    <location>
-    <dimension xvalue="900" name="weight"/>
+    <dimension xvalue="100" name="weight"/>
    </location>
   </source>
-  <source stylename="Italic" familyname="Rising Sun" name="Italic" filename="masters/RisingSun-Italic.ufo">
+  <source stylename="Italic" filename="masters/RisingSun-Italic.ufo" familyname="Rising Sun VF" name="Italic">
    <lib copy="1"/>
    <groups copy="1"/>
    <info copy="1"/>
@@ -23,19 +29,18 @@
     <dimension xvalue="400" name="weight"/>
    </location>
   </source>
-  <source stylename="Light Italic" familyname="Rising Sun" name="LightItalic" filename="masters/RisingSun-LightItalic.ufo">
+    <source stylename="Bold Italic" filename="masters/RisingSun-BoldItalic.ufo" familyname="Rising Sun VF" name="BoldItalic">
    <location>
-    <dimension xvalue="100" name="weight"/>
+    <dimension xvalue="900" name="weight"/>
    </location>
   </source>
  </sources>
  <lib>
   <dict>
    <key>com.schriftgestaltung.font.description</key>
-   <string>Raleway is an elegant sans-serif typeface family. Initially designed by Matt McInerney as a single thin weight, it was expanded into a 9 weight family by Pablo Impallari and Rodrigo Fuenzalida in 2012 and iKerned by Igino Marini.
-It is a display face and the download features both old style and lining numerals, standard and discretionary ligatures, a pretty complete set of diacritics, as well as a stylistic alternate inspired by more geometric sans-serif typefaces than its neo-grotesque inspired default character set.</string>
+   <real>0</real>
    <key>com.schriftgestaltung.font.year</key>
-   <integer>2012</integer>
+   <real>2012</real>
    <key>org.robofab.glyphOrder</key>
    <array>
     <string>.notdef</string>
@@ -614,47 +619,47 @@ It is a display face and the download features both old style and lining numeral
   </dict>
  </lib>
  <instances>
-  <instance stylename="Thin Italic" familyname="Rising Sun" name="ThinItalic" filename="instances/RisingSun-ThinItalic.ufo">
+  <instance stylename="Thin Italic" filename="instances/RisingSunVF-ThinItalic.ufo" familyname="Rising Sun" name="ThinItalic">
    <location>
     <dimension xvalue="100" name="weight"/>
    </location>
   </instance>
-  <instance stylename="ExtraLight Italic" familyname="Rising Sun" name="ExtraLightItalic" filename="instances/RisingSun-ExtraLightItalic.ufo">
+  <instance stylename="ExtraLight Italic" filename="instances/RisingSunVF-ExtraLightItalic.ufo" familyname="Rising Sun" name="ExtraLightItalic">
    <location>
     <dimension xvalue="200" name="weight"/>
    </location>
   </instance>
-  <instance stylename="Light Italic" familyname="Rising Sun" name="LightItalic" filename="instances/RisingSun-LightItalic.ufo">
+  <instance stylename="Light Italic" filename="instances/RisingSunVF-LightItalic.ufo" familyname="Rising Sun" name="LightItalic">
    <location>
     <dimension xvalue="300" name="weight"/>
    </location>
   </instance>
-  <instance stylename="Italic" familyname="Rising Sun" name="Italic" filename="instances/RisingSun-Italic.ufo">
+  <instance stylename="Italic" filename="instances/RisingSunVF-Italic.ufo" familyname="Rising Sun" name="Italic">
    <location>
     <dimension xvalue="400" name="weight"/>
    </location>
   </instance>
-  <instance stylename="Medium Italic" familyname="Rising Sun" name="MediumItalic" filename="instances/RisingSun-MediumItalic.ufo">
+  <instance stylename="Medium Italic" filename="instances/RisingSunVF-MediumItalic.ufo" familyname="Rising Sun" name="MediumItalic">
    <location>
     <dimension xvalue="500" name="weight"/>
    </location>
   </instance>
-  <instance stylename="SemiBold Italic" familyname="Rising Sun" name="SemiBoldItalic" filename="instances/RisingSun-SemiBoldItalic.ufo">
+  <instance stylename="SemiBold Italic" filename="instances/RisingSunVF-SemiBoldItalic.ufo" familyname="Rising Sun" name="SemiBoldItalic">
    <location>
     <dimension xvalue="600" name="weight"/>
    </location>
   </instance>
-  <instance stylename="Bold Italic" familyname="Rising Sun" name="BoldItalic" filename="instances/RisingSun-BoldItalic.ufo">
+  <instance stylename="Bold Italic" filename="instances/RisingSunVF-BoldItalic.ufo" familyname="Rising Sun" name="BoldItalic">
    <location>
     <dimension xvalue="700" name="weight"/>
    </location>
   </instance>
-  <instance stylename="ExtraBold Italic" familyname="Rising Sun" name="ExtraBoldItalic" filename="instances/RisingSun-ExtraBoldItalic.ufo">
+  <instance stylename="ExtraBold Italic" filename="instances/RisingSunVF-ExtraBoldItalic.ufo" familyname="Rising Sun" name="ExtraBoldItalic">
    <location>
     <dimension xvalue="800" name="weight"/>
    </location>
   </instance>
-  <instance stylename="Black Italic" familyname="Rising Sun" name="BlackItalic" filename="instances/RisingSun-BlackItalic.ufo">
+  <instance stylename="Black Italic" filename="instances/RisingSunVF-BlackItalic.ufo" familyname="Rising Sun" name="BlackItalic">
    <location>
     <dimension xvalue="900" name="weight"/>
    </location>

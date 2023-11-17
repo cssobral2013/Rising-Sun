@@ -4,17 +4,12 @@
   <unicode hex="02BC"/>
   <anchor x="107" y="526" name="_top"/>
   <outline>
-    <contour>
-      <point x="264" y="730" type="line"/>
-      <point x="95" y="730" type="line"/>
-      <point x="45" y="588" type="line"/>
-      <point x="165" y="556" type="line"/>
-    </contour>
+    <component base="acutecomb" xOffset="22"/>
   </outline>
   <lib>
   <dict>
   <key>org.robofab.fontlab.mark</key>
-  <integer>0</integer>
+  <real>0</real>
   </dict>
   </lib>
 </glyph>

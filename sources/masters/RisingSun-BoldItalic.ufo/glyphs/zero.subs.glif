@@ -2,6 +2,6 @@
 <glyph name="zero.subs" format="2">
   <advance width="496"/>
   <outline>
-    <component base="zeroinferior"/>
+    <component base="zero.inferior"/>
   </outline>
 </glyph>

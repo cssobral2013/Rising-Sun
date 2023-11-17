@@ -3,26 +3,13 @@
   <advance width="221"/>
   <unicode hex="003B"/>
   <outline>
-    <contour>
-      <point x="142" y="406" type="line"/>
-      <point x="142" y="518" type="line"/>
-      <point x="69" y="518" type="line"/>
-      <point x="69" y="406" type="line"/>
-    </contour>
-    <contour>
-      <point x="122" y="-81" type="line"/>
-      <point x="152" y="8" type="line"/>
-      <point x="152" y="112" type="line"/>
-      <point x="69" y="112" type="line"/>
-      <point x="69" y="8" type="line"/>
-      <point x="99" y="8" type="line"/>
-      <point x="79" y="-81" type="line"/>
-    </contour>
+    <component base="period" xOffset="7" yOffset="418"/>
+    <component base="comma"/>
   </outline>
   <lib>
   <dict>
   <key>org.robofab.fontlab.mark</key>
-  <integer>0</integer>
+  <real>0</real>
   </dict>
   </lib>
 </glyph>

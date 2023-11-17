@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kabashkcyr" format="2">
+  <advance width="594"/>
+  <unicode hex="04A1"/>
+  <outline>
+    <component base="kacyr" xOffset="86"/>
+    <contour>
+      <point x="203" y="453" type="line"/>
+      <point x="293" y="522" type="line"/>
+      <point x="75" y="522" type="line"/>
+      <point x="61" y="453" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="78.3885" x="68" y="486"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.805,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

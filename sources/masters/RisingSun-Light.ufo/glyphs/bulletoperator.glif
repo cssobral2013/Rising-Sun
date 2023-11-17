@@ -3,17 +3,12 @@
   <advance width="158"/>
   <unicode hex="2219"/>
   <outline>
-    <contour>
-      <point x="89" y="250" type="line"/>
-      <point x="89" y="333" type="line"/>
-      <point x="69" y="333" type="line"/>
-      <point x="69" y="250" type="line"/>
-    </contour>
+    <component base="period" yOffset="264"/>
   </outline>
   <lib>
   <dict>
   <key>org.robofab.fontlab.mark</key>
-  <integer>0</integer>
+  <real>0</real>
   </dict>
   </lib>
 </glyph>

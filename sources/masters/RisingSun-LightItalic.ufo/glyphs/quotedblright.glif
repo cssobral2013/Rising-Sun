@@ -1,25 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedblright" format="2">
-  <advance width="235"/>
+  <advance width="332"/>
   <unicode hex="201D"/>
   <outline>
     <contour>
-      <point x="213" y="570" type="line"/>
-      <point x="244" y="656" type="line"/>
-      <point x="260" y="730" type="line"/>
-      <point x="234" y="730" type="line"/>
-      <point x="219" y="656" type="line"/>
-      <point x="228" y="656" type="line"/>
-      <point x="200" y="570" type="line"/>
+      <point x="156" y="565" type="line"/>
+      <point x="180" y="565" type="line"/>
+      <point x="244" y="710" type="line"/>
+      <point x="208" y="710" type="line"/>
     </contour>
     <contour>
-      <point x="137" y="570" type="line"/>
-      <point x="168" y="656" type="line"/>
-      <point x="184" y="730" type="line"/>
-      <point x="158" y="730" type="line"/>
-      <point x="143" y="656" type="line"/>
-      <point x="152" y="656" type="line"/>
-      <point x="124" y="570" type="line"/>
+      <point x="222" y="565" type="line"/>
+      <point x="246" y="565" type="line"/>
+      <point x="310" y="710" type="line"/>
+      <point x="274" y="710" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>quoteleft_quoteleft</string>
+  <key>org.robofab.fontlab.mark</key>
+  <real>0</real>
+  </dict>
+  </lib>
 </glyph>

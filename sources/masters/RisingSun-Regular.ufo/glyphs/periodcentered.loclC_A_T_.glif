@@ -2,11 +2,6 @@
 <glyph name="periodcentered.loclCAT" format="2">
   <advance width="202"/>
   <outline>
-    <contour>
-      <point x="138" y="245" type="line"/>
-      <point x="138" y="369" type="line"/>
-      <point x="64" y="369" type="line"/>
-      <point x="64" y="245" type="line"/>
-    </contour>
+    <component base="period" yOffset="261"/>
   </outline>
 </glyph>

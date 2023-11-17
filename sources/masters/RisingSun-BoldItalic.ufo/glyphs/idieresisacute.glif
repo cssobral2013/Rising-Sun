@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="idieresisacute" format="2">
   <advance width="286"/>
+  <unicode hex="1E2F"/>
   <outline>
-    <component base="idotless"/>
-    <component base="dieresiscomb" xOffset="-105"/>
-    <component base="acutecomb" xOffset="60" yOffset="198"/>
+    <component base="dotlessi"/>
+    <component base="dieresiscomb" xOffset="-124" yOffset="1"/>
+    <component base="acutecomb" xOffset="116" yOffset="195"/>
   </outline>
 </glyph>

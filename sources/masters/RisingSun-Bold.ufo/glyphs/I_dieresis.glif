@@ -2,27 +2,45 @@
 <glyph name="Idieresis" format="2">
   <advance width="317"/>
   <unicode hex="00CF"/>
-  <anchor x="158" y="710" name="_top"/>
-  <anchor x="158" y="905" name="top"/>
+  <anchor x="158" y="0" name="bottom"/>
+  <anchor x="256" y="0" name="ogonek"/>
+  <anchor x="158" y="710" name="top"/>
+  <anchor x="20" y="710" name="topleft"/>
   <outline>
     <component base="I"/>
     <contour>
-      <point x="128" y="765" type="line"/>
-      <point x="128" y="905" type="line"/>
-      <point x="4" y="905" type="line"/>
-      <point x="4" y="765" type="line"/>
+      <point x="12" y="835" type="curve" smooth="yes"/>
+      <point x="12" y="783"/>
+      <point x="41" y="741"/>
+      <point x="78" y="741" type="curve" smooth="yes"/>
+      <point x="114" y="741"/>
+      <point x="143" y="783"/>
+      <point x="143" y="835" type="curve" smooth="yes"/>
+      <point x="143" y="887"/>
+      <point x="114" y="929"/>
+      <point x="78" y="929" type="curve" smooth="yes"/>
+      <point x="41" y="929"/>
+      <point x="12" y="887"/>
     </contour>
     <contour>
-      <point x="312" y="765" type="line"/>
-      <point x="312" y="905" type="line"/>
-      <point x="188" y="905" type="line"/>
-      <point x="188" y="765" type="line"/>
+      <point x="174" y="835" type="curve" smooth="yes"/>
+      <point x="174" y="783"/>
+      <point x="203" y="741"/>
+      <point x="239" y="741" type="curve" smooth="yes"/>
+      <point x="276" y="741"/>
+      <point x="305" y="783"/>
+      <point x="305" y="835" type="curve" smooth="yes"/>
+      <point x="305" y="887"/>
+      <point x="276" y="929"/>
+      <point x="239" y="929" type="curve" smooth="yes"/>
+      <point x="203" y="929"/>
+      <point x="174" y="887"/>
     </contour>
   </outline>
   <lib>
   <dict>
   <key>org.robofab.fontlab.mark</key>
-  <integer>0</integer>
+  <real>0</real>
   </dict>
   </lib>
 </glyph>

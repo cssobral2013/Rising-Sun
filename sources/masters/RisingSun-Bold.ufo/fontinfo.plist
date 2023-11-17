@@ -11,7 +11,7 @@
   <key>descender</key>
   <integer>-213</integer>
   <key>familyName</key>
-  <string>Rising Sun</string>
+  <string>Rising Sun VF</string>
   <key>guidelines</key>
   <array>
   <dict>
@@ -23,16 +23,6 @@
     <integer>0</integer>
     <key>y</key>
     <integer>250</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
-    <integer>90</integer>
-    <key>name</key>
-    <string>f1</string>
-    <key>x</key>
-    <integer>172</integer>
-    <key>y</key>
-    <integer>0</integer>
   </dict>
   </array>
   <key>italicAngle</key>
@@ -77,11 +67,11 @@
   <key>openTypeNameManufacturerURL</key>
   <string>http://theleagueofmoveabletype.com</string>
   <key>openTypeNamePreferredFamilyName</key>
-  <string>Rising Sun</string>
+  <string>Rising Sun VF</string>
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Bold</string>
   <key>openTypeNameVersion</key>
-  <string>Version 4.317</string>
+  <string>Version 4.320</string>
   <key>openTypeOS2Panose</key>
   <array>
     <integer>0</integer>
@@ -154,11 +144,11 @@
     <integer>536</integer>
   </array>
   <key>postscriptFontName</key>
-  <string>RisingSun-Bold</string>
+  <string>RisingSunVF-Bold</string>
   <key>postscriptForceBold</key>
   <false/>
   <key>postscriptFullName</key>
-  <string>Rising Sun Bold</string>
+  <string>Rising Sun VF Bold</string>
   <key>postscriptIsFixedPitch</key>
   <false/>
   <key>postscriptOtherBlues</key>
@@ -187,9 +177,9 @@
   <key>postscriptWeightName</key>
   <string>Bold</string>
   <key>styleMapFamilyName</key>
-  <string>Rising Sun</string>
+  <string>Rising Sun VF</string>
   <key>styleMapStyleName</key>
-  <string>bold</string>
+  <string>regular</string>
   <key>styleName</key>
   <string>Bold</string>
   <key>trademark</key>
@@ -199,7 +189,7 @@
   <key>versionMajor</key>
   <integer>4</integer>
   <key>versionMinor</key>
-  <integer>317</integer>
+  <integer>320</integer>
   <key>xHeight</key>
   <integer>526</integer>
 </dict>

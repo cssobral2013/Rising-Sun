@@ -73,6 +73,8 @@
     <integer>-63</integer>
     <key>asterisk</key>
     <integer>11</integer>
+    <key>dotlessi</key>
+    <integer>-11</integer>
     <key>eth</key>
     <integer>-23</integer>
     <key>five</key>
@@ -87,8 +89,6 @@
     <integer>34</integer>
     <key>idieresis</key>
     <integer>55</integer>
-    <key>idotless</key>
-    <integer>-11</integer>
     <key>imacron</key>
     <integer>14</integer>
     <key>itilde</key>
@@ -545,6 +545,8 @@
     <integer>25</integer>
     <key>copyright</key>
     <integer>-19</integer>
+    <key>dotlessi</key>
+    <integer>-38</integer>
     <key>eight</key>
     <integer>-19</integer>
     <key>eth</key>
@@ -565,8 +567,6 @@
     <integer>29</integer>
     <key>idieresis</key>
     <integer>78</integer>
-    <key>idotless</key>
-    <integer>-38</integer>
     <key>igrave</key>
     <integer>13</integer>
     <key>imacron</key>
@@ -680,6 +680,8 @@
     <integer>14</integer>
     <key>brokenbar</key>
     <integer>19</integer>
+    <key>dotlessi</key>
+    <integer>-32</integer>
     <key>eth</key>
     <integer>-55</integer>
     <key>five</key>
@@ -698,8 +700,6 @@
     <integer>28</integer>
     <key>idieresis</key>
     <integer>72</integer>
-    <key>idotless</key>
-    <integer>-32</integer>
     <key>igrave</key>
     <integer>7</integer>
     <key>imacron</key>
@@ -801,6 +801,8 @@
     <integer>26</integer>
     <key>brokenbar</key>
     <integer>30</integer>
+    <key>dotlessi</key>
+    <integer>-9</integer>
     <key>eth</key>
     <integer>-38</integer>
     <key>four</key>
@@ -815,8 +817,6 @@
     <integer>10</integer>
     <key>idieresis</key>
     <integer>83</integer>
-    <key>idotless</key>
-    <integer>-9</integer>
     <key>igrave</key>
     <integer>18</integer>
     <key>imacron</key>
@@ -4703,6 +4703,8 @@
     <integer>7</integer>
     <key>brokenbar</key>
     <integer>11</integer>
+    <key>dotlessi</key>
+    <integer>-8</integer>
     <key>eth</key>
     <integer>-80</integer>
     <key>etilde</key>
@@ -4721,8 +4723,6 @@
     <integer>43</integer>
     <key>idieresis</key>
     <integer>64</integer>
-    <key>idotless</key>
-    <integer>-8</integer>
     <key>imacron</key>
     <integer>23</integer>
     <key>itilde</key>
@@ -4879,6 +4879,8 @@
     <integer>34</integer>
     <key>copyright</key>
     <integer>-16</integer>
+    <key>dotlessi</key>
+    <integer>-37</integer>
     <key>eight</key>
     <integer>-16</integer>
     <key>eth</key>
@@ -4897,8 +4899,6 @@
     <integer>36</integer>
     <key>idieresis</key>
     <integer>87</integer>
-    <key>idotless</key>
-    <integer>-37</integer>
     <key>igrave</key>
     <integer>22</integer>
     <key>imacron</key>
@@ -5024,6 +5024,8 @@
     <integer>31</integer>
     <key>copyright</key>
     <integer>-25</integer>
+    <key>dotlessi</key>
+    <integer>-59</integer>
     <key>eight</key>
     <integer>-23</integer>
     <key>eth</key>
@@ -5044,8 +5046,6 @@
     <integer>23</integer>
     <key>idieresis</key>
     <integer>84</integer>
-    <key>idotless</key>
-    <integer>-59</integer>
     <key>igrave</key>
     <integer>19</integer>
     <key>imacron</key>

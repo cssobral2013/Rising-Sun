@@ -1,31 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ellipsis" format="2">
-  <advance width="348"/>
+  <advance width="474"/>
   <unicode hex="2026"/>
   <outline>
-    <contour>
-      <point x="89" y="0" type="line"/>
-      <point x="89" y="64" type="line"/>
-      <point x="69" y="64" type="line"/>
-      <point x="69" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="184" y="0" type="line"/>
-      <point x="184" y="64" type="line"/>
-      <point x="164" y="64" type="line"/>
-      <point x="164" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="279" y="0" type="line"/>
-      <point x="279" y="64" type="line"/>
-      <point x="259" y="64" type="line"/>
-      <point x="259" y="0" type="line"/>
-    </contour>
+    <component base="period"/>
+    <component base="period" xOffset="158"/>
+    <component base="period" xOffset="316"/>
   </outline>
   <lib>
   <dict>
   <key>org.robofab.fontlab.mark</key>
-  <integer>0</integer>
+  <real>0</real>
   </dict>
   </lib>
 </glyph>

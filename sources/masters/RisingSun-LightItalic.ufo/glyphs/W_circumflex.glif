@@ -4,6 +4,12 @@
   <unicode hex="0174"/>
   <outline>
     <component base="W"/>
-    <component base="circumflexcomb" xOffset="376" yOffset="188"/>
+    <component base="circumflexcomb" xOffset="382" yOffset="191"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>W+circumflexcomb</string>
+  </dict>
+  </lib>
 </glyph>

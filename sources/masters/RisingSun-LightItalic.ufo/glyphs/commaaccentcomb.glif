@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="commaaccentcomb" format="2">
-  <advance width="126"/>
+  <advance width="120"/>
   <unicode hex="0326"/>
-  <anchor x="8" y="0" name="_bottom"/>
+  <anchor x="96" y="0" name="_bottom"/>
   <outline>
     <contour>
-      <point x="-27" y="-167" type="line"/>
-      <point x="-2" y="-109" type="line"/>
-      <point x="10" y="-50" type="line"/>
-      <point x="-15" y="-50" type="line"/>
-      <point x="-28" y="-109" type="line"/>
-      <point x="-19" y="-109" type="line"/>
-      <point x="-41" y="-167" type="line"/>
+      <point x="39" y="-196" type="line"/>
+      <point x="103" y="-51" type="line"/>
+      <point x="67" y="-51" type="line"/>
+      <point x="15" y="-196" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>org.robofab.fontlab.mark</key>
+  <real>0</real>
+  </dict>
+  </lib>
 </glyph>

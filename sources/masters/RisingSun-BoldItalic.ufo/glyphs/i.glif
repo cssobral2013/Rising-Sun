@@ -5,17 +5,7 @@
   <anchor x="87" y="0" name="bottom"/>
   <anchor x="174" y="0" name="ogonek"/>
   <outline>
-    <contour>
-      <point x="-16" y="0" type="line"/>
-      <point x="174" y="0" type="line"/>
-      <point x="286" y="526" type="line"/>
-      <point x="96" y="526" type="line"/>
-    </contour>
-    <contour>
-      <point x="105" y="570" type="line"/>
-      <point x="295" y="570" type="line"/>
-      <point x="329" y="730" type="line"/>
-      <point x="139" y="730" type="line"/>
-    </contour>
+    <component base="dotlessi"/>
+    <component base="dotaccentcomb" xOffset="25"/>
   </outline>
 </glyph>

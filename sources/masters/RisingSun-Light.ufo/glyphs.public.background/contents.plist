@@ -4,6 +4,10 @@
 <dict>
   <key>R</key>
   <string>R_.glif</string>
+  <key>lcaron</key>
+  <string>lcaron.glif</string>
+  <key>onesuperior</key>
+  <string>onesuperior.glif</string>
   <key>threeinferior</key>
   <string>threeinferior.glif</string>
 </dict>

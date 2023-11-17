@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="katailcyr" format="2">
+  <advance width="519"/>
+  <unicode hex="049B"/>
+  <outline>
+    <component base="kacyr"/>
+    <contour>
+      <point x="389" y="-117" type="line"/>
+      <point x="417" y="19" type="line"/>
+      <point x="356" y="19" type="line"/>
+      <point x="356" y="0" type="line"/>
+      <point x="394" y="0" type="line"/>
+      <point x="369" y="-117" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.805,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

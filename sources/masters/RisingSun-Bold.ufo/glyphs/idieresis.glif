@@ -7,22 +7,38 @@
   <outline>
     <component base="idotless"/>
     <contour>
-      <point x="117" y="581" type="line"/>
-      <point x="117" y="721" type="line"/>
-      <point x="8" y="721" type="line"/>
-      <point x="8" y="581" type="line"/>
+      <point x="2" y="651" type="curve" smooth="yes"/>
+      <point x="2" y="599"/>
+      <point x="30" y="557"/>
+      <point x="65" y="557" type="curve" smooth="yes"/>
+      <point x="100" y="557"/>
+      <point x="128" y="599"/>
+      <point x="128" y="651" type="curve" smooth="yes"/>
+      <point x="128" y="703"/>
+      <point x="100" y="745"/>
+      <point x="65" y="745" type="curve" smooth="yes"/>
+      <point x="30" y="745"/>
+      <point x="2" y="703"/>
     </contour>
     <contour>
-      <point x="278" y="581" type="line"/>
-      <point x="278" y="721" type="line"/>
-      <point x="169" y="721" type="line"/>
-      <point x="169" y="581" type="line"/>
+      <point x="157" y="651" type="curve" smooth="yes"/>
+      <point x="157" y="599"/>
+      <point x="185" y="557"/>
+      <point x="220" y="557" type="curve" smooth="yes"/>
+      <point x="255" y="557"/>
+      <point x="283" y="599"/>
+      <point x="283" y="651" type="curve" smooth="yes"/>
+      <point x="283" y="703"/>
+      <point x="255" y="745"/>
+      <point x="220" y="745" type="curve" smooth="yes"/>
+      <point x="185" y="745"/>
+      <point x="157" y="703"/>
     </contour>
   </outline>
   <lib>
   <dict>
   <key>org.robofab.fontlab.mark</key>
-  <integer>0</integer>
+  <real>0</real>
   </dict>
   </lib>
 </glyph>

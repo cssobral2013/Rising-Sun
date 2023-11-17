@@ -40,8 +40,8 @@
     <contour>
       <point x="596" y="-10" type="line"/>
       <point x="660" y="44" type="line"/>
-      <point x="461" y="280" type="line"/>
-      <point x="397" y="226" type="line"/>
+      <point x="434" y="312" type="line"/>
+      <point x="370" y="258" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -49,7 +49,7 @@
   <key>com.fontlab.metricsWidth</key>
   <string>O</string>
   <key>org.robofab.fontlab.mark</key>
-  <integer>0</integer>
+  <real>0</real>
   </dict>
   </lib>
 </glyph>

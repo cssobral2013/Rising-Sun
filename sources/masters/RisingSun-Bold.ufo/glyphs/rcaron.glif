@@ -4,12 +4,12 @@
   <unicode hex="0159"/>
   <outline>
     <component base="r"/>
-    <component base="caroncomb" xOffset="20"/>
+    <component base="caroncomb" xOffset="15"/>
   </outline>
   <lib>
   <dict>
   <key>org.robofab.fontlab.mark</key>
-  <integer>0</integer>
+  <real>0</real>
   </dict>
   </lib>
 </glyph>

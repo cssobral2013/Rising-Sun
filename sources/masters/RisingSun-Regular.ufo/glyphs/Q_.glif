@@ -34,14 +34,14 @@
     <contour>
       <point x="665" y="-10" type="line"/>
       <point x="722" y="47" type="line"/>
-      <point x="488" y="275" type="line"/>
-      <point x="431" y="218" type="line"/>
+      <point x="450" y="312" type="line"/>
+      <point x="393" y="255" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
   <key>org.robofab.fontlab.mark</key>
-  <integer>0</integer>
+  <real>0</real>
   </dict>
   </lib>
 </glyph>

@@ -1,20 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dblgravecomb" format="2">
-  <advance width="460"/>
+  <advance width="399"/>
   <unicode hex="030F"/>
-  <anchor x="327" y="521" name="_top"/>
+  <anchor x="256" y="525" name="_top"/>
   <outline>
     <contour>
-      <point x="379" y="574" type="line"/>
-      <point x="479" y="588" type="line"/>
-      <point x="472" y="730" type="line"/>
-      <point x="335" y="730" type="line"/>
+      <point x="166" y="556" type="line"/>
+      <point x="256" y="556" type="line"/>
+      <point x="233" y="730" type="line"/>
+      <point x="64" y="730" type="line"/>
     </contour>
     <contour>
-      <point x="193" y="574" type="line"/>
-      <point x="293" y="588" type="line"/>
-      <point x="287" y="730" type="line"/>
-      <point x="149" y="730" type="line"/>
+      <point x="354" y="556" type="line"/>
+      <point x="444" y="556" type="line"/>
+      <point x="421" y="730" type="line"/>
+      <point x="252" y="730" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>org.robofab.fontlab.mark</key>
+  <real>0</real>
+  </dict>
+  </lib>
 </glyph>

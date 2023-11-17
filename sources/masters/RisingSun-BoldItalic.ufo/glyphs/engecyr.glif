@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="engecyr" format="2">
+  <advance width="782"/>
+  <unicode hex="04A5"/>
+  <outline>
+    <component base="encyr"/>
+    <contour>
+      <point x="778" y="361" type="line"/>
+      <point x="814" y="526" type="line"/>
+      <point x="446" y="526" type="line"/>
+      <point x="590" y="361" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.805,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

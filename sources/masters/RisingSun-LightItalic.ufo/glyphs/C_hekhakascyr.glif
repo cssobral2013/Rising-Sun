@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Chekhakascyr" format="2">
+  <advance width="647"/>
+  <unicode hex="04CB"/>
+  <outline>
+    <component base="Checyr"/>
+    <contour>
+      <point x="376" y="-135" type="line"/>
+      <point x="404" y="0" type="line"/>
+      <point x="486" y="0" type="line"/>
+      <point x="490" y="20" type="line"/>
+      <point x="388" y="20" type="line"/>
+      <point x="356" y="-135" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.805,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

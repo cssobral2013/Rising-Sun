@@ -47,6 +47,13 @@
     <key>j</key>
     <integer>8</integer>
   </dict>
+  <key>Euro</key>
+  <dict>
+    <key>four.tnum</key>
+    <integer>-11</integer>
+    <key>seven.tnum</key>
+    <integer>-10</integer>
+  </dict>
   <key>F</key>
   <dict>
     <key>Schwa</key>
@@ -55,6 +62,8 @@
     <integer>-93</integer>
     <key>at</key>
     <integer>-16</integer>
+    <key>dotlessi</key>
+    <integer>-52</integer>
     <key>eth</key>
     <integer>-53</integer>
     <key>five</key>
@@ -63,8 +72,6 @@
     <integer>-74</integer>
     <key>germandbls</key>
     <integer>-24</integer>
-    <key>idotless</key>
-    <integer>-52</integer>
     <key>imacron</key>
     <integer>24</integer>
     <key>itilde</key>
@@ -434,6 +441,8 @@
     <integer>-45</integer>
     <key>copyright</key>
     <integer>-22</integer>
+    <key>dotlessi</key>
+    <integer>-38</integer>
     <key>eight</key>
     <integer>-22</integer>
     <key>eth</key>
@@ -444,8 +453,6 @@
     <integer>-72</integer>
     <key>germandbls</key>
     <integer>-15</integer>
-    <key>idotless</key>
-    <integer>-38</integer>
     <key>imacron</key>
     <integer>55</integer>
     <key>itilde</key>
@@ -539,6 +546,8 @@
     <integer>-25</integer>
     <key>copyright</key>
     <integer>-13</integer>
+    <key>dotlessi</key>
+    <integer>-28</integer>
     <key>eight</key>
     <integer>-13</integer>
     <key>eth</key>
@@ -549,8 +558,6 @@
     <integer>-45</integer>
     <key>germandbls</key>
     <integer>-9</integer>
-    <key>idotless</key>
-    <integer>-28</integer>
     <key>imacron</key>
     <integer>48</integer>
     <key>itilde</key>
@@ -1372,13 +1379,6 @@
     <integer>-11</integer>
     <key>public.kern2.R_z</key>
     <integer>-6</integer>
-  </dict>
-  <key>euro</key>
-  <dict>
-    <key>four.tnum</key>
-    <integer>-11</integer>
-    <key>seven.tnum</key>
-    <integer>-10</integer>
   </dict>
   <key>exclamdown</key>
   <dict>
@@ -3324,12 +3324,12 @@
   <dict>
     <key>Schwa</key>
     <integer>-14</integer>
+    <key>dotlessi</key>
+    <integer>-9</integer>
     <key>eth</key>
     <integer>-23</integer>
     <key>germandbls</key>
     <integer>-8</integer>
-    <key>idotless</key>
-    <integer>-9</integer>
     <key>imacron</key>
     <integer>22</integer>
     <key>itilde</key>
@@ -3855,6 +3855,8 @@
     <integer>-76</integer>
     <key>copyright</key>
     <integer>-11</integer>
+    <key>dotlessi</key>
+    <integer>-88</integer>
     <key>eth</key>
     <integer>-86</integer>
     <key>f_f</key>
@@ -3871,8 +3873,6 @@
     <integer>-82</integer>
     <key>germandbls</key>
     <integer>-38</integer>
-    <key>idotless</key>
-    <integer>-88</integer>
     <key>imacron</key>
     <integer>57</integer>
     <key>itilde</key>
@@ -4037,6 +4037,8 @@
     <integer>-45</integer>
     <key>copyright</key>
     <integer>-22</integer>
+    <key>dotlessi</key>
+    <integer>-38</integer>
     <key>eight</key>
     <integer>-22</integer>
     <key>eth</key>
@@ -4047,8 +4049,6 @@
     <integer>-72</integer>
     <key>germandbls</key>
     <integer>-15</integer>
-    <key>idotless</key>
-    <integer>-38</integer>
     <key>imacron</key>
     <integer>55</integer>
     <key>itilde</key>
@@ -4142,6 +4142,8 @@
     <integer>-65</integer>
     <key>copyright</key>
     <integer>-26</integer>
+    <key>dotlessi</key>
+    <integer>-67</integer>
     <key>eight</key>
     <integer>-22</integer>
     <key>eth</key>
@@ -4152,8 +4154,6 @@
     <integer>-88</integer>
     <key>germandbls</key>
     <integer>-23</integer>
-    <key>idotless</key>
-    <integer>-67</integer>
     <key>imacron</key>
     <integer>58</integer>
     <key>itilde</key>
