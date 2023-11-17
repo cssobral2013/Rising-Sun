@@ -5,6 +5,6 @@
   <outline>
     <component base="o"/>
     <component base="tildecomb" xOffset="75"/>
-    <component base="acutecomb" xOffset="202" yOffset="204"/>
+    <component base="acutecomb" xOffset="224" yOffset="204"/>
   </outline>
 </glyph>

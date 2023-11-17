@@ -2,6 +2,7 @@
 <glyph name="iukrcyr" format="2">
   <advance width="182"/>
   <unicode hex="0456"/>
+  <anchor x="182" y="722" name="top"/>
   <outline>
     <component base="i"/>
   </outline>

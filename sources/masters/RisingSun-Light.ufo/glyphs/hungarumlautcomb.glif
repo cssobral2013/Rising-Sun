@@ -4,22 +4,8 @@
   <unicode hex="030B"/>
   <anchor x="130" y="519" name="_top"/>
   <outline>
-    <contour>
-      <point x="165" y="615" type="line"/>
-      <point x="184" y="615" type="line"/>
-      <point x="278" y="730" type="line"/>
-      <point x="244" y="730" type="line"/>
-    </contour>
-    <contour>
-      <point x="5" y="615" type="curve"/>
-      <point x="2" y="610"/>
-      <point x="18" y="615"/>
-      <point x="24" y="615" type="curve"/>
-      <point x="118" y="730" type="line"/>
-      <point x="84" y="730" type="line"/>
-      <point x="58" y="692"/>
-      <point x="26" y="656"/>
-    </contour>
+    <component base="acutecomb" xOffset="122"/>
+    <component base="acutecomb" xOffset="-41"/>
   </outline>
   <lib>
   <dict>

@@ -2,20 +2,10 @@
 <glyph name="hungarumlautcomb" format="2">
   <advance width="399"/>
   <unicode hex="030B"/>
-  <anchor x="178" y="525" name="_top"/>
+  <anchor x="193" y="525" name="_top"/>
   <outline>
-    <contour>
-      <point x="-16" y="556" type="line"/>
-      <point x="84" y="556" type="line"/>
-      <point x="223" y="730" type="line"/>
-      <point x="44" y="730" type="line"/>
-    </contour>
-    <contour>
-      <point x="175" y="556" type="line"/>
-      <point x="275" y="556" type="line"/>
-      <point x="414" y="730" type="line"/>
-      <point x="235" y="730" type="line"/>
-    </contour>
+    <component base="acutecomb" yxScale="0.105104" xOffset="143"/>
+    <component base="acutecomb" yxScale="0.105104" xOffset="-68"/>
   </outline>
   <lib>
   <dict>

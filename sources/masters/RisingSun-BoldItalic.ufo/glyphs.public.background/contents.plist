@@ -20,8 +20,6 @@
   <string>fi.glif</string>
   <key>fl</key>
   <string>fl.glif</string>
-  <key>gecyr.loclSRB</key>
-  <string>gecyr.loclS_R_B_.glif</string>
   <key>nine</key>
   <string>nine.glif</string>
   <key>nine.tnum</key>
@@ -42,8 +40,6 @@
   <string>three.glif</string>
   <key>three.tnum</key>
   <string>three.tnum.glif</string>
-  <key>two</key>
-  <string>two.glif</string>
   <key>two.tnum</key>
   <string>two.tnum.glif</string>
   <key>w</key>

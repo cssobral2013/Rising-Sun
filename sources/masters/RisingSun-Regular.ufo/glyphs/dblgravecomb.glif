@@ -4,18 +4,8 @@
   <unicode hex="030F"/>
   <anchor x="195" y="521" name="_top"/>
   <outline>
-    <contour>
-      <point x="79" y="590" type="line"/>
-      <point x="128" y="590" type="line"/>
-      <point x="59" y="730" type="line"/>
-      <point x="-29" y="730" type="line"/>
-    </contour>
-    <contour>
-      <point x="255" y="590" type="line"/>
-      <point x="304" y="590" type="line"/>
-      <point x="235" y="730" type="line"/>
-      <point x="147" y="730" type="line"/>
-    </contour>
+    <component base="gravecomb" xOffset="93"/>
+    <component base="gravecomb" xOffset="-82"/>
   </outline>
   <lib>
   <dict>

@@ -15,8 +15,6 @@
     <integer>-8</integer>
     <key>X</key>
     <integer>-10</integer>
-    <key>a.sc</key>
-    <integer>-5</integer>
     <key>quoteright</key>
     <integer>-66</integer>
     <key>t.ss07</key>
@@ -57,8 +55,6 @@
   <dict>
     <key>Schwa</key>
     <integer>-9</integer>
-    <key>a.sc</key>
-    <integer>-89</integer>
     <key>at</key>
     <integer>-10</integer>
     <key>dotlessi</key>
@@ -79,14 +75,10 @@
     <integer>28</integer>
     <key>itilde</key>
     <integer>47</integer>
-    <key>j.sc</key>
-    <integer>-111</integer>
     <key>jcircumflex</key>
     <integer>12</integer>
     <key>quoteright</key>
     <integer>-39</integer>
-    <key>s.sc</key>
-    <integer>-21</integer>
     <key>schwa</key>
     <integer>-27</integer>
     <key>slash</key>
@@ -97,8 +89,6 @@
     <integer>-7</integer>
     <key>three</key>
     <integer>-11</integer>
-    <key>u.sc</key>
-    <integer>-10</integer>
     <key>v</key>
     <integer>-6</integer>
     <key>w.ss09</key>
@@ -107,20 +97,14 @@
     <integer>-9</integer>
     <key>y.ss10</key>
     <integer>-6</integer>
-    <key>z.sc</key>
-    <integer>-7</integer>
     <key>public.kern2.R_A</key>
     <integer>-61</integer>
     <key>public.kern2.R_AE</key>
     <integer>-98</integer>
-    <key>public.kern2.R_I.sc</key>
-    <integer>-18</integer>
     <key>public.kern2.R_J</key>
     <integer>-122</integer>
     <key>public.kern2.R_O</key>
     <integer>-14</integer>
-    <key>public.kern2.R_O.sc</key>
-    <integer>-18</integer>
     <key>public.kern2.R_S</key>
     <integer>-13</integer>
     <key>public.kern2.R_a</key>
@@ -162,34 +146,20 @@
     <integer>-8</integer>
     <key>X</key>
     <integer>-17</integer>
-    <key>a.sc</key>
-    <integer>-11</integer>
     <key>backslash</key>
     <integer>-12</integer>
-    <key>j.sc</key>
-    <integer>-10</integer>
     <key>quoteright</key>
     <integer>-81</integer>
     <key>slash</key>
     <integer>-16</integer>
-    <key>t.sc</key>
-    <integer>-7</integer>
     <key>t.ss07</key>
     <integer>-6</integer>
     <key>trademark</key>
     <integer>-10</integer>
     <key>v</key>
     <integer>-6</integer>
-    <key>v.sc</key>
-    <integer>-5</integer>
-    <key>w.sc</key>
-    <integer>-5</integer>
     <key>x</key>
     <integer>-7</integer>
-    <key>x.sc</key>
-    <integer>-6</integer>
-    <key>y.sc</key>
-    <integer>-5</integer>
     <key>y.ss10</key>
     <integer>-7</integer>
     <key>public.kern2.R_A</key>
@@ -233,8 +203,6 @@
     <integer>-8</integer>
     <key>t.ss07</key>
     <integer>-14</integer>
-    <key>u.sc</key>
-    <integer>-6</integer>
     <key>public.kern2.R_O</key>
     <integer>-6</integer>
     <key>public.kern2.R_U</key>
@@ -292,14 +260,10 @@
     <integer>-17</integer>
     <key>X</key>
     <integer>-22</integer>
-    <key>a.sc</key>
-    <integer>-60</integer>
     <key>eth</key>
     <integer>-10</integer>
     <key>four</key>
     <integer>-36</integer>
-    <key>j.sc</key>
-    <integer>-89</integer>
     <key>parenright</key>
     <integer>-14</integer>
     <key>quoteright</key>
@@ -352,44 +316,24 @@
     <integer>-2</integer>
     <key>Schwa</key>
     <integer>-1</integer>
-    <key>a.sc</key>
-    <integer>-69</integer>
     <key>eth</key>
     <integer>-26</integer>
     <key>germandbls</key>
     <integer>-8</integer>
-    <key>s.sc</key>
-    <integer>-13</integer>
     <key>slash</key>
     <integer>-65</integer>
     <key>space</key>
     <integer>-19</integer>
-    <key>u.sc</key>
-    <integer>-6</integer>
     <key>v</key>
     <integer>-23</integer>
-    <key>v.sc</key>
-    <integer>-17</integer>
-    <key>w.sc</key>
-    <integer>-17</integer>
     <key>w.ss09</key>
     <integer>-21</integer>
-    <key>x.sc</key>
-    <integer>-31</integer>
-    <key>y.sc</key>
-    <integer>-27</integer>
     <key>y.ss10</key>
     <integer>-26</integer>
-    <key>z.sc</key>
-    <integer>-40</integer>
     <key>public.kern2.R_A</key>
     <integer>-54</integer>
-    <key>public.kern2.R_I.sc</key>
-    <integer>-10</integer>
     <key>public.kern2.R_O</key>
     <integer>-1</integer>
-    <key>public.kern2.R_O.sc</key>
-    <integer>-6</integer>
     <key>public.kern2.R_a</key>
     <integer>-15</integer>
     <key>public.kern2.R_a.alt2</key>
@@ -433,16 +377,12 @@
     <integer>-16</integer>
     <key>X</key>
     <integer>-30</integer>
-    <key>a.sc</key>
-    <integer>-10</integer>
     <key>asterisk</key>
     <integer>-25</integer>
     <key>backslash</key>
     <integer>-32</integer>
     <key>bar</key>
     <integer>-10</integer>
-    <key>j.sc</key>
-    <integer>-5</integer>
     <key>parenright</key>
     <integer>-19</integer>
     <key>question</key>
@@ -453,12 +393,6 @@
     <integer>-21</integer>
     <key>v</key>
     <integer>-5</integer>
-    <key>v.sc</key>
-    <integer>-6</integer>
-    <key>w.sc</key>
-    <integer>-6</integer>
-    <key>y.sc</key>
-    <integer>-7</integer>
     <key>y.ss10</key>
     <integer>-6</integer>
     <key>public.kern2.R_A</key>
@@ -492,8 +426,6 @@
   <dict>
     <key>Schwa</key>
     <integer>-25</integer>
-    <key>a.sc</key>
-    <integer>-71</integer>
     <key>ampersand</key>
     <integer>-24</integer>
     <key>at</key>
@@ -520,8 +452,6 @@
     <integer>47</integer>
     <key>itilde</key>
     <integer>41</integer>
-    <key>j.sc</key>
-    <integer>-76</integer>
     <key>jcircumflex</key>
     <integer>8</integer>
     <key>nine</key>
@@ -536,8 +466,6 @@
     <integer>-27</integer>
     <key>registered</key>
     <integer>-23</integer>
-    <key>s.sc</key>
-    <integer>-38</integer>
     <key>schwa</key>
     <integer>-53</integer>
     <key>six</key>
@@ -552,8 +480,6 @@
     <integer>-25</integer>
     <key>two</key>
     <integer>-23</integer>
-    <key>u.sc</key>
-    <integer>-14</integer>
     <key>utilde</key>
     <integer>-34</integer>
     <key>v</key>
@@ -564,8 +490,6 @@
     <integer>-10</integer>
     <key>y.ss10</key>
     <integer>-5</integer>
-    <key>z.sc</key>
-    <integer>-8</integer>
     <key>zcaron</key>
     <integer>-16</integer>
     <key>zero</key>
@@ -574,14 +498,10 @@
     <integer>-56</integer>
     <key>public.kern2.R_AE</key>
     <integer>-84</integer>
-    <key>public.kern2.R_I.sc</key>
-    <integer>-22</integer>
     <key>public.kern2.R_J</key>
     <integer>-84</integer>
     <key>public.kern2.R_O</key>
     <integer>-27</integer>
-    <key>public.kern2.R_O.sc</key>
-    <integer>-48</integer>
     <key>public.kern2.R_S</key>
     <integer>-23</integer>
     <key>public.kern2.R_a</key>
@@ -617,8 +537,6 @@
   <dict>
     <key>Schwa</key>
     <integer>-15</integer>
-    <key>a.sc</key>
-    <integer>-41</integer>
     <key>ampersand</key>
     <integer>-14</integer>
     <key>at</key>
@@ -645,8 +563,6 @@
     <integer>42</integer>
     <key>itilde</key>
     <integer>39</integer>
-    <key>j.sc</key>
-    <integer>-61</integer>
     <key>jcircumflex</key>
     <integer>8</integer>
     <key>nine</key>
@@ -659,8 +575,6 @@
     <integer>-18</integer>
     <key>registered</key>
     <integer>-13</integer>
-    <key>s.sc</key>
-    <integer>-23</integer>
     <key>schwa</key>
     <integer>-40</integer>
     <key>six</key>
@@ -673,22 +587,16 @@
     <integer>-13</integer>
     <key>two</key>
     <integer>-12</integer>
-    <key>u.sc</key>
-    <integer>-5</integer>
     <key>zero</key>
     <integer>-18</integer>
     <key>public.kern2.R_A</key>
     <integer>-41</integer>
     <key>public.kern2.R_AE</key>
     <integer>-69</integer>
-    <key>public.kern2.R_I.sc</key>
-    <integer>-10</integer>
     <key>public.kern2.R_J</key>
     <integer>-52</integer>
     <key>public.kern2.R_O</key>
     <integer>-17</integer>
-    <key>public.kern2.R_O.sc</key>
-    <integer>-29</integer>
     <key>public.kern2.R_S</key>
     <integer>-14</integer>
     <key>public.kern2.R_a</key>
@@ -744,8 +652,6 @@
     <integer>-10</integer>
     <key>trademark</key>
     <integer>9</integer>
-    <key>u.sc</key>
-    <integer>-13</integer>
     <key>v</key>
     <integer>-12</integer>
     <key>w.ss09</key>
@@ -756,8 +662,6 @@
     <integer>-20</integer>
     <key>public.kern2.R_O</key>
     <integer>-28</integer>
-    <key>public.kern2.R_O.sc</key>
-    <integer>-30</integer>
     <key>public.kern2.R_S</key>
     <integer>-5</integer>
     <key>public.kern2.R_a</key>
@@ -780,71 +684,6 @@
     <integer>-10</integer>
     <key>public.kern2.R_y</key>
     <integer>-11</integer>
-  </dict>
-  <key>a.sc</key>
-  <dict>
-    <key>Eth</key>
-    <integer>-11</integer>
-    <key>V</key>
-    <integer>-89</integer>
-    <key>asterisk</key>
-    <integer>-45</integer>
-    <key>backslash</key>
-    <integer>-86</integer>
-    <key>bar</key>
-    <integer>-37</integer>
-    <key>brokenbar</key>
-    <integer>-33</integer>
-    <key>copyright</key>
-    <integer>-41</integer>
-    <key>ordfeminine</key>
-    <integer>-30</integer>
-    <key>ordmasculine</key>
-    <integer>-34</integer>
-    <key>question</key>
-    <integer>-21</integer>
-    <key>quoteright</key>
-    <integer>-84</integer>
-    <key>registered</key>
-    <integer>-41</integer>
-    <key>s.sc</key>
-    <integer>-10</integer>
-    <key>space</key>
-    <integer>-32</integer>
-    <key>t.sc</key>
-    <integer>-60</integer>
-    <key>trademark</key>
-    <integer>-46</integer>
-    <key>u.sc</key>
-    <integer>-30</integer>
-    <key>v.sc</key>
-    <integer>-49</integer>
-    <key>w.sc</key>
-    <integer>-50</integer>
-    <key>y.sc</key>
-    <integer>-61</integer>
-    <key>public.kern2.R_O</key>
-    <integer>-30</integer>
-    <key>public.kern2.R_O.sc</key>
-    <integer>-26</integer>
-    <key>public.kern2.R_T</key>
-    <integer>-80</integer>
-    <key>public.kern2.R_U</key>
-    <integer>-31</integer>
-    <key>public.kern2.R_W</key>
-    <integer>-90</integer>
-    <key>public.kern2.R_Y</key>
-    <integer>-98</integer>
-    <key>public.kern2.R_guilsinglleft</key>
-    <integer>-30</integer>
-    <key>public.kern2.R_hyphen</key>
-    <integer>-15</integer>
-    <key>public.kern2.R_quoteleft</key>
-    <integer>-40</integer>
-    <key>public.kern2.R_quoteright</key>
-    <integer>-42</integer>
-    <key>public.kern2.R_quotesingle</key>
-    <integer>-40</integer>
   </dict>
   <key>a.ss02</key>
   <dict>
@@ -943,8 +782,6 @@
   </dict>
   <key>asterisk</key>
   <dict>
-    <key>a.sc</key>
-    <integer>-42</integer>
     <key>eth</key>
     <integer>-20</integer>
     <key>icircumflex</key>
@@ -955,8 +792,6 @@
     <integer>28</integer>
     <key>itilde</key>
     <integer>53</integer>
-    <key>j.sc</key>
-    <integer>-48</integer>
     <key>jcircumflex</key>
     <integer>16</integer>
     <key>schwa</key>
@@ -967,8 +802,6 @@
     <integer>-85</integer>
     <key>public.kern2.R_J</key>
     <integer>-89</integer>
-    <key>public.kern2.R_O.sc</key>
-    <integer>-11</integer>
     <key>public.kern2.R_a</key>
     <integer>-14</integer>
     <key>public.kern2.R_a.alt2</key>
@@ -984,18 +817,10 @@
     <integer>-52</integer>
     <key>W.ss09</key>
     <integer>-29</integer>
-    <key>t.sc</key>
-    <integer>-22</integer>
     <key>v</key>
     <integer>-13</integer>
-    <key>v.sc</key>
-    <integer>-19</integer>
-    <key>w.sc</key>
-    <integer>-20</integer>
     <key>w.ss09</key>
     <integer>-10</integer>
-    <key>y.sc</key>
-    <integer>-30</integer>
     <key>y.ss10</key>
     <integer>-15</integer>
     <key>public.kern2.R_A</key>
@@ -1015,55 +840,6 @@
     <key>public.kern2.R_y</key>
     <integer>-13</integer>
   </dict>
-  <key>b.sc</key>
-  <dict>
-    <key>Eth</key>
-    <integer>-6</integer>
-    <key>V</key>
-    <integer>-51</integer>
-    <key>X</key>
-    <integer>-5</integer>
-    <key>a.sc</key>
-    <integer>-17</integer>
-    <key>asterisk</key>
-    <integer>-11</integer>
-    <key>backslash</key>
-    <integer>-41</integer>
-    <key>bar</key>
-    <integer>-20</integer>
-    <key>brokenbar</key>
-    <integer>-17</integer>
-    <key>question</key>
-    <integer>-17</integer>
-    <key>quoteright</key>
-    <integer>-55</integer>
-    <key>t.sc</key>
-    <integer>-12</integer>
-    <key>trademark</key>
-    <integer>-14</integer>
-    <key>v.sc</key>
-    <integer>-18</integer>
-    <key>w.sc</key>
-    <integer>-18</integer>
-    <key>x.sc</key>
-    <integer>-10</integer>
-    <key>y.sc</key>
-    <integer>-24</integer>
-    <key>public.kern2.R_A</key>
-    <integer>-8</integer>
-    <key>public.kern2.R_AE</key>
-    <integer>-7</integer>
-    <key>public.kern2.R_T</key>
-    <integer>-65</integer>
-    <key>public.kern2.R_U</key>
-    <integer>-7</integer>
-    <key>public.kern2.R_W</key>
-    <integer>-52</integer>
-    <key>public.kern2.R_Y</key>
-    <integer>-68</integer>
-    <key>public.kern2.R_quoteright</key>
-    <integer>-9</integer>
-  </dict>
   <key>backslash</key>
   <dict>
     <key>Schwa</key>
@@ -1078,20 +854,10 @@
     <integer>-11</integer>
     <key>six.tnum</key>
     <integer>-11</integer>
-    <key>t.sc</key>
-    <integer>-49</integer>
-    <key>u.sc</key>
-    <integer>-12</integer>
     <key>v</key>
     <integer>-35</integer>
-    <key>v.sc</key>
-    <integer>-46</integer>
-    <key>w.sc</key>
-    <integer>-48</integer>
     <key>w.ss09</key>
     <integer>-28</integer>
-    <key>y.sc</key>
-    <integer>-47</integer>
     <key>y.ss10</key>
     <integer>-40</integer>
     <key>zero.tnum</key>
@@ -1100,8 +866,6 @@
     <integer>30</integer>
     <key>public.kern2.R_O</key>
     <integer>-24</integer>
-    <key>public.kern2.R_O.sc</key>
-    <integer>-11</integer>
     <key>public.kern2.R_T</key>
     <integer>-66</integer>
     <key>public.kern2.R_U</key>
@@ -1143,30 +907,18 @@
     <integer>111</integer>
     <key>jcircumflex</key>
     <integer>117</integer>
-    <key>t.sc</key>
-    <integer>-25</integer>
     <key>t.ss07</key>
-    <integer>-14</integer>
-    <key>u.sc</key>
     <integer>-14</integer>
     <key>v</key>
     <integer>-25</integer>
-    <key>v.sc</key>
-    <integer>-29</integer>
-    <key>w.sc</key>
-    <integer>-29</integer>
     <key>w.ss09</key>
     <integer>-22</integer>
-    <key>y.sc</key>
-    <integer>-30</integer>
     <key>y.ss10</key>
     <integer>-23</integer>
     <key>public.kern2.R_AE</key>
     <integer>6</integer>
     <key>public.kern2.R_O</key>
     <integer>-17</integer>
-    <key>public.kern2.R_O.sc</key>
-    <integer>-12</integer>
     <key>public.kern2.R_T</key>
     <integer>-36</integer>
     <key>public.kern2.R_U</key>
@@ -1220,30 +972,18 @@
     <integer>115</integer>
     <key>jcircumflex</key>
     <integer>121</integer>
-    <key>t.sc</key>
-    <integer>-22</integer>
     <key>t.ss07</key>
     <integer>-10</integer>
-    <key>u.sc</key>
-    <integer>-11</integer>
     <key>v</key>
     <integer>-22</integer>
-    <key>v.sc</key>
-    <integer>-26</integer>
-    <key>w.sc</key>
-    <integer>-26</integer>
     <key>w.ss09</key>
     <integer>-20</integer>
-    <key>y.sc</key>
-    <integer>-28</integer>
     <key>y.ss10</key>
     <integer>-21</integer>
     <key>public.kern2.R_AE</key>
     <integer>10</integer>
     <key>public.kern2.R_O</key>
     <integer>-15</integer>
-    <key>public.kern2.R_O.sc</key>
-    <integer>-10</integer>
     <key>public.kern2.R_T</key>
     <integer>-32</integer>
     <key>public.kern2.R_U</key>
@@ -1261,106 +1001,6 @@
     <key>public.kern2.R_w</key>
     <integer>-22</integer>
     <key>public.kern2.R_y</key>
-    <integer>-17</integer>
-  </dict>
-  <key>c.sc</key>
-  <dict>
-    <key>V</key>
-    <integer>-36</integer>
-    <key>a.sc</key>
-    <integer>-12</integer>
-    <key>asterisk</key>
-    <integer>-13</integer>
-    <key>backslash</key>
-    <integer>-33</integer>
-    <key>bar</key>
-    <integer>-14</integer>
-    <key>brokenbar</key>
-    <integer>-12</integer>
-    <key>question</key>
-    <integer>-12</integer>
-    <key>quoteright</key>
-    <integer>-64</integer>
-    <key>trademark</key>
-    <integer>-13</integer>
-    <key>v.sc</key>
-    <integer>-9</integer>
-    <key>w.sc</key>
-    <integer>-9</integer>
-    <key>y.sc</key>
-    <integer>-13</integer>
-    <key>public.kern2.R_O.sc</key>
-    <integer>-6</integer>
-    <key>public.kern2.R_T</key>
-    <integer>-99</integer>
-    <key>public.kern2.R_W</key>
-    <integer>-36</integer>
-    <key>public.kern2.R_Y</key>
-    <integer>-67</integer>
-    <key>public.kern2.R_quoteright</key>
-    <integer>-9</integer>
-  </dict>
-  <key>d.sc</key>
-  <dict>
-    <key>Eth</key>
-    <integer>-9</integer>
-    <key>V</key>
-    <integer>-57</integer>
-    <key>X</key>
-    <integer>-16</integer>
-    <key>a.sc</key>
-    <integer>-21</integer>
-    <key>asterisk</key>
-    <integer>-23</integer>
-    <key>backslash</key>
-    <integer>-53</integer>
-    <key>bar</key>
-    <integer>-21</integer>
-    <key>brokenbar</key>
-    <integer>-19</integer>
-    <key>j.sc</key>
-    <integer>-10</integer>
-    <key>ordmasculine</key>
-    <integer>-8</integer>
-    <key>parenright</key>
-    <integer>-13</integer>
-    <key>question</key>
-    <integer>-21</integer>
-    <key>quoteright</key>
-    <integer>-71</integer>
-    <key>t.sc</key>
-    <integer>-22</integer>
-    <key>trademark</key>
-    <integer>-19</integer>
-    <key>v.sc</key>
-    <integer>-24</integer>
-    <key>w.sc</key>
-    <integer>-24</integer>
-    <key>x.sc</key>
-    <integer>-23</integer>
-    <key>y.sc</key>
-    <integer>-37</integer>
-    <key>z.sc</key>
-    <integer>-8</integer>
-    <key>public.kern2.R_A</key>
-    <integer>-14</integer>
-    <key>public.kern2.R_AE</key>
-    <integer>-9</integer>
-    <key>public.kern2.R_T</key>
-    <integer>-74</integer>
-    <key>public.kern2.R_U</key>
-    <integer>-5</integer>
-    <key>public.kern2.R_W</key>
-    <integer>-58</integer>
-    <key>public.kern2.R_Y</key>
-    <integer>-74</integer>
-    <key>public.kern2.R_Z</key>
-    <integer>-6</integer>
-    <key>public.kern2.R_quoteleft</key>
-    <integer>-16</integer>
-    <key>public.kern2.R_quoteright</key>
-    <integer>-19</integer>
-    <key>public.kern2.R_quotesingle</key>
     <integer>-17</integer>
   </dict>
   <key>d.ss03</key>
@@ -1470,21 +1110,6 @@
     <key>two.tnum</key>
     <integer>-10</integer>
   </dict>
-  <key>e.sc</key>
-  <dict>
-    <key>V</key>
-    <integer>-9</integer>
-    <key>quoteright</key>
-    <integer>-45</integer>
-    <key>public.kern2.R_O.sc</key>
-    <integer>-9</integer>
-    <key>public.kern2.R_T</key>
-    <integer>-78</integer>
-    <key>public.kern2.R_W</key>
-    <integer>-9</integer>
-    <key>public.kern2.R_Y</key>
-    <integer>-24</integer>
-  </dict>
   <key>eight</key>
   <dict>
     <key>V</key>
@@ -1560,41 +1185,6 @@
     <integer>-11</integer>
     <key>public.kern2.R_z</key>
     <integer>-6</integer>
-  </dict>
-  <key>f.sc</key>
-  <dict>
-    <key>X</key>
-    <integer>-15</integer>
-    <key>a.sc</key>
-    <integer>-50</integer>
-    <key>j.sc</key>
-    <integer>-100</integer>
-    <key>parenright</key>
-    <integer>-11</integer>
-    <key>quoteright</key>
-    <integer>-37</integer>
-    <key>s.sc</key>
-    <integer>-8</integer>
-    <key>slash</key>
-    <integer>-24</integer>
-    <key>space</key>
-    <integer>-17</integer>
-    <key>public.kern2.R_A</key>
-    <integer>-34</integer>
-    <key>public.kern2.R_AE</key>
-    <integer>-53</integer>
-    <key>public.kern2.R_J</key>
-    <integer>-98</integer>
-    <key>public.kern2.R_O.sc</key>
-    <integer>-9</integer>
-    <key>public.kern2.R_T</key>
-    <integer>-86</integer>
-    <key>public.kern2.R_Y</key>
-    <integer>-14</integer>
-    <key>public.kern2.R_Z</key>
-    <integer>-9</integer>
-    <key>public.kern2.R_period</key>
-    <integer>-52</integer>
   </dict>
   <key>f_f</key>
   <dict>
@@ -1672,49 +1262,6 @@
     <integer>15</integer>
     <key>public.kern2.R_W</key>
     <integer>-51</integer>
-  </dict>
-  <key>g.sc</key>
-  <dict>
-    <key>Eth</key>
-    <integer>-6</integer>
-    <key>V</key>
-    <integer>-57</integer>
-    <key>asterisk</key>
-    <integer>-18</integer>
-    <key>backslash</key>
-    <integer>-44</integer>
-    <key>bar</key>
-    <integer>-19</integer>
-    <key>brokenbar</key>
-    <integer>-17</integer>
-    <key>question</key>
-    <integer>-14</integer>
-    <key>quoteright</key>
-    <integer>-67</integer>
-    <key>t.sc</key>
-    <integer>-11</integer>
-    <key>trademark</key>
-    <integer>-18</integer>
-    <key>v.sc</key>
-    <integer>-19</integer>
-    <key>w.sc</key>
-    <integer>-20</integer>
-    <key>y.sc</key>
-    <integer>-26</integer>
-    <key>public.kern2.R_T</key>
-    <integer>-85</integer>
-    <key>public.kern2.R_U</key>
-    <integer>-7</integer>
-    <key>public.kern2.R_W</key>
-    <integer>-58</integer>
-    <key>public.kern2.R_Y</key>
-    <integer>-75</integer>
-    <key>public.kern2.R_quoteleft</key>
-    <integer>-13</integer>
-    <key>public.kern2.R_quoteright</key>
-    <integer>-14</integer>
-    <key>public.kern2.R_quotesingle</key>
-    <integer>-13</integer>
   </dict>
   <key>gbreve</key>
   <dict>
@@ -1862,29 +1409,6 @@
     <key>jcircumflex</key>
     <integer>24</integer>
   </dict>
-  <key>j.sc</key>
-  <dict>
-    <key>V</key>
-    <integer>-23</integer>
-    <key>X</key>
-    <integer>-6</integer>
-    <key>a.sc</key>
-    <integer>-7</integer>
-    <key>backslash</key>
-    <integer>-14</integer>
-    <key>j.sc</key>
-    <integer>-5</integer>
-    <key>quoteright</key>
-    <integer>-44</integer>
-    <key>public.kern2.R_T</key>
-    <integer>-57</integer>
-    <key>public.kern2.R_W</key>
-    <integer>-23</integer>
-    <key>public.kern2.R_Y</key>
-    <integer>-45</integer>
-    <key>public.kern2.R_Z</key>
-    <integer>-5</integer>
-  </dict>
   <key>j.ss04</key>
   <dict>
     <key>j</key>
@@ -1898,88 +1422,6 @@
     <integer>18</integer>
     <key>trademark</key>
     <integer>15</integer>
-  </dict>
-  <key>k.sc</key>
-  <dict>
-    <key>quoteright</key>
-    <integer>-41</integer>
-    <key>space</key>
-    <integer>-10</integer>
-    <key>public.kern2.R_O</key>
-    <integer>-8</integer>
-    <key>public.kern2.R_O.sc</key>
-    <integer>-32</integer>
-    <key>public.kern2.R_T</key>
-    <integer>-60</integer>
-    <key>public.kern2.R_Y</key>
-    <integer>-11</integer>
-    <key>public.kern2.R_guilsinglleft</key>
-    <integer>-30</integer>
-    <key>public.kern2.R_hyphen</key>
-    <integer>-20</integer>
-  </dict>
-  <key>l.sc</key>
-  <dict>
-    <key>V</key>
-    <integer>-86</integer>
-    <key>asterisk</key>
-    <integer>-61</integer>
-    <key>backslash</key>
-    <integer>-101</integer>
-    <key>bar</key>
-    <integer>-35</integer>
-    <key>brokenbar</key>
-    <integer>-31</integer>
-    <key>copyright</key>
-    <integer>-62</integer>
-    <key>ordfeminine</key>
-    <integer>-56</integer>
-    <key>ordmasculine</key>
-    <integer>-56</integer>
-    <key>periodcentered</key>
-    <integer>-72</integer>
-    <key>question</key>
-    <integer>-17</integer>
-    <key>quoteright</key>
-    <integer>-94</integer>
-    <key>registered</key>
-    <integer>-62</integer>
-    <key>space</key>
-    <integer>-26</integer>
-    <key>t.sc</key>
-    <integer>-92</integer>
-    <key>trademark</key>
-    <integer>-67</integer>
-    <key>u.sc</key>
-    <integer>-24</integer>
-    <key>v.sc</key>
-    <integer>-79</integer>
-    <key>w.sc</key>
-    <integer>-80</integer>
-    <key>y.sc</key>
-    <integer>-85</integer>
-    <key>public.kern2.R_O</key>
-    <integer>-42</integer>
-    <key>public.kern2.R_O.sc</key>
-    <integer>-25</integer>
-    <key>public.kern2.R_T</key>
-    <integer>-99</integer>
-    <key>public.kern2.R_U</key>
-    <integer>-38</integer>
-    <key>public.kern2.R_W</key>
-    <integer>-86</integer>
-    <key>public.kern2.R_Y</key>
-    <integer>-94</integer>
-    <key>public.kern2.R_guilsinglleft</key>
-    <integer>-59</integer>
-    <key>public.kern2.R_hyphen</key>
-    <integer>-67</integer>
-    <key>public.kern2.R_quoteleft</key>
-    <integer>-58</integer>
-    <key>public.kern2.R_quoteright</key>
-    <integer>-60</integer>
-    <key>public.kern2.R_quotesingle</key>
-    <integer>-58</integer>
   </dict>
   <key>l.ss05</key>
   <dict>
@@ -2184,63 +1626,6 @@
     <key>public.kern2.R_quotesingle</key>
     <integer>-14</integer>
   </dict>
-  <key>p.sc</key>
-  <dict>
-    <key>Eth</key>
-    <integer>-6</integer>
-    <key>V</key>
-    <integer>-36</integer>
-    <key>X</key>
-    <integer>-18</integer>
-    <key>a.sc</key>
-    <integer>-43</integer>
-    <key>asterisk</key>
-    <integer>-11</integer>
-    <key>backslash</key>
-    <integer>-33</integer>
-    <key>bar</key>
-    <integer>-11</integer>
-    <key>j.sc</key>
-    <integer>-81</integer>
-    <key>parenright</key>
-    <integer>-25</integer>
-    <key>question</key>
-    <integer>-18</integer>
-    <key>quoteright</key>
-    <integer>-57</integer>
-    <key>slash</key>
-    <integer>-14</integer>
-    <key>space</key>
-    <integer>-22</integer>
-    <key>trademark</key>
-    <integer>-11</integer>
-    <key>v.sc</key>
-    <integer>-11</integer>
-    <key>w.sc</key>
-    <integer>-12</integer>
-    <key>x.sc</key>
-    <integer>-21</integer>
-    <key>y.sc</key>
-    <integer>-15</integer>
-    <key>z.sc</key>
-    <integer>-8</integer>
-    <key>public.kern2.R_A</key>
-    <integer>-28</integer>
-    <key>public.kern2.R_AE</key>
-    <integer>-50</integer>
-    <key>public.kern2.R_J</key>
-    <integer>-80</integer>
-    <key>public.kern2.R_T</key>
-    <integer>-80</integer>
-    <key>public.kern2.R_W</key>
-    <integer>-36</integer>
-    <key>public.kern2.R_Y</key>
-    <integer>-64</integer>
-    <key>public.kern2.R_Z</key>
-    <integer>-13</integer>
-    <key>public.kern2.R_period</key>
-    <integer>-47</integer>
-  </dict>
   <key>parenleft</key>
   <dict>
     <key>Schwa</key>
@@ -2261,8 +1646,6 @@
     <integer>-10</integer>
     <key>six.tnum</key>
     <integer>-10</integer>
-    <key>u.sc</key>
-    <integer>-12</integer>
     <key>zero</key>
     <integer>-20</integer>
     <key>zero.tnum</key>
@@ -2271,8 +1654,6 @@
     <integer>13</integer>
     <key>public.kern2.R_O</key>
     <integer>-19</integer>
-    <key>public.kern2.R_O.sc</key>
-    <integer>-17</integer>
     <key>public.kern2.R_a</key>
     <integer>-16</integer>
     <key>public.kern2.R_o</key>
@@ -2341,56 +1722,34 @@
     <integer>-55</integer>
     <key>W.ss09</key>
     <integer>-37</integer>
-    <key>a.sc</key>
-    <integer>-20</integer>
     <key>eth</key>
     <integer>-27</integer>
     <key>j</key>
     <integer>82</integer>
-    <key>j.sc</key>
-    <integer>-30</integer>
     <key>jcircumflex</key>
     <integer>79</integer>
     <key>l.ss05</key>
     <integer>-17</integer>
     <key>lslash</key>
     <integer>-29</integer>
-    <key>s.sc</key>
-    <integer>-25</integer>
     <key>schwa</key>
-    <integer>-24</integer>
-    <key>t.sc</key>
     <integer>-24</integer>
     <key>t.ss07</key>
     <integer>-22</integer>
-    <key>u.sc</key>
-    <integer>-22</integer>
     <key>v</key>
     <integer>-30</integer>
-    <key>v.sc</key>
-    <integer>-32</integer>
-    <key>w.sc</key>
-    <integer>-33</integer>
     <key>w.ss09</key>
     <integer>-29</integer>
-    <key>y.sc</key>
-    <integer>-36</integer>
     <key>y.ss10</key>
     <integer>-26</integer>
-    <key>z.sc</key>
-    <integer>-11</integer>
     <key>public.kern2.R_A</key>
     <integer>-13</integer>
     <key>public.kern2.R_I</key>
-    <integer>-16</integer>
-    <key>public.kern2.R_I.sc</key>
     <integer>-16</integer>
     <key>public.kern2.R_J</key>
     <integer>-24</integer>
     <key>public.kern2.R_O</key>
     <integer>-23</integer>
-    <key>public.kern2.R_O.sc</key>
-    <integer>-24</integer>
     <key>public.kern2.R_S</key>
     <integer>-19</integer>
     <key>public.kern2.R_T</key>
@@ -2437,42 +1796,18 @@
   </dict>
   <key>quoteright</key>
   <dict>
-    <key>a.sc</key>
-    <integer>-86</integer>
-    <key>j.sc</key>
-    <integer>-85</integer>
     <key>l.ss05</key>
     <integer>-34</integer>
-    <key>s.sc</key>
-    <integer>-58</integer>
-    <key>t.sc</key>
-    <integer>-29</integer>
     <key>t.ss07</key>
     <integer>-43</integer>
-    <key>u.sc</key>
-    <integer>-42</integer>
     <key>v</key>
     <integer>-44</integer>
-    <key>v.sc</key>
-    <integer>-34</integer>
-    <key>w.sc</key>
-    <integer>-34</integer>
     <key>w.ss09</key>
     <integer>-40</integer>
     <key>x</key>
     <integer>-49</integer>
-    <key>x.sc</key>
-    <integer>-34</integer>
-    <key>y.sc</key>
-    <integer>-33</integer>
     <key>y.ss10</key>
     <integer>-46</integer>
-    <key>z.sc</key>
-    <integer>-40</integer>
-    <key>public.kern2.R_I.sc</key>
-    <integer>-44</integer>
-    <key>public.kern2.R_O.sc</key>
-    <integer>-64</integer>
     <key>public.kern2.R_a</key>
     <integer>-71</integer>
     <key>public.kern2.R_a.alt2</key>
@@ -2508,84 +1843,6 @@
     <integer>23</integer>
     <key>jcircumflex</key>
     <integer>29</integer>
-  </dict>
-  <key>r.sc</key>
-  <dict>
-    <key>Eth</key>
-    <integer>-8</integer>
-    <key>V</key>
-    <integer>-55</integer>
-    <key>asterisk</key>
-    <integer>-15</integer>
-    <key>backslash</key>
-    <integer>-43</integer>
-    <key>bar</key>
-    <integer>-19</integer>
-    <key>brokenbar</key>
-    <integer>-17</integer>
-    <key>question</key>
-    <integer>-19</integer>
-    <key>quoteright</key>
-    <integer>-62</integer>
-    <key>t.sc</key>
-    <integer>-10</integer>
-    <key>trademark</key>
-    <integer>-15</integer>
-    <key>v.sc</key>
-    <integer>-18</integer>
-    <key>w.sc</key>
-    <integer>-19</integer>
-    <key>y.sc</key>
-    <integer>-25</integer>
-    <key>public.kern2.R_T</key>
-    <integer>-71</integer>
-    <key>public.kern2.R_U</key>
-    <integer>-8</integer>
-    <key>public.kern2.R_W</key>
-    <integer>-56</integer>
-    <key>public.kern2.R_Y</key>
-    <integer>-74</integer>
-    <key>public.kern2.R_quoteleft</key>
-    <integer>-9</integer>
-    <key>public.kern2.R_quoteright</key>
-    <integer>-12</integer>
-    <key>public.kern2.R_quotesingle</key>
-    <integer>-9</integer>
-  </dict>
-  <key>s.sc</key>
-  <dict>
-    <key>V</key>
-    <integer>-38</integer>
-    <key>a.sc</key>
-    <integer>-13</integer>
-    <key>backslash</key>
-    <integer>-30</integer>
-    <key>bar</key>
-    <integer>-15</integer>
-    <key>brokenbar</key>
-    <integer>-11</integer>
-    <key>question</key>
-    <integer>-10</integer>
-    <key>quoteright</key>
-    <integer>-60</integer>
-    <key>trademark</key>
-    <integer>-12</integer>
-    <key>v.sc</key>
-    <integer>-13</integer>
-    <key>w.sc</key>
-    <integer>-14</integer>
-    <key>x.sc</key>
-    <integer>-5</integer>
-    <key>y.sc</key>
-    <integer>-14</integer>
-    <key>public.kern2.R_T</key>
-    <integer>-81</integer>
-    <key>public.kern2.R_U</key>
-    <integer>-6</integer>
-    <key>public.kern2.R_W</key>
-    <integer>-39</integer>
-    <key>public.kern2.R_Y</key>
-    <integer>-61</integer>
   </dict>
   <key>scedilla</key>
   <dict>
@@ -2687,8 +1944,6 @@
   <dict>
     <key>Schwa</key>
     <integer>-19</integer>
-    <key>a.sc</key>
-    <integer>-72</integer>
     <key>eight</key>
     <integer>-12</integer>
     <key>eight.tnum</key>
@@ -2707,10 +1962,6 @@
     <integer>29</integer>
     <key>itilde</key>
     <integer>10</integer>
-    <key>j.sc</key>
-    <integer>-92</integer>
-    <key>s.sc</key>
-    <integer>-14</integer>
     <key>schwa</key>
     <integer>-13</integer>
     <key>six</key>
@@ -2729,14 +1980,10 @@
     <integer>-80</integer>
     <key>public.kern2.R_AE</key>
     <integer>-107</integer>
-    <key>public.kern2.R_I.sc</key>
-    <integer>-12</integer>
     <key>public.kern2.R_J</key>
     <integer>-95</integer>
     <key>public.kern2.R_O</key>
     <integer>-23</integer>
-    <key>public.kern2.R_O.sc</key>
-    <integer>-15</integer>
     <key>public.kern2.R_a</key>
     <integer>-14</integer>
     <key>public.kern2.R_a.alt2</key>
@@ -2760,24 +2007,12 @@
     <integer>-28</integer>
     <key>X</key>
     <integer>-10</integer>
-    <key>a.sc</key>
-    <integer>-29</integer>
-    <key>j.sc</key>
-    <integer>-23</integer>
     <key>lslash</key>
     <integer>-18</integer>
-    <key>t.sc</key>
-    <integer>-25</integer>
     <key>v</key>
     <integer>-28</integer>
-    <key>v.sc</key>
-    <integer>-33</integer>
-    <key>w.sc</key>
-    <integer>-33</integer>
     <key>w.ss09</key>
     <integer>-26</integer>
-    <key>y.sc</key>
-    <integer>-35</integer>
     <key>y.ss10</key>
     <integer>-30</integer>
     <key>public.kern2.R_A</key>
@@ -2805,41 +2040,6 @@
   <dict>
     <key>four.tnum</key>
     <integer>-14</integer>
-  </dict>
-  <key>t.sc</key>
-  <dict>
-    <key>X</key>
-    <integer>-11</integer>
-    <key>a.sc</key>
-    <integer>-61</integer>
-    <key>j.sc</key>
-    <integer>-82</integer>
-    <key>quoteright</key>
-    <integer>-33</integer>
-    <key>slash</key>
-    <integer>-49</integer>
-    <key>space</key>
-    <integer>-21</integer>
-    <key>public.kern2.R_A</key>
-    <integer>-51</integer>
-    <key>public.kern2.R_AE</key>
-    <integer>-65</integer>
-    <key>public.kern2.R_J</key>
-    <integer>-82</integer>
-    <key>public.kern2.R_O.sc</key>
-    <integer>-11</integer>
-    <key>public.kern2.R_T</key>
-    <integer>-81</integer>
-    <key>public.kern2.R_Y</key>
-    <integer>-8</integer>
-    <key>public.kern2.R_Z</key>
-    <integer>-11</integer>
-    <key>public.kern2.R_guilsinglleft</key>
-    <integer>-35</integer>
-    <key>public.kern2.R_hyphen</key>
-    <integer>-40</integer>
-    <key>public.kern2.R_period</key>
-    <integer>-46</integer>
   </dict>
   <key>t.ss07</key>
   <dict>
@@ -2959,41 +2159,6 @@
     <key>four.tnum</key>
     <integer>-13</integer>
   </dict>
-  <key>u.sc</key>
-  <dict>
-    <key>Eth</key>
-    <integer>-7</integer>
-    <key>V</key>
-    <integer>-22</integer>
-    <key>X</key>
-    <integer>-11</integer>
-    <key>a.sc</key>
-    <integer>-16</integer>
-    <key>backslash</key>
-    <integer>-14</integer>
-    <key>j.sc</key>
-    <integer>-15</integer>
-    <key>parenright</key>
-    <integer>-10</integer>
-    <key>quoteright</key>
-    <integer>-44</integer>
-    <key>slash</key>
-    <integer>-13</integer>
-    <key>public.kern2.R_A</key>
-    <integer>-8</integer>
-    <key>public.kern2.R_AE</key>
-    <integer>-9</integer>
-    <key>public.kern2.R_J</key>
-    <integer>-8</integer>
-    <key>public.kern2.R_T</key>
-    <integer>-59</integer>
-    <key>public.kern2.R_W</key>
-    <integer>-23</integer>
-    <key>public.kern2.R_Y</key>
-    <integer>-45</integer>
-    <key>public.kern2.R_Z</key>
-    <integer>-6</integer>
-  </dict>
   <key>uogonek</key>
   <dict>
     <key>j</key>
@@ -3051,88 +2216,6 @@
     <integer>-67</integer>
     <key>public.kern2.R_s</key>
     <integer>-8</integer>
-  </dict>
-  <key>v.sc</key>
-  <dict>
-    <key>X</key>
-    <integer>-12</integer>
-    <key>a.sc</key>
-    <integer>-47</integer>
-    <key>at</key>
-    <integer>-10</integer>
-    <key>j.sc</key>
-    <integer>-69</integer>
-    <key>parenright</key>
-    <integer>-13</integer>
-    <key>quoteright</key>
-    <integer>-40</integer>
-    <key>s.sc</key>
-    <integer>-18</integer>
-    <key>slash</key>
-    <integer>-49</integer>
-    <key>space</key>
-    <integer>-29</integer>
-    <key>public.kern2.R_A</key>
-    <integer>-29</integer>
-    <key>public.kern2.R_AE</key>
-    <integer>-51</integer>
-    <key>public.kern2.R_J</key>
-    <integer>-64</integer>
-    <key>public.kern2.R_O.sc</key>
-    <integer>-21</integer>
-    <key>public.kern2.R_T</key>
-    <integer>-66</integer>
-    <key>public.kern2.R_Y</key>
-    <integer>-8</integer>
-    <key>public.kern2.R_Z</key>
-    <integer>-8</integer>
-    <key>public.kern2.R_guilsinglleft</key>
-    <integer>-26</integer>
-    <key>public.kern2.R_hyphen</key>
-    <integer>-15</integer>
-    <key>public.kern2.R_period</key>
-    <integer>-47</integer>
-  </dict>
-  <key>w.sc</key>
-  <dict>
-    <key>X</key>
-    <integer>-12</integer>
-    <key>a.sc</key>
-    <integer>-48</integer>
-    <key>at</key>
-    <integer>-11</integer>
-    <key>j.sc</key>
-    <integer>-70</integer>
-    <key>parenright</key>
-    <integer>-13</integer>
-    <key>quoteright</key>
-    <integer>-40</integer>
-    <key>s.sc</key>
-    <integer>-18</integer>
-    <key>slash</key>
-    <integer>-50</integer>
-    <key>space</key>
-    <integer>-30</integer>
-    <key>public.kern2.R_A</key>
-    <integer>-30</integer>
-    <key>public.kern2.R_AE</key>
-    <integer>-52</integer>
-    <key>public.kern2.R_J</key>
-    <integer>-68</integer>
-    <key>public.kern2.R_O.sc</key>
-    <integer>-21</integer>
-    <key>public.kern2.R_T</key>
-    <integer>-66</integer>
-    <key>public.kern2.R_Y</key>
-    <integer>-7</integer>
-    <key>public.kern2.R_Z</key>
-    <integer>-8</integer>
-    <key>public.kern2.R_guilsinglleft</key>
-    <integer>-27</integer>
-    <key>public.kern2.R_hyphen</key>
-    <integer>-16</integer>
-    <key>public.kern2.R_period</key>
-    <integer>-49</integer>
   </dict>
   <key>w.ss09</key>
   <dict>
@@ -3212,64 +2295,6 @@
     <key>public.kern2.R_o</key>
     <integer>-22</integer>
   </dict>
-  <key>x.sc</key>
-  <dict>
-    <key>quoteright</key>
-    <integer>-38</integer>
-    <key>s.sc</key>
-    <integer>-5</integer>
-    <key>public.kern2.R_O.sc</key>
-    <integer>-23</integer>
-    <key>public.kern2.R_T</key>
-    <integer>-54</integer>
-    <key>public.kern2.R_Y</key>
-    <integer>-8</integer>
-    <key>public.kern2.R_guilsinglleft</key>
-    <integer>-28</integer>
-    <key>public.kern2.R_hyphen</key>
-    <integer>-17</integer>
-  </dict>
-  <key>y.sc</key>
-  <dict>
-    <key>X</key>
-    <integer>-12</integer>
-    <key>a.sc</key>
-    <integer>-59</integer>
-    <key>at</key>
-    <integer>-15</integer>
-    <key>j.sc</key>
-    <integer>-76</integer>
-    <key>parenright</key>
-    <integer>-13</integer>
-    <key>quoteright</key>
-    <integer>-40</integer>
-    <key>s.sc</key>
-    <integer>-16</integer>
-    <key>slash</key>
-    <integer>-54</integer>
-    <key>space</key>
-    <integer>-31</integer>
-    <key>public.kern2.R_A</key>
-    <integer>-39</integer>
-    <key>public.kern2.R_AE</key>
-    <integer>-62</integer>
-    <key>public.kern2.R_J</key>
-    <integer>-83</integer>
-    <key>public.kern2.R_O.sc</key>
-    <integer>-28</integer>
-    <key>public.kern2.R_T</key>
-    <integer>-71</integer>
-    <key>public.kern2.R_Z</key>
-    <integer>-10</integer>
-    <key>public.kern2.R_guilsinglleft</key>
-    <integer>-43</integer>
-    <key>public.kern2.R_guilsinglright</key>
-    <integer>-12</integer>
-    <key>public.kern2.R_hyphen</key>
-    <integer>-28</integer>
-    <key>public.kern2.R_period</key>
-    <integer>-62</integer>
-  </dict>
   <key>y.ss10</key>
   <dict>
     <key>V</key>
@@ -3312,25 +2337,6 @@
     <integer>-35</integer>
     <key>public.kern2.R_s</key>
     <integer>-12</integer>
-  </dict>
-  <key>z.sc</key>
-  <dict>
-    <key>V</key>
-    <integer>-9</integer>
-    <key>quoteright</key>
-    <integer>-41</integer>
-    <key>public.kern2.R_O.sc</key>
-    <integer>-9</integer>
-    <key>public.kern2.R_T</key>
-    <integer>-71</integer>
-    <key>public.kern2.R_W</key>
-    <integer>-10</integer>
-    <key>public.kern2.R_Y</key>
-    <integer>-23</integer>
-    <key>public.kern2.R_guilsinglleft</key>
-    <integer>-19</integer>
-    <key>public.kern2.R_hyphen</key>
-    <integer>-9</integer>
   </dict>
   <key>zero</key>
   <dict>
@@ -3416,8 +2422,6 @@
     <integer>-129</integer>
     <key>registered</key>
     <integer>-40</integer>
-    <key>s.sc</key>
-    <integer>-5</integer>
     <key>schwa</key>
     <integer>-14</integer>
     <key>seven</key>
@@ -3426,32 +2430,20 @@
     <integer>-22</integer>
     <key>space</key>
     <integer>-34</integer>
-    <key>t.sc</key>
-    <integer>-52</integer>
     <key>t.ss07</key>
     <integer>-21</integer>
     <key>trademark</key>
     <integer>-69</integer>
-    <key>u.sc</key>
-    <integer>-20</integer>
     <key>v</key>
     <integer>-32</integer>
-    <key>v.sc</key>
-    <integer>-35</integer>
-    <key>w.sc</key>
-    <integer>-36</integer>
     <key>w.ss09</key>
     <integer>-29</integer>
-    <key>y.sc</key>
-    <integer>-45</integer>
     <key>y.ss10</key>
     <integer>-36</integer>
     <key>zero</key>
     <integer>-21</integer>
     <key>public.kern2.R_O</key>
     <integer>-32</integer>
-    <key>public.kern2.R_O.sc</key>
-    <integer>-17</integer>
     <key>public.kern2.R_S</key>
     <integer>-14</integer>
     <key>public.kern2.R_T</key>
@@ -3530,12 +2522,8 @@
     <integer>-13</integer>
     <key>X</key>
     <integer>-26</integer>
-    <key>a.sc</key>
-    <integer>-16</integer>
     <key>backslash</key>
     <integer>-22</integer>
-    <key>j.sc</key>
-    <integer>-20</integer>
     <key>parenright</key>
     <integer>-16</integer>
     <key>quoteright</key>
@@ -3548,16 +2536,8 @@
     <integer>-12</integer>
     <key>v</key>
     <integer>-5</integer>
-    <key>v.sc</key>
-    <integer>-6</integer>
-    <key>w.sc</key>
-    <integer>-6</integer>
     <key>x</key>
     <integer>-11</integer>
-    <key>x.sc</key>
-    <integer>-7</integer>
-    <key>y.sc</key>
-    <integer>-5</integer>
     <key>y.ss10</key>
     <integer>-6</integer>
     <key>public.kern2.R_A</key>
@@ -3603,8 +2583,6 @@
     <integer>-5</integer>
     <key>public.kern2.R_O</key>
     <integer>-12</integer>
-    <key>public.kern2.R_O.sc</key>
-    <integer>-8</integer>
     <key>public.kern2.R_a</key>
     <integer>-14</integer>
     <key>public.kern2.R_o</key>
@@ -3628,10 +2606,6 @@
     <integer>-8</integer>
     <key>v</key>
     <integer>-8</integer>
-    <key>v.sc</key>
-    <integer>-5</integer>
-    <key>w.sc</key>
-    <integer>-5</integer>
     <key>w.ss09</key>
     <integer>-5</integer>
     <key>y.ss10</key>
@@ -3674,35 +2648,12 @@
     <key>public.kern2.R_t</key>
     <integer>-9</integer>
   </dict>
-  <key>public.kern1.L_I.sc</key>
-  <dict>
-    <key>V</key>
-    <integer>-30</integer>
-    <key>backslash</key>
-    <integer>-18</integer>
-    <key>bar</key>
-    <integer>-10</integer>
-    <key>quoteright</key>
-    <integer>-46</integer>
-    <key>trademark</key>
-    <integer>-8</integer>
-    <key>public.kern2.R_T</key>
-    <integer>-55</integer>
-    <key>public.kern2.R_W</key>
-    <integer>-30</integer>
-    <key>public.kern2.R_Y</key>
-    <integer>-52</integer>
-  </dict>
   <key>public.kern1.L_J</key>
   <dict>
-    <key>a.sc</key>
-    <integer>-15</integer>
     <key>eth</key>
     <integer>-10</integer>
     <key>itilde</key>
     <integer>4</integer>
-    <key>j.sc</key>
-    <integer>-15</integer>
     <key>l.ss05</key>
     <integer>-5</integer>
     <key>quoteright</key>
@@ -3764,30 +2715,18 @@
     <integer>-13</integer>
     <key>space</key>
     <integer>-12</integer>
-    <key>t.sc</key>
-    <integer>-7</integer>
     <key>t.ss07</key>
     <integer>-5</integer>
-    <key>u.sc</key>
-    <integer>-15</integer>
     <key>v</key>
     <integer>-20</integer>
-    <key>v.sc</key>
-    <integer>-8</integer>
-    <key>w.sc</key>
-    <integer>-8</integer>
     <key>w.ss09</key>
     <integer>-19</integer>
-    <key>y.sc</key>
-    <integer>-6</integer>
     <key>y.ss10</key>
     <integer>-22</integer>
     <key>zero</key>
     <integer>-18</integer>
     <key>public.kern2.R_O</key>
     <integer>-38</integer>
-    <key>public.kern2.R_O.sc</key>
-    <integer>-31</integer>
     <key>public.kern2.R_a</key>
     <integer>-35</integer>
     <key>public.kern2.R_a.alt2</key>
@@ -3853,30 +2792,18 @@
     <integer>-10</integer>
     <key>space</key>
     <integer>-30</integer>
-    <key>t.sc</key>
-    <integer>-100</integer>
     <key>t.ss07</key>
     <integer>-15</integer>
     <key>trademark</key>
     <integer>-113</integer>
-    <key>u.sc</key>
-    <integer>-17</integer>
     <key>v</key>
     <integer>-67</integer>
-    <key>v.sc</key>
-    <integer>-78</integer>
-    <key>w.sc</key>
-    <integer>-81</integer>
     <key>w.ss09</key>
     <integer>-56</integer>
-    <key>y.sc</key>
-    <integer>-85</integer>
     <key>y.ss10</key>
     <integer>-77</integer>
     <key>public.kern2.R_O</key>
     <integer>-35</integer>
-    <key>public.kern2.R_O.sc</key>
-    <integer>-15</integer>
     <key>public.kern2.R_T</key>
     <integer>-117</integer>
     <key>public.kern2.R_U</key>
@@ -3928,13 +2855,9 @@
     <integer>-13</integer>
     <key>X</key>
     <integer>-28</integer>
-    <key>a.sc</key>
-    <integer>-17</integer>
     <key>asterisk</key>
     <integer>-8</integer>
     <key>backslash</key>
-    <integer>-23</integer>
-    <key>j.sc</key>
     <integer>-23</integer>
     <key>parenright</key>
     <integer>-17</integer>
@@ -3948,16 +2871,8 @@
     <integer>-12</integer>
     <key>v</key>
     <integer>-6</integer>
-    <key>v.sc</key>
-    <integer>-6</integer>
-    <key>w.sc</key>
-    <integer>-6</integer>
     <key>x</key>
     <integer>-12</integer>
-    <key>x.sc</key>
-    <integer>-8</integer>
-    <key>y.sc</key>
-    <integer>-5</integer>
     <key>y.ss10</key>
     <integer>-6</integer>
     <key>public.kern2.R_A</key>
@@ -3983,71 +2898,6 @@
     <key>public.kern2.R_y</key>
     <integer>-6</integer>
   </dict>
-  <key>public.kern1.L_O.sc</key>
-  <dict>
-    <key>Eth</key>
-    <integer>-9</integer>
-    <key>V</key>
-    <integer>-58</integer>
-    <key>X</key>
-    <integer>-18</integer>
-    <key>a.sc</key>
-    <integer>-21</integer>
-    <key>asterisk</key>
-    <integer>-24</integer>
-    <key>backslash</key>
-    <integer>-54</integer>
-    <key>bar</key>
-    <integer>-22</integer>
-    <key>brokenbar</key>
-    <integer>-19</integer>
-    <key>j.sc</key>
-    <integer>-12</integer>
-    <key>ordmasculine</key>
-    <integer>-9</integer>
-    <key>parenright</key>
-    <integer>-14</integer>
-    <key>question</key>
-    <integer>-22</integer>
-    <key>quoteright</key>
-    <integer>-73</integer>
-    <key>t.sc</key>
-    <integer>-24</integer>
-    <key>trademark</key>
-    <integer>-19</integer>
-    <key>v.sc</key>
-    <integer>-24</integer>
-    <key>w.sc</key>
-    <integer>-25</integer>
-    <key>x.sc</key>
-    <integer>-24</integer>
-    <key>y.sc</key>
-    <integer>-39</integer>
-    <key>z.sc</key>
-    <integer>-9</integer>
-    <key>public.kern2.R_A</key>
-    <integer>-14</integer>
-    <key>public.kern2.R_AE</key>
-    <integer>-10</integer>
-    <key>public.kern2.R_J</key>
-    <integer>-5</integer>
-    <key>public.kern2.R_T</key>
-    <integer>-74</integer>
-    <key>public.kern2.R_U</key>
-    <integer>-5</integer>
-    <key>public.kern2.R_W</key>
-    <integer>-58</integer>
-    <key>public.kern2.R_Y</key>
-    <integer>-75</integer>
-    <key>public.kern2.R_Z</key>
-    <integer>-8</integer>
-    <key>public.kern2.R_quoteleft</key>
-    <integer>-18</integer>
-    <key>public.kern2.R_quoteright</key>
-    <integer>-20</integer>
-    <key>public.kern2.R_quotesingle</key>
-    <integer>-18</integer>
-  </dict>
   <key>public.kern1.L_R</key>
   <dict>
     <key>Dcroat</key>
@@ -4070,8 +2920,6 @@
     <integer>-70</integer>
     <key>schwa</key>
     <integer>-9</integer>
-    <key>public.kern2.R_O.sc</key>
-    <integer>-6</integer>
     <key>public.kern2.R_T</key>
     <integer>-15</integer>
     <key>public.kern2.R_W</key>
@@ -4105,20 +2953,12 @@
     <integer>15</integer>
     <key>quoteright</key>
     <integer>-65</integer>
-    <key>t.sc</key>
-    <integer>-9</integer>
     <key>t.ss07</key>
     <integer>-9</integer>
     <key>v</key>
     <integer>-12</integer>
-    <key>v.sc</key>
-    <integer>-7</integer>
-    <key>w.sc</key>
-    <integer>-7</integer>
     <key>w.ss09</key>
     <integer>-10</integer>
-    <key>y.sc</key>
-    <integer>-8</integer>
     <key>y.ss10</key>
     <integer>-14</integer>
     <key>public.kern2.R_A</key>
@@ -4144,8 +2984,6 @@
   <dict>
     <key>Schwa</key>
     <integer>-11</integer>
-    <key>a.sc</key>
-    <integer>-80</integer>
     <key>at</key>
     <integer>-57</integer>
     <key>dotlessi</key>
@@ -4176,8 +3014,6 @@
     <integer>44</integer>
     <key>itilde</key>
     <integer>64</integer>
-    <key>j.sc</key>
-    <integer>-91</integer>
     <key>jcircumflex</key>
     <integer>29</integer>
     <key>nine</key>
@@ -4188,58 +3024,38 @@
     <integer>-30</integer>
     <key>rcaron</key>
     <integer>-51</integer>
-    <key>s.sc</key>
-    <integer>-82</integer>
     <key>schwa</key>
     <integer>-91</integer>
     <key>slash</key>
     <integer>-73</integer>
     <key>space</key>
     <integer>-25</integer>
-    <key>t.sc</key>
-    <integer>-53</integer>
     <key>t.ss07</key>
     <integer>-18</integer>
     <key>three</key>
     <integer>-48</integer>
     <key>two</key>
     <integer>-40</integer>
-    <key>u.sc</key>
-    <integer>-56</integer>
     <key>v</key>
     <integer>-64</integer>
-    <key>v.sc</key>
-    <integer>-49</integer>
-    <key>w.sc</key>
-    <integer>-48</integer>
     <key>w.ss09</key>
     <integer>-63</integer>
     <key>x</key>
     <integer>-60</integer>
-    <key>x.sc</key>
-    <integer>-46</integer>
-    <key>y.sc</key>
-    <integer>-47</integer>
     <key>y.ss10</key>
     <integer>-67</integer>
     <key>ytilde</key>
     <integer>-52</integer>
-    <key>z.sc</key>
-    <integer>-65</integer>
     <key>zero</key>
     <integer>-42</integer>
     <key>public.kern2.R_A</key>
     <integer>-74</integer>
     <key>public.kern2.R_AE</key>
     <integer>-91</integer>
-    <key>public.kern2.R_I.sc</key>
-    <integer>-56</integer>
     <key>public.kern2.R_J</key>
     <integer>-99</integer>
     <key>public.kern2.R_O</key>
     <integer>-16</integer>
-    <key>public.kern2.R_O.sc</key>
-    <integer>-69</integer>
     <key>public.kern2.R_a</key>
     <integer>-96</integer>
     <key>public.kern2.R_a.alt2</key>
@@ -4283,14 +3099,10 @@
     <integer>-6</integer>
     <key>Lslash</key>
     <integer>-6</integer>
-    <key>a.sc</key>
-    <integer>-27</integer>
     <key>eth</key>
     <integer>-11</integer>
     <key>itilde</key>
     <integer>6</integer>
-    <key>j.sc</key>
-    <integer>-35</integer>
     <key>l.ss05</key>
     <integer>-8</integer>
     <key>quoteright</key>
@@ -4338,8 +3150,6 @@
   <dict>
     <key>Schwa</key>
     <integer>-25</integer>
-    <key>a.sc</key>
-    <integer>-72</integer>
     <key>ampersand</key>
     <integer>-24</integer>
     <key>at</key>
@@ -4366,8 +3176,6 @@
     <integer>49</integer>
     <key>itilde</key>
     <integer>42</integer>
-    <key>j.sc</key>
-    <integer>-77</integer>
     <key>jcircumflex</key>
     <integer>10</integer>
     <key>nine</key>
@@ -4382,8 +3190,6 @@
     <integer>-27</integer>
     <key>registered</key>
     <integer>-23</integer>
-    <key>s.sc</key>
-    <integer>-39</integer>
     <key>schwa</key>
     <integer>-53</integer>
     <key>six</key>
@@ -4398,8 +3204,6 @@
     <integer>-24</integer>
     <key>two</key>
     <integer>-23</integer>
-    <key>u.sc</key>
-    <integer>-14</integer>
     <key>utilde</key>
     <integer>-35</integer>
     <key>v</key>
@@ -4410,8 +3214,6 @@
     <integer>-11</integer>
     <key>y.ss10</key>
     <integer>-5</integer>
-    <key>z.sc</key>
-    <integer>-8</integer>
     <key>zcaron</key>
     <integer>-17</integer>
     <key>zero</key>
@@ -4420,14 +3222,10 @@
     <integer>-56</integer>
     <key>public.kern2.R_AE</key>
     <integer>-85</integer>
-    <key>public.kern2.R_I.sc</key>
-    <integer>-23</integer>
     <key>public.kern2.R_J</key>
     <integer>-85</integer>
     <key>public.kern2.R_O</key>
     <integer>-27</integer>
-    <key>public.kern2.R_O.sc</key>
-    <integer>-49</integer>
     <key>public.kern2.R_S</key>
     <integer>-23</integer>
     <key>public.kern2.R_a</key>
@@ -4465,8 +3263,6 @@
   <dict>
     <key>Schwa</key>
     <integer>-34</integer>
-    <key>a.sc</key>
-    <integer>-90</integer>
     <key>ampersand</key>
     <integer>-28</integer>
     <key>at</key>
@@ -4493,8 +3289,6 @@
     <integer>50</integer>
     <key>itilde</key>
     <integer>39</integer>
-    <key>j.sc</key>
-    <integer>-84</integer>
     <key>nine</key>
     <integer>-48</integer>
     <key>ntilde</key>
@@ -4507,8 +3301,6 @@
     <integer>-41</integer>
     <key>registered</key>
     <integer>-27</integer>
-    <key>s.sc</key>
-    <integer>-58</integer>
     <key>schwa</key>
     <integer>-92</integer>
     <key>six</key>
@@ -4517,28 +3309,18 @@
     <integer>-85</integer>
     <key>space</key>
     <integer>-35</integer>
-    <key>t.sc</key>
-    <integer>-6</integer>
     <key>t.ss07</key>
     <integer>-18</integer>
     <key>three</key>
     <integer>-37</integer>
     <key>two</key>
     <integer>-35</integer>
-    <key>u.sc</key>
-    <integer>-37</integer>
     <key>v</key>
     <integer>-28</integer>
-    <key>v.sc</key>
-    <integer>-5</integer>
-    <key>w.sc</key>
-    <integer>-5</integer>
     <key>w.ss09</key>
     <integer>-31</integer>
     <key>x</key>
     <integer>-30</integer>
-    <key>x.sc</key>
-    <integer>-7</integer>
     <key>y.ss10</key>
     <integer>-28</integer>
     <key>ycircumflex</key>
@@ -4547,8 +3329,6 @@
     <integer>-14</integer>
     <key>ytilde</key>
     <integer>-6</integer>
-    <key>z.sc</key>
-    <integer>-22</integer>
     <key>zcaron</key>
     <integer>-36</integer>
     <key>zero</key>
@@ -4557,14 +3337,10 @@
     <integer>-71</integer>
     <key>public.kern2.R_AE</key>
     <integer>-101</integer>
-    <key>public.kern2.R_I.sc</key>
-    <integer>-46</integer>
     <key>public.kern2.R_J</key>
     <integer>-92</integer>
     <key>public.kern2.R_O</key>
     <integer>-37</integer>
-    <key>public.kern2.R_O.sc</key>
-    <integer>-74</integer>
     <key>public.kern2.R_S</key>
     <integer>-20</integer>
     <key>public.kern2.R_a</key>
@@ -4618,16 +3394,12 @@
     <integer>-9</integer>
     <key>t.ss07</key>
     <integer>-5</integer>
-    <key>u.sc</key>
-    <integer>-5</integer>
     <key>v</key>
     <integer>-5</integer>
     <key>y.ss10</key>
     <integer>-5</integer>
     <key>public.kern2.R_O</key>
     <integer>-13</integer>
-    <key>public.kern2.R_O.sc</key>
-    <integer>-9</integer>
     <key>public.kern2.R_a</key>
     <integer>-14</integer>
     <key>public.kern2.R_f</key>
@@ -5023,8 +3795,6 @@
     <integer>-33</integer>
     <key>W.ss09</key>
     <integer>-11</integer>
-    <key>y.sc</key>
-    <integer>-16</integer>
     <key>public.kern2.R_T</key>
     <integer>-74</integer>
     <key>public.kern2.R_W</key>
@@ -5040,32 +3810,16 @@
     <integer>-59</integer>
     <key>W.ss09</key>
     <integer>-34</integer>
-    <key>a.sc</key>
-    <integer>-22</integer>
-    <key>j.sc</key>
-    <integer>-28</integer>
-    <key>t.sc</key>
-    <integer>-58</integer>
     <key>t.ss07</key>
     <integer>-19</integer>
     <key>v</key>
     <integer>-27</integer>
-    <key>v.sc</key>
-    <integer>-36</integer>
-    <key>w.sc</key>
-    <integer>-37</integer>
     <key>w.ss09</key>
     <integer>-23</integer>
     <key>x</key>
     <integer>-30</integer>
-    <key>x.sc</key>
-    <integer>-25</integer>
-    <key>y.sc</key>
-    <integer>-54</integer>
     <key>y.ss10</key>
     <integer>-30</integer>
-    <key>z.sc</key>
-    <integer>-17</integer>
     <key>public.kern2.R_A</key>
     <integer>-12</integer>
     <key>public.kern2.R_T</key>
@@ -5158,34 +3912,18 @@
     <integer>-34</integer>
     <key>W.ss09</key>
     <integer>-12</integer>
-    <key>a.sc</key>
-    <integer>-15</integer>
-    <key>j.sc</key>
-    <integer>-49</integer>
     <key>seven</key>
     <integer>-41</integer>
     <key>seven.tnum</key>
     <integer>-23</integer>
-    <key>t.sc</key>
-    <integer>-41</integer>
     <key>three</key>
     <integer>-32</integer>
     <key>v</key>
     <integer>-10</integer>
-    <key>v.sc</key>
-    <integer>-15</integer>
-    <key>w.sc</key>
-    <integer>-16</integer>
     <key>x</key>
     <integer>-17</integer>
-    <key>x.sc</key>
-    <integer>-17</integer>
-    <key>y.sc</key>
-    <integer>-29</integer>
     <key>y.ss10</key>
     <integer>-14</integer>
-    <key>z.sc</key>
-    <integer>-8</integer>
     <key>public.kern2.R_J</key>
     <integer>-37</integer>
     <key>public.kern2.R_T</key>
@@ -5508,22 +4246,12 @@
     <integer>-10</integer>
     <key>six.tnum</key>
     <integer>-10</integer>
-    <key>t.sc</key>
-    <integer>-47</integer>
     <key>t.ss07</key>
-    <integer>-8</integer>
-    <key>u.sc</key>
     <integer>-8</integer>
     <key>v</key>
     <integer>-78</integer>
-    <key>v.sc</key>
-    <integer>-48</integer>
-    <key>w.sc</key>
-    <integer>-50</integer>
     <key>w.ss09</key>
     <integer>-33</integer>
-    <key>y.sc</key>
-    <integer>-55</integer>
     <key>y.ss10</key>
     <integer>-43</integer>
     <key>zero.tnum</key>
@@ -5557,14 +4285,10 @@
   </dict>
   <key>public.kern1.L_quoteleft</key>
   <dict>
-    <key>a.sc</key>
-    <integer>-38</integer>
     <key>eth</key>
     <integer>-15</integer>
     <key>itilde</key>
     <integer>7</integer>
-    <key>j.sc</key>
-    <integer>-44</integer>
     <key>public.kern2.R_A</key>
     <integer>-63</integer>
     <key>public.kern2.R_AE</key>
@@ -5580,8 +4304,6 @@
   </dict>
   <key>public.kern1.L_quoteright</key>
   <dict>
-    <key>a.sc</key>
-    <integer>-41</integer>
     <key>at</key>
     <integer>-20</integer>
     <key>eth</key>
@@ -5590,8 +4312,6 @@
     <integer>6</integer>
     <key>itilde</key>
     <integer>24</integer>
-    <key>j.sc</key>
-    <integer>-46</integer>
     <key>schwa</key>
     <integer>-8</integer>
     <key>slash</key>
@@ -5604,8 +4324,6 @@
     <integer>-86</integer>
     <key>public.kern2.R_J</key>
     <integer>-88</integer>
-    <key>public.kern2.R_O.sc</key>
-    <integer>-10</integer>
     <key>public.kern2.R_a</key>
     <integer>-13</integer>
     <key>public.kern2.R_o</key>
@@ -5615,8 +4333,6 @@
   </dict>
   <key>public.kern1.L_quotesingle</key>
   <dict>
-    <key>a.sc</key>
-    <integer>-39</integer>
     <key>at</key>
     <integer>-14</integer>
     <key>eth</key>
@@ -5629,8 +4345,6 @@
     <integer>-39</integer>
     <key>itilde</key>
     <integer>16</integer>
-    <key>j.sc</key>
-    <integer>-45</integer>
     <key>slash</key>
     <integer>-85</integer>
     <key>space</key>

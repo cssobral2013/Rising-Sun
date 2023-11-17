@@ -2,11 +2,6 @@
 <glyph name="dotbelow" format="2">
   <advance width="270"/>
   <outline>
-    <contour>
-      <point x="220" y="-213" type="line"/>
-      <point x="220" y="-63" type="line"/>
-      <point x="50" y="-63" type="line"/>
-      <point x="50" y="-213" type="line"/>
-    </contour>
+    <component base="dotaccentcomb" xOffset="1" yOffset="-797"/>
   </outline>
 </glyph>

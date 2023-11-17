@@ -5,6 +5,6 @@
   <outline>
     <component base="C"/>
     <component base="cedillacomb" xOffset="217"/>
-    <component base="acutecomb" xOffset="280" yOffset="184"/>
+    <component base="acutecomb" xOffset="302" yOffset="184"/>
   </outline>
 </glyph>

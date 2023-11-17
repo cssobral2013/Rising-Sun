@@ -2,9 +2,10 @@
 <glyph name="iegrave-cy" format="2">
   <advance width="576"/>
   <unicode hex="0450"/>
+  <anchor x="280" y="730" name="top"/>
   <outline>
-    <component base="e"/>
-    <component base="grave" xOffset="174"/>
+    <component base="ie-cy"/>
+    <component base="gravecomb" xOffset="117" yOffset="-1"/>
   </outline>
   <lib>
   <dict>

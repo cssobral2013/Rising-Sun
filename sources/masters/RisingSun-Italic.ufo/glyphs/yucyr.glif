@@ -2,6 +2,7 @@
 <glyph name="yucyr" format="2">
   <advance width="828"/>
   <unicode hex="044E"/>
+  <anchor x="423" y="522" name="top"/>
   <outline>
     <component base="ocyr" xOffset="217"/>
     <contour>

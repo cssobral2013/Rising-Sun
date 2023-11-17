@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="4.0">
  <axes>
-  <axis minimum="100" name="weight" default="400" tag="wght" maximum="900">
+  <axis minimum="100" tag="wght" maximum="900" name="weight" default="400">
    <labelname xml:lang="en">Weight</labelname>
    <map output="100" input="100"/>
    <map output="200" input="200"/>
@@ -15,12 +15,12 @@
   </axis>
  </axes>
  <sources>
-  <source stylename="Light" filename="masters/RisingSun-Light.ufo" familyname="Rising Sun VF" name="Light">
+  <source filename="masters/RisingSun-Light.ufo" stylename="Light" familyname="Rising Sun VF" name="Light">
    <location>
     <dimension xvalue="100" name="weight"/>
    </location>
   </source>
-  <source stylename="Regular" filename="masters/RisingSun-Regular.ufo" familyname="Rising Sun VF" name="Regular">
+  <source filename="masters/RisingSun-Regular.ufo" stylename="Regular" familyname="Rising Sun VF" name="Regular">
    <lib copy="1"/>
    <groups copy="1"/>
    <info copy="1"/>
@@ -29,7 +29,7 @@
     <dimension xvalue="400" name="weight"/>
    </location>
   </source>
-    <source stylename="Bold" filename="masters/RisingSun-Bold.ufo" familyname="Rising Sun VF" name="Bold">
+   <source filename="masters/RisingSun-Bold.ufo" stylename="Bold" familyname="Rising Sun VF" name="Bold">
    <location>
     <dimension xvalue="900" name="weight"/>
    </location>
@@ -785,47 +785,47 @@
   </dict>
  </lib>
  <instances>
-  <instance stylename="Thin" filename="instances/RisingSunVF-Thin.ufo" familyname="Rising Sun" name="Thin">
+  <instance filename="instances/RisingSunVF-Thin.ufo" stylename="Thin" familyname="Rising Sun" name="Thin">
    <location>
     <dimension xvalue="100" name="weight"/>
    </location>
   </instance>
-  <instance stylename="ExtraLight" filename="instances/RisingSunVF-ExtraLight.ufo" familyname="Rising Sun" name="ExtraLight">
+  <instance filename="instances/RisingSunVF-ExtraLight.ufo" stylename="ExtraLight" familyname="Rising Sun" name="ExtraLight">
    <location>
     <dimension xvalue="200" name="weight"/>
    </location>
   </instance>
-  <instance stylename="Light" filename="instances/RisingSunVF-Light.ufo" familyname="Rising Sun" name="Light">
+  <instance filename="instances/RisingSunVF-Light.ufo" stylename="Light" familyname="Rising Sun" name="Light">
    <location>
     <dimension xvalue="300" name="weight"/>
    </location>
   </instance>
-  <instance stylename="Regular" filename="instances/RisingSunVF-Regular.ufo" familyname="Rising Sun" name="Regular">
+  <instance filename="instances/RisingSunVF-Regular.ufo" stylename="Regular" familyname="Rising Sun" name="Regular">
    <location>
     <dimension xvalue="400" name="weight"/>
    </location>
   </instance>
-  <instance stylename="Medium" filename="instances/RisingSunVF-Medium.ufo" familyname="Rising Sun" name="Medium">
+  <instance filename="instances/RisingSunVF-Medium.ufo" stylename="Medium" familyname="Rising Sun" name="Medium">
    <location>
     <dimension xvalue="500" name="weight"/>
    </location>
   </instance>
-  <instance stylename="SemiBold" filename="instances/RisingSunVF-SemiBold.ufo" familyname="Rising Sun" name="SemiBold">
+  <instance filename="instances/RisingSunVF-SemiBold.ufo" stylename="SemiBold" familyname="Rising Sun" name="SemiBold">
    <location>
     <dimension xvalue="600" name="weight"/>
    </location>
   </instance>
-  <instance stylename="Bold" filename="instances/RisingSunVF-Bold.ufo" familyname="Rising Sun" name="Bold">
+  <instance filename="instances/RisingSunVF-Bold.ufo" stylename="Bold" familyname="Rising Sun" name="Bold">
    <location>
     <dimension xvalue="700" name="weight"/>
    </location>
   </instance>
-  <instance stylename="ExtraBold" filename="instances/RisingSunVF-ExtraBold.ufo" familyname="Rising Sun" name="ExtraBold">
+  <instance filename="instances/RisingSunVF-ExtraBold.ufo" stylename="ExtraBold" familyname="Rising Sun" name="ExtraBold">
    <location>
     <dimension xvalue="800" name="weight"/>
    </location>
   </instance>
-  <instance stylename="Black" filename="instances/RisingSunVF-Black.ufo" familyname="Rising Sun" name="Black">
+  <instance filename="instances/RisingSunVF-Black.ufo" stylename="Black" familyname="Rising Sun" name="Black">
    <location>
     <dimension xvalue="900" name="weight"/>
    </location>

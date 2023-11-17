@@ -666,8 +666,6 @@
   <string>a.glif</string>
   <key>a-cy</key>
   <string>a-cy.glif</string>
-  <key>a.sc</key>
-  <string>a.sc.glif</string>
   <key>a.ss01</key>
   <string>a.ss01.glif</string>
   <key>a.ss02</key>
@@ -750,8 +748,6 @@
   <string>atilde.glif</string>
   <key>b</key>
   <string>b.glif</string>
-  <key>b.sc</key>
-  <string>b.sc.glif</string>
   <key>backslash</key>
   <string>backslash.glif</string>
   <key>bar</key>
@@ -796,8 +792,6 @@
   <string>bulletoperator.glif</string>
   <key>c</key>
   <string>c.glif</string>
-  <key>c.sc</key>
-  <string>c.sc.glif</string>
   <key>c_t</key>
   <string>c_t.glif</string>
   <key>cacute</key>
@@ -866,8 +860,6 @@
   <string>currency.glif</string>
   <key>d</key>
   <string>d.glif</string>
-  <key>d.sc</key>
-  <string>d.sc.glif</string>
   <key>d.ss03</key>
   <string>d.ss03.glif</string>
   <key>dagger</key>
@@ -924,8 +916,6 @@
   <string>e.glif</string>
   <key>e-cy</key>
   <string>e-cy.glif</string>
-  <key>e.sc</key>
-  <string>e.sc.glif</string>
   <key>eacute</key>
   <string>eacute.glif</string>
   <key>ebreve</key>
@@ -1038,8 +1028,6 @@
   <string>exclamdown.glif</string>
   <key>f</key>
   <string>f.glif</string>
-  <key>f.sc</key>
-  <string>f.sc.glif</string>
   <key>f_f</key>
   <string>f_f.glif</string>
   <key>f_f_i</key>
@@ -1098,8 +1086,6 @@
   <string>franc.glif</string>
   <key>g</key>
   <string>g.glif</string>
-  <key>g.sc</key>
-  <string>g.sc.glif</string>
   <key>gbreve</key>
   <string>gbreve.glif</string>
   <key>gcaron</key>
@@ -1150,8 +1136,6 @@
   <string>guilsinglright.glif</string>
   <key>h</key>
   <string>h.glif</string>
-  <key>h.sc</key>
-  <string>h.sc.glif</string>
   <key>ha-cy</key>
   <string>ha-cy.glif</string>
   <key>hairspace</key>
@@ -1188,8 +1172,6 @@
   <string>i.glif</string>
   <key>i-cy</key>
   <string>i-cy.glif</string>
-  <key>i.sc</key>
-  <string>i.sc.glif</string>
   <key>ia-cy</key>
   <string>ia-cy.glif</string>
   <key>iacute</key>
@@ -1258,8 +1240,6 @@
   <string>izhitsa-cy.glif</string>
   <key>j</key>
   <string>j.glif</string>
-  <key>j.sc</key>
-  <string>j.sc.glif</string>
   <key>j.ss04</key>
   <string>j.ss04.glif</string>
   <key>jcircumflex</key>
@@ -1270,8 +1250,6 @@
   <string>je-cy.glif</string>
   <key>k</key>
   <string>k.glif</string>
-  <key>k.sc</key>
-  <string>k.sc.glif</string>
   <key>ka-cy</key>
   <string>ka-cy.glif</string>
   <key>ka-cy.loclBGR</key>
@@ -1292,8 +1270,6 @@
   <string>kje-cy.glif</string>
   <key>l</key>
   <string>l.glif</string>
-  <key>l.sc</key>
-  <string>l.sc.glif</string>
   <key>l.ss05</key>
   <string>l.ss05.glif</string>
   <key>lacute</key>
@@ -1328,8 +1304,6 @@
   <string>lslash.glif</string>
   <key>m</key>
   <string>m.glif</string>
-  <key>m.sc</key>
-  <string>m.sc.glif</string>
   <key>macron</key>
   <string>macron.glif</string>
   <key>macronbelowcomb</key>
@@ -1350,8 +1324,6 @@
   <string>multiply.glif</string>
   <key>n</key>
   <string>n.glif</string>
-  <key>n.sc</key>
-  <string>n.sc.glif</string>
   <key>nacute</key>
   <string>nacute.glif</string>
   <key>naira</key>
@@ -1396,8 +1368,6 @@
   <string>o.glif</string>
   <key>o-cy</key>
   <string>o-cy.glif</string>
-  <key>o.sc</key>
-  <string>o.sc.glif</string>
   <key>oacute</key>
   <string>oacute.glif</string>
   <key>obarred-cy</key>
@@ -1502,8 +1472,6 @@
   <string>otildemacron.glif</string>
   <key>p</key>
   <string>p.glif</string>
-  <key>p.sc</key>
-  <string>p.sc.glif</string>
   <key>palochka-cy</key>
   <string>palochka-cy.glif</string>
   <key>paragraph</key>
@@ -1548,8 +1516,6 @@
   <string>punctuationspace.glif</string>
   <key>q</key>
   <string>q.glif</string>
-  <key>q.sc</key>
-  <string>q.sc.glif</string>
   <key>q.ss06</key>
   <string>q.ss06.glif</string>
   <key>qa-cy</key>
@@ -1576,8 +1542,6 @@
   <string>quotesingle.glif</string>
   <key>r</key>
   <string>r.glif</string>
-  <key>r.sc</key>
-  <string>r.sc.glif</string>
   <key>racute</key>
   <string>racute.glif</string>
   <key>radical</key>
@@ -1612,8 +1576,6 @@
   <string>rupeeI_ndian.glif</string>
   <key>s</key>
   <string>s.glif</string>
-  <key>s.sc</key>
-  <string>s.sc.glif</string>
   <key>s_t</key>
   <string>s_t.glif</string>
   <key>sacute</key>
@@ -1706,8 +1668,6 @@
   <string>summation.glif</string>
   <key>t</key>
   <string>t.glif</string>
-  <key>t.sc</key>
-  <string>t.sc.glif</string>
   <key>t.ss07</key>
   <string>t.ss07.glif</string>
   <key>tbar</key>
@@ -1786,8 +1746,6 @@
   <string>u.glif</string>
   <key>u-cy</key>
   <string>u-cy.glif</string>
-  <key>u.sc</key>
-  <string>u.sc.glif</string>
   <key>u.ss08</key>
   <string>u.ss08.glif</string>
   <key>uacute</key>
@@ -1850,8 +1808,6 @@
   <string>utildeacute.glif</string>
   <key>v</key>
   <string>v.glif</string>
-  <key>v.sc</key>
-  <string>v.sc.glif</string>
   <key>ve-cy</key>
   <string>ve-cy.glif</string>
   <key>ve-cy.loclBGR</key>
@@ -1862,8 +1818,6 @@
   <string>verticallinemod.glif</string>
   <key>w</key>
   <string>w.glif</string>
-  <key>w.sc</key>
-  <string>w.sc.glif</string>
   <key>w.ss09</key>
   <string>w.ss09.glif</string>
   <key>wacute</key>
@@ -1880,12 +1834,8 @@
   <string>won.glif</string>
   <key>x</key>
   <string>x.glif</string>
-  <key>x.sc</key>
-  <string>x.sc.glif</string>
   <key>y</key>
   <string>y.glif</string>
-  <key>y.sc</key>
-  <string>y.sc.glif</string>
   <key>y.ss10</key>
   <string>y.ss10.glif</string>
   <key>yacute</key>
@@ -1920,8 +1870,6 @@
   <string>yusbig-cy.glif</string>
   <key>z</key>
   <string>z.glif</string>
-  <key>z.sc</key>
-  <string>z.sc.glif</string>
   <key>zacute</key>
   <string>zacute.glif</string>
   <key>zcaron</key>

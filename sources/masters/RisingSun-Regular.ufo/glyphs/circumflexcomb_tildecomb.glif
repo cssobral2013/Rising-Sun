@@ -5,7 +5,7 @@
   <anchor x="210" y="710" name="top"/>
   <outline>
     <component base="circumflexcomb" xOffset="23" yOffset="-26"/>
-    <component base="tildecomb" xOffset="-8" yOffset="96"/>
+    <component base="tildecomb" xOffset="-8" yOffset="130"/>
   </outline>
   <guideline angle="90" x="206" y="0"/>
 </glyph>

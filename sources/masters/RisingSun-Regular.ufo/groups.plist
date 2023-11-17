@@ -155,13 +155,6 @@
     <string>Palochka-cy</string>
     <string>Yi-cy</string>
   </array>
-  <key>public.kern1.L_I.sc</key>
-  <array>
-    <string>h.sc</string>
-    <string>i.sc</string>
-    <string>m.sc</string>
-    <string>n.sc</string>
-  </array>
   <key>public.kern1.L_J</key>
   <array>
     <string>J</string>
@@ -219,11 +212,6 @@
     <string>Qa-cy</string>
     <string>Schwa</string>
     <string>Schwa-cy</string>
-  </array>
-  <key>public.kern1.L_O.sc</key>
-  <array>
-    <string>o.sc</string>
-    <string>q.sc</string>
   </array>
   <key>public.kern1.L_Obarred-cy</key>
   <array>
@@ -917,21 +905,6 @@
     <string>Ve-cy</string>
     <string>Yi-cy</string>
   </array>
-  <key>public.kern2.R_I.sc</key>
-  <array>
-    <string>b.sc</string>
-    <string>d.sc</string>
-    <string>e.sc</string>
-    <string>f.sc</string>
-    <string>h.sc</string>
-    <string>i.sc</string>
-    <string>k.sc</string>
-    <string>l.sc</string>
-    <string>m.sc</string>
-    <string>n.sc</string>
-    <string>p.sc</string>
-    <string>r.sc</string>
-  </array>
   <key>public.kern2.R_Ia-cy</key>
   <array>
     <string>Ia-cy</string>
@@ -981,13 +954,6 @@
     <string>Otilde</string>
     <string>Q</string>
     <string>Qa-cy</string>
-  </array>
-  <key>public.kern2.R_O.sc</key>
-  <array>
-    <string>c.sc</string>
-    <string>g.sc</string>
-    <string>o.sc</string>
-    <string>q.sc</string>
   </array>
   <key>public.kern2.R_Obarred-cy</key>
   <array>

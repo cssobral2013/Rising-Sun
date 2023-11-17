@@ -901,47 +901,21 @@
     <string>nine.tnum</string>
     <string>G.ss11</string>
     <string>W.ss09</string>
-    <string>a.sc</string>
     <string>a.ss01</string>
     <string>a.ss02</string>
-    <string>b.sc</string>
-    <string>c.sc</string>
     <string>c_t</string>
-    <string>d.sc</string>
     <string>d.ss03</string>
-    <string>e.sc</string>
     <string>f_f</string>
     <string>f_f_i</string>
     <string>f_f_l</string>
-    <string>f.sc</string>
-    <string>g.sc</string>
-    <string>h.sc</string>
-    <string>i.sc</string>
-    <string>j.sc</string>
     <string>j.ss04</string>
-    <string>k.sc</string>
-    <string>l.sc</string>
     <string>l.ss05</string>
-    <string>m.sc</string>
-    <string>n.sc</string>
-    <string>o.sc</string>
-    <string>p.sc</string>
-    <string>q.sc</string>
     <string>q.ss06</string>
-    <string>r.sc</string>
-    <string>s.sc</string>
     <string>s_t</string>
-    <string>t.sc</string>
     <string>t.ss07</string>
-    <string>u.sc</string>
     <string>u.ss08</string>
-    <string>v.sc</string>
-    <string>w.sc</string>
     <string>w.ss09</string>
-    <string>x.sc</string>
-    <string>y.sc</string>
     <string>y.ss10</string>
-    <string>z.sc</string>
     <string>periodcentered.loclCAT</string>
     <string>circumflexcomb_acutecomb</string>
     <string>circumflexcomb_gravecomb</string>

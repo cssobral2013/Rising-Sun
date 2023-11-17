@@ -2,20 +2,10 @@
 <glyph name="dblgravecomb" format="2">
   <advance width="298"/>
   <unicode hex="030F"/>
-  <anchor x="213" y="519" name="_top"/>
+  <anchor x="195" y="519" name="_top"/>
   <outline>
-    <contour>
-      <point x="198" y="615" type="line"/>
-      <point x="217" y="615" type="line"/>
-      <point x="162" y="730" type="line"/>
-      <point x="128" y="730" type="line"/>
-    </contour>
-    <contour>
-      <point x="298" y="615" type="line"/>
-      <point x="317" y="615" type="line"/>
-      <point x="262" y="730" type="line"/>
-      <point x="228" y="730" type="line"/>
-    </contour>
+    <component base="gravecomb" yxScale="0.105104" xOffset="87"/>
+    <component base="gravecomb" yxScale="0.105104" xOffset="-74"/>
   </outline>
   <lib>
   <dict>

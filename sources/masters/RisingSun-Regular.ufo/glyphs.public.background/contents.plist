@@ -36,8 +36,6 @@
   <string>Y_at-cy.glif</string>
   <key>Z</key>
   <string>Z_.glif</string>
-  <key>acutecomb</key>
-  <string>acutecomb.glif</string>
   <key>dcaron</key>
   <string>dcaron.glif</string>
   <key>dcroat</key>
@@ -80,8 +78,6 @@
   <string>hbar.glif</string>
   <key>k</key>
   <string>k.glif</string>
-  <key>k.sc</key>
-  <string>k.sc.glif</string>
   <key>lcaron</key>
   <string>lcaron.glif</string>
   <key>ldot</key>
@@ -144,8 +140,6 @@
   <string>threeinferior.glif</string>
   <key>threesuperior</key>
   <string>threesuperior.glif</string>
-  <key>two</key>
-  <string>two.glif</string>
   <key>two.dnom</key>
   <string>two.dnom.glif</string>
   <key>two.numr</key>

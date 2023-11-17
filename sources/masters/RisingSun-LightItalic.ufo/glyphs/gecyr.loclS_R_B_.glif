@@ -2,7 +2,6 @@
 <glyph name="gecyr.loclSRB" format="2">
   <advance width="182"/>
   <anchor x="155" y="665" name="top"/>
-  <anchor x="225" y="519" name="_top"/>
   <outline>
     <contour>
       <point x="40" y="2" type="curve"/>
