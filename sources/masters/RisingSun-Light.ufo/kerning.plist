@@ -2034,15 +2034,6 @@
     <key>three</key>
     <integer>-28</integer>
   </dict>
-  <key>pi</key>
-  <dict>
-    <key>backslash</key>
-    <integer>-10</integer>
-    <key>public.kern2.R_guilsinglleft</key>
-    <integer>-26</integer>
-    <key>public.kern2.R_hyphen</key>
-    <integer>-18</integer>
-  </dict>
   <key>plus</key>
   <dict>
     <key>four</key>
@@ -4312,8 +4303,6 @@
     <integer>-35</integer>
     <key>hardsign-cy</key>
     <integer>-51</integer>
-    <key>pi</key>
-    <integer>-11</integer>
     <key>t.ss07</key>
     <integer>-10</integer>
     <key>te-cy</key>

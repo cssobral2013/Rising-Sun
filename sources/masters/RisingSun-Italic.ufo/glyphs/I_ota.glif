@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iota" format="2">
+  <advance width="286"/>
+  <unicode hex="0399"/>
+  <anchor x="58" y="631" name="topleft"/>
+  <anchor x="85" y="0" name="bottom"/>
+  <anchor x="53" y="0" name="ogonek"/>
+  <anchor x="249" y="720" name="top"/>
+  <outline>
+    <component base="I"/>
+  </outline>
+</glyph>

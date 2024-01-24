@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sigma" format="2">
+  <advance width="668"/>
+  <unicode hex="03C3"/>
+  <anchor x="314" y="522" name="top"/>
+  <outline>
+    <component base="omicron" xOffset="4"/>
+    <contour>
+      <point x="415" y="463" type="line"/>
+      <point x="547" y="457"/>
+      <point x="548" y="455"/>
+      <point x="621" y="446" type="curve"/>
+      <point x="621" y="519" type="line"/>
+      <point x="514" y="526"/>
+      <point x="425" y="531"/>
+      <point x="316" y="531" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

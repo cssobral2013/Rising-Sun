@@ -2778,8 +2778,6 @@
     <integer>-5</integer>
     <key>oslashacute</key>
     <integer>-5</integer>
-    <key>pi</key>
-    <integer>-16</integer>
     <key>schwa</key>
     <integer>-20</integer>
     <key>six</key>
@@ -2841,13 +2839,6 @@
     <integer>-11</integer>
     <key>three.tnum</key>
     <integer>-11</integer>
-  </dict>
-  <key>pi</key>
-  <dict>
-    <key>backslash</key>
-    <integer>-34</integer>
-    <key>pi</key>
-    <integer>-6</integer>
   </dict>
   <key>plus</key>
   <dict>
@@ -3148,8 +3139,6 @@
     <integer>-35</integer>
     <key>one</key>
     <integer>-25</integer>
-    <key>pi</key>
-    <integer>-26</integer>
     <key>schwa</key>
     <integer>-54</integer>
     <key>six</key>
@@ -5365,8 +5354,6 @@
     <integer>-28</integer>
     <key>hardsign-cy</key>
     <integer>-14</integer>
-    <key>pi</key>
-    <integer>-10</integer>
     <key>t.ss07</key>
     <integer>-11</integer>
     <key>te-cy</key>
@@ -5769,8 +5756,6 @@
     <integer>-14</integer>
     <key>hardsign-cy</key>
     <integer>-21</integer>
-    <key>pi</key>
-    <integer>-9</integer>
     <key>seven</key>
     <integer>-16</integer>
     <key>t.ss07</key>
@@ -6154,8 +6139,6 @@
   <dict>
     <key>backslash</key>
     <integer>-30</integer>
-    <key>pi</key>
-    <integer>-6</integer>
   </dict>
   <key>public.kern1.L_w</key>
   <dict>

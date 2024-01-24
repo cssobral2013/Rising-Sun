@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Theta" format="2">
+  <advance width="738"/>
+  <unicode hex="0398"/>
+  <outline>
+    <component base="O" xScale="0.9916" yScale="0.9916"/>
+    <contour>
+      <point x="256" y="278" type="line"/>
+      <point x="461" y="278" type="line"/>
+      <point x="496" y="440" type="line"/>
+      <point x="292" y="440" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>O</string>
+  </dict>
+  </lib>
+</glyph>

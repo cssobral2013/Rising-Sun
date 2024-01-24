@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tau" format="2">
+  <advance width="574"/>
+  <unicode hex="03A4"/>
+  <anchor x="192" y="0" name="bottom"/>
+  <anchor x="192" y="0" name="cedilla"/>
+  <anchor x="275" y="363" name="center"/>
+  <anchor x="356" y="720" name="top"/>
+  <outline>
+    <component base="T"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>T</string>
+  </dict>
+  </lib>
+</glyph>

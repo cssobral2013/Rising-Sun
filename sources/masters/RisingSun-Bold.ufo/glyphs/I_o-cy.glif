@@ -7,10 +7,4 @@
     <component base="Ie-cy"/>
     <component base="dieresis" xOffset="33" yOffset="185"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.805,0.6,1,1</string>
-  </dict>
-  </lib>
 </glyph>

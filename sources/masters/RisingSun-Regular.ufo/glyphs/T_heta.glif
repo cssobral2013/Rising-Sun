@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Theta" format="2">
+  <advance width="748"/>
+  <unicode hex="0398"/>
+  <anchor x="395" y="0" name="bottom"/>
+  <anchor x="395" y="353" name="center"/>
+  <anchor x="551" y="680" name="horn"/>
+  <anchor x="396" y="0" name="ogonek"/>
+  <anchor x="395" y="708" name="top"/>
+  <anchor x="25" y="708" name="topleft"/>
+  <anchor x="765" y="708" name="topright"/>
+  <outline>
+    <component base="O" xScale="0.983271" yScale="0.983271"/>
+    <contour>
+      <point x="192" y="314" type="line"/>
+      <point x="548" y="314" type="line"/>
+      <point x="548" y="395" type="line"/>
+      <point x="192" y="395" type="line"/>
+    </contour>
+  </outline>
+</glyph>

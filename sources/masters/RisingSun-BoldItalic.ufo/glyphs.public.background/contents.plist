@@ -6,8 +6,6 @@
   <string>K_.glif</string>
   <key>W</key>
   <string>W_.glif</string>
-  <key>exclam</key>
-  <string>exclam.glif</string>
   <key>f</key>
   <string>f.glif</string>
   <key>f_f</key>
@@ -40,6 +38,8 @@
   <string>three.glif</string>
   <key>three.tnum</key>
   <string>three.tnum.glif</string>
+  <key>tonos.cap</key>
+  <string>tonos.cap.glif</string>
   <key>two.tnum</key>
   <string>two.tnum.glif</string>
   <key>w</key>

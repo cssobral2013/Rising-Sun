@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Epsilon" format="2">
+  <advance width="580"/>
+  <unicode hex="0395"/>
+  <anchor x="243" y="0" name="bottom"/>
+  <anchor x="239" y="0" name="cedilla"/>
+  <anchor x="334" y="0" name="ogonek"/>
+  <anchor x="401" y="720" name="top"/>
+  <anchor x="127" y="720" name="topleft"/>
+  <outline>
+    <component base="E"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>E</string>
+  </dict>
+  </lib>
+</glyph>

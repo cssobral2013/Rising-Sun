@@ -27,8 +27,6 @@
   <dict>
   <key>com.fontlab.metricsWidth</key>
   <string>ka-cy</string>
-  <key>public.markColor</key>
-  <string>0.805,0.6,1,1</string>
   </dict>
   </lib>
 </glyph>

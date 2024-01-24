@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Chi" format="2">
+  <advance width="637"/>
+  <unicode hex="03A7"/>
+  <anchor x="340" y="0" name="bottom"/>
+  <anchor x="340" y="720" name="top"/>
+  <outline>
+    <component base="X"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>X</string>
+  </dict>
+  </lib>
+</glyph>

@@ -65,7 +65,7 @@
   <key>openTypeHheaLineGap</key>
   <integer>-0</integer>
   <key>openTypeNameDesigner</key>
-  <string>Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida (font), Cristiano Sobral (main changes)</string>
+  <string>Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida (Raleway font), Stephen Hutchings (Greek), Cristiano Sobral (main changes)</string>
   <key>openTypeNameDesignerURL</key>
   <string>http://pixelspread.com</string>
   <key>openTypeNameLicense</key>
@@ -73,7 +73,7 @@
   <key>openTypeNameLicenseURL</key>
   <string>http://scripts.sil.org/OFL</string>
   <key>openTypeNameManufacturer</key>
-  <string>Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida (font), Cristiano Sobral (main changes)</string>
+  <string>Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida (Raleway font), Stephen Hutchings (Greek), Cristiano Sobral (main changes)</string>
   <key>openTypeNameManufacturerURL</key>
   <string>http://theleagueofmoveabletype.com</string>
   <key>openTypeNamePreferredFamilyName</key>
@@ -199,7 +199,7 @@
   <key>versionMajor</key>
   <integer>4</integer>
   <key>versionMinor</key>
-  <integer>321</integer>
+  <integer>322</integer>
   <key>xHeight</key>
   <integer>522</integer>
 </dict>

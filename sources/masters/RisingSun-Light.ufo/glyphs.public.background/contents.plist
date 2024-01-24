@@ -4,11 +4,21 @@
 <dict>
   <key>R</key>
   <string>R_.glif</string>
+  <key>alpha</key>
+  <string>alpha.glif</string>
+  <key>chi</key>
+  <string>chi.glif</string>
+  <key>delta</key>
+  <string>delta.glif</string>
+  <key>epsilon</key>
+  <string>epsilon.glif</string>
   <key>lcaron</key>
   <string>lcaron.glif</string>
   <key>onesuperior</key>
   <string>onesuperior.glif</string>
   <key>threeinferior</key>
   <string>threeinferior.glif</string>
+  <key>xi</key>
+  <string>xi.glif</string>
 </dict>
 </plist>

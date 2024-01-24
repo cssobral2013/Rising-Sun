@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gamma" format="2">
+  <advance width="495"/>
+  <unicode hex="0393"/>
+  <anchor x="286" y="708" name="bottom"/>
+  <anchor x="131" y="350" name="center"/>
+  <anchor x="389" y="350" name="dot"/>
+  <anchor x="134" y="0" name="top"/>
+  <anchor x="347" y="0" name="topright"/>
+  <outline>
+    <component base="L" xScale="0.983271" yScale="-0.983271" yOffset="708"/>
+  </outline>
+</glyph>

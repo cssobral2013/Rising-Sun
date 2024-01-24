@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Theta" format="2">
+  <advance width="721"/>
+  <unicode hex="0398"/>
+  <anchor x="335" y="0" name="bottom"/>
+  <anchor x="416" y="356" name="center"/>
+  <anchor x="646" y="686" name="horn"/>
+  <anchor x="336" y="0" name="ogonek"/>
+  <anchor x="498" y="714" name="top"/>
+  <anchor x="128" y="714" name="topleft"/>
+  <anchor x="867" y="714" name="topright"/>
+  <outline>
+    <component base="O" xScale="0.9916" yScale="0.9916"/>
+    <contour>
+      <point x="188" y="313" type="line"/>
+      <point x="535" y="313" type="line"/>
+      <point x="554" y="403" type="line"/>
+      <point x="208" y="403" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>O</string>
+  </dict>
+  </lib>
+</glyph>

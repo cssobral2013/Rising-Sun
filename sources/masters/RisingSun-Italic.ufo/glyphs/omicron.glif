@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omicron" format="2">
+  <advance width="619"/>
+  <unicode hex="03BF"/>
+  <anchor x="368" y="522" name="top"/>
+  <outline>
+    <contour>
+      <point x="252.417" y="-8.04517" type="curve" smooth="yes"/>
+      <point x="404.27" y="-8.04517"/>
+      <point x="542.043" y="104.587"/>
+      <point x="574.224" y="252.417" type="curve"/>
+      <point x="611.433" y="411.309"/>
+      <point x="522.936" y="530.981"/>
+      <point x="365.049" y="530.981" type="curve" smooth="yes"/>
+      <point x="215.208" y="530.981"/>
+      <point x="79.446" y="421.366"/>
+      <point x="44.2484" y="269.513" type="curve"/>
+      <point x="10.0565" y="113.638"/>
+      <point x="97.5476" y="-8.04517"/>
+    </contour>
+    <contour>
+      <point x="261.468" y="77.4347" type="curve"/>
+      <point x="164.926" y="78.4404"/>
+      <point x="105.593" y="149.841"/>
+      <point x="128.723" y="252.417" type="curve" smooth="yes"/>
+      <point x="154.869" y="364.044"/>
+      <point x="253.423" y="445.501"/>
+      <point x="355.999" y="445.501" type="curve" smooth="yes"/>
+      <point x="456.563" y="445.501"/>
+      <point x="512.879" y="374.1"/>
+      <point x="489.749" y="269.513" type="curve"/>
+      <point x="463.603" y="158.892"/>
+      <point x="369.072" y="78.4404"/>
+    </contour>
+  </outline>
+</glyph>

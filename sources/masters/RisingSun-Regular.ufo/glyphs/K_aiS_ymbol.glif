@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="KaiSymbol" format="2">
+  <advance width="652"/>
+  <unicode hex="03CF"/>
+  <anchor x="330" y="0" name="bottom"/>
+  <anchor x="323" y="720" name="top"/>
+  <outline>
+    <component base="K"/>
+    <contour>
+      <point x="521" y="-206" type="line"/>
+      <point x="531" y="-112"/>
+      <point x="589" y="-34"/>
+      <point x="654" y="-4" type="curve"/>
+      <point x="654" y="0" type="line"/>
+      <point x="544" y="0" type="line"/>
+      <point x="544" y="-12" type="line"/>
+      <point x="547" y="0" type="line"/>
+      <point x="502" y="-31"/>
+      <point x="459" y="-111"/>
+      <point x="449" y="-206" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>K</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omegatonos" format="2">
+  <advance width="790"/>
+  <unicode hex="03CE"/>
+  <anchor x="333" y="0" name="bottom"/>
+  <outline>
+    <component base="omega"/>
+    <component base="tonos" xScale="1.00565" yScale="1.00565" xOffset="323"/>
+  </outline>
+</glyph>

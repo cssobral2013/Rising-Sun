@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iotadieresis" format="2">
+  <advance width="307"/>
+  <unicode hex="03CA"/>
+  <anchor x="159" y="-22" name="bottom"/>
+  <anchor x="171" y="-2" name="ogonek"/>
+  <anchor x="153" y="695" name="top"/>
+  <outline>
+    <component base="iota" xOffset="28"/>
+    <component base="dieresiscomb" xScale="1.01491" yScale="1.00664" xOffset="-34" yOffset="6"/>
+  </outline>
+</glyph>

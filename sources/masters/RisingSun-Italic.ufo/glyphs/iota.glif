@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iota" format="2">
+  <advance width="300"/>
+  <unicode hex="03B9"/>
+  <anchor x="68" y="-22" name="bottom"/>
+  <anchor x="90" y="-2" name="ogonek"/>
+  <anchor x="188" y="531" name="top"/>
+  <outline>
+    <contour>
+      <point x="125.706" y="-8.04517" type="curve" smooth="yes"/>
+      <point x="144.813" y="-8.04517"/>
+      <point x="173.977" y="-7.03952"/>
+      <point x="199.118" y="4.02258" type="curve"/>
+      <point x="196.101" y="93.5251" type="line"/>
+      <point x="183.028" y="88.4968"/>
+      <point x="167.943" y="81.4573"/>
+      <point x="153.864" y="80.4517" type="curve"/>
+      <point x="130.734" y="81.4573"/>
+      <point x="127.717" y="93.5251"/>
+      <point x="141.796" y="158.892" type="curve"/>
+      <point x="157.886" y="226.27"/>
+      <point x="205.152" y="403.264"/>
+      <point x="235.321" y="517.908" type="curve"/>
+      <point x="140.79" y="526.958" type="line"/>
+      <point x="104.587" y="381.14"/>
+      <point x="74.4178" y="254.428"/>
+      <point x="48.271" y="133.751" type="curve"/>
+      <point x="25.1411" y="35.1976"/>
+      <point x="59.3331" y="-8.04517"/>
+    </contour>
+  </outline>
+</glyph>

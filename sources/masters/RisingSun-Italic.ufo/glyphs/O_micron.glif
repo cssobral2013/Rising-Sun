@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omicron" format="2">
+  <advance width="721"/>
+  <unicode hex="039F"/>
+  <anchor x="129" y="720" name="topleft"/>
+  <anchor x="338" y="0" name="bottom"/>
+  <anchor x="420" y="359" name="center"/>
+  <anchor x="652" y="692" name="horn"/>
+  <anchor x="339" y="0" name="ogonek"/>
+  <anchor x="502" y="720" name="top"/>
+  <anchor x="874" y="720" name="topright"/>
+  <outline>
+    <component base="O"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>O</string>
+  </dict>
+  </lib>
+</glyph>

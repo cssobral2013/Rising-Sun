@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gamma" format="2">
+  <advance width="500"/>
+  <unicode hex="0393"/>
+  <outline>
+    <component base="L" xScale="0.9916" yxScale="-0.475095" yScale="-0.9916" xOffset="133" yOffset="714"/>
+  </outline>
+</glyph>

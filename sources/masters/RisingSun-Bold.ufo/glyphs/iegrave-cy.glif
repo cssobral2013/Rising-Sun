@@ -2,15 +2,9 @@
 <glyph name="iegrave-cy" format="2">
   <advance width="609"/>
   <unicode hex="0450"/>
-  <anchor x="310.5" y="730" name="top"/>
+  <anchor x="311" y="730" name="top"/>
   <outline>
     <component base="ie-cy"/>
     <component base="gravecomb" xOffset="75"/>
   </outline>
-  <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.805,0.6,1,1</string>
-  </dict>
-  </lib>
 </glyph>
