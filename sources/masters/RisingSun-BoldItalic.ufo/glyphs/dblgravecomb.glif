@@ -2,7 +2,7 @@
 <glyph name="dblgravecomb" format="2">
   <advance width="399"/>
   <unicode hex="030F"/>
-  <anchor x="237" y="525" name="_top"/>
+  <anchor x="267" y="525" name="_top"/>
   <outline>
     <component base="gravecomb" yxScale="0.105104" xOffset="88"/>
     <component base="gravecomb" yxScale="0.105104" xOffset="-120"/>
