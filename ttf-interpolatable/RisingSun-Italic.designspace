@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="4.0">
+ <axes>
+  <axis name="weight" tag="wght" default="400" maximum="900" minimum="100">
+   <labelname xml:lang="en">Weight</labelname>
+   <map output="100" input="100"/>
+   <map output="200" input="200"/>
+   <map output="300" input="300"/>
+   <map output="400" input="400"/>
+   <map output="500" input="500"/>
+   <map output="600" input="600"/>
+   <map output="700" input="700"/>
+   <map output="800" input="800"/>
+   <map output="900" input="900"/>
+  </axis>
+ </axes>
+ <sources>
+    <source name="ThinItalic" familyname="Rising Sun VF" stylename="Thin Italic" filename="RisingSunVF-ThinItalic.ttf">
+   <location>
+    <dimension name="weight" xvalue="100"/>
+   </location>
+  </source>
+  <source name="Italic" familyname="Rising Sun VF" stylename="Italic" filename="RisingSunVF-Italic.ttf">
+   <lib copy="1"/>
+   <groups copy="1"/>
+   <info copy="1"/>
+   <features copy="1"/>
+   <location>
+    <dimension name="weight" xvalue="400"/>
+   </location>
+  </source>
+  <source name="BlackItalic" familyname="Rising Sun VF" stylename="Black Italic" filename="RisingSunVF-BlackItalic.ttf">
+   <location>
+    <dimension name="weight" xvalue="900"/>
+   </location>
+  </source>
+ </sources>
+ <instances>
+  <instance name="ThinItalic" familyname="Rising Sun" stylename="Thin Italic" filename="instances/RisingSun-ThinItalic.ttf">
+   <location>
+    <dimension name="weight" xvalue="100"/>
+   </location>
+  </instance>
+  <instance name="ExtraLightItalic" familyname="Rising Sun" stylename="ExtraLight Italic" filename="instances/RisingSun-ExtraLightItalic.ttf">
+   <location>
+    <dimension name="weight" xvalue="200"/>
+   </location>
+  </instance>
+  <instance name="LightItalic" familyname="Rising Sun" stylename="Light Italic" filename="instances/RisingSun-LightItalic.ttf">
+   <location>
+    <dimension name="weight" xvalue="300"/>
+   </location>
+  </instance>
+  <instance name="Italic" familyname="Rising Sun" stylename="Italic" filename="instances/RisingSun-Italic.ttf">
+   <location>
+    <dimension name="weight" xvalue="400"/>
+   </location>
+  </instance>
+  <instance name="MediumItalic" familyname="Rising Sun" stylename="Medium Italic" filename="instances/RisingSun-MediumItalic.ttf">
+   <location>
+    <dimension name="weight" xvalue="500"/>
+   </location>
+  </instance>
+  <instance name="SemiBoldItalic" familyname="Rising Sun" stylename="SemiBold Italic" filename="instances/RisingSun-SemiBoldItalic.ttf">
+   <location>
+    <dimension name="weight" xvalue="580"/>
+   </location>
+  </instance>
+  <instance name="BoldItalic" familyname="Rising Sun" stylename="Bold Italic" filename="instances/RisingSun-BoldItalic.ttf">
+   <location>
+    <dimension name="weight" xvalue="660"/>
+   </location>
+  </instance>
+  <instance name="ExtraBoldItalic" familyname="Rising Sun" stylename="ExtraBold Italic" filename="instances/RisingSun-ExtraBoldItalic.ttf">
+   <location>
+    <dimension name="weight" xvalue="780"/>
+   </location>
+  </instance>
+  <instance name="BlackItalic" familyname="Rising Sun" stylename="Black Italic" filename="instances/RisingSun-BlackItalic.ttf">
+   <location>
+    <dimension name="weight" xvalue="900"/>
+   </location>
+  </instance>
+ </instances>
+</designspace>
