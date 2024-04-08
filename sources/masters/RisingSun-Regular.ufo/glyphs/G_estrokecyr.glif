@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gestrokecyr" format="2">
+  <advance width="537"/>
+  <unicode hex="0492"/>
+  <outline>
+    <contour>
+      <point x="373" y="303" type="line"/>
+      <point x="373" y="364" type="line"/>
+      <point x="1" y="364" type="line"/>
+      <point x="1" y="303" type="line"/>
+    </contour>
+    <contour>
+      <point x="189" y="0" type="line"/>
+      <point x="189" y="630" type="line"/>
+      <point x="512" y="630" type="line"/>
+      <point x="512" y="710" type="line"/>
+      <point x="99" y="710" type="line"/>
+      <point x="99" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

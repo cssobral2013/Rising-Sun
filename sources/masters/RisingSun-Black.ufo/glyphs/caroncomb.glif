@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caroncomb" format="2">
+  <advance width="436"/>
+  <unicode hex="030C"/>
+  <outline>
+    <contour>
+      <point x="16" y="772" type="line"/>
+      <point x="101" y="600" type="line"/>
+      <point x="315" y="600" type="line"/>
+      <point x="398" y="772" type="line"/>
+      <point x="286" y="772" type="line"/>
+      <point x="208" y="696" type="line"/>
+      <point x="128" y="772" type="line"/>
+    </contour>
+  </outline>
+</glyph>

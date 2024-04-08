@@ -1,16 +1,16 @@
 #> classes
 #/> otclasses
-@aalt = [slash A G O W d l o q t u w y periodcentered Scedilla scedilla uni0162 uni0163 uni0414 uni041B uni0424 uni0431 uni0432 uni0433 uni0434 uni0436 uni0437 uni0438 uni0439 uni043A uni043B uni043F uni0442 uni0446 uni0448 uni0449 uni044A uni044C uni045D uni0492 uni0493 uni0498 uni0499];
-@aalt2 = [fraction ordfeminine G.ss11 ordmasculine W.ss09 d.ss03 l.ss05 ordmasculine q.ss06 t.ss07 u.ss08 w.ss09 y.ss10 periodcentered.loclCAT uni0218 uni0219 uni021A uni021B uni0414.loclBGR uni041B.loclBGR uni0424.loclBGR uni0431.loclSRB uni0432.loclBGR uni0433.loclBGR uni0434.loclBGR uni0436.loclBGR uni0437.loclBGR uni0438.loclBGR uni0439.loclBGR uni043A.loclBGR uni043B.loclBGR uni043F.loclBGR uni0442.loclBGR uni0446.loclBGR uni0448.loclBGR uni0449.loclBGR uni044A.loclBGR uni044C.loclBGR uni045D.loclBGR uni0492.loclBSH uni0493.loclBSH uni0498.loclBSH uni0499.loclBSH];
-@ccmp = [gravecomb acutecomb uni0302 tildecomb uni0304 uni0306 uni0307 uni0308 uni030A uni030B uni030C uni0312 hookabovecomb uni030F uni0311];
+@aalt = [slash A G O W d l o q t u w y periodcentered Scedilla scedilla Tcedilla tcedilla Decyr Elcyr Efcyr becyr vecyr gecyr decyr zhecyr zecyr icyr ishortcyr kacyr elcyr pecyr tecyr tsecyr shacyr shchacyr hardcyr softcyr igravecyr Gestrokecyr gestrokecyr Zetailcyr zetailcyr];
+@aalt2 = [fraction ordfeminine G.ss11 ordmasculine W.ss09 d.ss03 l.ss05 ordmasculine q.ss06 t.ss07 u.ss08 w.ss09 y.ss10 periodcentered.loclCAT Scommaaccent scommaaccent Tcommaaccent tcommaaccent Decyr.loclBGR Elcyr.loclBGR Efcyr.loclBGR becyr.loclSRB vecyr.loclBGR gecyr.loclBGR decyr.loclBGR zhecyr.loclBGR zecyr.loclBGR icyr.loclBGR ishortcyr.loclBGR kacyr.loclBGR elcyr.loclBGR pecyr.loclBGR tecyr.loclBGR tsecyr.loclBGR shacyr.loclBGR shchacyr.loclBGR hardcyr.loclBGR softcyr.loclBGR igravecyr.loclBGR Gestrokecyr.loclBSH gestrokecyr.loclBSH Zetailcyr.loclBSH zetailcyr.loclBSH];
+@ccmp = [gravecomb acutecomb circumflexcomb tildecomb macroncomb brevecomb dotaccentcomb dieresiscomb ringcomb hungarumlautcomb caroncomb commaturnedabovecomb hookabovecomb dblgravecomb breveinvertedcomb];
 @dnom = [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
 @dnom_numr_ordn_pnum_sinf_subs_sups_tnum = [zero one two three four five six seven eight nine];
-@locl = [uni0414 uni041B uni0424 uni0432 uni0433 uni0434 uni0436 uni0437 uni0438 uni0439 uni043A uni043B uni043F uni0442 uni0446 uni0448 uni0449 uni044A uni044C uni045D];
-@locl2 = [uni0414.loclBGR uni041B.loclBGR uni0424.loclBGR uni0432.loclBGR uni0433.loclBGR uni0434.loclBGR uni0436.loclBGR uni0437.loclBGR uni0438.loclBGR uni0439.loclBGR uni043A.loclBGR uni043B.loclBGR uni043F.loclBGR uni0442.loclBGR uni0446.loclBGR uni0448.loclBGR uni0449.loclBGR uni044A.loclBGR uni044C.loclBGR uni045D.loclBGR];
+@locl = [Decyr Elcyr Efcyr vecyr gecyr decyr zhecyr zecyr icyr ishortcyr kacyr elcyr pecyr tecyr tsecyr shacyr shchacyr hardcyr softcyr igravecyr];
+@locl2 = [Decyr.loclBGR Elcyr.loclBGR Efcyr.loclBGR vecyr.loclBGR gecyr.loclBGR decyr.loclBGR zhecyr.loclBGR zecyr.loclBGR icyr.loclBGR ishortcyr.loclBGR kacyr.loclBGR elcyr.loclBGR pecyr.loclBGR tecyr.loclBGR tsecyr.loclBGR shacyr.loclBGR shchacyr.loclBGR hardcyr.loclBGR softcyr.loclBGR igravecyr.loclBGR];
 @numr = [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
 @pnum_tnum = [zero.tnum one.tnum two.tnum three.tnum four.tnum five.tnum six.tnum seven.tnum eight.tnum nine.tnum];
-@sinf_subs = [uni2080 uni2081 uni2082 uni2083 uni2084 uni2085 uni2086 uni2087 uni2088 uni2089];
-@sups = [uni2070 onesuperior twosuperior threesuperior uni2074 uni2075 uni2076 uni2077 uni2078 uni2079];
+@sinf_subs = [zero.inferior one.inferior two.inferior three.inferior four.inferior five.inferior six.inferior seven.inferior eight.inferior nine.inferior];
+@sups = [zero.superior onesuperior twosuperior threesuperior four.superior five.superior six.superior seven.superior eight.superior nine.superior];
 #/< otclasses
 #< classes
 
@@ -57,7 +57,6 @@ languagesystem cyrl SRB ; # Cyrillic Serbian
 #
 # Feature definitions
 #
-
 feature aalt useExtension {
 # GSUB feature: Access All Alternates
 # Lookups: 2
@@ -65,11 +64,10 @@ feature aalt useExtension {
   sub @aalt by @aalt2;
   sub a from [ordfeminine a.ss01 a.ss02];
   sub i from [dotlessi idotaccent];
-  sub j from [uni0237 j.ss04];
-  sub uni04AA from [uni04AA.loclCHU uni04AA.loclBSH];
-  sub uni04AB from [uni04AB.loclCHU uni04AB.loclBSH];
+  sub j from [dotlessj j.ss04];
+  sub Estailcyr from [Estailcyr.loclCHU Estailcyr.loclBSH];
+  sub estailcyr from [estailcyr.loclCHU estailcyr.loclBSH];
 } aalt;
-
 feature ccmp {
 # GSUB feature: Glyph Composition / Decomposition
 # Lookups: 2
@@ -77,20 +75,20 @@ feature ccmp {
 
   lookup ccmp_1 {
   # GSUB lookup 3, type 16 (Chaining Context)
-    sub [i j]' @ccmp by [dotlessi uni0237];
-    sub [i j]' [uni031B dotbelowcomb uni0324 uni0327 uni0328 uni032E uni0331 uni0335] @ccmp by [dotlessi uni0237];
+    sub [i j]' @ccmp by [dotlessi dotlessj];
+    sub [i j]' [horncomb dotbelowcomb dieresisbelowcomb cedillacomb ogonekcomb brevebelowcomb macronbelowcomb strokeshortcomb] @ccmp by [dotlessi dotlessj];
   } ccmp_1;
 
 
   script latn; # Latin
-  sub uni0302 gravecomb by uni0302_gravecomb;
-  sub uni0302 acutecomb by uni0302_acutecomb;
-  sub uni0302 tildecomb by uni0302_tildecomb;
-  sub uni0302 hookabovecomb by uni0302_hookabovecomb;
-  sub uni0306 gravecomb by uni0306_gravecomb;
-  sub uni0306 acutecomb by uni0306_acutecomb;
-  sub uni0306 tildecomb by uni0306_tildecomb;
-  sub uni0306 hookabovecomb by uni0306_hookabovecomb;
+  sub circumflexcomb gravecomb by circumflexcomb_gravecomb;
+  sub circumflexcomb acutecomb by circumflexcomb_acutecomb;
+  sub circumflexcomb tildecomb by circumflexcomb_tildecomb;
+  sub circumflexcomb hookabovecomb by circumflexcomb_hookabovecomb;
+  sub brevecomb gravecomb by brevecomb_gravecomb;
+  sub brevecomb acutecomb by brevecomb_acutecomb;
+  sub brevecomb tildecomb by brevecomb_tildecomb;
+  sub brevecomb hookabovecomb by brevecomb_hookabovecomb;
     language AZE  exclude_dflt; # Azerbaijani
     lookup ccmp_1;
 
@@ -123,7 +121,6 @@ feature ccmp {
     language CHU ; # Chuvash
 
 } ccmp;
-
 feature locl {
 # GSUB feature: Localized Forms
 # Lookups: 12
@@ -136,10 +133,10 @@ feature locl {
     sub i by idotaccent;
 
     language MOL ; # Moldavian
-    sub [Scedilla scedilla uni0162 uni0163] by [uni0218 uni0219 uni021A uni021B];
+    sub [Scedilla scedilla Tcedilla tcedilla] by [Scommaaccent scommaaccent Tcommaaccent tcommaaccent];
 
     language ROM ; # Romanian
-    sub [Scedilla scedilla uni0162 uni0163] by [uni0218 uni0219 uni021A uni021B];
+    sub [Scedilla scedilla Tcedilla tcedilla] by [Scommaaccent scommaaccent Tcommaaccent tcommaaccent];
 
     language CAT ; # Catalan
     sub l periodcentered' l by periodcentered.loclCAT;
@@ -157,21 +154,20 @@ feature locl {
 
   script cyrl; # Cyrillic
     language SRB ; # Serbian
-    sub uni0431 by uni0431.loclSRB;
+    sub becyr by becyr.loclSRB;
 
     language BSH ; # Bashkir
-    sub [uni0492 uni0493 uni0498 uni0499] by [uni0492.loclBSH uni0493.loclBSH uni0498.loclBSH uni0499.loclBSH];
-    sub [uni04AA uni04AB] by [uni04AA.loclBSH uni04AB.loclBSH];
+    sub [Gestrokecyr gestrokecyr Zetailcyr zetailcyr] by [Gestrokecyr.loclBSH gestrokecyr.loclBSH Zetailcyr.loclBSH zetailcyr.loclBSH];
+    sub [Estailcyr estailcyr] by [Estailcyr.loclBSH estailcyr.loclBSH];
 
     language BGR ; # Bulgarian
     sub @locl by @locl2;
 
     language CHU ; # Chuvash
-    sub [uni04AA uni04AB] by [uni04AA.loclCHU uni04AB.loclCHU];
+    sub [Estailcyr estailcyr] by [Estailcyr.loclCHU estailcyr.loclCHU];
 
 
 } locl;
-
 feature subs {
 # GSUB feature: Subscript
 # Lookups: 1
@@ -179,7 +175,6 @@ feature subs {
   sub @dnom_numr_ordn_pnum_sinf_subs_sups_tnum by @sinf_subs;
 
 } subs;
-
 feature sups {
 # GSUB feature: Superscript
 # Lookups: 1
@@ -187,7 +182,6 @@ feature sups {
   sub @dnom_numr_ordn_pnum_sinf_subs_sups_tnum by @sups;
 
 } sups;
-
 feature frac {
 # GSUB feature: Fractions
 # Lookups: 1
@@ -195,17 +189,15 @@ feature frac {
   sub slash by fraction;
 
 } frac;
-
 feature ordn {
 # GSUB feature: Ordinals
 # Lookups: 2
 
   sub @dnom_numr_ordn_pnum_sinf_subs_sups_tnum [A a]' by [ordfeminine ordfeminine];
   sub @dnom_numr_ordn_pnum_sinf_subs_sups_tnum [O o]' by [ordmasculine ordmasculine];
-  sub N o period by uni2116;
+  sub N o period by numero;
 
 } ordn;
-
 feature dlig {
 # GSUB feature: Discretionary Ligatures
 # Lookups: 1
@@ -214,7 +206,6 @@ feature dlig {
   sub s t by s_t;
 
 } dlig;
-
 feature liga {
 # GSUB feature: Standard Ligatures
 # Lookups: 1
@@ -226,7 +217,6 @@ feature liga {
   sub f l by fl;
 
 } liga;
-
 feature salt {
 # GSUB feature: Stylistic Alternates
 # Lookups: 1
@@ -234,7 +224,6 @@ feature salt {
   sub a by a.ss01;
 
 } salt;
-
 feature ss01 {
 # GSUB feature: Stylistic Set 1
 # Lookups: 1
@@ -242,7 +231,6 @@ feature ss01 {
   sub a by a.ss01;
 
 } ss01;
-
 feature ss02 {
 # GSUB feature: Stylistic Set 2
 # Lookups: 1
@@ -250,7 +238,6 @@ feature ss02 {
   sub a by a.ss02;
 
 } ss02;
-
 feature ss03 {
 # GSUB feature: Stylistic Set 3
 # Lookups: 1
@@ -258,7 +245,6 @@ feature ss03 {
   sub d by d.ss03;
 
 } ss03;
-
 feature ss04 {
 # GSUB feature: Stylistic Set 4
 # Lookups: 1
@@ -266,7 +252,6 @@ feature ss04 {
   sub j by j.ss04;
 
 } ss04;
-
 feature ss05 {
 # GSUB feature: Stylistic Set 5
 # Lookups: 1
@@ -274,7 +259,6 @@ feature ss05 {
   sub l by l.ss05;
 
 } ss05;
-
 feature ss06 {
 # GSUB feature: Stylistic Set 6
 # Lookups: 1
@@ -282,7 +266,6 @@ feature ss06 {
   sub q by q.ss06;
 
 } ss06;
-
 feature ss07 {
 # GSUB feature: Stylistic Set 7
 # Lookups: 1
@@ -290,7 +273,6 @@ feature ss07 {
   sub t by t.ss07;
 
 } ss07;
-
 feature ss08 {
 # GSUB feature: Stylistic Set 8
 # Lookups: 1
@@ -298,7 +280,6 @@ feature ss08 {
   sub u by u.ss08;
 
 } ss08;
-
 feature ss09 {
 # GSUB feature: Stylistic Set 9
 # Lookups: 1
@@ -306,7 +287,6 @@ feature ss09 {
   sub [W w] by [W.ss09 w.ss09];
 
 } ss09;
-
 feature ss10 {
 # GSUB feature: Stylistic Set 10
 # Lookups: 1
@@ -314,7 +294,6 @@ feature ss10 {
   sub y by y.ss10;
 
 } ss10;
-
 feature ss11 {
 # GSUB feature: Stylistic Set 11
 # Lookups: 1
@@ -322,7 +301,6 @@ feature ss11 {
   sub G by G.ss11;
 
 } ss11;
-
 feature dnom {
 # GSUB feature: Denominators
 # Lookups: 1
@@ -330,7 +308,6 @@ feature dnom {
   sub @dnom_numr_ordn_pnum_sinf_subs_sups_tnum by @dnom;
 
 } dnom;
-
 feature sinf {
 # GSUB feature: Scientific Inferiors
 # Lookups: 1
@@ -338,7 +315,6 @@ feature sinf {
   sub @dnom_numr_ordn_pnum_sinf_subs_sups_tnum by @sinf_subs;
 
 } sinf;
-
 feature numr {
 # GSUB feature: Numerators
 # Lookups: 1
@@ -346,7 +322,6 @@ feature numr {
   sub @dnom_numr_ordn_pnum_sinf_subs_sups_tnum by @numr;
 
 } numr;
-
 feature pnum {
 # GSUB feature: Proportional Figures
 # Lookups: 1
@@ -354,7 +329,6 @@ feature pnum {
   sub @pnum_tnum by @dnom_numr_ordn_pnum_sinf_subs_sups_tnum;
 
 } pnum;
-
 feature tnum {
 # GSUB feature: Tabular Figures
 # Lookups: 1
@@ -362,4 +336,3 @@ feature tnum {
   sub @dnom_numr_ordn_pnum_sinf_subs_sups_tnum by @pnum_tnum;
 
 } tnum;
-

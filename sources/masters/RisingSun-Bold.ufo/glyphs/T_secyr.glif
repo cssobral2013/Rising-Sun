@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tsecyr" format="2">
+  <advance width="756"/>
+  <unicode hex="0426"/>
+  <outline>
+    <contour>
+      <point x="724" y="-136" type="line"/>
+      <point x="724" y="121" type="line"/>
+      <point x="630" y="121" type="line"/>
+      <point x="630" y="710" type="line"/>
+      <point x="493" y="710" type="line"/>
+      <point x="493" y="121" type="line"/>
+      <point x="211" y="121" type="line"/>
+      <point x="211" y="710" type="line"/>
+      <point x="75" y="710" type="line"/>
+      <point x="75" y="0" type="line"/>
+      <point x="603" y="0" type="line"/>
+      <point x="603" y="-136" type="line"/>
+    </contour>
+  </outline>
+</glyph>

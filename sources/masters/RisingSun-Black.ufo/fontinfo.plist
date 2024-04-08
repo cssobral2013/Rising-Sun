@@ -27,8 +27,6 @@
   </array>
   <key>italicAngle</key>
   <integer>0</integer>
-  <key>macintoshFONDName</key>
-  <string>Rising Sun VF</string>
   <key>openTypeGaspRangeRecords</key>
   <array>
   <dict>
@@ -47,18 +45,10 @@
   <string>2023/05/03 00:13:03</string>
   <key>openTypeHeadFlags</key>
   <array>
-    <integer>0</integer>
-    <integer>3</integer>
   </array>
-  <key>openTypeHeadLowestRecPPEM</key>
-  <integer>8</integer>
   <key>openTypeHheaAscender</key>
   <integer>923</integer>
   <key>openTypeHheaCaretOffset</key>
-  <integer>-0</integer>
-  <key>openTypeHheaCaretSlopeRise</key>
-  <integer>1</integer>
-  <key>openTypeHheaCaretSlopeRun</key>
   <integer>-0</integer>
   <key>openTypeHheaDescender</key>
   <integer>-213</integer>
@@ -80,8 +70,6 @@
   <string>Rising Sun VF</string>
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Black</string>
-  <key>openTypeNameUniqueID</key>
-  <string>Version 4.325;UKWN;RisingSunVF-Regular;2023;FL830</string>
   <key>openTypeNameVersion</key>
   <string>Version 4.325</string>
   <key>openTypeOS2CodePageRanges</key>
@@ -94,11 +82,6 @@
     <integer>7</integer>
     <integer>8</integer>
     <integer>29</integer>
-  </array>
-  <key>openTypeOS2FamilyClass</key>
-  <array>
-    <integer>0</integer>
-    <integer>0</integer>
   </array>
   <key>openTypeOS2Panose</key>
   <array>

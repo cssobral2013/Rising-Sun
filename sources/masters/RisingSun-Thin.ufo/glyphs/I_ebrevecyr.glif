@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iebrevecyr" format="2">
+  <advance width="617"/>
+  <unicode hex="04D6"/>
+  <outline>
+    <component base="Iecyr"/>
+    <component base="brevecomb-cy" xOffset="174" yOffset="191"/>
+  </outline>
+</glyph>

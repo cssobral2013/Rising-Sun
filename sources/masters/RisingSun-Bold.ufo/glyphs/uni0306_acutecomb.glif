@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0306_acutecomb" format="2">
-  <advance width="354"/>
-  <outline>
-    <component base="uni0306" yOffset="-16"/>
-    <component base="acutecomb" xOffset="88" yOffset="119"/>
-  </outline>
-</glyph>

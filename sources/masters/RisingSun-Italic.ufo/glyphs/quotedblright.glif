@@ -3,17 +3,6 @@
   <advance width="338"/>
   <unicode hex="201D"/>
   <outline>
-    <contour>
-      <point x="259" y="721" type="line"/>
-      <point x="176" y="721" type="line"/>
-      <point x="102" y="514" type="line"/>
-      <point x="145" y="514" type="line"/>
-    </contour>
-    <contour>
-      <point x="397" y="721" type="line"/>
-      <point x="314" y="721" type="line"/>
-      <point x="240" y="514" type="line"/>
-      <point x="283" y="514" type="line"/>
-    </contour>
+    <component base="quotedbl"/>
   </outline>
 </glyph>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="engecyr" format="2">
+  <advance width="769"/>
+  <unicode hex="04A5"/>
+  <outline>
+    <contour>
+      <point x="757" y="361" type="line"/>
+      <point x="757" y="526" type="line"/>
+      <point x="379" y="526" type="line"/>
+      <point x="569" y="361" type="line"/>
+    </contour>
+    <contour>
+      <point x="240" y="0" type="line"/>
+      <point x="240" y="192" type="line"/>
+      <point x="380" y="192" type="line"/>
+      <point x="380" y="0" type="line"/>
+      <point x="570" y="0" type="line"/>
+      <point x="570" y="526" type="line"/>
+      <point x="380" y="526" type="line"/>
+      <point x="380" y="347" type="line"/>
+      <point x="240" y="347" type="line"/>
+      <point x="240" y="526" type="line"/>
+      <point x="50" y="526" type="line"/>
+      <point x="50" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

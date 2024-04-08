@@ -38,4 +38,10 @@
       <point x="248" y="627"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  </dict>
+  </lib>
 </glyph>

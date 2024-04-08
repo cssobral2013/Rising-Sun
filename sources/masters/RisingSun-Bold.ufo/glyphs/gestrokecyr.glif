@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gestrokecyr" format="2">
+  <advance width="456"/>
+  <unicode hex="0493"/>
+  <outline>
+    <contour>
+      <point x="367" y="174" type="line"/>
+      <point x="367" y="256" type="line"/>
+      <point x="5" y="256" type="line"/>
+      <point x="5" y="174" type="line"/>
+    </contour>
+    <contour>
+      <point x="228" y="0" type="line"/>
+      <point x="228" y="407" type="line"/>
+      <point x="441" y="407" type="line"/>
+      <point x="441" y="524" type="line"/>
+      <point x="94" y="524" type="line"/>
+      <point x="94" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>
