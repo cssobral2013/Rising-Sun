@@ -2,12 +2,14 @@
 <glyph name="Gamma" format="2">
   <advance width="489"/>
   <unicode hex="0393"/>
-  <anchor x="364" y="714" name="bottom"/>
-  <anchor x="126" y="352" name="center"/>
-  <anchor x="378" y="352" name="dot"/>
-  <anchor x="40" y="0" name="top"/>
-  <anchor x="239" y="0" name="topright"/>
   <outline>
-    <component base="L" xScale="0.9916" yxScale="-0.475095" yScale="-0.9916" xOffset="140" yOffset="714"/>
+    <contour>
+      <point x="160" y="714" type="line"/>
+      <point x="619" y="714" type="line"/>
+      <point x="598" y="635" type="line"/>
+      <point x="228" y="635" type="line"/>
+      <point x="61" y="10" type="line"/>
+      <point x="-28" y="10" type="line"/>
+    </contour>
   </outline>
 </glyph>

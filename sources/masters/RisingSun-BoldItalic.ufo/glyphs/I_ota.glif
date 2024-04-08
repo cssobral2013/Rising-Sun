@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iota" format="2">
-  <advance width="343"/>
+  <advance width="316"/>
   <unicode hex="0399"/>
-  <anchor x="42" y="643" name="topleft"/>
   <outline>
     <component base="I"/>
   </outline>

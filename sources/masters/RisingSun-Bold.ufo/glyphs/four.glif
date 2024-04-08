@@ -1,31 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="four" format="2">
-  <advance width="597"/>
-  <unicode hex="0034"/>
+  <advance width="586"/>
   <outline>
     <contour>
-      <point x="472" y="1" type="line"/>
-      <point x="472" y="137" type="line"/>
-      <point x="560" y="137" type="line"/>
-      <point x="560" y="307" type="line"/>
-      <point x="472" y="307" type="line"/>
-      <point x="472" y="711" type="line"/>
-      <point x="342" y="711" type="line"/>
-      <point x="25" y="307" type="line"/>
-      <point x="25" y="137" type="line"/>
-      <point x="282" y="137" type="line"/>
-      <point x="282" y="1" type="line"/>
+      <point x="459" y="1" type="line"/>
+      <point x="459" y="161" type="line"/>
+      <point x="547" y="161" type="line"/>
+      <point x="547" y="282" type="line"/>
+      <point x="459" y="282" type="line"/>
+      <point x="459" y="711" type="line"/>
+      <point x="367" y="711" type="line"/>
+      <point x="26" y="281" type="line"/>
+      <point x="26" y="161" type="line"/>
+      <point x="325" y="161" type="line"/>
+      <point x="325" y="1" type="line"/>
     </contour>
     <contour>
-      <point x="304" y="427" type="line"/>
-      <point x="304" y="307" type="line"/>
-      <point x="212" y="307" type="line"/>
+      <point x="341" y="508" type="line"/>
+      <point x="341" y="282" type="line"/>
+      <point x="161" y="282" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>org.robofab.fontlab.mark</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

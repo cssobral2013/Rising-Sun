@@ -4,12 +4,6 @@
   <unicode hex="015C"/>
   <outline>
     <component base="S"/>
-    <component base="circumflexcomb" xOffset="143" yOffset="199"/>
+    <component base="uni0302" xOffset="143" yOffset="199"/>
   </outline>
-  <lib>
-  <dict>
-  <key>org.robofab.fontlab.mark</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

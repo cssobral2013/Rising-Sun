@@ -2,17 +2,8 @@
 <glyph name="Gbreve" format="2">
   <advance width="730"/>
   <unicode hex="011E"/>
-  <anchor x="365" y="918" name="top"/>
   <outline>
     <component base="G"/>
-    <component base="brevecomb" xOffset="217" yOffset="188"/>
+    <component base="uni0306" xOffset="217" yOffset="188"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>G+brevecomb</string>
-  <key>org.robofab.fontlab.mark</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

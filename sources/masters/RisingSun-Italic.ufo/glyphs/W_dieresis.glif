@@ -2,15 +2,8 @@
 <glyph name="Wdieresis" format="2">
   <advance width="1024"/>
   <unicode hex="1E84"/>
-  <anchor x="706.436" y="914" name="top"/>
   <outline>
     <component base="W"/>
-    <component base="dieresiscomb" xOffset="442" yOffset="188"/>
+    <component base="uni0308" xOffset="442" yOffset="188"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>W+dieresiscomb</string>
-  </dict>
-  </lib>
 </glyph>

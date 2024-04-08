@@ -2,7 +2,6 @@
 <glyph name="hungarumlaut" format="2">
   <advance width="338"/>
   <unicode hex="02DD"/>
-  <anchor x="185" y="521" name="_top"/>
   <outline>
     <contour>
       <point x="419" y="730" type="line"/>
@@ -17,10 +16,4 @@
       <point x="145" y="590" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>org.robofab.fontlab.mark</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

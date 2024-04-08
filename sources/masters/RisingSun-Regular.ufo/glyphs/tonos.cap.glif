@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tonos.cap" format="2">
   <advance width="170"/>
-  <anchor x="29" y="635" name="_topleft"/>
   <outline>
     <contour>
       <point x="97" y="881" type="line"/>
@@ -10,66 +9,4 @@
       <point x="168" y="830" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.typemytype.robofont.layerData</key>
-  <dict>
-    <key>mask</key>
-    <dict>
-      <key>contours</key>
-      <array>
-        <dict>
-          <key>points</key>
-          <array>
-            <dict>
-              <key>segmentType</key>
-              <string>line</string>
-              <key>smooth</key>
-              <integer>0</integer>
-              <key>x</key>
-              <integer>-24</integer>
-              <key>y</key>
-              <integer>488</integer>
-            </dict>
-            <dict>
-              <key>segmentType</key>
-              <string>line</string>
-              <key>smooth</key>
-              <integer>0</integer>
-              <key>x</key>
-              <integer>0</integer>
-              <key>y</key>
-              <integer>488</integer>
-            </dict>
-            <dict>
-              <key>segmentType</key>
-              <string>line</string>
-              <key>smooth</key>
-              <integer>0</integer>
-              <key>x</key>
-              <integer>44</integer>
-              <key>y</key>
-              <integer>670</integer>
-            </dict>
-            <dict>
-              <key>segmentType</key>
-              <string>line</string>
-              <key>smooth</key>
-              <integer>0</integer>
-              <key>x</key>
-              <integer>6</integer>
-              <key>y</key>
-              <integer>670</integer>
-            </dict>
-          </array>
-        </dict>
-      </array>
-      <key>name</key>
-      <string>tonos.cap</string>
-      <key>width</key>
-      <integer>20</integer>
-    </dict>
-  </dict>
-  </dict>
-  </lib>
 </glyph>

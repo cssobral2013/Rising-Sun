@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="periodcentered" format="2">
-  <advance width="254"/>
+  <advance width="225"/>
   <unicode hex="00B7"/>
   <outline>
-    <component base="period" yOffset="247"/>
+    <component base="period" yOffset="255"/>
   </outline>
-  <lib>
-  <dict>
-  <key>org.robofab.fontlab.mark</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

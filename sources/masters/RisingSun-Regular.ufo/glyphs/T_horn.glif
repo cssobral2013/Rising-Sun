@@ -4,7 +4,7 @@
   <unicode hex="00DE"/>
   <outline>
     <contour>
-      <point x="363" y="573" type="curve"/>
+      <point x="363" y="573" type="qcurve" smooth="yes"/>
       <point x="175" y="573" type="line"/>
       <point x="175" y="710" type="line"/>
       <point x="85" y="710" type="line"/>
@@ -12,28 +12,30 @@
       <point x="175" y="0" type="line"/>
       <point x="175" y="118" type="line"/>
       <point x="369" y="118" type="line" smooth="yes"/>
-      <point x="494" y="118"/>
-      <point x="578" y="228"/>
-      <point x="578" y="346" type="curve" smooth="yes"/>
-      <point x="578" y="458"/>
-      <point x="488" y="573"/>
+      <point x="416" y="118"/>
+      <point x="493" y="156"/>
+      <point x="548" y="219"/>
+      <point x="578" y="302"/>
+      <point x="578" y="346" type="qcurve" smooth="yes"/>
+      <point x="578" y="388"/>
+      <point x="546" y="469"/>
+      <point x="489" y="534"/>
+      <point x="410" y="573"/>
     </contour>
     <contour>
-      <point x="365" y="198" type="curve"/>
+      <point x="365" y="198" type="qcurve" smooth="yes"/>
       <point x="175" y="198" type="line"/>
       <point x="175" y="493" type="line"/>
       <point x="359" y="493" type="line" smooth="yes"/>
-      <point x="429" y="493"/>
-      <point x="488" y="426"/>
-      <point x="488" y="346" type="curve" smooth="yes"/>
-      <point x="488" y="269"/>
-      <point x="440" y="198"/>
+      <point x="385" y="493"/>
+      <point x="432" y="470"/>
+      <point x="467" y="429"/>
+      <point x="488" y="376"/>
+      <point x="488" y="346" type="qcurve" smooth="yes"/>
+      <point x="488" y="317"/>
+      <point x="471" y="264"/>
+      <point x="439" y="223"/>
+      <point x="393" y="198"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>org.robofab.fontlab.mark</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

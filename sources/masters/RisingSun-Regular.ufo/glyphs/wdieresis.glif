@@ -2,17 +2,8 @@
 <glyph name="wdieresis" format="2">
   <advance width="842"/>
   <unicode hex="1E85"/>
-  <anchor x="421" y="720" name="top"/>
   <outline>
     <component base="w"/>
-    <component base="dieresiscomb" xOffset="237"/>
+    <component base="uni0308" xOffset="237"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>w+dieresiscomb</string>
-  <key>org.robofab.fontlab.mark</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

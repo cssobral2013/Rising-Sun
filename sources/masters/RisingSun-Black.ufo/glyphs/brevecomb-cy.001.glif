@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevecomb-cy.001" format="2">
+  <advance width="458"/>
+  <outline>
+    <contour>
+      <point x="229" y="568" type="qcurve" smooth="yes"/>
+      <point x="269" y="568"/>
+      <point x="335" y="592"/>
+      <point x="382" y="635"/>
+      <point x="408" y="694"/>
+      <point x="408" y="730" type="qcurve"/>
+      <point x="310" y="730" type="line"/>
+      <point x="308" y="712"/>
+      <point x="297" y="683"/>
+      <point x="277" y="661"/>
+      <point x="248" y="649"/>
+      <point x="229" y="649" type="qcurve" smooth="yes"/>
+      <point x="188" y="649"/>
+      <point x="148" y="697"/>
+      <point x="148" y="730" type="qcurve"/>
+      <point x="50" y="730" type="line"/>
+      <point x="50" y="694"/>
+      <point x="76" y="635"/>
+      <point x="123" y="592"/>
+      <point x="189" y="568"/>
+    </contour>
+  </outline>
+</glyph>

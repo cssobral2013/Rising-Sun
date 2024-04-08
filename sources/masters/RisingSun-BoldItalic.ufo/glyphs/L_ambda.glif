@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lambda" format="2">
-  <advance width="704"/>
+  <advance width="688"/>
   <unicode hex="039B"/>
   <outline>
     <contour>
-      <point x="-56" y="0" type="line"/>
-      <point x="127" y="0" type="line"/>
-      <point x="317" y="355" type="line"/>
-      <point x="420" y="553" type="line"/>
-      <point x="424" y="553" type="line"/>
-      <point x="438" y="353" type="line"/>
-      <point x="464" y="0" type="line"/>
-      <point x="641" y="0" type="line"/>
-      <point x="571" y="714" type="line"/>
-      <point x="339" y="714" type="line"/>
+      <point x="-48" y="0" type="line"/>
+      <point x="96" y="0" type="line"/>
+      <point x="304" y="373" type="line"/>
+      <point x="419" y="586" type="line"/>
+      <point x="423" y="586" type="line"/>
+      <point x="443" y="372" type="line"/>
+      <point x="478" y="0" type="line"/>
+      <point x="618" y="0" type="line"/>
+      <point x="538" y="714" type="line"/>
+      <point x="357" y="714" type="line"/>
     </contour>
   </outline>
 </glyph>

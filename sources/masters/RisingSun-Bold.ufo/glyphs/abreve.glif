@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="abreve" format="2">
-  <advance width="599"/>
+  <advance width="574"/>
   <unicode hex="0103"/>
   <outline>
     <component base="a"/>
-    <component base="brevecomb" xOffset="96"/>
+    <component base="uni0306" xOffset="108"/>
   </outline>
-  <lib>
-  <dict>
-  <key>org.robofab.fontlab.mark</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ecircumflex" format="2">
-  <advance width="609"/>
+  <advance width="599"/>
   <unicode hex="00EA"/>
   <outline>
     <component base="e"/>
-    <component base="circumflexcomb" xOffset="106"/>
+    <component base="uni0302" xOffset="118"/>
   </outline>
-  <lib>
-  <dict>
-  <key>org.robofab.fontlab.mark</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

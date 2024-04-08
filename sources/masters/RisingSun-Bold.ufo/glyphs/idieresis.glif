@@ -1,44 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="idieresis" format="2">
-  <advance width="286"/>
+  <advance width="255"/>
   <unicode hex="00EF"/>
-  <anchor x="143" y="526" name="_top"/>
-  <anchor x="143" y="721" name="top"/>
   <outline>
-    <component base="idotless"/>
     <contour>
-      <point x="2" y="651" type="curve" smooth="yes"/>
-      <point x="2" y="599"/>
-      <point x="30" y="557"/>
-      <point x="65" y="557" type="curve" smooth="yes"/>
-      <point x="100" y="557"/>
-      <point x="128" y="599"/>
-      <point x="128" y="651" type="curve" smooth="yes"/>
-      <point x="128" y="703"/>
-      <point x="100" y="745"/>
-      <point x="65" y="745" type="curve" smooth="yes"/>
-      <point x="30" y="745"/>
-      <point x="2" y="703"/>
+      <point x="195" y="0" type="line"/>
+      <point x="195" y="524" type="line"/>
+      <point x="61" y="524" type="line"/>
+      <point x="61" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="157" y="651" type="curve" smooth="yes"/>
-      <point x="157" y="599"/>
-      <point x="185" y="557"/>
-      <point x="220" y="557" type="curve" smooth="yes"/>
-      <point x="255" y="557"/>
-      <point x="283" y="599"/>
-      <point x="283" y="651" type="curve" smooth="yes"/>
-      <point x="283" y="703"/>
-      <point x="255" y="745"/>
-      <point x="220" y="745" type="curve" smooth="yes"/>
-      <point x="185" y="745"/>
-      <point x="157" y="703"/>
+      <point x="3" y="664" type="qcurve" smooth="yes"/>
+      <point x="3" y="634"/>
+      <point x="34" y="590"/>
+      <point x="57" y="590" type="qcurve" smooth="yes"/>
+      <point x="79" y="590"/>
+      <point x="110" y="634"/>
+      <point x="110" y="664" type="qcurve" smooth="yes"/>
+      <point x="110" y="694"/>
+      <point x="79" y="737"/>
+      <point x="57" y="737" type="qcurve" smooth="yes"/>
+      <point x="34" y="737"/>
+      <point x="3" y="694"/>
+    </contour>
+    <contour>
+      <point x="144" y="664" type="qcurve" smooth="yes"/>
+      <point x="144" y="634"/>
+      <point x="176" y="590"/>
+      <point x="197" y="590" type="qcurve" smooth="yes"/>
+      <point x="220" y="590"/>
+      <point x="251" y="634"/>
+      <point x="251" y="664" type="qcurve" smooth="yes"/>
+      <point x="251" y="694"/>
+      <point x="220" y="737"/>
+      <point x="197" y="737" type="qcurve" smooth="yes"/>
+      <point x="176" y="737"/>
+      <point x="144" y="694"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>org.robofab.fontlab.mark</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

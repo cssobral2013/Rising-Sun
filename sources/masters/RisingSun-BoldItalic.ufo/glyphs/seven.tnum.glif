@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seven.tnum" format="2">
-  <advance width="670"/>
+  <advance width="586"/>
+  <unicode hex="0037"/>
   <outline>
     <contour>
-      <point x="-39" y="1" type="line"/>
-      <point x="176" y="1" type="line"/>
-      <point x="656" y="711" type="line"/>
-      <point x="108" y="711" type="line"/>
-      <point x="71" y="538" type="line"/>
-      <point x="320" y="538" type="line"/>
+      <point x="17" y="1" type="line"/>
+      <point x="171" y="1" type="line"/>
+      <point x="638" y="711" type="line"/>
+      <point x="106" y="711" type="line"/>
+      <point x="80" y="582" type="line"/>
+      <point x="396" y="582" type="line"/>
     </contour>
   </outline>
 </glyph>

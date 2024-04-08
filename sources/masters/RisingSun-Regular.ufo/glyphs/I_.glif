@@ -2,10 +2,6 @@
 <glyph name="I" format="2">
   <advance width="260"/>
   <unicode hex="0049"/>
-  <anchor x="130" y="0" name="bottom"/>
-  <anchor x="175" y="0" name="ogonek"/>
-  <anchor x="130" y="708" name="top"/>
-  <anchor x="20" y="710" name="topleft"/>
   <outline>
     <contour>
       <point x="175" y="0" type="line"/>
@@ -14,10 +10,4 @@
       <point x="85" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>org.robofab.fontlab.mark</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seven.subs" format="2">
-  <advance width="418"/>
+  <advance width="389"/>
   <outline>
-    <component base="seveninferior"/>
+    <component base="uni2087"/>
   </outline>
 </glyph>

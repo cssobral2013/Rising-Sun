@@ -2,10 +2,6 @@
 <glyph name="H" format="2">
   <advance width="741"/>
   <unicode hex="0048"/>
-  <anchor x="371" y="0" name="bottom"/>
-  <anchor x="371" y="355" name="center"/>
-  <anchor x="373" y="708" name="top"/>
-  <anchor x="20" y="710" name="topleft"/>
   <outline>
     <contour>
       <point x="566" y="710" type="line"/>
@@ -22,10 +18,4 @@
       <point x="656" y="710" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>org.robofab.fontlab.mark</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

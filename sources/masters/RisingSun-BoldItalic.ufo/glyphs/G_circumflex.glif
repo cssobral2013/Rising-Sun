@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gcircumflex" format="2">
-  <advance width="683"/>
+  <advance width="685"/>
   <unicode hex="011C"/>
-  <anchor x="535.591" y="914" name="top"/>
   <outline>
-    <component base="G"/>
-    <component base="circumflexcomb" xOffset="168" yOffset="184"/>
+    <component base="G" xOffset="1"/>
+    <component base="uni0302" xOffset="190" yOffset="185"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>G+circumflexcomb</string>
-  </dict>
-  </lib>
 </glyph>

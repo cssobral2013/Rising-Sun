@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aringacute" format="2">
-  <advance width="599"/>
+  <advance width="574"/>
   <unicode hex="01FB"/>
   <outline>
     <component base="a"/>
-    <component base="ringcomb" xOffset="143"/>
-    <component base="acutecomb" xOffset="204" yOffset="184"/>
+    <component base="uni030A" xOffset="142"/>
+    <component base="acutecomb" xOffset="199" yOffset="185"/>
   </outline>
-  <lib>
-  <dict>
-  <key>org.robofab.fontlab.mark</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

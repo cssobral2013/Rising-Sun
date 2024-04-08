@@ -2,17 +2,8 @@
 <glyph name="Gcircumflex" format="2">
   <advance width="730"/>
   <unicode hex="011C"/>
-  <anchor x="365" y="918" name="top"/>
   <outline>
     <component base="G"/>
-    <component base="circumflexcomb" xOffset="194" yOffset="188"/>
+    <component base="uni0302" xOffset="194" yOffset="188"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>G+circumflexcomb</string>
-  <key>org.robofab.fontlab.mark</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

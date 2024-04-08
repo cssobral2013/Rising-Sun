@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Oacute" format="2">
-  <advance width="765"/>
+  <advance width="756"/>
   <unicode hex="00D3"/>
   <outline>
     <component base="O"/>
-    <component base="acutecomb" xOffset="302" yOffset="184"/>
+    <component base="acutecomb" xOffset="309" yOffset="185"/>
   </outline>
-  <lib>
-  <dict>
-  <key>org.robofab.fontlab.mark</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

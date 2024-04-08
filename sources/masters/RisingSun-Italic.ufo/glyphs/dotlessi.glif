@@ -2,9 +2,6 @@
 <glyph name="dotlessi" format="2">
   <advance width="226"/>
   <unicode hex="0131"/>
-  <anchor x="48" y="0" name="bottom"/>
-  <anchor x="148" y="10" name="ogonek"/>
-  <anchor x="158" y="522" name="top"/>
   <outline>
     <contour>
       <point x="5" y="0" type="line"/>

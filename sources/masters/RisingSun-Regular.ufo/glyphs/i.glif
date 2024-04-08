@@ -2,16 +2,8 @@
 <glyph name="i" format="2">
   <advance width="230"/>
   <unicode hex="0069"/>
-  <anchor x="115" y="0" name="bottom"/>
-  <anchor x="159" y="0" name="ogonek"/>
   <outline>
-    <component base="idotless"/>
-    <component base="dotaccentcomb" xOffset="25"/>
+    <component base="dotlessi"/>
+    <component base="uni0307" xOffset="25"/>
   </outline>
-  <lib>
-  <dict>
-  <key>org.robofab.fontlab.mark</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ccaron" format="2">
-  <advance width="691"/>
+  <advance width="686"/>
   <unicode hex="010C"/>
   <outline>
     <component base="C"/>
-    <component base="caroncomb" xOffset="179" yOffset="184"/>
+    <component base="uni030C" xOffset="193" yOffset="185"/>
   </outline>
-  <lib>
-  <dict>
-  <key>org.robofab.fontlab.mark</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

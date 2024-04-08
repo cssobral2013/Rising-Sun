@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="utilde" format="2">
-  <advance width="638"/>
+  <advance width="617"/>
   <unicode hex="0169"/>
   <outline>
     <component base="u"/>
-    <component base="tildecomb" xOffset="76"/>
+    <component base="tildecomb" xOffset="82"/>
   </outline>
-  <lib>
-  <dict>
-  <key>org.robofab.fontlab.mark</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

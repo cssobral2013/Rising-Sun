@@ -1,9 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Etatonos" format="2">
-  <advance width="879"/>
+  <advance width="815"/>
   <unicode hex="0389"/>
   <outline>
-    <component base="Eta" xOffset="117"/>
-    <component base="tonos.cap" xScale="0.9916" yScale="0.9916" xOffset="-20"/>
+    <contour>
+      <point x="612" y="710" type="line"/>
+      <point x="612" y="423" type="line"/>
+      <point x="290" y="423" type="line"/>
+      <point x="290" y="710" type="line"/>
+      <point x="153" y="710" type="line"/>
+      <point x="153" y="0" type="line"/>
+      <point x="290" y="0" type="line"/>
+      <point x="290" y="303" type="line"/>
+      <point x="612" y="303" type="line"/>
+      <point x="612" y="0" type="line"/>
+      <point x="750" y="0" type="line"/>
+      <point x="750" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="71" y="896" type="line"/>
+      <point x="-20" y="668" type="line"/>
+      <point x="51" y="637" type="line"/>
+      <point x="173" y="824" type="line"/>
+    </contour>
   </outline>
 </glyph>

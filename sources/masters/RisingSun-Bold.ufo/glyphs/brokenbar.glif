@@ -1,25 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="brokenbar" format="2">
-  <advance width="316"/>
+  <advance width="275"/>
   <unicode hex="00A6"/>
   <outline>
     <contour>
-      <point x="78" y="254" type="line"/>
-      <point x="78" y="-130" type="line"/>
-      <point x="238" y="-130" type="line"/>
-      <point x="238" y="254" type="line"/>
+      <point x="80" y="264" type="line"/>
+      <point x="80" y="-130" type="line"/>
+      <point x="195" y="-130" type="line"/>
+      <point x="195" y="264" type="line"/>
     </contour>
     <contour>
-      <point x="78" y="775" type="line"/>
-      <point x="78" y="391" type="line"/>
-      <point x="238" y="391" type="line"/>
-      <point x="238" y="775" type="line"/>
+      <point x="80" y="775" type="line"/>
+      <point x="80" y="381" type="line"/>
+      <point x="195" y="381" type="line"/>
+      <point x="195" y="775" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>org.robofab.fontlab.mark</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

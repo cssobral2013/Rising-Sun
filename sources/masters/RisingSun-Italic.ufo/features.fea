@@ -1,733 +1,385 @@
-#/> classes
+#> classes
 #/> otclasses
-@Uppercase = [A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehoi Abrevetilde Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhoi Acircumflextilde Adblgrave Adieresis Adotbelow Agrave Ahoi Ainvertedbreve Amacron Aogonek Aring Aringacute Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccedillaacute Ccircumflex Cdotaccent D Eth Dcaron Dcroat Ddotbelow Dlinebelow E Eacute Ebreve Ecaron Ecedillabreve Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhoi Ecircumflextilde Edblgrave Edieresis Edotaccent Edotbelow Egrave Ehoi Einvertedbreve Emacron Emacronacute Emacrongrave Eogonek Etilde F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hbrevebelow Hcircumflex Hdotbelow I Iacute Ibreve Icircumflex Idblgrave Idieresis Idieresisacute Idotaccent Idotbelow Igrave Ihoi Iinvertedbreve Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Ldotbelow Llinebelow Lslash M Mdotbelow N Nacute Ncaron Ncommaaccent Ndot Ndotbelow Eng Nlinebelow Ntilde O Oacute Obreve Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhoi Ocircumflextilde Odblgrave Odieresis Odieresismacron Odotaccentmacron Odotbelow Ograve Ohoi Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhoi Ohorntilde Ohungarumlaut Oinvertedbreve Omacron Omacronacute Omacrongrave Oogonek Oslash Oslashacute Otilde Otildeacute Otildedieresis Otildemacron OE P Thorn Q R Racute Rcaron Rcommaaccent Rdblgrave Rdotbelow Rinvertedbreve Rlinebelow S Sacute Sacutedotaccent Scaron Scarondot Scedilla Scircumflex Scommaaccent Sdot Sdotbelow Sdotbelowdotabove Germandbls Schwa T Tbar Tcaron Tcedilla Tcommaaccent Tdotbelow Tlinebelow U Uacute Ubreve Ucircumflex Udblgrave Udieresis Udotbelow Ugrave Uhoi Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhoi Uhorntilde Uhungarumlaut Uinvertedbreve Umacron Umacrondieresis Uogonek Uring Utilde Utildeacute V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydot Ydotbelow Ygrave Yhoi Ymacron Ytilde Z Zacute Zcaron Zdotaccent Zdotbelow W.ss09 G.ss11 Acyr Becyr Vecyr Gecyr Gjecyr Geupcyr Decyr Iecyr Iegravecyr Iocyr Zhecyr Zecyr Icyr Ishortcyr Igravecyr Kacyr Kjecyr Elcyr Emcyr Encyr Ocyr Pecyr Ercyr Escyr Tecyr Ucyr Ushortcyr Efcyr Hacyr Checyr Tsecyr Shacyr Shchacyr Dzhecyr Softcyr Hardcyr Ylongcyr Ljecyr Njecyr Dzecyr Eukrcyr Ereversedcyr Iukrcyr Yukrcyr Jecyr Tshecyr Yucyr Yacyr Djecyr Yatcyr Yusbigcyr Fitacyr Izhitsacyr Gestrokecyr Gehookcyr Zhetailcyr Zetailcyr Katailcyr Kaverticalstrokecyr Kabashkcyr Entailcyr Engecyr Petailcyr Estailcyr Ustraightcyr Ustraightstrokecyr Chetailcyr Chevertcyr Shhacyr Palochkacyr Zhebrevecyr Chekhakascyr Abrevecyr Adieresiscyr Aiecyr Iebrevecyr Schwacyr Zhedieresiscyr Zedieresiscyr Imacroncyr Idieresiscyr Odieresiscyr Obarcyr Umacroncyr Udieresiscyr Uacutedblcyr Chedieresiscyr Getailcyr Ylongdieresiscyr Wecyr Decyr.loclBGR Elcyr.loclBGR Efcyr.loclBGR Gestrokecyr.loclBSH Zetailcyr.loclBSH Estailcyr.loclBSH Estailcyr.loclCHU];
+@aalt = [slash A G O W d l o q t u w y periodcentered Scedilla scedilla uni0162 uni0163 uni0414 uni041B uni0424 uni0431 uni0432 uni0433 uni0436 uni0437 uni043A uni0442 uni044E uni0453 uni0492 uni0493 uni0498 uni0499 zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr brevecomb-cy];
+@aalt2 = [fraction ordfeminine G.ss11 ordmasculine W.ss09 d.ss03 l.ss05 ordmasculine q.ss06 t.ss07 u.ss08 w.ss09 y.ss10 periodcentered.loclCAT uni0218 uni0219 uni021A uni021B uni0414.loclBGR uni041B.loclBGR uni0424.loclBGR uni0431.loclSRB uni0432.loclBGR uni0433.loclSRB uni0436.loclBGR uni0437.loclBGR uni043A.loclBGR uni0442.loclBGR uni044E.loclBGR uni0453.loclMKD uni0492.loclBSH uni0493.loclBSH uni0498.loclBSH uni0499.loclBSH zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom brevecomb-cy.case];
+@ccmp = [gravecomb acutecomb uni0302 tildecomb uni0304 uni0306 uni0307 uni0308 uni030A uni030B uni030C uni0312 hookabovecomb uni030F uni0311];
+@ccmp2 = [Lslash Zcaron A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Scaron OE Ydieresis Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn Amacron Aogonek Ccaron Cacute Zacute Dcaron Emacron Edotaccent Ecaron Eogonek Iogonek Imacron uni0136 uni013B Lcaron Lacute uni0145 Nacute Ncaron Ohungarumlaut Omacron Racute Rcaron uni0156 Sacute Tcaron Umacron Uring Uhungarumlaut Uogonek Zdotaccent uni0122 Dcroat uni0410 uni0411 uni0412 uni0413 uni0414 uni0415 uni0416 uni0417 uni0418 uni0419 uni041A uni041B uni041C uni041D uni041E uni041F uni0420 uni0421 uni0422 uni0423 uni0424 uni0425 uni0426 uni0427 uni0428 uni0429 uni042A uni042B uni042C uni042D uni042E uni042F uni0490 uni0406 uni0402 uni0403 uni0408 uni0404 uni0407 uni0409 uni040A uni0405 uni040B uni040C uni040E uni040F uni0401 Abreve uni0218 uni021A Gbreve Idotaccent Scedilla Ccircumflex Cdotaccent Ebreve Gcircumflex Gdotaccent Hcircumflex Hbar Itilde Ibreve Jcircumflex Ldot Eng Obreve Scircumflex uni0162 Tbar Utilde Ubreve Wcircumflex Ycircumflex Aringacute AEacute Oslashacute uni0400 uni040D uni0462 uni0472 uni0474 Wgrave Wacute Wdieresis Ygrave uni0492 uni0494 uni0496 uni0498 uni049A uni049C uni04A0 uni04A2 uni04A4 uni04AA uni04AE uni04B0 uni04B6 uni04B8 uni04BA uni04C0 uni04CB uni04D0 uni04D2 uni04D4 uni04D6 uni04D8 uni04DC uni04DE uni04E2 uni04E4 uni04E6 uni04E8 uni04EE uni04F0 uni04F2 uni04F4 uni04F6 uni04F8 uni051C Ohorn Uhorn Gcaron uni01EA uni0200 uni0202 uni0204 uni0206 uni0208 uni020A uni020C uni020E uni0210 uni0212 uni0214 uni0216 uni022A uni022C uni0230 uni0232 uni04C1 uni1E08 uni1E0C uni1E0E uni1E14 uni1E16 uni1E1C uni1E20 uni1E24 uni1E2A uni1E2E uni1E36 uni1E3A uni1E42 uni1E44 uni1E46 uni1E48 uni1E4C uni1E4E uni1E50 uni1E52 uni1E5A uni1E5E uni1E60 uni1E62 uni1E64 uni1E66 uni1E68 uni1E6C uni1E6E uni1E78 uni1E7A uni1E8E uni1E92 uni1EA0 uni1EA2 uni1EA4 uni1EA6 uni1EA8 uni1EAA uni1EAC uni1EAE uni1EB0 uni1EB2 uni1EB4 uni1EB6 uni1EB8 uni1EBA uni1EBC uni1EBE uni1EC0 uni1EC2 uni1EC4 uni1EC6 uni1EC8 uni1ECA uni1ECC uni1ECE uni1ED0 uni1ED2 uni1ED4 uni1ED6 uni1ED8 uni1EDA uni1EDC uni1EDE uni1EE0 uni1EE2 uni1EE4 uni1EE6 uni1EE8 uni1EEA uni1EEC uni1EEE uni1EF0 uni1EF4 uni1EF6 uni1EF8 Germandbls G.ss11 W.ss09 uni018F uni046A uni051A uni0524 uni0414.loclBGR uni041B.loclBGR uni0424.loclBGR uni0492.loclBSH uni0498.loclBSH uni04AA.loclBSH uni04AA.loclCHU];
+@dnom_frac = [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
+@dnom_numr_ordn_pnum_sinf_subs_sups_tnum = [zero one two three four five six seven eight nine];
+@frac = [slash zero one two three four five six seven eight nine];
+@frac2 = [fraction zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
+@frac_numr = [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
+@locl = [uni0414 uni041B uni0424 uni0432 uni0434 uni0436 uni0437 uni043A uni043F uni0442 uni044E];
+@locl2 = [uni0414.loclBGR uni041B.loclBGR uni0424.loclBGR uni0432.loclBGR uni0434.loclBGR uni0436.loclBGR uni0437.loclBGR uni043A.loclBGR uni043F.loclBGR uni0442.loclBGR uni044E.loclBGR];
+@pnum_tnum = [zero.tnum one.tnum two.tnum three.tnum four.tnum five.tnum six.tnum seven.tnum eight.tnum nine.tnum];
+@sinf = [zero.subs one.subs two.subs three.subs four.subs five.subs six.subs seven.subs eight.subs nine.subs];
+@subs = [uni2080 uni2081 uni2082 uni2083 uni2084 uni2085 uni2086 uni2087 uni2088 uni2089];
+@sups = [uni2070 onesuperior twosuperior threesuperior uni2074 uni2075 uni2076 uni2077 uni2078 uni2079];
 #/< otclasses
-#/< classes
+#< classes
 
-#/> classes
-#/> otclasses
-@Uppercase = [A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehoi Abrevetilde Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhoi Acircumflextilde Adblgrave Adieresis Adotbelow Agrave Ahoi Ainvertedbreve Amacron Aogonek Aring Aringacute Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccedillaacute Ccircumflex Cdotaccent D Eth Dcaron Dcroat Ddotbelow Dlinebelow E Eacute Ebreve Ecaron Ecedillabreve Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhoi Ecircumflextilde Edblgrave Edieresis Edotaccent Edotbelow Egrave Ehoi Einvertedbreve Emacron Emacronacute Emacrongrave Eogonek Etilde F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hbrevebelow Hcircumflex Hdotbelow I Iacute Ibreve Icircumflex Idblgrave Idieresis Idieresisacute Idotaccent Idotbelow Igrave Ihoi Iinvertedbreve Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Ldotbelow Llinebelow Lslash M Mdotbelow N Nacute Ncaron Ncommaaccent Ndot Ndotbelow Eng Nlinebelow Ntilde O Oacute Obreve Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhoi Ocircumflextilde Odblgrave Odieresis Odieresismacron Odotaccentmacron Odotbelow Ograve Ohoi Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhoi Ohorntilde Ohungarumlaut Oinvertedbreve Omacron Omacronacute Omacrongrave Oogonek Oslash Oslashacute Otilde Otildeacute Otildedieresis Otildemacron OE P Thorn Q R Racute Rcaron Rcommaaccent Rdblgrave Rdotbelow Rinvertedbreve Rlinebelow S Sacute Sacutedotaccent Scaron Scarondot Scedilla Scircumflex Scommaaccent Sdot Sdotbelow Sdotbelowdotabove Germandbls Schwa T Tbar Tcaron Tcedilla Tcommaaccent Tdotbelow Tlinebelow U Uacute Ubreve Ucircumflex Udblgrave Udieresis Udotbelow Ugrave Uhoi Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhoi Uhorntilde Uhungarumlaut Uinvertedbreve Umacron Umacrondieresis Uogonek Uring Utilde Utildeacute V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydot Ydotbelow Ygrave Yhoi Ymacron Ytilde Z Zacute Zcaron Zdotaccent Zdotbelow W.ss09 G.ss11 Acyr Becyr Vecyr Gecyr Gjecyr Geupcyr Decyr Iecyr Iegravecyr Iocyr Zhecyr Zecyr Icyr Ishortcyr Igravecyr Kacyr Kjecyr Elcyr Emcyr Encyr Ocyr Pecyr Ercyr Escyr Tecyr Ucyr Ushortcyr Efcyr Hacyr Checyr Tsecyr Shacyr Shchacyr Dzhecyr Softcyr Hardcyr Ylongcyr Ljecyr Njecyr Dzecyr Eukrcyr Ereversedcyr Iukrcyr Yukrcyr Jecyr Tshecyr Yucyr Yacyr Djecyr Yatcyr Yusbigcyr Fitacyr Izhitsacyr Gestrokecyr Gehookcyr Zhetailcyr Zetailcyr Katailcyr Kaverticalstrokecyr Kabashkcyr Entailcyr Engecyr Petailcyr Estailcyr Ustraightcyr Ustraightstrokecyr Chetailcyr Chevertcyr Shhacyr Palochkacyr Zhebrevecyr Chekhakascyr Abrevecyr Adieresiscyr Aiecyr Iebrevecyr Schwacyr Zhedieresiscyr Zedieresiscyr Imacroncyr Idieresiscyr Odieresiscyr Obarcyr Umacroncyr Udieresiscyr Uacutedblcyr Chedieresiscyr Getailcyr Ylongdieresiscyr Wecyr Decyr.loclBGR Elcyr.loclBGR Efcyr.loclBGR Gestrokecyr.loclBSH Zetailcyr.loclBSH Estailcyr.loclBSH Estailcyr.loclCHU];
-#/< otclasses
-#/< classes
+###
+# OpenType Layout feature definitions
+# Format: Adobe FDK for OpenType (AFDKO) version 2.5
+# Generated on: 2024-3-7 19:7
+# Generated by: FontLab 8.0.0
+# Font PostScript name: RisingSunVF-Italic
+# Font copyright: Copyright (c) 2012, The Raleway Project Authors (matt@pixelspread.com)
+#
+# Totals:
+# Languagesystems: 16
+# GSUB lookups: 48
+# GSUB features: 27 (aalt, case, ccmp, dlig, dnom, frac, liga, locl, numr, ordn, pnum, salt, sinf, ss01, ss02, ss03, ss04, ss05, ss06, ss07, ss08, ss09, ss10, ss11, subs, sups, tnum)
+# GPOS lookups: 1
+# GPOS features: 1 (kern)
 
-#/> classes
-#/> otclasses
-@Uppercase = [A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehoi Abrevetilde Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhoi Acircumflextilde Adblgrave Adieresis Adotbelow Agrave Ahoi Ainvertedbreve Amacron Aogonek Aring Aringacute Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccedillaacute Ccircumflex Cdotaccent D Eth Dcaron Dcroat Ddotbelow Dlinebelow E Eacute Ebreve Ecaron Ecedillabreve Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhoi Ecircumflextilde Edblgrave Edieresis Edotaccent Edotbelow Egrave Ehoi Einvertedbreve Emacron Emacronacute Emacrongrave Eogonek Etilde F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hbrevebelow Hcircumflex Hdotbelow I Iacute Ibreve Icircumflex Idblgrave Idieresis Idieresisacute Idotaccent Idotbelow Igrave Ihoi Iinvertedbreve Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Ldotbelow Llinebelow Lslash M Mdotbelow N Nacute Ncaron Ncommaaccent Ndot Ndotbelow Eng Nlinebelow Ntilde O Oacute Obreve Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhoi Ocircumflextilde Odblgrave Odieresis Odieresismacron Odotaccentmacron Odotbelow Ograve Ohoi Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhoi Ohorntilde Ohungarumlaut Oinvertedbreve Omacron Omacronacute Omacrongrave Oogonek Oslash Oslashacute Otilde Otildeacute Otildedieresis Otildemacron OE P Thorn Q R Racute Rcaron Rcommaaccent Rdblgrave Rdotbelow Rinvertedbreve Rlinebelow S Sacute Sacutedotaccent Scaron Scarondot Scedilla Scircumflex Scommaaccent Sdot Sdotbelow Sdotbelowdotabove Germandbls Schwa T Tbar Tcaron Tcedilla Tcommaaccent Tdotbelow Tlinebelow U Uacute Ubreve Ucircumflex Udblgrave Udieresis Udotbelow Ugrave Uhoi Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhoi Uhorntilde Uhungarumlaut Uinvertedbreve Umacron Umacrondieresis Uogonek Uring Utilde Utildeacute V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydot Ydotbelow Ygrave Yhoi Ymacron Ytilde Z Zacute Zcaron Zdotaccent Zdotbelow W.ss09 G.ss11 Acyr Becyr Vecyr Gecyr Gjecyr Geupcyr Decyr Iecyr Iegravecyr Iocyr Zhecyr Zecyr Icyr Ishortcyr Igravecyr Kacyr Kjecyr Elcyr Emcyr Encyr Ocyr Pecyr Ercyr Escyr Tecyr Ucyr Ushortcyr Efcyr Hacyr Checyr Tsecyr Shacyr Shchacyr Dzhecyr Softcyr Hardcyr Ylongcyr Ljecyr Njecyr Dzecyr Eukrcyr Ereversedcyr Iukrcyr Yukrcyr Jecyr Tshecyr Yucyr Yacyr Djecyr Yatcyr Yusbigcyr Fitacyr Izhitsacyr Gestrokecyr Gehookcyr Zhetailcyr Zetailcyr Katailcyr Kaverticalstrokecyr Kabashkcyr Entailcyr Engecyr Petailcyr Estailcyr Ustraightcyr Ustraightstrokecyr Chetailcyr Chevertcyr Shhacyr Palochkacyr Zhebrevecyr Chekhakascyr Abrevecyr Adieresiscyr Aiecyr Iebrevecyr Schwacyr Zhedieresiscyr Zedieresiscyr Imacroncyr Idieresiscyr Odieresiscyr Obarcyr Umacroncyr Udieresiscyr Uacutedblcyr Chedieresiscyr Getailcyr Ylongdieresiscyr Qacyr Wecyr Decyr.loclBGR Elcyr.loclBGR Efcyr.loclBGR Gestrokecyr.loclBSH Zetailcyr.loclBSH Estailcyr.loclBSH Estailcyr.loclCHU];
-#/< otclasses
-#/< classes
+#
+# Languagesystem definitions
+#
 
-languagesystem DFLT dflt;
-languagesystem latn dflt;
-languagesystem cyrl dflt;
-languagesystem latn CAT;
-languagesystem latn ROM;
-languagesystem latn MOL;
-languagesystem latn KAZ;
-languagesystem latn TAT;
-languagesystem latn TRK;
-languagesystem latn CRT;
-languagesystem latn AZE;
-languagesystem cyrl SRB;
-languagesystem cyrl MKD;
-languagesystem cyrl BGR;
-feature aalt {
-feature ccmp;
-feature locl;
-feature subs;
-feature sinf;
-feature sups;
-feature numr;
-feature dnom;
-feature frac;
-feature ordn;
-feature c2sc;
-feature smcp;
-feature case;
-feature salt;
-feature ss01;
-feature ss02;
-feature ss03;
-feature ss04;
-feature ss05;
-feature ss06;
-feature ss07;
-feature ss08;
-feature ss09;
-feature ss10;
-feature ss11;
+languagesystem DFLT dflt; # Default default
+languagesystem latn dflt; # Latin default
+languagesystem latn AZE ; # Latin Azerbaijani
+languagesystem latn CAT ; # Latin Catalan
+languagesystem latn CRT ; # Latin Crimean Tatar
+languagesystem latn KAZ ; # Latin Kazakh
+languagesystem latn MOL ; # Latin Moldavian
+languagesystem latn ROM ; # Latin Romanian
+languagesystem latn TAT ; # Latin Tatar
+languagesystem latn TRK ; # Latin Turkish
+languagesystem cyrl dflt; # Cyrillic default
+languagesystem cyrl BGR ; # Cyrillic Bulgarian
+languagesystem cyrl BSH ; # Cyrillic Bashkir
+languagesystem cyrl CHU ; # Cyrillic Chuvash
+languagesystem cyrl MKD ; # Cyrillic Macedonian
+languagesystem cyrl SRB ; # Cyrillic Serbian
+
+#
+# Lookup definitions
+#
+
+
+#
+# Feature definitions
+#
+feature aalt useExtension {
+# GSUB feature: Access All Alternates
+# Lookups: 2
+
+  sub @aalt by @aalt2;
+  sub zero from [uni2080 zero.subs uni2070 zero.numr zero.dnom];
+  sub one from [uni2081 one.subs onesuperior one.numr one.dnom];
+  sub two from [uni2082 two.subs twosuperior two.numr two.dnom];
+  sub three from [uni2083 three.subs threesuperior three.numr three.dnom];
+  sub four from [uni2084 four.subs uni2074 four.numr four.dnom];
+  sub five from [uni2085 five.subs uni2075 five.numr five.dnom];
+  sub six from [uni2086 six.subs uni2076 six.numr six.dnom];
+  sub seven from [uni2087 seven.subs uni2077 seven.numr seven.dnom];
+  sub eight from [uni2088 eight.subs uni2078 eight.numr eight.dnom];
+  sub nine from [uni2089 nine.subs uni2079 nine.numr nine.dnom];
+  sub a from [ordfeminine a.ss01 a.ss02];
+  sub i from [dotlessi idotaccent];
+  sub j from [uni0237 j.ss04];
+  sub uni0434 from [uni0434.loclSRB uni0434.loclBGR];
+  sub uni043F from [uni043F.loclSRB uni043F.loclBGR];
+  sub uni04AA from [uni04AA.loclCHU uni04AA.loclBSH];
+  sub uni04AB from [uni04AB.loclCHU uni04AB.loclBSH];
 } aalt;
 feature ccmp {
-lookup ccmp_Other_1 {
-	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb caroncomb circumflexcomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb];
-	@CombiningNonTopAccents = [brevebelowcomb cedillacomb dieresisbelowcomb dotbelowcomb macronbelowcomb ogonekcomb horncomb strokeshortcomb];
-	sub [i j]' @CombiningTopAccents by [dotlessi dotlessj];
-	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [dotlessi dotlessj];
-	@Markscomb = [brevecomb-cy];
-	@MarkscombCase = [brevecomb-cy.case];
-	sub @Markscomb @Markscomb' by @MarkscombCase;
-	sub @Uppercase @Markscomb' by @MarkscombCase;
-} ccmp_Other_1;
+# GSUB feature: Glyph Composition / Decomposition
+# Lookups: 3
 
-lookup ccmp_Other_2 {
-	sub @Markscomb' @MarkscombCase by @MarkscombCase;
-	sub @MarkscombCase @Markscomb' by @MarkscombCase;
-} ccmp_Other_2;
 
-lookup ccmp_latn_1 {
-	script latn;
-	lookupflag 0;
-	sub brevecomb acutecomb by brevecomb_acutecomb;
-	sub brevecomb gravecomb by brevecomb_gravecomb;
-	sub brevecomb hookabovecomb by brevecomb_hookabovecomb;
-	sub brevecomb tildecomb by brevecomb_tildecomb;
-	sub circumflexcomb acutecomb by circumflexcomb_acutecomb;
-	sub circumflexcomb gravecomb by circumflexcomb_gravecomb;
-	sub circumflexcomb hookabovecomb by circumflexcomb_hookabovecomb;
-	sub circumflexcomb tildecomb by circumflexcomb_tildecomb;
-} ccmp_latn_1;
+  lookup ccmp_1 {
+  # GSUB lookup 3, type 16 (Chaining Context)
+    sub [i j]' @ccmp by [dotlessi uni0237];
+    sub [i j]' [uni031B dotbelowcomb uni0324 uni0327 uni0328 uni032E uni0331 uni0335] @ccmp by [dotlessi uni0237];
+    sub brevecomb-cy brevecomb-cy' by brevecomb-cy.case;
+    sub @ccmp2 brevecomb-cy' by brevecomb-cy.case;
+  } ccmp_1;
+
+
+  lookup ccmp_3 {
+  # GSUB lookup 4, type 16 (Chaining Context)
+    sub brevecomb-cy' brevecomb-cy.case by brevecomb-cy.case;
+    sub brevecomb-cy.case brevecomb-cy' by brevecomb-cy.case;
+  } ccmp_3;
+
+
+  script latn; # Latin
+  sub uni0302 gravecomb by uni0302_gravecomb;
+  sub uni0302 acutecomb by uni0302_acutecomb;
+  sub uni0302 tildecomb by uni0302_tildecomb;
+  sub uni0302 hookabovecomb by uni0302_hookabovecomb;
+  sub uni0306 gravecomb by uni0306_gravecomb;
+  sub uni0306 acutecomb by uni0306_acutecomb;
+  sub uni0306 tildecomb by uni0306_tildecomb;
+  sub uni0306 hookabovecomb by uni0306_hookabovecomb;
+    language AZE  exclude_dflt; # Azerbaijani
+    lookup ccmp_1;
+    lookup ccmp_3;
+
+    language TRK  exclude_dflt; # Turkish
+    lookup ccmp_1;
+    lookup ccmp_3;
+
+    language MOL  exclude_dflt; # Moldavian
+    lookup ccmp_1;
+    lookup ccmp_3;
+
+    language ROM  exclude_dflt; # Romanian
+    lookup ccmp_1;
+    lookup ccmp_3;
+
+    language CAT  exclude_dflt; # Catalan
+    lookup ccmp_1;
+    lookup ccmp_3;
+
+    language TAT  exclude_dflt; # Tatar
+    lookup ccmp_1;
+    lookup ccmp_3;
+
+    language CRT  exclude_dflt; # Crimean Tatar
+    lookup ccmp_1;
+    lookup ccmp_3;
+
+    language KAZ  exclude_dflt; # Kazakh
+    lookup ccmp_1;
+    lookup ccmp_3;
+
+
+  script cyrl; # Cyrillic
+    language SRB ; # Serbian
+    language MKD ; # Macedonian
+    language BSH ; # Bashkir
+    language BGR ; # Bulgarian
+    language CHU ; # Chuvash
+
 } ccmp;
 feature locl {
-script latn;
-language CAT;
-sub l periodcentered' l by periodcentered.loclCAT;
-sub L periodcentered' L by periodcentered.loclCAT;
-language ROM;
-sub Scedilla by Scommaaccent;
-sub scedilla by scommaaccent;
-sub Tcedilla by Tcommaaccent;
-sub tcedilla by tcommaaccent;
-language MOL;
-sub Scedilla by Scommaaccent;
-sub scedilla by scommaaccent;
-sub Tcedilla by Tcommaaccent;
-sub tcedilla by tcommaaccent;
-language KAZ;
-sub i by idotaccent;
-language TAT;
-sub i by idotaccent;
-language TRK;
-sub i by idotaccent;
-language CRT;
-sub i by idotaccent;
-language AZE;
-sub i by idotaccent;
+# GSUB feature: Localized Forms
+# Lookups: 13
 
-script cyrl;
-language SRB;
-sub becyr by becyr.loclSRB;
-sub gecyr by gecyr.loclSRB;
-sub decyr by decyr.loclSRB;
-sub pecyr by pecyr.loclSRB;
-language CHU;
-sub Estailcyr by Estailcyr.loclCHU;
-sub estailcyr by estailcyr.loclCHU;
-language MKD;
-sub gjecyr by gjecyr.loclMKD;
-language BSH;
-sub Gestrokecyr by Gestrokecyr.loclBSH;
-sub Zetailcyr by Zetailcyr.loclBSH;
-sub Estailcyr by Estailcyr.loclBSH;
-sub gestrokecyr by gestrokecyr.loclBSH;
-sub zetailcyr by zetailcyr.loclBSH;
-sub estailcyr by estailcyr.loclBSH;
-language BGR;
-sub Decyr by Decyr.loclBGR;
-sub Elcyr by Elcyr.loclBGR;
-sub Efcyr by Efcyr.loclBGR;
-sub vecyr by vecyr.loclBGR;
-sub decyr by decyr.loclBGR;
-sub zhecyr by zhecyr.loclBGR;
-sub zecyr by zecyr.loclBGR;
-sub kacyr by kacyr.loclBGR;
-sub pecyr by pecyr.loclBGR;
-sub tecyr by tecyr.loclBGR;
-sub yucyr by yucyr.loclBGR;
+  script latn; # Latin
+    language AZE ; # Azerbaijani
+    sub i by idotaccent;
+
+    language TRK ; # Turkish
+    sub i by idotaccent;
+
+    language MOL ; # Moldavian
+    sub [Scedilla scedilla uni0162 uni0163] by [uni0218 uni0219 uni021A uni021B];
+
+    language ROM ; # Romanian
+    sub [Scedilla scedilla uni0162 uni0163] by [uni0218 uni0219 uni021A uni021B];
+
+    language CAT ; # Catalan
+    sub l periodcentered' l by periodcentered.loclCAT;
+    sub L periodcentered' L by periodcentered.loclCAT;
+
+    language TAT ; # Tatar
+    sub i by idotaccent;
+
+    language CRT ; # Crimean Tatar
+    sub i by idotaccent;
+
+    language KAZ ; # Kazakh
+    sub i by idotaccent;
+
+
+  script cyrl; # Cyrillic
+    language SRB ; # Serbian
+    sub [uni0431 uni0433 uni0434 uni043F] by [uni0431.loclSRB uni0433.loclSRB uni0434.loclSRB uni043F.loclSRB];
+
+    language MKD ; # Macedonian
+    sub uni0453 by uni0453.loclMKD;
+
+    language BSH ; # Bashkir
+    sub [uni0492 uni0493 uni0498 uni0499] by [uni0492.loclBSH uni0493.loclBSH uni0498.loclBSH uni0499.loclBSH];
+    sub [uni04AA uni04AB] by [uni04AA.loclBSH uni04AB.loclBSH];
+
+    language BGR ; # Bulgarian
+    sub @locl by @locl2;
+
+    language CHU ; # Chuvash
+    sub [uni04AA uni04AB] by [uni04AA.loclCHU uni04AB.loclCHU];
+
+
 } locl;
 feature subs {
-sub zero by zero.inferior;
-sub one by one.inferior;
-sub two by two.inferior;
-sub three by three.inferior;
-sub four by four.inferior;
-sub five by five.inferior;
-sub six by six.inferior;
-sub seven by seven.inferior;
-sub eight by eight.inferior;
-sub nine by nine.inferior;
+# GSUB feature: Subscript
+# Lookups: 1
+
+  sub @dnom_numr_ordn_pnum_sinf_subs_sups_tnum by @subs;
+
 } subs;
 feature sinf {
-sub zero by zero.subs;
-sub one by one.subs;
-sub two by two.subs;
-sub three by three.subs;
-sub four by four.subs;
-sub five by five.subs;
-sub six by six.subs;
-sub seven by seven.subs;
-sub eight by eight.subs;
-sub nine by nine.subs;
+# GSUB feature: Scientific Inferiors
+# Lookups: 1
+
+  sub @dnom_numr_ordn_pnum_sinf_subs_sups_tnum by @sinf;
+
 } sinf;
 feature sups {
-sub zero by zero.superior;
-sub one by onesuperior;
-sub two by twosuperior;
-sub three by threesuperior;
-sub four by four.superior;
-sub five by five.superior;
-sub six by six.superior;
-sub seven by seven.superior;
-sub eight by eight.superior;
-sub nine by nine.superior;
+# GSUB feature: Superscript
+# Lookups: 1
+
+  sub @dnom_numr_ordn_pnum_sinf_subs_sups_tnum by @sups;
+
 } sups;
 feature numr {
-sub zero by zero.numr;
-sub one by one.numr;
-sub two by two.numr;
-sub three by three.numr;
-sub four by four.numr;
-sub five by five.numr;
-sub six by six.numr;
-sub seven by seven.numr;
-sub eight by eight.numr;
-sub nine by nine.numr;
+# GSUB feature: Numerators
+# Lookups: 1
+
+  sub @dnom_numr_ordn_pnum_sinf_subs_sups_tnum by @frac_numr;
+
 } numr;
 feature dnom {
-sub zero by zero.dnom;
-sub one by one.dnom;
-sub two by two.dnom;
-sub three by three.dnom;
-sub four by four.dnom;
-sub five by five.dnom;
-sub six by six.dnom;
-sub seven by seven.dnom;
-sub eight by eight.dnom;
-sub nine by nine.dnom;
+# GSUB feature: Denominators
+# Lookups: 1
+
+  sub @dnom_numr_ordn_pnum_sinf_subs_sups_tnum by @dnom_frac;
+
 } dnom;
 feature frac {
-lookup FRAC {
-	sub slash by fraction;
-} FRAC;
-lookup UP {
-	sub [zero one two three four five six seven eight nine] by [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
-} UP;
-lookup DOWN {
-	sub fraction [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr]' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
-	sub [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom] [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr]' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
-} DOWN;
+# GSUB feature: Fractions
+# Lookups: 2
+
+  sub @frac by @frac2;
+  sub fraction @frac_numr' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
+  sub @dnom_frac @frac_numr' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
+
 } frac;
 feature ordn {
-sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
-sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
-sub N o period by numero;
+# GSUB feature: Ordinals
+# Lookups: 2
+
+  sub @dnom_numr_ordn_pnum_sinf_subs_sups_tnum [A a]' by [ordfeminine ordfeminine];
+  sub @dnom_numr_ordn_pnum_sinf_subs_sups_tnum [O o]' by [ordmasculine ordmasculine];
+  sub N o period by uni2116;
+
 } ordn;
 feature dlig {
-sub c t by c_t;
-sub s t by s_t;
+# GSUB feature: Discretionary Ligatures
+# Lookups: 1
+
+  sub c t by c_t;
+  sub s t by s_t;
+
 } dlig;
 feature case {
-sub brevecomb-cy by brevecomb-cy.case;
+# GSUB feature: Case-Sensitive Forms
+# Lookups: 1
+
+  sub brevecomb-cy by brevecomb-cy.case;
+
 } case;
 feature liga {
-sub f f l by f_f_l;
-sub f f i by f_f_i;
-sub f i by fi;
-sub f f by f_f;
-sub f l by fl;
+# GSUB feature: Standard Ligatures
+# Lookups: 1
+
+  sub f f i by f_f_i;
+  sub f f l by f_f_l;
+  sub f f by f_f;
+  sub f i by fi;
+  sub f l by fl;
+
 } liga;
 feature salt {
-sub a by a.ss01;
+# GSUB feature: Stylistic Alternates
+# Lookups: 1
+
+  sub a by a.ss01;
+
 } salt;
 feature ss01 {
-sub a by a.ss01;
+# GSUB feature: Stylistic Set 1
+# Lookups: 1
+
+  sub a by a.ss01;
+
 } ss01;
 feature ss02 {
-sub a by a.ss02;
+# GSUB feature: Stylistic Set 2
+# Lookups: 1
+
+  sub a by a.ss02;
+
 } ss02;
 feature ss03 {
-sub d by d.ss03;
+# GSUB feature: Stylistic Set 3
+# Lookups: 1
+
+  sub d by d.ss03;
+
 } ss03;
 feature ss04 {
-sub j by j.ss04;
+# GSUB feature: Stylistic Set 4
+# Lookups: 1
+
+  sub j by j.ss04;
+
 } ss04;
 feature ss05 {
-sub l by l.ss05;
+# GSUB feature: Stylistic Set 5
+# Lookups: 1
+
+  sub l by l.ss05;
+
 } ss05;
 feature ss06 {
-sub q by q.ss06;
+# GSUB feature: Stylistic Set 6
+# Lookups: 1
+
+  sub q by q.ss06;
+
 } ss06;
 feature ss07 {
-sub t by t.ss07;
+# GSUB feature: Stylistic Set 7
+# Lookups: 1
+
+  sub t by t.ss07;
+
 } ss07;
 feature ss08 {
-sub u by u.ss08;
+# GSUB feature: Stylistic Set 8
+# Lookups: 1
+
+  sub u by u.ss08;
+
 } ss08;
 feature ss09 {
-sub W by W.ss09;
-sub w by w.ss09;
+# GSUB feature: Stylistic Set 9
+# Lookups: 1
+
+  sub [W w] by [W.ss09 w.ss09];
+
 } ss09;
 feature ss10 {
-sub y by y.ss10;
+# GSUB feature: Stylistic Set 10
+# Lookups: 1
+
+  sub y by y.ss10;
+
 } ss10;
 feature ss11 {
-sub G by G.ss11;
+# GSUB feature: Stylistic Set 11
+# Lookups: 1
+
+  sub G by G.ss11;
+
 } ss11;
-feature mark {
-# GPOS feature : Mark Positioning
-    markClass Idieresis <anchor 216 710> @top;
-    markClass idieresis <anchor 83 522> @top;
-    markClass apostrophemod <anchor 134 522> @top;
-    markClass macronmod <anchor 243 522> @top;
-    markClass hungarumlaut <anchor 185 521> @top;
-    markClass gravecomb <anchor 185 521> @top;
-    markClass acutecomb <anchor 108 522> @top;
-    markClass circumflexcomb <anchor 218 523> @top;
-    markClass tildecomb <anchor 267 522> @top;
-    markClass macroncomb <anchor 245 522> @top;
-    markClass brevecomb <anchor 212 522> @top;
-    markClass dotaccentcomb <anchor 123 522> @top;
-    markClass dieresiscomb <anchor 217 521> @top;
-    markClass hookabovecomb <anchor 191 522> @top;
-    markClass ringcomb <anchor 184 522> @top;
-    markClass hungarumlautcomb <anchor 135 521> @top;
-    markClass caroncomb <anchor 219 522> @top;
-    markClass dblgravecomb <anchor 240 521> @top;
-    markClass breveinvertedcomb <anchor 213 522> @top;
-    markClass commaturnedabovecomb <anchor 105 522> @top;
-    markClass horncomb <anchor 169 522> @topright;
-    markClass dotbelowcomb <anchor 99 0> @bottom;
-    markClass dieresisbelowcomb <anchor 173 0> @bottom;
-    markClass commaaccentcomb <anchor 131 0> @bottom;
-    markClass ogonekcomb <anchor 108 0> @ogonek;
-    markClass brevebelowcomb <anchor 81 0> @bottom;
-    markClass macronbelowcomb <anchor 130 0> @bottom;
-    markClass strokeshortcomb <anchor 172 300> @center;
-    markClass Kaverticalstrokecyr <anchor 264 367> @center;
-    markClass kaverticalstrokecyr <anchor 241 270> @center;
-    markClass Entailcyr <anchor 506 0> @bottomright;
-    markClass entailcyr <anchor 373 0> @bottomright;
-    markClass Chetailcyr <anchor 446 0> @bottomright;
-    markClass chetailcyr <anchor 315 0> @bottomright;
-    markClass Chevertcyr <anchor 339 302> @center;
-    markClass chevertcyr <anchor 261 228> @center;
-    markClass Getailcyr <anchor 15 0> @bottomright;
-    markClass Petailcyr <anchor 508 0> @bottomright;
-    markClass petailcyr <anchor 365 0> @bottomright;
-    markClass circumflexcomb_acutecomb <anchor 212 522> @top;
-    markClass circumflexcomb_gravecomb <anchor 305 522> @top;
-    markClass circumflexcomb_hookabovecomb <anchor 219 522> @top;
-    markClass circumflexcomb_tildecomb <anchor 220 522> @top;
-    markClass brevecomb_acutecomb <anchor 234 522> @top;
-    markClass brevecomb_gravecomb <anchor 199 522> @top;
-    markClass brevecomb_hookabovecomb <anchor 214 522> @top;
-    markClass brevecomb_tildecomb <anchor 234 522> @top;
-    markClass caroncomb.alt <anchor 235 777> @bottom;
-    markClass caroncomb.alt <anchor 94 522> @topright;
-    markClass gecyr.loclSRB <anchor 204 522> @top;
-    markClass brevecomb-cy <anchor 230 522> @top;
-    markClass brevecomb-cy.case <anchor 330 710> @top;
+feature pnum {
+# GSUB feature: Proportional Figures
+# Lookups: 1
 
-  lookup markLTR1 {
-      pos base A
-          <anchor 271 0> mark @bottom
-          <anchor 578 0> mark @ogonek
-          <anchor 419 710> mark @top;
-      pos base C
-          <anchor 272 0> mark @bottom
-          <anchor 422 710> mark @top;
-      pos base D
-          <anchor 241 0> mark @bottom
-          <anchor 319 355> mark @center
-          <anchor 391 708> mark @top;
-      pos base E
-          <anchor 235 0> mark @bottom
-          <anchor 479 0> mark @ogonek
-          <anchor 385 710> mark @top;
-      pos base H
-          <anchor 302 0> mark @bottom
-          <anchor 377 355> mark @center
-          <anchor 452 710> mark @top;
-      pos base I
-          <anchor 65 0> mark @bottom
-          <anchor 110 0> mark @ogonek
-          <anchor 216 710> mark @top;
-      pos base K
-          <anchor 278 0> mark @bottom;
-      pos base L
-          <anchor 252 0> mark @bottom
-          <anchor 300 355> mark @center
-          <anchor 208 710> mark @top;
-      pos base M
-          <anchor 364 0> mark @bottom
-          <anchor 514 710> mark @top;
-      pos base N
-          <anchor 316 0> mark @bottom
-          <anchor 472 708> mark @top;
-      pos base O
-          <anchor 314 0> mark @bottom
-          <anchor 361 355> mark @center
-          <anchor 336 0> mark @ogonek
-          <anchor 451 708> mark @top;
-      pos base Q
-          <anchor 314 0> mark @bottom
-          <anchor 361 355> mark @center
-          <anchor 336 0> mark @ogonek
-          <anchor 451 708> mark @top;
-      pos base R
-          <anchor 252 0> mark @bottom
-          <anchor 393 710> mark @top;
-      pos base S
-          <anchor 239 0> mark @bottom
-          <anchor 393 721> mark @top;
-      pos base T
-          <anchor 229 0> mark @bottom
-          <anchor 380 708> mark @top;
-      pos base U
-          <anchor 303 0> mark @bottom
-          <anchor 347 0> mark @ogonek
-          <anchor 444 708> mark @top;
-      pos base W
-          <anchor 590 711> mark @top;
-      pos base Y
-          <anchor 372 708> mark @top;
-      pos base Z
-          <anchor 245 0> mark @bottom
-          <anchor 395 710> mark @top;
-      pos base c
-          <anchor 242 0> mark @bottom
-          <anchor 339 522> mark @top;
-      pos base e
-          <anchor 230 0> mark @bottom
-          <anchor 300 0> mark @ogonek
-          <anchor 341 522> mark @top;
-      pos base g
-          <anchor 333 522> mark @top;
-      pos base h
-          <anchor 229 0> mark @bottom
-          <anchor 284 261> mark @center
-          <anchor 382 710> mark @top;
-      pos base i
-          <anchor 48 0> mark @bottom
-          <anchor 93 0> mark @ogonek;
-      pos base k
-          <anchor 218 0> mark @bottom;
-      pos base l
-          <anchor 124 0> mark @bottom
-          <anchor 140 261> mark @center
-          <anchor 204 730> mark @top;
-      pos base m
-          <anchor 387 0> mark @bottom
-          <anchor 497 522> mark @top;
-      pos base n
-          <anchor 232 0> mark @bottom
-          <anchor 403 522> mark @top;
-      pos base o
-          <anchor 239 0> mark @bottom
-          <anchor 289 261> mark @center
-          <anchor 277 0> mark @ogonek
-          <anchor 337 522> mark @top;
-      pos base r
-          <anchor 50 0> mark @bottom
-          <anchor 235 522> mark @top;
-      pos base s
-          <anchor 187 0> mark @bottom
-          <anchor 293 522> mark @top;
-      pos base t
-          <anchor 114 0> mark @bottom
-          <anchor 169 261> mark @center
-          <anchor 232 710> mark @top;
-      pos base w
-          <anchor 447 522> mark @top;
-      pos base y
-          <anchor 288 597> mark @top;
-      pos base z
-          <anchor 180 0> mark @bottom
-          <anchor 290 522> mark @top;
-      pos base ordfeminine
-          <anchor 384 11> mark @bottom
-          <anchor 191 519> mark @top;
-      pos base ordmasculine
-          <anchor 224 0> mark @bottom
-          <anchor 225 519> mark @top;
-      pos base AE
-          <anchor 607 708> mark @top;
-      pos base ae
-          <anchor 780 0> mark @bottom
-          <anchor 850 0> mark @ogonek
-          <anchor 526 522> mark @top;
-      pos base dotlessi
-          <anchor 48 0> mark @bottom
-          <anchor 148 10> mark @ogonek
-          <anchor 158 522> mark @top;
-      pos base Jcircumflex
-          <anchor 445 918> mark @top;
-      pos base Wcircumflex
-          <anchor 594 710> mark @top;
-      pos base dotlessj
-          <anchor 58 0> mark @bottom
-          <anchor 168 522> mark @top;
-      pos base Acyr
-          <anchor 419 710> mark @top;
-      pos base Gecyr
-          <anchor 387 710> mark @top;
-      pos base Zhecyr
-          <anchor 573 710> mark @top;
-      pos base Zecyr
-          <anchor 226 0> mark @bottom
-          <anchor 353 710> mark @top;
-      pos base Icyr
-          <anchor 445 710> mark @top;
-      pos base Kacyr
-          <anchor 394 710> mark @top;
-      pos base Ocyr
-          <anchor 463 710> mark @top;
-      pos base Ucyr
-          <anchor 387 710> mark @top;
-      pos base Checyr
-          <anchor 339 302> mark @center
-          <anchor 423 710> mark @top;
-      pos base Ylongcyr
-          <anchor 492 710> mark @top;
-      pos base acyr
-          <anchor 379 522> mark @top;
-      pos base gecyr
-          <anchor 285 522> mark @top;
-      pos base iecyr
-          <anchor 337 522> mark @top;
-      pos base zhecyr
-          <anchor 432 522> mark @top;
-      pos base zecyr
-          <anchor 184 0> mark @bottom
-          <anchor 279 522> mark @top;
-      pos base icyr
-          <anchor 341 522> mark @top;
-      pos base kacyr
-          <anchor 254 261> mark @center
-          <anchor 301 522> mark @top;
-      pos base ocyr
-          <anchor 360 520> mark @top;
-      pos base ucyr
-          <anchor 304 522> mark @top;
-      pos base checyr
-          <anchor 257 223> mark @center
-          <anchor 321 522> mark @top;
-      pos base ylongcyr
-          <anchor 404 522> mark @top;
-      pos base Wgrave
-          <anchor 707 918> mark @top;
-      pos base Wacute
-          <anchor 694 918> mark @top;
-      pos base Wdieresis
-          <anchor 706 914> mark @top;
-      pos base a.sc
-          <anchor 570 8> mark @bottom
-          <anchor 266 707> mark @top;
-      pos base c.sc
-          <anchor 317 0> mark @bottom
-          <anchor 318 707> mark @top;
-      pos base d.sc
-          <anchor 294 707> mark @top;
-      pos base e.sc
-          <anchor 285 0> mark @bottom
-          <anchor 285 707> mark @top;
-      pos base g.sc
-          <anchor 320 0> mark @bottom
-          <anchor 308 707> mark @top;
-      pos base h.sc
-          <anchor 308 707> mark @top;
-      pos base i.sc
-          <anchor 51 0> mark @bottom
-          <anchor 50 707> mark @top;
-      pos base j.sc
-          <anchor 307 707> mark @top;
-      pos base k.sc
-          <anchor 255 0> mark @bottom;
-      pos base l.sc
-          <anchor 272 0> mark @bottom
-          <anchor 272 707> mark @top;
-      pos base n.sc
-          <anchor 335 0> mark @bottom
-          <anchor 334 707> mark @top;
-      pos base o.sc
-          <anchor 315 0> mark @bottom
-          <anchor 315 707> mark @top;
-      pos base r.sc
-          <anchor 257 0> mark @bottom
-          <anchor 257 710> mark @top;
-      pos base s.sc
-          <anchor 248 0> mark @bottom
-          <anchor 248 729> mark @top;
-      pos base t.sc
-          <anchor 236 0> mark @bottom
-          <anchor 236 707> mark @top;
-      pos base u.sc
-          <anchor 319 0> mark @bottom
-          <anchor 319 707> mark @top;
-      pos base w.sc
-          <anchor 435 707> mark @top;
-      pos base y.sc
-          <anchor 226 707> mark @top;
-      pos base z.sc
-          <anchor 274 707> mark @top;
-  } markLTR1;
+  sub @pnum_tnum by @dnom_numr_ordn_pnum_sinf_subs_sups_tnum;
 
-  lookup markLTR2 {
-      pos base L
-          <anchor 476 522> mark @topright;
-      pos base O
-          <anchor 555 674> mark @topright;
-      pos base Q
-          <anchor 555 674> mark @topright;
-      pos base U
-          <anchor 748 674> mark @topright;
-      pos base l
-          <anchor 272 522> mark @topright;
-      pos base o
-          <anchor 456 488> mark @topright;
-      pos base t
-          <anchor 313 522> mark @topright;
-  } markLTR2;
+} pnum;
+feature tnum {
+# GSUB feature: Tabular Figures
+# Lookups: 1
 
-  lookup markLTR3 {
-      pos base Gecyr
-          <anchor 15 0> mark @bottomright;
-      pos base Zhecyr
-          <anchor 825 0> mark @bottomright;
-      pos base Icyr
-          <anchor 552 0> mark @bottomright;
-      pos base Kacyr
-          <anchor 471 0> mark @bottomright;
-      pos base Encyr
-          <anchor 494 0> mark @bottomright;
-      pos base Pecyr
-          <anchor 498 0> mark @bottomright;
-      pos base Tecyr
-          <anchor 213 0> mark @bottomright;
-      pos base Checyr
-          <anchor 436 0> mark @bottomright;
-      pos base gecyr
-          <anchor 210 0> mark @bottomright;
-      pos base zhecyr
-          <anchor 612 0> mark @bottomright;
-      pos base icyr
-          <anchor 459 0> mark @bottomright;
-      pos base kacyr
-          <anchor 345 0> mark @bottomright;
-      pos base encyr
-          <anchor 373 0> mark @bottomright;
-      pos base pecyr
-          <anchor 369 0> mark @bottomright;
-      pos base checyr
-          <anchor 320 0> mark @bottomright;
-  } markLTR3;
+  sub @dnom_numr_ordn_pnum_sinf_subs_sups_tnum by @pnum_tnum;
 
-  lookup markLTR1;
-  lookup markLTR2;
-  lookup markLTR3;
-} mark;
-feature mkmk {
-# GPOS feature : Mark to Mark Positioning
-#    markClass Idieresis <anchor 216 710> @top;
-#    markClass idieresis <anchor 83 522> @top;
-#    markClass apostrophemod <anchor 134 522> @top;
-#    markClass macronmod <anchor 243 522> @top;
-#    markClass hungarumlaut <anchor 185 521> @top;
-#    markClass gravecomb <anchor 185 521> @top;
-#    markClass acutecomb <anchor 108 522> @top;
-#    markClass circumflexcomb <anchor 218 523> @top;
-#    markClass tildecomb <anchor 267 522> @top;
-#    markClass macroncomb <anchor 245 522> @top;
-#    markClass brevecomb <anchor 212 522> @top;
-#    markClass dotaccentcomb <anchor 123 522> @top;
-#    markClass dieresiscomb <anchor 217 521> @top;
-#    markClass hookabovecomb <anchor 191 522> @top;
-#    markClass ringcomb <anchor 184 522> @top;
-#    markClass hungarumlautcomb <anchor 135 521> @top;
-#    markClass caroncomb <anchor 219 522> @top;
-#    markClass dblgravecomb <anchor 240 521> @top;
-#    markClass breveinvertedcomb <anchor 213 522> @top;
-#    markClass commaturnedabovecomb <anchor 105 522> @top;
-#    markClass horncomb <anchor 169 522> @topright;
-#    markClass dotbelowcomb <anchor 99 0> @bottom;
-#    markClass dieresisbelowcomb <anchor 173 0> @bottom;
-#    markClass commaaccentcomb <anchor 131 0> @bottom;
-#    markClass brevebelowcomb <anchor 81 0> @bottom;
-#    markClass macronbelowcomb <anchor 130 0> @bottom;
-#    markClass circumflexcomb_acutecomb <anchor 212 522> @top;
-#    markClass circumflexcomb_gravecomb <anchor 305 522> @top;
-#    markClass circumflexcomb_hookabovecomb <anchor 219 522> @top;
-#    markClass circumflexcomb_tildecomb <anchor 220 522> @top;
-#    markClass brevecomb_acutecomb <anchor 234 522> @top;
-#    markClass brevecomb_gravecomb <anchor 199 522> @top;
-#    markClass brevecomb_hookabovecomb <anchor 214 522> @top;
-#    markClass brevecomb_tildecomb <anchor 234 522> @top;
-#    markClass caroncomb.alt <anchor 235 777> @bottom;
-#    markClass caroncomb.alt <anchor 94 522> @topright;
-#    markClass gecyr.loclSRB <anchor 204 522> @top;
-#    markClass brevecomb-cy <anchor 230 522> @top;
-#    markClass brevecomb-cy.case <anchor 330 710> @top;
-
-  lookup mkmkLTR1 {
-      pos mark Idieresis
-          <anchor 260 914> mark @top;
-      pos mark idieresis
-          <anchor 125 721> mark @top;
-      pos mark gravecomb
-          <anchor 199 730> mark @top;
-      pos mark acutecomb
-          <anchor 199 730> mark @top;
-      pos mark circumflexcomb
-          <anchor 249 730> mark @top;
-      pos mark tildecomb
-          <anchor 312 730> mark @top;
-      pos mark macroncomb
-          <anchor 285 710> mark @top;
-      pos mark brevecomb
-          <anchor 256 730> mark @top;
-      pos mark dotaccentcomb
-          <anchor 168 730> mark @top;
-      pos mark dieresiscomb
-          <anchor 259 720> mark @top;
-      pos mark hookabovecomb
-          <anchor 181 765> mark @top;
-      pos mark ringcomb
-          <anchor 229 730> mark @top;
-      pos mark caroncomb
-          <anchor 269 730> mark @top;
-      pos mark commaturnedabovecomb
-          <anchor 149 730> mark @top;
-      pos mark horncomb
-          <anchor 169 522> mark @topright;
-      pos mark circumflexcomb_acutecomb
-          <anchor 320 935> mark @top;
-      pos mark circumflexcomb_gravecomb
-          <anchor 413 935> mark @top;
-      pos mark circumflexcomb_hookabovecomb
-          <anchor 320 935> mark @top;
-      pos mark circumflexcomb_tildecomb
-          <anchor 339 938> mark @top;
-      pos mark brevecomb_acutecomb
-          <anchor 323 938> mark @top;
-      pos mark brevecomb_gravecomb
-          <anchor 287 938> mark @top;
-      pos mark brevecomb_hookabovecomb
-          <anchor 302 935> mark @top;
-      pos mark brevecomb_tildecomb
-          <anchor 323 938> mark @top;
-      pos mark gecyr.loclSRB
-          <anchor 171 657> mark @top;
-  } mkmkLTR1;
-
-  lookup mkmkLTR2 {
-      pos mark dotbelowcomb
-          <anchor 59 -187> mark @bottom;
-      pos mark dieresisbelowcomb
-          <anchor 153 -187> mark @bottom;
-      pos mark brevebelowcomb
-          <anchor 41 -166> mark @bottom;
-      pos mark macronbelowcomb
-          <anchor 97 -143> mark @bottom;
-  } mkmkLTR2;
-
-  lookup mkmkLTR1;
-  lookup mkmkLTR2;
-} mkmk;
+} tnum;

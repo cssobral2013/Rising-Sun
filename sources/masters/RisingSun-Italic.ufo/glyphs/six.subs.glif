@@ -2,6 +2,6 @@
 <glyph name="six.subs" format="2">
   <advance width="398"/>
   <outline>
-    <component base="six.inferior"/>
+    <component base="uni2086"/>
   </outline>
 </glyph>

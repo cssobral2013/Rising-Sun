@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iotatonos" format="2">
-  <advance width="450"/>
+  <advance width="380"/>
   <unicode hex="038A"/>
   <outline>
-    <component base="Iota" xOffset="107"/>
-    <component base="tonos.cap" xScale="0.9916" yScale="0.9916" xOffset="-10" yOffset="-5"/>
+    <contour>
+      <point x="283" y="0" type="line"/>
+      <point x="283" y="710" type="line"/>
+      <point x="146" y="710" type="line"/>
+      <point x="146" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="81" y="892" type="line"/>
+      <point x="-10" y="665" type="line"/>
+      <point x="61" y="633" type="line"/>
+      <point x="182" y="820" type="line"/>
+    </contour>
   </outline>
 </glyph>

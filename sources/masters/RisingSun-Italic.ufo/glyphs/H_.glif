@@ -2,10 +2,6 @@
 <glyph name="H" format="2">
   <advance width="713"/>
   <unicode hex="0048"/>
-  <anchor x="302" y="0" name="bottom"/>
-  <anchor x="377" y="355" name="center"/>
-  <anchor x="452" y="710" name="top"/>
-  <anchor x="115" y="710" name="topleft"/>
   <outline>
     <contour>
       <point x="20" y="0" type="line"/>

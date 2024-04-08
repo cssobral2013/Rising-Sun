@@ -1,9 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="omicrontonos" format="2">
-  <advance width="636"/>
+  <advance width="628"/>
   <unicode hex="03CC"/>
   <outline>
-    <component base="omicron"/>
-    <component base="tonos" xScale="0.9962" yScale="0.9962" xOffset="229"/>
+    <contour>
+      <point x="313" y="-8" type="qcurve" smooth="yes"/>
+      <point x="372" y="-8"/>
+      <point x="474" y="34"/>
+      <point x="547" y="107"/>
+      <point x="588" y="205"/>
+      <point x="588" y="262" type="qcurve" smooth="yes"/>
+      <point x="588" y="320"/>
+      <point x="547" y="418"/>
+      <point x="474" y="491"/>
+      <point x="372" y="533"/>
+      <point x="313" y="533" type="qcurve" smooth="yes"/>
+      <point x="255" y="533"/>
+      <point x="154" y="491"/>
+      <point x="81" y="418"/>
+      <point x="39" y="320"/>
+      <point x="38" y="262" type="qcurve"/>
+      <point x="39" y="205"/>
+      <point x="81" y="107"/>
+      <point x="154" y="34"/>
+      <point x="255" y="-8"/>
+    </contour>
+    <contour>
+      <point x="313" y="102" type="qcurve" smooth="yes"/>
+      <point x="280" y="102"/>
+      <point x="222" y="127"/>
+      <point x="179" y="169"/>
+      <point x="154" y="228"/>
+      <point x="154" y="262" type="qcurve" smooth="yes"/>
+      <point x="154" y="296"/>
+      <point x="179" y="355"/>
+      <point x="222" y="397"/>
+      <point x="280" y="422"/>
+      <point x="313" y="422" type="qcurve" smooth="yes"/>
+      <point x="348" y="422"/>
+      <point x="407" y="397"/>
+      <point x="449" y="355"/>
+      <point x="473" y="296"/>
+      <point x="473" y="262" type="qcurve" smooth="yes"/>
+      <point x="473" y="228"/>
+      <point x="449" y="169"/>
+      <point x="407" y="127"/>
+      <point x="348" y="102"/>
+    </contour>
+    <contour>
+      <point x="303" y="821" type="line"/>
+      <point x="277" y="581" type="line"/>
+      <point x="348" y="571" type="line"/>
+      <point x="398" y="801" type="line"/>
+    </contour>
   </outline>
 </glyph>

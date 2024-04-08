@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gbreve" format="2">
-  <advance width="683"/>
+  <advance width="685"/>
   <unicode hex="011E"/>
-  <anchor x="522.06" y="914" name="top"/>
   <outline>
-    <component base="G"/>
-    <component base="brevecomb" xOffset="166" yOffset="184"/>
+    <component base="G" xOffset="1"/>
+    <component base="uni0306" xOffset="200" yOffset="185"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>G+brevecomb</string>
-  </dict>
-  </lib>
 </glyph>

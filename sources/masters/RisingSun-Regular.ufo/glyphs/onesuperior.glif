@@ -7,13 +7,17 @@
       <point x="185" y="455" type="line"/>
       <point x="185" y="811" type="line"/>
       <point x="129" y="811" type="line"/>
-      <point x="128" y="808"/>
-      <point x="76" y="755"/>
-      <point x="34" y="755" type="curve"/>
+      <point x="129" y="810"/>
+      <point x="111" y="792"/>
+      <point x="83" y="772"/>
+      <point x="50" y="755"/>
+      <point x="34" y="755" type="qcurve"/>
       <point x="34" y="700" type="line"/>
-      <point x="66" y="700"/>
-      <point x="115" y="732"/>
-      <point x="129" y="749" type="curve"/>
+      <point x="46" y="700"/>
+      <point x="75" y="711"/>
+      <point x="102" y="726"/>
+      <point x="124" y="743"/>
+      <point x="129" y="749" type="qcurve"/>
       <point x="129" y="455" type="line"/>
       <point x="49" y="455" type="line"/>
       <point x="49" y="400" type="line"/>
@@ -21,10 +25,4 @@
       <point x="259" y="455" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>org.robofab.fontlab.mark</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

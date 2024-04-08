@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tbar" format="2">
+  <advance width="640"/>
+  <unicode hex="0166"/>
+  <outline>
+    <contour>
+      <point x="562" y="307" type="line"/>
+      <point x="562" y="327" type="line"/>
+      <point x="78" y="327" type="line"/>
+      <point x="78" y="307" type="line"/>
+    </contour>
+    <contour>
+      <point x="602" y="710" type="line"/>
+      <point x="38" y="710" type="line"/>
+      <point x="38" y="690" type="line"/>
+      <point x="310" y="690" type="line"/>
+      <point x="310" y="0" type="line"/>
+      <point x="330" y="0" type="line"/>
+      <point x="330" y="690" type="line"/>
+      <point x="602" y="690" type="line"/>
+    </contour>
+  </outline>
+</glyph>

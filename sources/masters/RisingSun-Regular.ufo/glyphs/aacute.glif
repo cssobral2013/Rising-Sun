@@ -6,10 +6,4 @@
     <component base="a"/>
     <component base="acutecomb" xOffset="191"/>
   </outline>
-  <lib>
-  <dict>
-  <key>org.robofab.fontlab.mark</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

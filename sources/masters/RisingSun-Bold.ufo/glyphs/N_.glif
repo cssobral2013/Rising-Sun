@@ -1,27 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="N" format="2">
-  <advance width="754"/>
+  <advance width="763"/>
   <unicode hex="004E"/>
-  <anchor x="374" y="0" name="bottom"/>
-  <anchor x="374" y="709" name="top"/>
   <outline>
     <contour>
-      <point x="538" y="0" type="line"/>
-      <point x="693" y="0" type="line"/>
-      <point x="693" y="710" type="line"/>
-      <point x="498" y="710" type="line"/>
-      <point x="498" y="349" type="line"/>
-      <point x="213" y="710" type="line"/>
-      <point x="61" y="710" type="line"/>
-      <point x="61" y="0" type="line"/>
-      <point x="256" y="0" type="line"/>
-      <point x="256" y="349" type="line"/>
+      <point x="574" y="0" type="line"/>
+      <point x="688" y="0" type="line"/>
+      <point x="688" y="710" type="line"/>
+      <point x="552" y="710" type="line"/>
+      <point x="552" y="243" type="line"/>
+      <point x="184" y="710" type="line"/>
+      <point x="75" y="710" type="line"/>
+      <point x="75" y="0" type="line"/>
+      <point x="211" y="0" type="line"/>
+      <point x="211" y="456" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>org.robofab.fontlab.mark</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

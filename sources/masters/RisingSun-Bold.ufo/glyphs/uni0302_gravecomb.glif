@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0302_gravecomb" format="2">
+  <advance width="468"/>
+  <outline>
+    <component base="uni0302" xOffset="99" yOffset="-13"/>
+    <component base="gravecomb" xOffset="-65" yOffset="95"/>
+  </outline>
+</glyph>

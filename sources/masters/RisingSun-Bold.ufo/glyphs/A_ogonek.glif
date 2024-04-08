@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aogonek" format="2">
-  <advance width="667"/>
+  <advance width="673"/>
   <unicode hex="0104"/>
   <outline>
     <component base="A"/>
-    <component base="ogonekcomb" xOffset="406" yOffset="-1"/>
+    <component base="uni0328" xOffset="445" yOffset="-1"/>
   </outline>
-  <lib>
-  <dict>
-  <key>org.robofab.fontlab.mark</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

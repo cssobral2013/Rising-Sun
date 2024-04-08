@@ -6,10 +6,4 @@
     <component base="u"/>
     <component base="tildecomb" xOffset="86"/>
   </outline>
-  <lib>
-  <dict>
-  <key>org.robofab.fontlab.mark</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

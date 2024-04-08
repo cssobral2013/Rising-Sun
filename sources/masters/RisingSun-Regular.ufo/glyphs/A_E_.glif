@@ -2,7 +2,6 @@
 <glyph name="AE" format="2">
   <advance width="961"/>
   <unicode hex="00C6"/>
-  <anchor x="602" y="708" name="top"/>
   <outline>
     <contour>
       <point x="-25" y="0" type="line"/>
@@ -28,10 +27,4 @@
       <point x="446" y="288" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>org.robofab.fontlab.mark</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

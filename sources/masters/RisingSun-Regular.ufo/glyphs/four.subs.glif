@@ -2,6 +2,6 @@
 <glyph name="four.subs" format="2">
   <advance width="391"/>
   <outline>
-    <component base="fourinferior"/>
+    <component base="uni2084"/>
   </outline>
 </glyph>

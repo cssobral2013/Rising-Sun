@@ -1,23 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bracketleft" format="2">
-  <advance width="371"/>
+  <advance width="316"/>
   <unicode hex="005B"/>
   <outline>
     <contour>
-      <point x="324" y="-40" type="line"/>
-      <point x="324" y="110" type="line"/>
-      <point x="254" y="110" type="line"/>
-      <point x="254" y="590" type="line"/>
-      <point x="324" y="590" type="line"/>
-      <point x="324" y="740" type="line"/>
-      <point x="79" y="740" type="line"/>
-      <point x="79" y="-40" type="line"/>
+      <point x="269" y="-40" type="line"/>
+      <point x="269" y="68" type="line"/>
+      <point x="206" y="68" type="line"/>
+      <point x="206" y="632" type="line"/>
+      <point x="269" y="632" type="line"/>
+      <point x="269" y="740" type="line"/>
+      <point x="81" y="740" type="line"/>
+      <point x="81" y="-40" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>org.robofab.fontlab.mark</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

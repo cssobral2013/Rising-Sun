@@ -3,7 +3,17 @@
   <advance width="323"/>
   <unicode hex="038A"/>
   <outline>
-    <component base="Iota" xOffset="43"/>
-    <component base="tonos.cap" xScale="0.9916" yScale="0.9916" xOffset="-11" yOffset="-3"/>
+    <contour>
+      <point x="218" y="0" type="line"/>
+      <point x="218" y="710" type="line"/>
+      <point x="128" y="710" type="line"/>
+      <point x="128" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="85" y="871" type="line"/>
+      <point x="-11" y="655" type="line"/>
+      <point x="39" y="630" type="line"/>
+      <point x="156" y="820" type="line"/>
+    </contour>
   </outline>
 </glyph>

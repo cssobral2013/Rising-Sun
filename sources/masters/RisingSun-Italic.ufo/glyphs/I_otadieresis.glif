@@ -3,6 +3,39 @@
   <advance width="327"/>
   <unicode hex="03AA"/>
   <outline>
-    <component base="Idieresis" xScale="0.9916" yScale="0.9916"/>
+    <contour>
+      <point x="20" y="0" type="line"/>
+      <point x="109" y="0" type="line"/>
+      <point x="259" y="703" type="line"/>
+      <point x="170" y="703" type="line"/>
+    </contour>
+    <contour>
+      <point x="266" y="855" type="qcurve" smooth="yes"/>
+      <point x="261" y="832"/>
+      <point x="281" y="799"/>
+      <point x="300" y="799" type="qcurve" smooth="yes"/>
+      <point x="320" y="799"/>
+      <point x="353" y="832"/>
+      <point x="358" y="855" type="qcurve" smooth="yes"/>
+      <point x="363" y="878"/>
+      <point x="344" y="910"/>
+      <point x="324" y="910" type="qcurve" smooth="yes"/>
+      <point x="305" y="910"/>
+      <point x="271" y="878"/>
+    </contour>
+    <contour>
+      <point x="133" y="855" type="qcurve"/>
+      <point x="128" y="832"/>
+      <point x="147" y="799"/>
+      <point x="167" y="799" type="qcurve" smooth="yes"/>
+      <point x="186" y="799"/>
+      <point x="220" y="832"/>
+      <point x="225" y="855" type="qcurve" smooth="yes"/>
+      <point x="230" y="878"/>
+      <point x="210" y="910"/>
+      <point x="190" y="910" type="qcurve" smooth="yes"/>
+      <point x="171" y="910"/>
+      <point x="137" y="878"/>
+    </contour>
   </outline>
 </glyph>

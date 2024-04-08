@@ -2,17 +2,8 @@
 <glyph name="Gdotaccent" format="2">
   <advance width="730"/>
   <unicode hex="0120"/>
-  <anchor x="365" y="918" name="top"/>
   <outline>
     <component base="G"/>
-    <component base="dotaccentcomb" xOffset="275" yOffset="188"/>
+    <component base="uni0307" xOffset="275" yOffset="188"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>G+dotaccentcomb</string>
-  <key>org.robofab.fontlab.mark</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

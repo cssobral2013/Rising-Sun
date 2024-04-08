@@ -3,12 +3,6 @@
   <advance width="342"/>
   <unicode hex="02C6"/>
   <outline>
-    <component base="circumflexcomb"/>
+    <component base="uni0302"/>
   </outline>
-  <lib>
-  <dict>
-  <key>org.robofab.fontlab.mark</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

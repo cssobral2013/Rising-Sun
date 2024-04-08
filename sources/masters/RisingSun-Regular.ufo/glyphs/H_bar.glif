@@ -3,18 +3,25 @@
   <advance width="751"/>
   <unicode hex="0126"/>
   <outline>
-    <component base="H" xOffset="5"/>
     <contour>
       <point x="711" y="529" type="line"/>
       <point x="711" y="595" type="line"/>
       <point x="40" y="595" type="line"/>
       <point x="40" y="529" type="line"/>
     </contour>
+    <contour>
+      <point x="571" y="710" type="line"/>
+      <point x="571" y="403" type="line"/>
+      <point x="180" y="403" type="line"/>
+      <point x="180" y="710" type="line"/>
+      <point x="90" y="710" type="line"/>
+      <point x="90" y="0" type="line"/>
+      <point x="180" y="0" type="line"/>
+      <point x="180" y="323" type="line"/>
+      <point x="571" y="323" type="line"/>
+      <point x="571" y="0" type="line"/>
+      <point x="661" y="0" type="line"/>
+      <point x="661" y="710" type="line"/>
+    </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>org.robofab.fontlab.mark</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

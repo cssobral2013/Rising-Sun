@@ -7,10 +7,4 @@
     <component base="fraction" xOffset="309"/>
     <component base="eight.dnom" xOffset="477"/>
   </outline>
-  <lib>
-  <dict>
-  <key>org.robofab.fontlab.mark</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

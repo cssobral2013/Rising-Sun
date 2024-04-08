@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gdotaccent" format="2">
-  <advance width="683"/>
+  <advance width="685"/>
   <unicode hex="0120"/>
-  <anchor x="535.835" y="914" name="top"/>
   <outline>
-    <component base="G"/>
-    <component base="dotaccentcomb" xOffset="252" yOffset="184"/>
+    <component base="G" xOffset="1"/>
+    <component base="uni0307" xOffset="277" yOffset="185"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>G+dotaccentcomb</string>
-  </dict>
-  </lib>
 </glyph>

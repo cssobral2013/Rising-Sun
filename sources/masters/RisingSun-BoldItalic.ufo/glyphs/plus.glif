@@ -1,27 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="plus" format="2">
-  <advance width="440"/>
+  <advance width="428"/>
   <unicode hex="002B"/>
   <outline>
     <contour>
-      <point x="315" y="430" type="line"/>
-      <point x="315" y="525" type="line"/>
-      <point x="145" y="525" type="line"/>
-      <point x="145" y="430" type="line"/>
-      <point x="60" y="430" type="line"/>
-      <point x="60" y="280" type="line"/>
-      <point x="145" y="280" type="line"/>
-      <point x="145" y="185" type="line"/>
-      <point x="315" y="185" type="line"/>
-      <point x="315" y="280" type="line"/>
-      <point x="400" y="280" type="line"/>
-      <point x="400" y="430" type="line"/>
+      <point x="287" y="411" type="line"/>
+      <point x="287" y="522" type="line"/>
+      <point x="160" y="522" type="line"/>
+      <point x="160" y="411" type="line"/>
+      <point x="60" y="411" type="line"/>
+      <point x="60" y="299" type="line"/>
+      <point x="160" y="299" type="line"/>
+      <point x="160" y="188" type="line"/>
+      <point x="287" y="188" type="line"/>
+      <point x="287" y="299" type="line"/>
+      <point x="388" y="299" type="line"/>
+      <point x="388" y="411" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>org.robofab.fontlab.mark</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

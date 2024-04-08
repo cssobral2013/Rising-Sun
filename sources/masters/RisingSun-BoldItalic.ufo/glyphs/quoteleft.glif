@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quoteleft" format="2">
-  <advance width="266"/>
+  <advance width="239"/>
   <unicode hex="2018"/>
   <outline>
     <contour>
-      <point x="2.1889" y="495" type="line"/>
-      <point x="159.189" y="495" type="line"/>
-      <point x="263.44" y="730" type="line"/>
-      <point x="181.44" y="730" type="line"/>
+      <point x="27" y="502" type="line"/>
+      <point x="149" y="502" type="line"/>
+      <point x="239" y="724" type="line"/>
+      <point x="175" y="724" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>org.robofab.fontlab.mark</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

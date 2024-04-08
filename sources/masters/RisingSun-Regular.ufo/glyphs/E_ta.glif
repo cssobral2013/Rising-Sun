@@ -2,9 +2,6 @@
 <glyph name="Eta" format="2">
   <advance width="714"/>
   <unicode hex="0397"/>
-  <anchor x="364" y="0" name="bottom"/>
-  <anchor x="364" y="549" name="center"/>
-  <anchor x="364" y="720" name="top"/>
   <outline>
     <component base="H"/>
   </outline>

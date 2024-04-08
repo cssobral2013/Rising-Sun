@@ -6,10 +6,4 @@
     <component base="E"/>
     <component base="gravecomb" xOffset="146" yOffset="187"/>
   </outline>
-  <lib>
-  <dict>
-  <key>org.robofab.fontlab.mark</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

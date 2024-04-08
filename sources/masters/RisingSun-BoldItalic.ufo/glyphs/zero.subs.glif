@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zero.subs" format="2">
-  <advance width="496"/>
+  <advance width="474"/>
   <outline>
-    <component base="zero.inferior"/>
+    <component base="uni2080"/>
   </outline>
 </glyph>

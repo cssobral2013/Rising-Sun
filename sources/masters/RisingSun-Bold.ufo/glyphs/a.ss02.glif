@@ -1,46 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="a.ss02" format="2">
-  <advance width="647"/>
+  <advance width="635"/>
   <outline>
     <contour>
-      <point x="268" y="-10" type="curve" smooth="yes"/>
-      <point x="337" y="-10"/>
-      <point x="380" y="16"/>
-      <point x="410" y="69" type="curve"/>
-      <point x="410" y="0" type="line"/>
-      <point x="599" y="0" type="line"/>
-      <point x="599" y="518" type="line"/>
-      <point x="409" y="518" type="line"/>
-      <point x="409" y="448" type="line"/>
-      <point x="379" y="503"/>
-      <point x="319" y="536"/>
-      <point x="249" y="536" type="curve" smooth="yes"/>
-      <point x="116" y="536"/>
-      <point x="20" y="419"/>
-      <point x="20" y="264" type="curve" smooth="yes"/>
-      <point x="20" y="103"/>
-      <point x="123" y="-10"/>
+      <point x="277" y="-10" type="qcurve" smooth="yes"/>
+      <point x="334" y="-10"/>
+      <point x="416" y="40"/>
+      <point x="441" y="85" type="qcurve"/>
+      <point x="441" y="0" type="line"/>
+      <point x="575" y="0" type="line"/>
+      <point x="575" y="518" type="line"/>
+      <point x="441" y="518" type="line"/>
+      <point x="441" y="431" type="line"/>
+      <point x="415" y="478"/>
+      <point x="323" y="534"/>
+      <point x="264" y="534" type="qcurve" smooth="yes"/>
+      <point x="214" y="534"/>
+      <point x="129" y="491"/>
+      <point x="65" y="418"/>
+      <point x="29" y="319"/>
+      <point x="29" y="262" type="qcurve" smooth="yes"/>
+      <point x="29" y="205"/>
+      <point x="66" y="105"/>
+      <point x="132" y="32"/>
+      <point x="223" y="-10"/>
     </contour>
     <contour>
-      <point x="410" y="204" type="line"/>
-      <point x="385" y="168"/>
-      <point x="357" y="150"/>
-      <point x="319" y="150" type="curve" smooth="yes"/>
-      <point x="259" y="150"/>
-      <point x="216" y="194"/>
-      <point x="216" y="260" type="curve" smooth="yes"/>
-      <point x="216" y="323"/>
-      <point x="257" y="376"/>
-      <point x="311" y="376" type="curve" smooth="yes"/>
-      <point x="351" y="376"/>
-      <point x="391" y="346"/>
-      <point x="410" y="298" type="curve"/>
+      <point x="441" y="192" type="line"/>
+      <point x="431" y="173"/>
+      <point x="405" y="140"/>
+      <point x="372" y="117"/>
+      <point x="333" y="104"/>
+      <point x="311" y="104" type="qcurve" smooth="yes"/>
+      <point x="280" y="104"/>
+      <point x="227" y="128"/>
+      <point x="189" y="170"/>
+      <point x="168" y="227"/>
+      <point x="168" y="260" type="qcurve" smooth="yes"/>
+      <point x="168" y="290"/>
+      <point x="189" y="348"/>
+      <point x="225" y="392"/>
+      <point x="276" y="419"/>
+      <point x="306" y="419" type="qcurve" smooth="yes"/>
+      <point x="327" y="419"/>
+      <point x="369" y="404"/>
+      <point x="404" y="377"/>
+      <point x="433" y="339"/>
+      <point x="441" y="315" type="qcurve"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>org.robofab.fontlab.mark</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

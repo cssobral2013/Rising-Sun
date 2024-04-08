@@ -2,9 +2,6 @@
 <glyph name="A" format="2">
   <advance width="677"/>
   <unicode hex="0041"/>
-  <anchor x="348" y="0" name="bottom"/>
-  <anchor x="667" y="0" name="ogonek"/>
-  <anchor x="339" y="708" name="top"/>
   <outline>
     <contour>
       <point x="10" y="0" type="line"/>
@@ -22,10 +19,4 @@
       <point x="467" y="278" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>org.robofab.fontlab.mark</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

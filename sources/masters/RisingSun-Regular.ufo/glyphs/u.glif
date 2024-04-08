@@ -8,28 +8,30 @@
       <point x="525" y="522" type="line"/>
       <point x="437" y="522" type="line"/>
       <point x="437" y="195" type="line"/>
-      <point x="409" y="122"/>
-      <point x="342" y="66"/>
-      <point x="269" y="66" type="curve" smooth="yes"/>
-      <point x="177" y="66"/>
-      <point x="154" y="137"/>
-      <point x="154" y="226" type="curve" smooth="yes"/>
+      <point x="427" y="168"/>
+      <point x="392" y="120"/>
+      <point x="348" y="86"/>
+      <point x="296" y="66"/>
+      <point x="269" y="66" type="qcurve" smooth="yes"/>
+      <point x="235" y="66"/>
+      <point x="190" y="91"/>
+      <point x="164" y="134"/>
+      <point x="154" y="193"/>
+      <point x="154" y="226" type="qcurve" smooth="yes"/>
       <point x="154" y="522" type="line"/>
       <point x="66" y="522" type="line"/>
       <point x="66" y="209" type="line" smooth="yes"/>
-      <point x="66" y="88"/>
-      <point x="104" y="-10"/>
-      <point x="238" y="-10" type="curve" smooth="yes"/>
-      <point x="320" y="-10"/>
-      <point x="400" y="33"/>
-      <point x="440" y="107" type="curve"/>
+      <point x="66" y="164"/>
+      <point x="82" y="84"/>
+      <point x="121" y="24"/>
+      <point x="188" y="-10"/>
+      <point x="238" y="-10" type="qcurve" smooth="yes"/>
+      <point x="269" y="-10"/>
+      <point x="328" y="6"/>
+      <point x="381" y="36"/>
+      <point x="425" y="79"/>
+      <point x="440" y="107" type="qcurve"/>
       <point x="440" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>org.robofab.fontlab.mark</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

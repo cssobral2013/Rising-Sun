@@ -2,45 +2,40 @@
 <glyph name="Idieresis" format="2">
   <advance width="260"/>
   <unicode hex="00CF"/>
-  <anchor x="130" y="0" name="bottom"/>
-  <anchor x="175" y="0" name="ogonek"/>
-  <anchor x="130" y="708" name="top"/>
-  <anchor x="20" y="710" name="topleft"/>
   <outline>
-    <component base="I"/>
     <contour>
-      <point x="11" y="862" type="curve" smooth="yes"/>
-      <point x="11" y="831"/>
-      <point x="32" y="806"/>
-      <point x="59" y="806" type="curve" smooth="yes"/>
-      <point x="86" y="806"/>
-      <point x="108" y="831"/>
-      <point x="108" y="862" type="curve" smooth="yes"/>
-      <point x="108" y="893"/>
-      <point x="86" y="918"/>
-      <point x="59" y="918" type="curve" smooth="yes"/>
-      <point x="32" y="918"/>
-      <point x="11" y="893"/>
+      <point x="175" y="0" type="line"/>
+      <point x="175" y="710" type="line"/>
+      <point x="85" y="710" type="line"/>
+      <point x="85" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="151" y="862" type="curve" smooth="yes"/>
-      <point x="151" y="831"/>
-      <point x="173" y="806"/>
-      <point x="200" y="806" type="curve" smooth="yes"/>
-      <point x="227" y="806"/>
-      <point x="248" y="831"/>
-      <point x="248" y="862" type="curve" smooth="yes"/>
-      <point x="248" y="893"/>
-      <point x="227" y="918"/>
-      <point x="200" y="918" type="curve" smooth="yes"/>
-      <point x="173" y="918"/>
-      <point x="151" y="893"/>
+      <point x="11" y="862" type="qcurve" smooth="yes"/>
+      <point x="11" y="839"/>
+      <point x="39" y="806"/>
+      <point x="59" y="806" type="qcurve" smooth="yes"/>
+      <point x="79" y="806"/>
+      <point x="108" y="839"/>
+      <point x="108" y="862" type="qcurve" smooth="yes"/>
+      <point x="108" y="885"/>
+      <point x="79" y="918"/>
+      <point x="59" y="918" type="qcurve" smooth="yes"/>
+      <point x="39" y="918"/>
+      <point x="11" y="885"/>
+    </contour>
+    <contour>
+      <point x="151" y="862" type="qcurve" smooth="yes"/>
+      <point x="151" y="839"/>
+      <point x="180" y="806"/>
+      <point x="200" y="806" type="qcurve" smooth="yes"/>
+      <point x="220" y="806"/>
+      <point x="248" y="839"/>
+      <point x="248" y="862" type="qcurve" smooth="yes"/>
+      <point x="248" y="885"/>
+      <point x="220" y="918"/>
+      <point x="200" y="918" type="qcurve" smooth="yes"/>
+      <point x="180" y="918"/>
+      <point x="151" y="885"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>org.robofab.fontlab.mark</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

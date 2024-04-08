@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ldot" format="2">
-  <advance width="475"/>
+  <advance width="403"/>
   <unicode hex="0140"/>
   <outline>
     <component base="l"/>
-    <component base="periodcentered" xOffset="262" yOffset="24"/>
+    <component base="periodcentered" xOffset="223" yOffset="24"/>
   </outline>
 </glyph>

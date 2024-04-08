@@ -2,14 +2,7 @@
 <glyph name="grave" format="2">
   <advance width="232"/>
   <unicode hex="0060"/>
-  <anchor x="152" y="521" name="_top"/>
   <outline>
     <component base="gravecomb" xOffset="1"/>
   </outline>
-  <lib>
-  <dict>
-  <key>org.robofab.fontlab.mark</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

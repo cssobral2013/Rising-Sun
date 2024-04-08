@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nine.subs" format="2">
-  <advance width="430"/>
+  <advance width="416"/>
   <outline>
-    <component base="nine.inferior"/>
+    <component base="uni2089"/>
   </outline>
 </glyph>

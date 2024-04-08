@@ -2,10 +2,4 @@
 <glyph name="space" format="2">
   <advance width="253"/>
   <unicode hex="0020"/>
-  <lib>
-  <dict>
-  <key>org.robofab.fontlab.mark</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

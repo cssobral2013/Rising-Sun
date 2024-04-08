@@ -2,16 +2,7 @@
 <glyph name="Nu" format="2">
   <advance width="739"/>
   <unicode hex="039D"/>
-  <anchor x="302" y="0" name="bottom"/>
-  <anchor x="537" y="0" name="leghookright"/>
-  <anchor x="471" y="720" name="top"/>
   <outline>
     <component base="N"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsWidth</key>
-  <string>N</string>
-  </dict>
-  </lib>
 </glyph>

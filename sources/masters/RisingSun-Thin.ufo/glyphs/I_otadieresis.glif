@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iotadieresis" format="2">
+  <advance width="278"/>
+  <unicode hex="03AA"/>
+  <outline>
+    <contour>
+      <point x="117" y="0" type="line"/>
+      <point x="117" y="698" type="line"/>
+      <point x="97" y="698" type="line"/>
+      <point x="97" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="18" y="865" type="qcurve" smooth="yes"/>
+      <point x="18" y="851"/>
+      <point x="37" y="832"/>
+      <point x="51" y="832" type="qcurve" smooth="yes"/>
+      <point x="65" y="832"/>
+      <point x="85" y="851"/>
+      <point x="85" y="865" type="qcurve" smooth="yes"/>
+      <point x="85" y="879"/>
+      <point x="65" y="898"/>
+      <point x="51" y="898" type="qcurve" smooth="yes"/>
+      <point x="37" y="898"/>
+      <point x="18" y="879"/>
+    </contour>
+    <contour>
+      <point x="130" y="865" type="qcurve" smooth="yes"/>
+      <point x="130" y="851"/>
+      <point x="149" y="832"/>
+      <point x="163" y="832" type="qcurve" smooth="yes"/>
+      <point x="177" y="832"/>
+      <point x="197" y="851"/>
+      <point x="197" y="865" type="qcurve" smooth="yes"/>
+      <point x="197" y="879"/>
+      <point x="177" y="898"/>
+      <point x="163" y="898" type="qcurve" smooth="yes"/>
+      <point x="149" y="898"/>
+      <point x="130" y="879"/>
+    </contour>
+  </outline>
+</glyph>

@@ -2,7 +2,6 @@
 <glyph name="anoteleia" format="2">
   <advance width="230"/>
   <unicode hex="0387"/>
-  <anchor x="116" y="279" name="_dot"/>
   <outline>
     <component base="periodcentered"/>
   </outline>

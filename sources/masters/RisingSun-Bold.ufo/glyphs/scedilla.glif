@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="scedilla" format="2">
-  <advance width="501"/>
+  <advance width="494"/>
   <unicode hex="015F"/>
-  <anchor x="262" y="0" name="bottom"/>
-  <anchor x="259" y="526" name="top"/>
   <outline>
     <component base="s"/>
-    <component base="cedillacomb" xOffset="68"/>
+    <component base="uni0327" xOffset="79"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>s+cedillacomb</string>
-  <key>org.robofab.fontlab.mark</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

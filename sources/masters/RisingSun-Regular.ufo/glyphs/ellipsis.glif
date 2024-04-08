@@ -7,10 +7,4 @@
     <component base="period" xOffset="202"/>
     <component base="period" xOffset="404"/>
   </outline>
-  <lib>
-  <dict>
-  <key>org.robofab.fontlab.mark</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

@@ -2,8 +2,6 @@
 <glyph name="T" format="2">
   <advance width="586"/>
   <unicode hex="0054"/>
-  <anchor x="229" y="0" name="bottom"/>
-  <anchor x="380" y="708" name="top"/>
   <outline>
     <contour>
       <point x="183" y="0" type="line"/>

@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seveneighths" format="2">
-  <advance width="1045"/>
+  <advance width="956"/>
   <unicode hex="215E"/>
   <outline>
     <component base="seven.numr"/>
-    <component base="fraction" xOffset="366"/>
-    <component base="eight.dnom" xOffset="606"/>
+    <component base="fraction" xOffset="335"/>
+    <component base="eight.dnom" xOffset="535"/>
   </outline>
-  <lib>
-  <dict>
-  <key>org.robofab.fontlab.mark</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

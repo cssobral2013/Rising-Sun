@@ -2,15 +2,7 @@
 <glyph name="Chi" format="2">
   <advance width="610"/>
   <unicode hex="03A7"/>
-  <anchor x="281" y="0" name="bottom"/>
-  <anchor x="445" y="720" name="top"/>
   <outline>
     <component base="X"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.metricsWidth</key>
-  <string>X</string>
-  </dict>
-  </lib>
 </glyph>

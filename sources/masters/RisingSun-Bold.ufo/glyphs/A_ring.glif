@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aring" format="2">
-  <advance width="667"/>
+  <advance width="673"/>
   <unicode hex="00C5"/>
   <outline>
     <component base="A"/>
-    <component base="ringcomb" xOffset="197" yOffset="184"/>
+    <component base="uni030A" xOffset="206" yOffset="185"/>
   </outline>
-  <lib>
-  <dict>
-  <key>org.robofab.fontlab.mark</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

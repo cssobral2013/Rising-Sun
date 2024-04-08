@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Jcircumflex" format="2">
-  <advance width="589"/>
+  <advance width="559"/>
   <unicode hex="0134"/>
-  <anchor x="428" y="708" name="m.uni0302"/>
-  <anchor x="0" y="0" name="m.uni031B_1"/>
-  <anchor x="0" y="0" name="b.uni0326_2"/>
-  <anchor x="0" y="0" name="b.uni0328_3"/>
-  <anchor x="0" y="0" name="b.uni0335_4"/>
-  <anchor x="481.091" y="914" name="top"/>
   <outline>
     <component base="J"/>
-    <component base="circumflexcomb" xOffset="223" yOffset="184"/>
+    <component base="uni0302" xOffset="283" yOffset="186"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>J+circumflexcomb</string>
-  </dict>
-  </lib>
 </glyph>

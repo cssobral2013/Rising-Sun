@@ -2,15 +2,8 @@
 <glyph name="Gcaron" format="2">
   <advance width="730"/>
   <unicode hex="01E6"/>
-  <anchor x="365" y="918" name="top"/>
   <outline>
     <component base="G"/>
-    <component base="caroncomb" xOffset="194" yOffset="188"/>
+    <component base="uni030C" xOffset="194" yOffset="188"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>G+caroncomb</string>
-  </dict>
-  </lib>
 </glyph>

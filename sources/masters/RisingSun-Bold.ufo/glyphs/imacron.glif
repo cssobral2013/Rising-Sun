@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="imacron" format="2">
-  <advance width="286"/>
+  <advance width="255"/>
   <unicode hex="012B"/>
   <outline>
-    <component base="idotless"/>
-    <component base="macroncomb" xOffset="-75"/>
+    <component base="dotlessi"/>
+    <component base="uni0304" xOffset="-81"/>
   </outline>
-  <lib>
-  <dict>
-  <key>org.robofab.fontlab.mark</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

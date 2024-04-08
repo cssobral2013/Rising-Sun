@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedblright" format="2">
-  <advance width="532"/>
+  <advance width="426"/>
   <unicode hex="201D"/>
   <outline>
-    <component base="quoteright" xOffset="256"/>
-    <component base="quoteright" xOffset="70"/>
+    <contour>
+      <point x="266" y="505" type="line"/>
+      <point x="341" y="619" type="line"/>
+      <point x="353" y="725" type="line"/>
+      <point x="266" y="611" type="line"/>
+    </contour>
+    <contour>
+      <point x="106" y="505" type="line"/>
+      <point x="181" y="619" type="line"/>
+      <point x="194" y="725" type="line"/>
+      <point x="106" y="611" type="line"/>
+    </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.recipe</key>
-  <string>quoteleft_quoteleft</string>
-  <key>org.robofab.fontlab.mark</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

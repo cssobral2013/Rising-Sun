@@ -3,12 +3,6 @@
   <advance width="202"/>
   <unicode hex="00B7"/>
   <outline>
-    <component base="period" yOffset="261"/>
+    <component base="period" xOffset="-58" yOffset="261"/>
   </outline>
-  <lib>
-  <dict>
-  <key>org.robofab.fontlab.mark</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

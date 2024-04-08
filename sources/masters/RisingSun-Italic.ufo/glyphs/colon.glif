@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="colon" format="2">
-  <advance width="201"/>
+  <advance width="268"/>
   <unicode hex="003A"/>
   <outline>
-    <component base="period"/>
-    <component base="period" xOffset="89" yOffset="417"/>
+    <component base="period" xOffset="-45"/>
+    <component base="period" xOffset="44" yOffset="417"/>
   </outline>
-  <lib>
-  <dict>
-  <key>org.robofab.fontlab.mark</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>

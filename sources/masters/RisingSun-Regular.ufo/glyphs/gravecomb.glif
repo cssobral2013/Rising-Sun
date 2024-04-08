@@ -2,8 +2,6 @@
 <glyph name="gravecomb" format="2">
   <advance width="232"/>
   <unicode hex="0300"/>
-  <anchor x="188" y="521" name="_top"/>
-  <anchor x="121" y="730" name="top"/>
   <outline>
     <contour>
       <point x="37" y="760" type="line"/>

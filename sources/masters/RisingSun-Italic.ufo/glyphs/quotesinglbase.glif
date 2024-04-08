@@ -5,10 +5,4 @@
   <outline>
     <component base="quoteright" xOffset="-132" yOffset="-620"/>
   </outline>
-  <lib>
-  <dict>
-  <key>org.robofab.fontlab.mark</key>
-  <real>0</real>
-  </dict>
-  </lib>
 </glyph>
