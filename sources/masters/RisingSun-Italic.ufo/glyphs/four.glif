@@ -16,8 +16,8 @@
       <point x="278" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="111" y="261" type="line"/>
-      <point x="409" y="575" type="line"/>
+      <point x="121" y="261" type="line"/>
+      <point x="406" y="565" type="line"/>
       <point x="342" y="261" type="line"/>
     </contour>
   </outline>

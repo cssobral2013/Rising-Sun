@@ -69,11 +69,5 @@
       <point x="199" y="395"/>
       <point x="218" y="367" type="qcurve" smooth="yes"/>
     </contour>
-    <contour>
-      <point x="472" y="347" type="line"/>
-      <point x="638" y="347" type="line"/>
-      <point x="653" y="416" type="line"/>
-      <point x="487" y="416" type="line"/>
-    </contour>
   </outline>
 </glyph>

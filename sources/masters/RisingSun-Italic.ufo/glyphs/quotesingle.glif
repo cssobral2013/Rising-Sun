@@ -5,4 +5,12 @@
   <outline>
     <component base="comma" xOffset="170" yOffset="650"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=40</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>=210</string>
+  </dict>
+  </lib>
 </glyph>
