@@ -2,6 +2,9 @@
 <glyph name="Kjecyr" format="2">
   <advance width="688"/>
   <unicode hex="040C"/>
+  <anchor x="507" y="0" name="bottomright"/>
+  <anchor x="258" y="357" name="center"/>
+  <anchor x="390" y="916" name="top"/>
   <outline>
     <component base="Kacyr"/>
     <component base="acutecomb" xOffset="269" yOffset="186"/>

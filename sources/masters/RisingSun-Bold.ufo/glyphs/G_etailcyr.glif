@@ -2,6 +2,7 @@
 <glyph name="Getailcyr" format="2">
   <advance width="537"/>
   <unicode hex="04F6"/>
+  <anchor x="330" y="710" name="top"/>
   <outline>
     <contour>
       <point x="213" y="0" type="line"/>

@@ -2,6 +2,9 @@
 <glyph name="acyr" format="2">
   <advance width="574"/>
   <unicode hex="0430"/>
+  <anchor x="273" y="524" name="top"/>
+  <anchor x="299" y="0" name="bottom"/>
+  <anchor x="546" y="0" name="ogonek"/>
   <outline>
     <component base="a"/>
   </outline>

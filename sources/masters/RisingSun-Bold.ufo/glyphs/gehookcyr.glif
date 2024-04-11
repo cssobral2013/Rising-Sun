@@ -2,6 +2,8 @@
 <glyph name="gehookcyr" format="2">
   <advance width="573"/>
   <unicode hex="0495"/>
+  <anchor x="65" y="0" name="bottomright"/>
+  <anchor x="275" y="524" name="top"/>
   <outline>
     <contour>
       <point x="332" y="-204" type="qcurve" smooth="yes"/>

@@ -2,6 +2,10 @@
 <glyph name="Engecyr" format="2">
   <advance width="993"/>
   <unicode hex="04A4"/>
+  <anchor x="373" y="0" name="bottom"/>
+  <anchor x="373" y="355" name="center"/>
+  <anchor x="376" y="709" name="top"/>
+  <anchor x="20" y="710" name="topleft"/>
   <outline>
     <contour>
       <point x="968" y="589" type="line"/>

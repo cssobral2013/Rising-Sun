@@ -2,6 +2,7 @@
 <glyph name="Ylongdieresiscyr" format="2">
   <advance width="920"/>
   <unicode hex="04F8"/>
+  <anchor x="464" y="907" name="top"/>
   <outline>
     <component base="Ylongcyr"/>
     <component base="dieresiscomb" xOffset="232" yOffset="187"/>

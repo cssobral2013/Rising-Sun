@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedillacomb" format="2">
+  <advance width="296"/>
+  <unicode hex="0327"/>
+  <outline>
+    <contour>
+      <point x="-51.7055" y="-197" type="line"/>
+      <point x="66.7958" y="-40" type="line"/>
+      <point x="-27.4684" y="-33" type="line"/>
+      <point x="-100.97" y="-190" type="line"/>
+    </contour>
+  </outline>
+</glyph>

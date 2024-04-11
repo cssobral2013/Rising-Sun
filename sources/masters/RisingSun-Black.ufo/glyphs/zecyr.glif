@@ -2,6 +2,8 @@
 <glyph name="zecyr" format="2">
   <advance width="528"/>
   <unicode hex="0437"/>
+  <anchor x="256" y="0" name="bottom"/>
+  <anchor x="258" y="526" name="top"/>
   <outline>
     <contour>
       <point x="266" y="-10" type="qcurve" smooth="yes"/>

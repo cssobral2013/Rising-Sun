@@ -2,6 +2,9 @@
 <glyph name="chedieresiscyr" format="2">
   <advance width="549"/>
   <unicode hex="04F5"/>
+  <anchor x="351" y="0" name="bottomright"/>
+  <anchor x="265" y="212" name="center"/>
+  <anchor x="272" y="721" name="top"/>
   <outline>
     <component base="checyr"/>
     <component base="dieresiscomb" xOffset="43" yOffset="1"/>

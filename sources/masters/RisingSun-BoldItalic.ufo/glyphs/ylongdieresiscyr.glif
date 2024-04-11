@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ylongdieresiscyr" format="2">
+  <advance width="772"/>
+  <unicode hex="04F9"/>
+  <anchor x="490" y="723" name="top"/>
+  <outline>
+    <component base="ylongcyr" xOffset="-1"/>
+    <component base="dieresiscomb" xOffset="179" yOffset="1"/>
+  </outline>
+</glyph>

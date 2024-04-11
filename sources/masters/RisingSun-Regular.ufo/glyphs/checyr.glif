@@ -2,6 +2,9 @@
 <glyph name="checyr" format="2">
   <advance width="527"/>
   <unicode hex="0447"/>
+  <anchor x="367" y="0" name="bottomright"/>
+  <anchor x="252" y="213" name="center"/>
+  <anchor x="263" y="522" name="top"/>
   <outline>
     <contour>
       <point x="456" y="0" type="line"/>

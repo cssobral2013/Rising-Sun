@@ -2,6 +2,8 @@
 <glyph name="ucyr" format="2">
   <advance width="549"/>
   <unicode hex="0443"/>
+  <anchor x="287" y="524" name="top"/>
+  <anchor x="443" y="0" name="bottom"/>
   <outline>
     <component base="y"/>
   </outline>

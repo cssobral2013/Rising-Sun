@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ustraightcyr" format="2">
+  <advance width="620"/>
+  <unicode hex="04AE"/>
+  <anchor x="241" y="0" name="bottomviet"/>
+  <anchor x="380" y="708" name="top"/>
+  <anchor x="20" y="710" name="topleft"/>
+  <outline>
+    <component base="Y"/>
+  </outline>
+</glyph>

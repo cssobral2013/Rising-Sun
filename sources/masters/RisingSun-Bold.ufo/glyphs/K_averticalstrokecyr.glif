@@ -2,6 +2,8 @@
 <glyph name="Kaverticalstrokecyr" format="2">
   <advance width="682"/>
   <unicode hex="049C"/>
+  <anchor x="502" y="0" name="bottomright"/>
+  <anchor x="320" y="351" name="_center"/>
   <outline>
     <contour>
       <point x="210" y="0" type="line"/>

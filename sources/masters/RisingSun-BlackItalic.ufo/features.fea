@@ -1,20 +1,20 @@
 #> classes
 #/> otclasses
-@aalt = [slash A G O W d l o q t u w y periodcentered Scedilla scedilla uni0162 uni0163 uni0414 uni041B uni0424 uni0431 uni0432 uni0433 uni0436 uni0437 uni043A uni0442 uni044E uni0453 uni0492 uni0493 uni0498 uni0499 zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr brevecomb-cy];
-@aalt2 = [fraction ordfeminine G.ss11 ordmasculine W.ss09 d.ss03 l.ss05 ordmasculine q.ss06 t.ss07 u.ss08 w.ss09 y.ss10 periodcentered.loclCAT uni0218 uni0219 uni021A uni021B uni0414.loclBGR uni041B.loclBGR uni0424.loclBGR uni0431.loclSRB uni0432.loclBGR uni0433.loclSRB uni0436.loclBGR uni0437.loclBGR uni043A.loclBGR uni0442.loclBGR uni044E.loclBGR uni0453.loclMKD uni0492.loclBSH uni0493.loclBSH uni0498.loclBSH uni0499.loclBSH zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom brevecomb-cy.case];
-@ccmp = [gravecomb acutecomb uni0302 tildecomb uni0304 uni0306 uni0307 uni0308 uni030A uni030B uni030C uni0312 hookabovecomb uni030F uni0311];
-@ccmp2 = [Lslash Zcaron A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Scaron OE Ydieresis Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn Amacron Aogonek Ccaron Cacute Zacute Dcaron Emacron Edotaccent Ecaron Eogonek Iogonek Imacron uni0136 uni013B Lcaron Lacute uni0145 Nacute Ncaron Ohungarumlaut Omacron Racute Rcaron uni0156 Sacute Tcaron Umacron Uring Uhungarumlaut Uogonek Zdotaccent uni0122 Dcroat uni0410 uni0411 uni0412 uni0413 uni0414 uni0415 uni0416 uni0417 uni0418 uni0419 uni041A uni041B uni041C uni041D uni041E uni041F uni0420 uni0421 uni0422 uni0423 uni0424 uni0425 uni0426 uni0427 uni0428 uni0429 uni042A uni042B uni042C uni042D uni042E uni042F uni0490 uni0406 uni0402 uni0403 uni0408 uni0404 uni0407 uni0409 uni040A uni0405 uni040B uni040C uni040E uni040F uni0401 Abreve uni0218 uni021A Gbreve Idotaccent Scedilla Ccircumflex Cdotaccent Ebreve Gcircumflex Gdotaccent Hcircumflex Hbar Itilde Ibreve Jcircumflex Ldot Eng Obreve Scircumflex uni0162 Tbar Utilde Ubreve Wcircumflex Ycircumflex Aringacute AEacute Oslashacute uni0400 uni040D uni0462 uni0472 uni0474 Wgrave Wacute Wdieresis Ygrave uni0492 uni0494 uni0496 uni0498 uni049A uni049C uni04A0 uni04A2 uni04A4 uni04AA uni04AE uni04B0 uni04B6 uni04B8 uni04BA uni04C0 uni04CB uni04D0 uni04D2 uni04D4 uni04D6 uni04D8 uni04DC uni04DE uni04E2 uni04E4 uni04E6 uni04E8 uni04EE uni04F0 uni04F2 uni04F4 uni04F6 uni04F8 uni051C Ohorn Uhorn Gcaron uni01EA uni0200 uni0202 uni0204 uni0206 uni0208 uni020A uni020C uni020E uni0210 uni0212 uni0214 uni0216 uni022A uni022C uni0230 uni0232 uni04C1 uni1E08 uni1E0C uni1E0E uni1E14 uni1E16 uni1E1C uni1E20 uni1E24 uni1E2A uni1E2E uni1E36 uni1E3A uni1E42 uni1E44 uni1E46 uni1E48 uni1E4C uni1E4E uni1E50 uni1E52 uni1E5A uni1E5E uni1E60 uni1E62 uni1E64 uni1E66 uni1E68 uni1E6C uni1E6E uni1E78 uni1E7A uni1E8E uni1E92 uni1EA0 uni1EA2 uni1EA4 uni1EA6 uni1EA8 uni1EAA uni1EAC uni1EAE uni1EB0 uni1EB2 uni1EB4 uni1EB6 uni1EB8 uni1EBA uni1EBC uni1EBE uni1EC0 uni1EC2 uni1EC4 uni1EC6 uni1EC8 uni1ECA uni1ECC uni1ECE uni1ED0 uni1ED2 uni1ED4 uni1ED6 uni1ED8 uni1EDA uni1EDC uni1EDE uni1EE0 uni1EE2 uni1EE4 uni1EE6 uni1EE8 uni1EEA uni1EEC uni1EEE uni1EF0 uni1EF4 uni1EF6 uni1EF8 Germandbls G.ss11 W.ss09 uni018F uni046A uni051A uni0524 uni0414.loclBGR uni041B.loclBGR uni0424.loclBGR uni0492.loclBSH uni0498.loclBSH uni04AA.loclBSH uni04AA.loclCHU];
+@aalt = [slash A G O W d l o q t u w y periodcentered Scedilla scedilla Tcedilla tcedilla Decyr Elcyr Efcyr becyr vecyr gecyr zhecyr zecyr kacyr tecyr yucyr gjecyr Gestrokecyr gestrokecyr Zetailcyr zetailcyr zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr brevecomb-cy];
+@aalt2 = [fraction ordfeminine G.ss11 ordmasculine W.ss09 d.ss03 l.ss05 ordmasculine q.ss06 t.ss07 u.ss08 w.ss09 y.ss10 periodcentered.loclCAT Scommaaccent scommaaccent Tcommaaccent tcommaaccent Decyr.loclBGR Elcyr.loclBGR Efcyr.loclBGR becyr.loclSRB vecyr.loclBGR gecyr.loclSRB zhecyr.loclBGR zecyr.loclBGR kacyr.loclBGR tecyr.loclBGR yucyr.loclBGR gjecyr.loclMKD Gestrokecyr.loclBSH gestrokecyr.loclBSH Zetailcyr.loclBSH zetailcyr.loclBSH zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom brevecomb-cy.case];
+@ccmp = [gravecomb acutecomb circumflexcomb tildecomb macroncomb brevecomb dotaccentcomb dieresiscomb ringcomb hungarumlautcomb caroncomb commaturnedabovecomb hookabovecomb dblgravecomb breveinvertedcomb];
+@ccmp2 = [Lslash Zcaron A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Scaron OE Ydieresis Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn Amacron Aogonek Ccaron Cacute Zacute Dcaron Emacron Edotaccent Ecaron Eogonek Iogonek Imacron Kcommaaccent Lcommaaccent Lcaron Lacute Ncommaaccent Nacute Ncaron Ohungarumlaut Omacron Racute Rcaron Rcommaaccent Sacute Tcaron Umacron Uring Uhungarumlaut Uogonek Zdotaccent Gcommaaccent Dcroat Acyr Becyr Vecyr Gecyr Decyr Iecyr Zhecyr Zecyr Icyr Ishortcyr Kacyr Elcyr Emcyr Encyr Ocyr Pecyr Ercyr Escyr Tecyr Ucyr Efcyr Hacyr Tsecyr Checyr Shacyr Shchacyr Hardcyr Ylongcyr Softcyr Ereversedcyr Yucyr Yacyr Geupcyr Iukrcyr Djecyr Gjecyr Jecyr Eukrcyr Yukrcyr Ljecyr Njecyr Dzecyr Tshecyr Kjecyr Ushortcyr Dzhecyr Iocyr Abreve Scommaaccent Tcommaaccent Gbreve Idotaccent Scedilla Ccircumflex Cdotaccent Ebreve Gcircumflex Gdotaccent Hcircumflex Hbar Itilde Ibreve Jcircumflex Ldot Eng Obreve Scircumflex Tcedilla Tbar Utilde Ubreve Wcircumflex Ycircumflex Aringacute AEacute Oslashacute Iegravecyr Igravecyr Yatcyr Fitacyr Izhitsacyr Wgrave Wacute Wdieresis Ygrave Gestrokecyr Gehookcyr Zhetailcyr Zetailcyr Katailcyr Kaverticalstrokecyr Kabashkcyr Entailcyr Engecyr Estailcyr Ustraightcyr Ustraightstrokecyr Chetailcyr Chevertcyr Shhacyr Palochkacyr Chekhakascyr Abrevecyr Adieresiscyr Aiecyr Iebrevecyr Schwacyr Zhedieresiscyr Zedieresiscyr Imacroncyr Idieresiscyr Odieresiscyr Obarcyr Umacroncyr Udieresiscyr Uacutedblcyr Chedieresiscyr Getailcyr Ylongdieresiscyr Wecyr Ohorn Uhorn Gcaron Oogonek Adblgrave Ainvertedbreve Edblgrave Einvertedbreve Idblgrave Iinvertedbreve Odblgrave Oinvertedbreve Rdblgrave Rinvertedbreve Udblgrave Uinvertedbreve Odieresismacron Otildemacron Odotaccentmacron Ymacron Zhebrevecyr Ccedillaacute Ddotbelow Dlinebelow Emacrongrave Emacronacute Ecedillabreve Gmacron Hdotbelow Hbrevebelow Idieresisacute Ldotbelow Llinebelow Mdotbelow Ndot Ndotbelow Nlinebelow Otildeacute Otildedieresis Omacrongrave Omacronacute Rdotbelow Rlinebelow Sdot Sdotbelow Sacutedotaccent Scarondot Sdotbelowdotabove Tdotbelow Tlinebelow Utildeacute Umacrondieresis Ydot Zdotbelow Adotbelow Ahoi Acircumflexacute Acircumflexgrave Acircumflexhoi Acircumflextilde Acircumflexdotbelow Abreveacute Abrevegrave Abrevehoi Abrevetilde Abrevedotbelow Edotbelow Ehoi Etilde Ecircumflexacute Ecircumflexgrave Ecircumflexhoi Ecircumflextilde Ecircumflexdotbelow Ihoi Idotbelow Odotbelow Ohoi Ocircumflexacute Ocircumflexgrave Ocircumflexhoi Ocircumflextilde Ocircumflexdotbelow Ohornacute Ohorngrave Ohornhoi Ohorntilde Ohorndotbelow Udotbelow Uhoi Uhornacute Uhorngrave Uhornhoi Uhorntilde Uhorndotbelow Ydotbelow Yhoi Ytilde Germandbls G.ss11 W.ss09 Schwa Yusbigcyr Qacyr Petailcyr Decyr.loclBGR Elcyr.loclBGR Efcyr.loclBGR Gestrokecyr.loclBSH Zetailcyr.loclBSH Estailcyr.loclBSH Estailcyr.loclCHU];
 @dnom_frac = [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
-@dnom_numr_ordn_pnum_sinf_subs_sups_tnum = [zero one two three four five six seven eight nine];
-@frac = [slash zero one two three four five six seven eight nine];
+@dnom_numr_ordn_pnum_sinf_subs_sups_tnum = [zero.pnum one.pnum two.pnum three.pnum four.pnum five.pnum six.pnum seven.pnum eight.pnum nine.pnum];
+@frac = [slash zero.pnum one.pnum two.pnum three.pnum four.pnum five.pnum six.pnum seven.pnum eight.pnum nine.pnum];
 @frac2 = [fraction zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
 @frac_numr = [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
-@locl = [uni0414 uni041B uni0424 uni0432 uni0434 uni0436 uni0437 uni043A uni043F uni0442 uni044E];
-@locl2 = [uni0414.loclBGR uni041B.loclBGR uni0424.loclBGR uni0432.loclBGR uni0434.loclBGR uni0436.loclBGR uni0437.loclBGR uni043A.loclBGR uni043F.loclBGR uni0442.loclBGR uni044E.loclBGR];
-@pnum_tnum = [zero.tnum one.tnum two.tnum three.tnum four.tnum five.tnum six.tnum seven.tnum eight.tnum nine.tnum];
+@locl = [Decyr Elcyr Efcyr vecyr decyr zhecyr zecyr kacyr pecyr tecyr yucyr];
+@locl2 = [Decyr.loclBGR Elcyr.loclBGR Efcyr.loclBGR vecyr.loclBGR decyr.loclBGR zhecyr.loclBGR zecyr.loclBGR kacyr.loclBGR pecyr.loclBGR tecyr.loclBGR yucyr.loclBGR];
+@pnum_tnum = [zero one two three four five six seven eight nine];
 @sinf = [zero.subs one.subs two.subs three.subs four.subs five.subs six.subs seven.subs eight.subs nine.subs];
-@subs = [uni2080 uni2081 uni2082 uni2083 uni2084 uni2085 uni2086 uni2087 uni2088 uni2089];
-@sups = [uni2070 onesuperior twosuperior threesuperior uni2074 uni2075 uni2076 uni2077 uni2078 uni2079];
+@subs = [zero.inferior one.inferior two.inferior three.inferior four.inferior five.inferior six.inferior seven.inferior eight.inferior nine.inferior];
+@sups = [zero.superior onesuperior twosuperior threesuperior four.superior five.superior six.superior seven.superior eight.superior nine.superior];
 #/< otclasses
 #< classes
 
@@ -67,24 +67,29 @@ feature aalt useExtension {
 # Lookups: 2
 
   sub @aalt by @aalt2;
-  sub zero from [uni2080 zero.subs uni2070 zero.numr zero.dnom];
-  sub one from [uni2081 one.subs onesuperior one.numr one.dnom];
-  sub two from [uni2082 two.subs twosuperior two.numr two.dnom];
-  sub three from [uni2083 three.subs threesuperior three.numr three.dnom];
-  sub four from [uni2084 four.subs uni2074 four.numr four.dnom];
-  sub five from [uni2085 five.subs uni2075 five.numr five.dnom];
-  sub six from [uni2086 six.subs uni2076 six.numr six.dnom];
-  sub seven from [uni2087 seven.subs uni2077 seven.numr seven.dnom];
-  sub eight from [uni2088 eight.subs uni2078 eight.numr eight.dnom];
-  sub nine from [uni2089 nine.subs uni2079 nine.numr nine.dnom];
+  sub zero.pnum from [zero.inferior zero.subs zero.superior zero.numr zero.dnom];
+  sub one.pnum from [one.inferior one.subs onesuperior one.numr one.dnom];
+  sub two.pnum from [two.inferior two.subs twosuperior two.numr two.dnom];
+  sub three.pnum from [three.inferior three.subs threesuperior three.numr three.dnom];
+  sub four.pnum from [four.inferior four.subs four.superior four.numr four.dnom];
+  sub five.pnum from [five.inferior five.subs five.superior five.numr five.dnom];
+  sub six.pnum from [six.inferior six.subs six.superior six.numr six.dnom];
+  sub seven.pnum from [seven.inferior seven.subs seven.superior seven.numr seven.dnom];
+  sub eight.pnum from [eight.inferior eight.subs eight.superior eight.numr eight.dnom];
+  sub nine.pnum from [nine.inferior nine.subs nine.superior nine.numr nine.dnom];
   sub a from [ordfeminine a.ss01 a.ss02];
   sub i from [dotlessi idotaccent];
-  sub j from [uni0237 j.ss04];
-  sub uni0434 from [uni0434.loclSRB uni0434.loclBGR];
-  sub uni043F from [uni043F.loclSRB uni043F.loclBGR];
-  sub uni04AA from [uni04AA.loclCHU uni04AA.loclBSH];
-  sub uni04AB from [uni04AB.loclCHU uni04AB.loclBSH];
+  sub j from [dotlessj j.ss04];
+  sub decyr from [decyr.loclSRB decyr.loclBGR];
+  sub pecyr from [pecyr.loclSRB pecyr.loclBGR];
+  sub Estailcyr from [Estailcyr.loclCHU Estailcyr.loclBSH];
+  sub estailcyr from [estailcyr.loclCHU estailcyr.loclBSH];
 } aalt;
+
+
+
+
+
 feature ccmp {
 # GSUB feature: Glyph Composition / Decomposition
 # Lookups: 3
@@ -92,8 +97,8 @@ feature ccmp {
 
   lookup ccmp_1 {
   # GSUB lookup 3, type 16 (Chaining Context)
-    sub [i j]' @ccmp by [dotlessi uni0237];
-    sub [i j]' [uni031B dotbelowcomb uni0324 uni0327 uni0328 uni032E uni0331 uni0335] @ccmp by [dotlessi uni0237];
+    sub [i j]' @ccmp by [dotlessi dotlessj];
+    sub [i j]' [horncomb dotbelowcomb dieresisbelowcomb cedillacomb ogonekcomb brevebelowcomb macronbelowcomb strokeshortcomb] @ccmp by [dotlessi dotlessj];
     sub brevecomb-cy brevecomb-cy' by brevecomb-cy.case;
     sub @ccmp2 brevecomb-cy' by brevecomb-cy.case;
   } ccmp_1;
@@ -107,14 +112,14 @@ feature ccmp {
 
 
   script latn; # Latin
-  sub uni0302 gravecomb by uni0302_gravecomb;
-  sub uni0302 acutecomb by uni0302_acutecomb;
-  sub uni0302 tildecomb by uni0302_tildecomb;
-  sub uni0302 hookabovecomb by uni0302_hookabovecomb;
-  sub uni0306 gravecomb by uni0306_gravecomb;
-  sub uni0306 acutecomb by uni0306_acutecomb;
-  sub uni0306 tildecomb by uni0306_tildecomb;
-  sub uni0306 hookabovecomb by uni0306_hookabovecomb;
+  sub circumflexcomb gravecomb by circumflexcomb_gravecomb;
+  sub circumflexcomb acutecomb by circumflexcomb_acutecomb;
+  sub circumflexcomb tildecomb by circumflexcomb_tildecomb;
+  sub circumflexcomb hookabovecomb by circumflexcomb_hookabovecomb;
+  sub brevecomb gravecomb by brevecomb_gravecomb;
+  sub brevecomb acutecomb by brevecomb_acutecomb;
+  sub brevecomb tildecomb by brevecomb_tildecomb;
+  sub brevecomb hookabovecomb by brevecomb_hookabovecomb;
     language AZE  exclude_dflt; # Azerbaijani
     lookup ccmp_1;
     lookup ccmp_3;
@@ -156,6 +161,11 @@ feature ccmp {
     language CHU ; # Chuvash
 
 } ccmp;
+
+
+
+
+
 feature locl {
 # GSUB feature: Localized Forms
 # Lookups: 13
@@ -168,10 +178,10 @@ feature locl {
     sub i by idotaccent;
 
     language MOL ; # Moldavian
-    sub [Scedilla scedilla uni0162 uni0163] by [uni0218 uni0219 uni021A uni021B];
+    sub [Scedilla scedilla Tcedilla tcedilla] by [Scommaaccent scommaaccent Tcommaaccent tcommaaccent];
 
     language ROM ; # Romanian
-    sub [Scedilla scedilla uni0162 uni0163] by [uni0218 uni0219 uni021A uni021B];
+    sub [Scedilla scedilla Tcedilla tcedilla] by [Scommaaccent scommaaccent Tcommaaccent tcommaaccent];
 
     language CAT ; # Catalan
     sub l periodcentered' l by periodcentered.loclCAT;
@@ -189,23 +199,28 @@ feature locl {
 
   script cyrl; # Cyrillic
     language SRB ; # Serbian
-    sub [uni0431 uni0433 uni0434 uni043F] by [uni0431.loclSRB uni0433.loclSRB uni0434.loclSRB uni043F.loclSRB];
+    sub [becyr gecyr decyr pecyr] by [becyr.loclSRB gecyr.loclSRB decyr.loclSRB pecyr.loclSRB];
 
     language MKD ; # Macedonian
-    sub uni0453 by uni0453.loclMKD;
+    sub gjecyr by gjecyr.loclMKD;
 
     language BSH ; # Bashkir
-    sub [uni0492 uni0493 uni0498 uni0499] by [uni0492.loclBSH uni0493.loclBSH uni0498.loclBSH uni0499.loclBSH];
-    sub [uni04AA uni04AB] by [uni04AA.loclBSH uni04AB.loclBSH];
+    sub [Gestrokecyr gestrokecyr Zetailcyr zetailcyr] by [Gestrokecyr.loclBSH gestrokecyr.loclBSH Zetailcyr.loclBSH zetailcyr.loclBSH];
+    sub [Estailcyr estailcyr] by [Estailcyr.loclBSH estailcyr.loclBSH];
 
     language BGR ; # Bulgarian
     sub @locl by @locl2;
 
     language CHU ; # Chuvash
-    sub [uni04AA uni04AB] by [uni04AA.loclCHU uni04AB.loclCHU];
+    sub [Estailcyr estailcyr] by [Estailcyr.loclCHU estailcyr.loclCHU];
 
 
 } locl;
+
+
+
+
+
 feature subs {
 # GSUB feature: Subscript
 # Lookups: 1
@@ -213,6 +228,11 @@ feature subs {
   sub @dnom_numr_ordn_pnum_sinf_subs_sups_tnum by @subs;
 
 } subs;
+
+
+
+
+
 feature sinf {
 # GSUB feature: Scientific Inferiors
 # Lookups: 1
@@ -220,6 +240,11 @@ feature sinf {
   sub @dnom_numr_ordn_pnum_sinf_subs_sups_tnum by @sinf;
 
 } sinf;
+
+
+
+
+
 feature sups {
 # GSUB feature: Superscript
 # Lookups: 1
@@ -227,6 +252,11 @@ feature sups {
   sub @dnom_numr_ordn_pnum_sinf_subs_sups_tnum by @sups;
 
 } sups;
+
+
+
+
+
 feature numr {
 # GSUB feature: Numerators
 # Lookups: 1
@@ -234,6 +264,11 @@ feature numr {
   sub @dnom_numr_ordn_pnum_sinf_subs_sups_tnum by @frac_numr;
 
 } numr;
+
+
+
+
+
 feature dnom {
 # GSUB feature: Denominators
 # Lookups: 1
@@ -241,6 +276,11 @@ feature dnom {
   sub @dnom_numr_ordn_pnum_sinf_subs_sups_tnum by @dnom_frac;
 
 } dnom;
+
+
+
+
+
 feature frac {
 # GSUB feature: Fractions
 # Lookups: 2
@@ -250,15 +290,25 @@ feature frac {
   sub @dnom_frac @frac_numr' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
 
 } frac;
+
+
+
+
+
 feature ordn {
 # GSUB feature: Ordinals
 # Lookups: 2
 
   sub @dnom_numr_ordn_pnum_sinf_subs_sups_tnum [A a]' by [ordfeminine ordfeminine];
   sub @dnom_numr_ordn_pnum_sinf_subs_sups_tnum [O o]' by [ordmasculine ordmasculine];
-  sub N o period by uni2116;
+  sub N o period by numero;
 
 } ordn;
+
+
+
+
+
 feature dlig {
 # GSUB feature: Discretionary Ligatures
 # Lookups: 1
@@ -267,6 +317,11 @@ feature dlig {
   sub s t by s_t;
 
 } dlig;
+
+
+
+
+
 feature case {
 # GSUB feature: Case-Sensitive Forms
 # Lookups: 1
@@ -274,6 +329,11 @@ feature case {
   sub brevecomb-cy by brevecomb-cy.case;
 
 } case;
+
+
+
+
+
 feature liga {
 # GSUB feature: Standard Ligatures
 # Lookups: 1
@@ -285,6 +345,11 @@ feature liga {
   sub f l by fl;
 
 } liga;
+
+
+
+
+
 feature salt {
 # GSUB feature: Stylistic Alternates
 # Lookups: 1
@@ -292,6 +357,11 @@ feature salt {
   sub a by a.ss01;
 
 } salt;
+
+
+
+
+
 feature ss01 {
 # GSUB feature: Stylistic Set 1
 # Lookups: 1
@@ -299,6 +369,11 @@ feature ss01 {
   sub a by a.ss01;
 
 } ss01;
+
+
+
+
+
 feature ss02 {
 # GSUB feature: Stylistic Set 2
 # Lookups: 1
@@ -306,6 +381,11 @@ feature ss02 {
   sub a by a.ss02;
 
 } ss02;
+
+
+
+
+
 feature ss03 {
 # GSUB feature: Stylistic Set 3
 # Lookups: 1
@@ -313,6 +393,11 @@ feature ss03 {
   sub d by d.ss03;
 
 } ss03;
+
+
+
+
+
 feature ss04 {
 # GSUB feature: Stylistic Set 4
 # Lookups: 1
@@ -320,6 +405,11 @@ feature ss04 {
   sub j by j.ss04;
 
 } ss04;
+
+
+
+
+
 feature ss05 {
 # GSUB feature: Stylistic Set 5
 # Lookups: 1
@@ -327,6 +417,11 @@ feature ss05 {
   sub l by l.ss05;
 
 } ss05;
+
+
+
+
+
 feature ss06 {
 # GSUB feature: Stylistic Set 6
 # Lookups: 1
@@ -334,6 +429,11 @@ feature ss06 {
   sub q by q.ss06;
 
 } ss06;
+
+
+
+
+
 feature ss07 {
 # GSUB feature: Stylistic Set 7
 # Lookups: 1
@@ -341,6 +441,11 @@ feature ss07 {
   sub t by t.ss07;
 
 } ss07;
+
+
+
+
+
 feature ss08 {
 # GSUB feature: Stylistic Set 8
 # Lookups: 1
@@ -348,6 +453,11 @@ feature ss08 {
   sub u by u.ss08;
 
 } ss08;
+
+
+
+
+
 feature ss09 {
 # GSUB feature: Stylistic Set 9
 # Lookups: 1
@@ -355,6 +465,11 @@ feature ss09 {
   sub [W w] by [W.ss09 w.ss09];
 
 } ss09;
+
+
+
+
+
 feature ss10 {
 # GSUB feature: Stylistic Set 10
 # Lookups: 1
@@ -362,6 +477,11 @@ feature ss10 {
   sub y by y.ss10;
 
 } ss10;
+
+
+
+
+
 feature ss11 {
 # GSUB feature: Stylistic Set 11
 # Lookups: 1
@@ -369,6 +489,11 @@ feature ss11 {
   sub G by G.ss11;
 
 } ss11;
+
+
+
+
+
 feature pnum {
 # GSUB feature: Proportional Figures
 # Lookups: 1
@@ -376,6 +501,11 @@ feature pnum {
   sub @pnum_tnum by @dnom_numr_ordn_pnum_sinf_subs_sups_tnum;
 
 } pnum;
+
+
+
+
+
 feature tnum {
 # GSUB feature: Tabular Figures
 # Lookups: 1
@@ -383,3 +513,78 @@ feature tnum {
   sub @dnom_numr_ordn_pnum_sinf_subs_sups_tnum by @pnum_tnum;
 
 } tnum;
+
+
+
+
+
+feature onum {
+# Oldstyle Figures
+
+#> feature
+  sub eight.pnum by eight.onum;
+  sub eight by eight.onum;
+  sub five.pnum by five.onum;
+  sub five by five.onum;
+  sub four.pnum by four.onum;
+  sub four by four.onum;
+  sub nine.pnum by nine.onum;
+  sub nine by nine.onum;
+  sub one.pnum by one.onum;
+  sub one by one.onum;
+  sub seven.pnum by seven.onum;
+  sub seven by seven.onum;
+  sub six.pnum by six.onum;
+  sub six by six.onum;
+  sub three.pnum by three.onum;
+  sub three by three.onum;
+  sub two.pnum by two.onum;
+  sub two by two.onum;
+  sub zero.pnum by zero.onum;
+  sub zero by zero.onum;
+#< feature
+} onum;
+
+
+
+
+feature lnum {
+# Lining Figures
+
+#> feature
+  sub eight.onum by eight.pnum;
+  sub five.onum by five.pnum;
+  sub four.onum by four.pnum;
+  sub nine.onum by nine.pnum;
+  sub one.onum by one.pnum;
+  sub seven.onum by seven.pnum;
+  sub six.onum by six.pnum;
+  sub three.onum by three.pnum;
+  sub two.onum by two.pnum;
+  sub zero.onum by zero.pnum;
+#< feature
+} lnum;
+
+
+
+
+feature calt {
+# Contextual Alternates
+
+#> feature
+  lookup yukrcyr_double {
+    sub yukrcyr' yukrcyr by yukrcyr.calt;
+    sub yukrcyr.calt yukrcyr' by yukrcyr.calt2;
+  } yukrcyr_double;
+
+  lookup Yukrcyr_double {
+    sub Yukrcyr' Yukrcyr by Yukrcyr.calt;
+    sub Yukrcyr.calt Yukrcyr' by Yukrcyr.calt2;
+  } Yukrcyr_double;
+
+lookup yukrcyr_double;
+lookup Yukrcyr_double;
+
+#< feature
+} calt;
+

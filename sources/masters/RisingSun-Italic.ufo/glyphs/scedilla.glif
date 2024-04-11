@@ -4,6 +4,12 @@
   <unicode hex="015F"/>
   <outline>
     <component base="s"/>
-    <component base="uni0327" xOffset="95"/>
+    <component base="cedillacomb" xOffset="140"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>s+cedillacomb</string>
+  </dict>
+  </lib>
 </glyph>

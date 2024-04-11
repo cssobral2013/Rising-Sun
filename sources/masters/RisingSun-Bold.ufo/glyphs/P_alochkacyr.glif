@@ -2,6 +2,10 @@
 <glyph name="Palochkacyr" format="2">
   <advance width="286"/>
   <unicode hex="04C0"/>
+  <anchor x="145" y="0" name="bottom"/>
+  <anchor x="217" y="0" name="ogonek"/>
+  <anchor x="145" y="709" name="top"/>
+  <anchor x="20" y="710" name="topleft"/>
   <outline>
     <component base="I"/>
   </outline>

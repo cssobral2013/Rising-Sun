@@ -127,16 +127,16 @@
   </array>
   <key>dnom_numr_ordn_pnum_sinf_subs_sups_tnum</key>
   <array>
-    <string>zero</string>
-    <string>one</string>
-    <string>two</string>
-    <string>three</string>
-    <string>four</string>
-    <string>five</string>
-    <string>six</string>
-    <string>seven</string>
-    <string>eight</string>
-    <string>nine</string>
+    <string>zero.pnum</string>
+    <string>one.pnum</string>
+    <string>two.pnum</string>
+    <string>three.pnum</string>
+    <string>four.pnum</string>
+    <string>five.pnum</string>
+    <string>six.pnum</string>
+    <string>seven.pnum</string>
+    <string>eight.pnum</string>
+    <string>nine.pnum</string>
   </array>
   <key>locl</key>
   <array>
@@ -199,16 +199,16 @@
   </array>
   <key>pnum_tnum</key>
   <array>
-    <string>zero.tnum</string>
-    <string>one.tnum</string>
-    <string>two.tnum</string>
-    <string>three.tnum</string>
-    <string>four.tnum</string>
-    <string>five.tnum</string>
-    <string>six.tnum</string>
-    <string>seven.tnum</string>
-    <string>eight.tnum</string>
-    <string>nine.tnum</string>
+    <string>zero</string>
+    <string>one</string>
+    <string>two</string>
+    <string>three</string>
+    <string>four</string>
+    <string>five</string>
+    <string>six</string>
+    <string>seven</string>
+    <string>eight</string>
+    <string>nine</string>
   </array>
   <key>public.kern1.A</key>
   <array>

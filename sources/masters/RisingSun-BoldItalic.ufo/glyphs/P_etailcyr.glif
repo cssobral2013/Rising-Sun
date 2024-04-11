@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Petailcyr" format="2">
+  <advance width="781"/>
+  <unicode hex="0524"/>
+  <outline>
+    <contour>
+      <point x="153" y="0" type="line"/>
+      <point x="276" y="583" type="line"/>
+      <point x="567" y="583" type="line"/>
+      <point x="443" y="0" type="line"/>
+      <point x="588" y="0" type="line"/>
+      <point x="738" y="710" type="line"/>
+      <point x="159" y="710" type="line"/>
+      <point x="9" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="652" y="-136" type="line"/>
+      <point x="709" y="127" type="line"/>
+      <point x="512" y="127" type="line"/>
+      <point x="484" y="0" type="line"/>
+      <point x="558" y="0" type="line"/>
+      <point x="529" y="-136" type="line"/>
+    </contour>
+  </outline>
+</glyph>

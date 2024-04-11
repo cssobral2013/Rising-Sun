@@ -2,6 +2,7 @@
 <glyph name="Shacyr" format="2">
   <advance width="972"/>
   <unicode hex="0428"/>
+  <anchor x="815" y="0" name="bottomright"/>
   <outline>
     <contour>
       <point x="887" y="0" type="line"/>

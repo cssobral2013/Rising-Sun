@@ -2,6 +2,8 @@
 <glyph name="kacyr" format="2">
   <advance width="632"/>
   <unicode hex="043A"/>
+  <anchor x="383" y="0" name="bottomright"/>
+  <anchor x="310" y="526" name="top"/>
   <outline>
     <contour>
       <point x="239" y="0" type="line"/>

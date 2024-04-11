@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aiecyr" format="2">
+  <advance width="938"/>
+  <unicode hex="04D5"/>
+  <anchor x="471" y="522" name="top"/>
+  <outline>
+    <component base="ae"/>
+  </outline>
+</glyph>

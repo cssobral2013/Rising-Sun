@@ -2,6 +2,7 @@
 <glyph name="wecyr" format="2">
   <advance width="839"/>
   <unicode hex="051D"/>
+  <anchor x="421" y="524" name="top"/>
   <outline>
     <component base="w"/>
   </outline>

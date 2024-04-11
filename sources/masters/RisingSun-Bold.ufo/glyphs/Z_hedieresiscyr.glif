@@ -2,6 +2,8 @@
 <glyph name="Zhedieresiscyr" format="2">
   <advance width="1071"/>
   <unicode hex="04DC"/>
+  <anchor x="894" y="0" name="bottomright"/>
+  <anchor x="540" y="907" name="top"/>
   <outline>
     <component base="Zhecyr"/>
     <component base="dieresiscomb" xOffset="307" yOffset="187"/>

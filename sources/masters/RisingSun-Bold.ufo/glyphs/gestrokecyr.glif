@@ -2,6 +2,8 @@
 <glyph name="gestrokecyr" format="2">
   <advance width="456"/>
   <unicode hex="0493"/>
+  <anchor x="99" y="0" name="bottomright"/>
+  <anchor x="309" y="524" name="top"/>
   <outline>
     <contour>
       <point x="367" y="174" type="line"/>

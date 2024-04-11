@@ -26,11 +26,11 @@
     <integer>-64</integer>
     <key>copyright</key>
     <integer>-21</integer>
-    <key>eight</key>
+    <key>eight.pnum</key>
     <integer>-16</integer>
     <key>eth</key>
     <integer>-14</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>19</integer>
     <key>lslash</key>
     <integer>-6</integer>
@@ -52,7 +52,7 @@
     <integer>-21</integer>
     <key>schwa</key>
     <integer>-14</integer>
-    <key>six</key>
+    <key>six.pnum</key>
     <integer>-18</integer>
     <key>slash</key>
     <integer>14</integer>
@@ -68,7 +68,7 @@
     <integer>-32</integer>
     <key>y.ss10</key>
     <integer>-35</integer>
-    <key>zero</key>
+    <key>zero.pnum</key>
     <integer>-17</integer>
   </dict>
   <key>AE</key>
@@ -137,11 +137,11 @@
     <integer>-64</integer>
     <key>copyright</key>
     <integer>-21</integer>
-    <key>eight</key>
+    <key>eight.pnum</key>
     <integer>-16</integer>
     <key>eth</key>
     <integer>-14</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>19</integer>
     <key>lslash</key>
     <integer>-6</integer>
@@ -163,7 +163,7 @@
     <integer>-21</integer>
     <key>schwa</key>
     <integer>-14</integer>
-    <key>six</key>
+    <key>six.pnum</key>
     <integer>-18</integer>
     <key>slash</key>
     <integer>14</integer>
@@ -179,7 +179,7 @@
     <integer>-32</integer>
     <key>y.ss10</key>
     <integer>-35</integer>
-    <key>zero</key>
+    <key>zero.pnum</key>
     <integer>-17</integer>
   </dict>
   <key>Abreve</key>
@@ -206,11 +206,11 @@
     <integer>-64</integer>
     <key>copyright</key>
     <integer>-21</integer>
-    <key>eight</key>
+    <key>eight.pnum</key>
     <integer>-16</integer>
     <key>eth</key>
     <integer>-14</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>19</integer>
     <key>lslash</key>
     <integer>-6</integer>
@@ -232,7 +232,7 @@
     <integer>-21</integer>
     <key>schwa</key>
     <integer>-14</integer>
-    <key>six</key>
+    <key>six.pnum</key>
     <integer>-18</integer>
     <key>slash</key>
     <integer>14</integer>
@@ -248,7 +248,7 @@
     <integer>-32</integer>
     <key>y.ss10</key>
     <integer>-35</integer>
-    <key>zero</key>
+    <key>zero.pnum</key>
     <integer>-17</integer>
   </dict>
   <key>Abrevecyr</key>
@@ -275,11 +275,11 @@
     <integer>-64</integer>
     <key>copyright</key>
     <integer>-21</integer>
-    <key>eight</key>
+    <key>eight.pnum</key>
     <integer>-16</integer>
     <key>eth</key>
     <integer>-14</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>19</integer>
     <key>lslash</key>
     <integer>-6</integer>
@@ -301,7 +301,7 @@
     <integer>-21</integer>
     <key>schwa</key>
     <integer>-14</integer>
-    <key>six</key>
+    <key>six.pnum</key>
     <integer>-18</integer>
     <key>slash</key>
     <integer>14</integer>
@@ -317,7 +317,7 @@
     <integer>-32</integer>
     <key>y.ss10</key>
     <integer>-35</integer>
-    <key>zero</key>
+    <key>zero.pnum</key>
     <integer>-17</integer>
   </dict>
   <key>Acircumflex</key>
@@ -344,11 +344,11 @@
     <integer>-64</integer>
     <key>copyright</key>
     <integer>-21</integer>
-    <key>eight</key>
+    <key>eight.pnum</key>
     <integer>-16</integer>
     <key>eth</key>
     <integer>-14</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>19</integer>
     <key>lslash</key>
     <integer>-6</integer>
@@ -370,7 +370,7 @@
     <integer>-21</integer>
     <key>schwa</key>
     <integer>-14</integer>
-    <key>six</key>
+    <key>six.pnum</key>
     <integer>-18</integer>
     <key>slash</key>
     <integer>14</integer>
@@ -386,7 +386,7 @@
     <integer>-32</integer>
     <key>y.ss10</key>
     <integer>-35</integer>
-    <key>zero</key>
+    <key>zero.pnum</key>
     <integer>-17</integer>
   </dict>
   <key>Acyr</key>
@@ -429,13 +429,13 @@
     <integer>-38</integer>
     <key>copyright</key>
     <integer>-21</integer>
-    <key>eight</key>
+    <key>eight.pnum</key>
     <integer>-16</integer>
     <key>ereversedcyr</key>
     <integer>-6</integer>
     <key>eth</key>
     <integer>-14</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>19</integer>
     <key>hardcyr</key>
     <integer>-36</integer>
@@ -459,7 +459,7 @@
     <integer>-21</integer>
     <key>schwa</key>
     <integer>-14</integer>
-    <key>six</key>
+    <key>six.pnum</key>
     <integer>-18</integer>
     <key>slash</key>
     <integer>14</integer>
@@ -479,7 +479,7 @@
     <integer>-32</integer>
     <key>y.ss10</key>
     <integer>-35</integer>
-    <key>zero</key>
+    <key>zero.pnum</key>
     <integer>-17</integer>
   </dict>
   <key>Adieresis</key>
@@ -506,11 +506,11 @@
     <integer>-64</integer>
     <key>copyright</key>
     <integer>-21</integer>
-    <key>eight</key>
+    <key>eight.pnum</key>
     <integer>-16</integer>
     <key>eth</key>
     <integer>-14</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>19</integer>
     <key>lslash</key>
     <integer>-6</integer>
@@ -532,7 +532,7 @@
     <integer>-21</integer>
     <key>schwa</key>
     <integer>-14</integer>
-    <key>six</key>
+    <key>six.pnum</key>
     <integer>-18</integer>
     <key>slash</key>
     <integer>14</integer>
@@ -548,7 +548,7 @@
     <integer>-32</integer>
     <key>y.ss10</key>
     <integer>-35</integer>
-    <key>zero</key>
+    <key>zero.pnum</key>
     <integer>-17</integer>
   </dict>
   <key>Adieresiscyr</key>
@@ -575,11 +575,11 @@
     <integer>-64</integer>
     <key>copyright</key>
     <integer>-21</integer>
-    <key>eight</key>
+    <key>eight.pnum</key>
     <integer>-16</integer>
     <key>eth</key>
     <integer>-14</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>19</integer>
     <key>lslash</key>
     <integer>-6</integer>
@@ -601,7 +601,7 @@
     <integer>-21</integer>
     <key>schwa</key>
     <integer>-14</integer>
-    <key>six</key>
+    <key>six.pnum</key>
     <integer>-18</integer>
     <key>slash</key>
     <integer>14</integer>
@@ -617,7 +617,7 @@
     <integer>-32</integer>
     <key>y.ss10</key>
     <integer>-35</integer>
-    <key>zero</key>
+    <key>zero.pnum</key>
     <integer>-17</integer>
   </dict>
   <key>Agrave</key>
@@ -644,11 +644,11 @@
     <integer>-64</integer>
     <key>copyright</key>
     <integer>-21</integer>
-    <key>eight</key>
+    <key>eight.pnum</key>
     <integer>-16</integer>
     <key>eth</key>
     <integer>-14</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>19</integer>
     <key>lslash</key>
     <integer>-6</integer>
@@ -670,7 +670,7 @@
     <integer>-21</integer>
     <key>schwa</key>
     <integer>-14</integer>
-    <key>six</key>
+    <key>six.pnum</key>
     <integer>-18</integer>
     <key>slash</key>
     <integer>14</integer>
@@ -686,7 +686,7 @@
     <integer>-32</integer>
     <key>y.ss10</key>
     <integer>-35</integer>
-    <key>zero</key>
+    <key>zero.pnum</key>
     <integer>-17</integer>
   </dict>
   <key>Aiecyr</key>
@@ -734,11 +734,11 @@
     <integer>-64</integer>
     <key>copyright</key>
     <integer>-21</integer>
-    <key>eight</key>
+    <key>eight.pnum</key>
     <integer>-16</integer>
     <key>eth</key>
     <integer>-14</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>19</integer>
     <key>lslash</key>
     <integer>-6</integer>
@@ -760,7 +760,7 @@
     <integer>-21</integer>
     <key>schwa</key>
     <integer>-14</integer>
-    <key>six</key>
+    <key>six.pnum</key>
     <integer>-18</integer>
     <key>slash</key>
     <integer>14</integer>
@@ -776,7 +776,7 @@
     <integer>-32</integer>
     <key>y.ss10</key>
     <integer>-35</integer>
-    <key>zero</key>
+    <key>zero.pnum</key>
     <integer>-17</integer>
   </dict>
   <key>Aogonek</key>
@@ -805,11 +805,11 @@
     <integer>-64</integer>
     <key>copyright</key>
     <integer>-21</integer>
-    <key>eight</key>
+    <key>eight.pnum</key>
     <integer>-16</integer>
     <key>eth</key>
     <integer>-14</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>19</integer>
     <key>g</key>
     <integer>10</integer>
@@ -835,7 +835,7 @@
     <integer>-21</integer>
     <key>schwa</key>
     <integer>-14</integer>
-    <key>six</key>
+    <key>six.pnum</key>
     <integer>-18</integer>
     <key>slash</key>
     <integer>14</integer>
@@ -873,7 +873,7 @@
     <integer>-10</integer>
     <key>ytilde</key>
     <integer>-10</integer>
-    <key>zero</key>
+    <key>zero.pnum</key>
     <integer>-17</integer>
   </dict>
   <key>Aring</key>
@@ -900,11 +900,11 @@
     <integer>-64</integer>
     <key>copyright</key>
     <integer>-21</integer>
-    <key>eight</key>
+    <key>eight.pnum</key>
     <integer>-16</integer>
     <key>eth</key>
     <integer>-14</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>19</integer>
     <key>lslash</key>
     <integer>-6</integer>
@@ -926,7 +926,7 @@
     <integer>-21</integer>
     <key>schwa</key>
     <integer>-14</integer>
-    <key>six</key>
+    <key>six.pnum</key>
     <integer>-18</integer>
     <key>slash</key>
     <integer>14</integer>
@@ -942,7 +942,7 @@
     <integer>-32</integer>
     <key>y.ss10</key>
     <integer>-35</integer>
-    <key>zero</key>
+    <key>zero.pnum</key>
     <integer>-17</integer>
   </dict>
   <key>Aringacute</key>
@@ -969,11 +969,11 @@
     <integer>-64</integer>
     <key>copyright</key>
     <integer>-21</integer>
-    <key>eight</key>
+    <key>eight.pnum</key>
     <integer>-16</integer>
     <key>eth</key>
     <integer>-14</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>19</integer>
     <key>lslash</key>
     <integer>-6</integer>
@@ -995,7 +995,7 @@
     <integer>-21</integer>
     <key>schwa</key>
     <integer>-14</integer>
-    <key>six</key>
+    <key>six.pnum</key>
     <integer>-18</integer>
     <key>slash</key>
     <integer>14</integer>
@@ -1011,7 +1011,7 @@
     <integer>-32</integer>
     <key>y.ss10</key>
     <integer>-35</integer>
-    <key>zero</key>
+    <key>zero.pnum</key>
     <integer>-17</integer>
   </dict>
   <key>Atilde</key>
@@ -1038,11 +1038,11 @@
     <integer>-64</integer>
     <key>copyright</key>
     <integer>-21</integer>
-    <key>eight</key>
+    <key>eight.pnum</key>
     <integer>-16</integer>
     <key>eth</key>
     <integer>-14</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>19</integer>
     <key>lslash</key>
     <integer>-6</integer>
@@ -1064,7 +1064,7 @@
     <integer>-21</integer>
     <key>schwa</key>
     <integer>-14</integer>
-    <key>six</key>
+    <key>six.pnum</key>
     <integer>-18</integer>
     <key>slash</key>
     <integer>14</integer>
@@ -1080,7 +1080,7 @@
     <integer>-32</integer>
     <key>y.ss10</key>
     <integer>-35</integer>
-    <key>zero</key>
+    <key>zero.pnum</key>
     <integer>-17</integer>
   </dict>
   <key>B</key>
@@ -1337,7 +1337,7 @@
     <integer>-5</integer>
     <key>eth</key>
     <integer>-5</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>8</integer>
     <key>icircumflex</key>
     <integer>16</integer>
@@ -1360,7 +1360,7 @@
     <integer>-5</integer>
     <key>eth</key>
     <integer>-5</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>8</integer>
     <key>icircumflex</key>
     <integer>16</integer>
@@ -1383,7 +1383,7 @@
     <integer>-5</integer>
     <key>eth</key>
     <integer>-5</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>8</integer>
     <key>icircumflex</key>
     <integer>16</integer>
@@ -1406,7 +1406,7 @@
     <integer>-5</integer>
     <key>eth</key>
     <integer>-5</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>8</integer>
     <key>icircumflex</key>
     <integer>16</integer>
@@ -1429,7 +1429,7 @@
     <integer>-5</integer>
     <key>eth</key>
     <integer>-5</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>8</integer>
     <key>icircumflex</key>
     <integer>16</integer>
@@ -1452,7 +1452,7 @@
     <integer>-5</integer>
     <key>eth</key>
     <integer>-5</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>8</integer>
     <key>icircumflex</key>
     <integer>16</integer>
@@ -1690,7 +1690,7 @@
     <integer>-19</integer>
     <key>tecyr</key>
     <integer>-17</integer>
-    <key>three</key>
+    <key>three.pnum</key>
     <integer>-13</integer>
     <key>v</key>
     <integer>-16</integer>
@@ -2200,7 +2200,7 @@
     <integer>-7</integer>
     <key>eth</key>
     <integer>-5</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>8</integer>
     <key>icircumflex</key>
     <integer>16</integer>
@@ -2227,7 +2227,7 @@
     <integer>-5</integer>
     <key>eth</key>
     <integer>-5</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>8</integer>
     <key>icircumflex</key>
     <integer>16</integer>
@@ -2250,7 +2250,7 @@
     <integer>-5</integer>
     <key>eth</key>
     <integer>-5</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>8</integer>
     <key>icircumflex</key>
     <integer>16</integer>
@@ -2273,7 +2273,7 @@
     <integer>-5</integer>
     <key>eth</key>
     <integer>-5</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>8</integer>
     <key>icircumflex</key>
     <integer>16</integer>
@@ -2364,7 +2364,7 @@
     <integer>-5</integer>
     <key>eth</key>
     <integer>-5</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>8</integer>
     <key>icircumflex</key>
     <integer>16</integer>
@@ -2651,11 +2651,11 @@
     <integer>-9</integer>
     <key>fi</key>
     <integer>-9</integer>
-    <key>five</key>
+    <key>five.pnum</key>
     <integer>-19</integer>
     <key>fl</key>
     <integer>-9</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>-28</integer>
     <key>g</key>
     <integer>-28</integer>
@@ -3912,7 +3912,7 @@
     <integer>-20</integer>
     <key>eth</key>
     <integer>-30</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>38</integer>
     <key>ibreve</key>
     <integer>45</integer>
@@ -3944,7 +3944,7 @@
     <integer>-26</integer>
     <key>trademark</key>
     <integer>16</integer>
-    <key>two</key>
+    <key>two.pnum</key>
     <integer>22</integer>
     <key>v</key>
     <integer>-38</integer>
@@ -3952,7 +3952,7 @@
     <integer>-38</integer>
     <key>y.ss10</key>
     <integer>-39</integer>
-    <key>zero</key>
+    <key>zero.pnum</key>
     <integer>-11</integer>
   </dict>
   <key>Kabashkcyr</key>
@@ -3973,7 +3973,7 @@
     <integer>-20</integer>
     <key>eth</key>
     <integer>-30</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>38</integer>
     <key>ibreve</key>
     <integer>45</integer>
@@ -4005,7 +4005,7 @@
     <integer>-26</integer>
     <key>trademark</key>
     <integer>16</integer>
-    <key>two</key>
+    <key>two.pnum</key>
     <integer>22</integer>
     <key>v</key>
     <integer>-38</integer>
@@ -4013,7 +4013,7 @@
     <integer>-38</integer>
     <key>y.ss10</key>
     <integer>-39</integer>
-    <key>zero</key>
+    <key>zero.pnum</key>
     <integer>-11</integer>
   </dict>
   <key>Kacyr</key>
@@ -4034,7 +4034,7 @@
     <integer>-20</integer>
     <key>eth</key>
     <integer>-30</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>38</integer>
     <key>ibreve</key>
     <integer>45</integer>
@@ -4066,7 +4066,7 @@
     <integer>-26</integer>
     <key>trademark</key>
     <integer>16</integer>
-    <key>two</key>
+    <key>two.pnum</key>
     <integer>22</integer>
     <key>v</key>
     <integer>-38</integer>
@@ -4074,7 +4074,7 @@
     <integer>-38</integer>
     <key>y.ss10</key>
     <integer>-39</integer>
-    <key>zero</key>
+    <key>zero.pnum</key>
     <integer>-11</integer>
   </dict>
   <key>Kaverticalstrokecyr</key>
@@ -4095,7 +4095,7 @@
     <integer>-20</integer>
     <key>eth</key>
     <integer>-30</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>38</integer>
     <key>ibreve</key>
     <integer>45</integer>
@@ -4127,7 +4127,7 @@
     <integer>-26</integer>
     <key>trademark</key>
     <integer>16</integer>
-    <key>two</key>
+    <key>two.pnum</key>
     <integer>22</integer>
     <key>v</key>
     <integer>-38</integer>
@@ -4135,7 +4135,7 @@
     <integer>-38</integer>
     <key>y.ss10</key>
     <integer>-39</integer>
-    <key>zero</key>
+    <key>zero.pnum</key>
     <integer>-11</integer>
   </dict>
   <key>Kcommaaccent</key>
@@ -4156,7 +4156,7 @@
     <integer>-20</integer>
     <key>eth</key>
     <integer>-30</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>38</integer>
     <key>ibreve</key>
     <integer>45</integer>
@@ -4188,7 +4188,7 @@
     <integer>-26</integer>
     <key>trademark</key>
     <integer>16</integer>
-    <key>two</key>
+    <key>two.pnum</key>
     <integer>22</integer>
     <key>v</key>
     <integer>-38</integer>
@@ -4196,7 +4196,7 @@
     <integer>-38</integer>
     <key>y.ss10</key>
     <integer>-39</integer>
-    <key>zero</key>
+    <key>zero.pnum</key>
     <integer>-11</integer>
   </dict>
   <key>Kjecyr</key>
@@ -4217,7 +4217,7 @@
     <integer>-20</integer>
     <key>eth</key>
     <integer>-30</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>38</integer>
     <key>ibreve</key>
     <integer>45</integer>
@@ -4249,7 +4249,7 @@
     <integer>-26</integer>
     <key>trademark</key>
     <integer>16</integer>
-    <key>two</key>
+    <key>two.pnum</key>
     <integer>22</integer>
     <key>v</key>
     <integer>-38</integer>
@@ -4257,7 +4257,7 @@
     <integer>-38</integer>
     <key>y.ss10</key>
     <integer>-39</integer>
-    <key>zero</key>
+    <key>zero.pnum</key>
     <integer>-11</integer>
   </dict>
   <key>L</key>
@@ -4272,7 +4272,7 @@
     <integer>-119</integer>
     <key>backslash</key>
     <integer>-98</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>10</integer>
     <key>ordfeminine</key>
     <integer>-114</integer>
@@ -4311,7 +4311,7 @@
     <integer>-119</integer>
     <key>backslash</key>
     <integer>-98</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>10</integer>
     <key>ordfeminine</key>
     <integer>-114</integer>
@@ -4398,7 +4398,7 @@
     <integer>-61</integer>
     <key>backslash</key>
     <integer>-47</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>10</integer>
     <key>ordfeminine</key>
     <integer>-89</integer>
@@ -4445,7 +4445,7 @@
     <integer>-119</integer>
     <key>backslash</key>
     <integer>-98</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>10</integer>
     <key>ordfeminine</key>
     <integer>-114</integer>
@@ -4484,7 +4484,7 @@
     <integer>-119</integer>
     <key>backslash</key>
     <integer>-98</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>10</integer>
     <key>ordfeminine</key>
     <integer>-114</integer>
@@ -4523,7 +4523,7 @@
     <integer>-119</integer>
     <key>backslash</key>
     <integer>-98</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>10</integer>
     <key>ordfeminine</key>
     <integer>-114</integer>
@@ -5418,9 +5418,9 @@
     <integer>-12</integer>
     <key>eukrcyr</key>
     <integer>-12</integer>
-    <key>five</key>
+    <key>five.pnum</key>
     <integer>-15</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>-35</integer>
     <key>g</key>
     <integer>-10</integer>
@@ -5608,7 +5608,7 @@
     <integer>-25</integer>
     <key>eth</key>
     <integer>-6</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>13</integer>
     <key>itilde</key>
     <integer>8</integer>
@@ -5678,7 +5678,7 @@
     <integer>-19</integer>
     <key>eth</key>
     <integer>-24</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>17</integer>
     <key>idieresis</key>
     <integer>1</integer>
@@ -5727,7 +5727,7 @@
     <integer>-19</integer>
     <key>eth</key>
     <integer>-24</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>17</integer>
     <key>idieresis</key>
     <integer>1</integer>
@@ -5776,7 +5776,7 @@
     <integer>-19</integer>
     <key>eth</key>
     <integer>-24</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>17</integer>
     <key>idieresis</key>
     <integer>1</integer>
@@ -5825,7 +5825,7 @@
     <integer>-19</integer>
     <key>eth</key>
     <integer>-24</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>17</integer>
     <key>idieresis</key>
     <integer>1</integer>
@@ -5874,7 +5874,7 @@
     <integer>-19</integer>
     <key>eth</key>
     <integer>-24</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>17</integer>
     <key>idieresis</key>
     <integer>1</integer>
@@ -5925,7 +5925,7 @@
     <integer>-55</integer>
     <key>t.ss07</key>
     <integer>-19</integer>
-    <key>three</key>
+    <key>three.pnum</key>
     <integer>-13</integer>
     <key>v</key>
     <integer>-16</integer>
@@ -5958,7 +5958,7 @@
     <integer>-55</integer>
     <key>t.ss07</key>
     <integer>-19</integer>
-    <key>three</key>
+    <key>three.pnum</key>
     <integer>-13</integer>
     <key>v</key>
     <integer>-16</integer>
@@ -5991,7 +5991,7 @@
     <integer>-55</integer>
     <key>t.ss07</key>
     <integer>-19</integer>
-    <key>three</key>
+    <key>three.pnum</key>
     <integer>-13</integer>
     <key>v</key>
     <integer>-16</integer>
@@ -6024,7 +6024,7 @@
     <integer>-55</integer>
     <key>t.ss07</key>
     <integer>-19</integer>
-    <key>three</key>
+    <key>three.pnum</key>
     <integer>-13</integer>
     <key>v</key>
     <integer>-16</integer>
@@ -6123,7 +6123,7 @@
     <integer>-55</integer>
     <key>t.ss07</key>
     <integer>-19</integer>
-    <key>three</key>
+    <key>three.pnum</key>
     <integer>-13</integer>
     <key>v</key>
     <integer>-16</integer>
@@ -6156,7 +6156,7 @@
     <integer>-55</integer>
     <key>t.ss07</key>
     <integer>-19</integer>
-    <key>three</key>
+    <key>three.pnum</key>
     <integer>-13</integer>
     <key>v</key>
     <integer>-16</integer>
@@ -6189,7 +6189,7 @@
     <integer>-55</integer>
     <key>t.ss07</key>
     <integer>-19</integer>
-    <key>three</key>
+    <key>three.pnum</key>
     <integer>-13</integer>
     <key>v</key>
     <integer>-16</integer>
@@ -6226,11 +6226,11 @@
     <integer>-27</integer>
     <key>fi</key>
     <integer>-27</integer>
-    <key>five</key>
+    <key>five.pnum</key>
     <integer>-26</integer>
     <key>fl</key>
     <integer>-27</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>-59</integer>
     <key>iacute</key>
     <integer>-19</integer>
@@ -6248,9 +6248,9 @@
     <integer>94</integer>
     <key>jcircumflex</key>
     <integer>57</integer>
-    <key>nine</key>
+    <key>nine.pnum</key>
     <integer>-30</integer>
-    <key>one</key>
+    <key>one.pnum</key>
     <integer>-16</integer>
     <key>otilde</key>
     <integer>-70</integer>
@@ -6282,7 +6282,7 @@
     <integer>-11</integer>
     <key>y.ss10</key>
     <integer>-14</integer>
-    <key>zero</key>
+    <key>zero.pnum</key>
     <integer>-24</integer>
   </dict>
   <key>Tbar</key>
@@ -6543,11 +6543,11 @@
     <integer>-27</integer>
     <key>fi</key>
     <integer>-27</integer>
-    <key>five</key>
+    <key>five.pnum</key>
     <integer>-26</integer>
     <key>fl</key>
     <integer>-27</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>-59</integer>
     <key>g</key>
     <integer>-23</integer>
@@ -6639,7 +6639,7 @@
     <integer>-12</integer>
     <key>ndot</key>
     <integer>-12</integer>
-    <key>nine</key>
+    <key>nine.pnum</key>
     <integer>-30</integer>
     <key>njecyr</key>
     <integer>-12</integer>
@@ -6671,7 +6671,7 @@
     <integer>-23</integer>
     <key>omacron</key>
     <integer>-23</integer>
-    <key>one</key>
+    <key>one.pnum</key>
     <integer>-16</integer>
     <key>oslash</key>
     <integer>-23</integer>
@@ -6829,7 +6829,7 @@
     <integer>-19</integer>
     <key>zdotbelow</key>
     <integer>-19</integer>
-    <key>zero</key>
+    <key>zero.pnum</key>
     <integer>-24</integer>
   </dict>
   <key>Tcaron</key>
@@ -6858,11 +6858,11 @@
     <integer>-27</integer>
     <key>fi</key>
     <integer>-27</integer>
-    <key>five</key>
+    <key>five.pnum</key>
     <integer>-26</integer>
     <key>fl</key>
     <integer>-27</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>-59</integer>
     <key>iacute</key>
     <integer>-19</integer>
@@ -6880,9 +6880,9 @@
     <integer>94</integer>
     <key>jcircumflex</key>
     <integer>57</integer>
-    <key>nine</key>
+    <key>nine.pnum</key>
     <integer>-30</integer>
-    <key>one</key>
+    <key>one.pnum</key>
     <integer>-16</integer>
     <key>otilde</key>
     <integer>-70</integer>
@@ -6914,7 +6914,7 @@
     <integer>-11</integer>
     <key>y.ss10</key>
     <integer>-14</integer>
-    <key>zero</key>
+    <key>zero.pnum</key>
     <integer>-24</integer>
   </dict>
   <key>Tcedilla</key>
@@ -6943,11 +6943,11 @@
     <integer>-27</integer>
     <key>fi</key>
     <integer>-27</integer>
-    <key>five</key>
+    <key>five.pnum</key>
     <integer>-26</integer>
     <key>fl</key>
     <integer>-27</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>-59</integer>
     <key>iacute</key>
     <integer>-19</integer>
@@ -6965,9 +6965,9 @@
     <integer>94</integer>
     <key>jcircumflex</key>
     <integer>57</integer>
-    <key>nine</key>
+    <key>nine.pnum</key>
     <integer>-30</integer>
-    <key>one</key>
+    <key>one.pnum</key>
     <integer>-16</integer>
     <key>otilde</key>
     <integer>-70</integer>
@@ -6999,7 +6999,7 @@
     <integer>-11</integer>
     <key>y.ss10</key>
     <integer>-14</integer>
-    <key>zero</key>
+    <key>zero.pnum</key>
     <integer>-24</integer>
   </dict>
   <key>Tcommaaccent</key>
@@ -7028,11 +7028,11 @@
     <integer>-27</integer>
     <key>fi</key>
     <integer>-27</integer>
-    <key>five</key>
+    <key>five.pnum</key>
     <integer>-26</integer>
     <key>fl</key>
     <integer>-27</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>-59</integer>
     <key>iacute</key>
     <integer>-19</integer>
@@ -7050,9 +7050,9 @@
     <integer>94</integer>
     <key>jcircumflex</key>
     <integer>57</integer>
-    <key>nine</key>
+    <key>nine.pnum</key>
     <integer>-30</integer>
-    <key>one</key>
+    <key>one.pnum</key>
     <integer>-16</integer>
     <key>otilde</key>
     <integer>-70</integer>
@@ -7084,7 +7084,7 @@
     <integer>-11</integer>
     <key>y.ss10</key>
     <integer>-14</integer>
-    <key>zero</key>
+    <key>zero.pnum</key>
     <integer>-24</integer>
   </dict>
   <key>Tdotbelow</key>
@@ -7113,11 +7113,11 @@
     <integer>-27</integer>
     <key>fi</key>
     <integer>-27</integer>
-    <key>five</key>
+    <key>five.pnum</key>
     <integer>-26</integer>
     <key>fl</key>
     <integer>-27</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>-59</integer>
     <key>iacute</key>
     <integer>-19</integer>
@@ -7135,9 +7135,9 @@
     <integer>94</integer>
     <key>jcircumflex</key>
     <integer>57</integer>
-    <key>nine</key>
+    <key>nine.pnum</key>
     <integer>-30</integer>
-    <key>one</key>
+    <key>one.pnum</key>
     <integer>-16</integer>
     <key>otilde</key>
     <integer>-70</integer>
@@ -7169,7 +7169,7 @@
     <integer>-11</integer>
     <key>y.ss10</key>
     <integer>-14</integer>
-    <key>zero</key>
+    <key>zero.pnum</key>
     <integer>-24</integer>
   </dict>
   <key>Tecyr</key>
@@ -7220,11 +7220,11 @@
     <integer>-27</integer>
     <key>fi</key>
     <integer>-27</integer>
-    <key>five</key>
+    <key>five.pnum</key>
     <integer>-26</integer>
     <key>fl</key>
     <integer>-27</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>-59</integer>
     <key>guillemotleft</key>
     <integer>-58</integer>
@@ -7250,9 +7250,9 @@
     <integer>94</integer>
     <key>jcircumflex</key>
     <integer>57</integer>
-    <key>nine</key>
+    <key>nine.pnum</key>
     <integer>-30</integer>
-    <key>one</key>
+    <key>one.pnum</key>
     <integer>-16</integer>
     <key>otilde</key>
     <integer>-70</integer>
@@ -7294,7 +7294,7 @@
     <integer>68</integer>
     <key>zecyr</key>
     <integer>-50</integer>
-    <key>zero</key>
+    <key>zero.pnum</key>
     <integer>-24</integer>
     <key>zhecyr</key>
     <integer>-13</integer>
@@ -7822,15 +7822,15 @@
     <integer>-63</integer>
     <key>edieresis</key>
     <integer>-77</integer>
-    <key>eight</key>
+    <key>eight.pnum</key>
     <integer>-24</integer>
     <key>eth</key>
     <integer>-84</integer>
     <key>exclam</key>
     <integer>-10</integer>
-    <key>five</key>
+    <key>five.pnum</key>
     <integer>-50</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>-66</integer>
     <key>germandbls</key>
     <integer>-36</integer>
@@ -7852,11 +7852,11 @@
     <integer>61</integer>
     <key>jcircumflex</key>
     <integer>30</integer>
-    <key>nine</key>
+    <key>nine.pnum</key>
     <integer>-51</integer>
     <key>odieresis</key>
     <integer>-78</integer>
-    <key>one</key>
+    <key>one.pnum</key>
     <integer>-38</integer>
     <key>parenright</key>
     <integer>29</integer>
@@ -7872,7 +7872,7 @@
     <integer>-103</integer>
     <key>scircumflex</key>
     <integer>-70</integer>
-    <key>six</key>
+    <key>six.pnum</key>
     <integer>-27</integer>
     <key>slash</key>
     <integer>-75</integer>
@@ -7880,11 +7880,11 @@
     <integer>-37</integer>
     <key>t.ss07</key>
     <integer>-32</integer>
-    <key>three</key>
+    <key>three.pnum</key>
     <integer>-27</integer>
     <key>trademark</key>
     <integer>22</integer>
-    <key>two</key>
+    <key>two.pnum</key>
     <integer>-28</integer>
     <key>v</key>
     <integer>-25</integer>
@@ -7896,7 +7896,7 @@
     <integer>-24</integer>
     <key>zcaron</key>
     <integer>-33</integer>
-    <key>zero</key>
+    <key>zero.pnum</key>
     <integer>-53</integer>
   </dict>
   <key>Ustraightstrokecyr</key>
@@ -7947,7 +7947,7 @@
     <integer>-63</integer>
     <key>edieresis</key>
     <integer>-77</integer>
-    <key>eight</key>
+    <key>eight.pnum</key>
     <integer>-24</integer>
     <key>ellipsis</key>
     <integer>-73</integer>
@@ -7961,9 +7961,9 @@
     <integer>-84</integer>
     <key>exclam</key>
     <integer>-10</integer>
-    <key>five</key>
+    <key>five.pnum</key>
     <integer>-50</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>-66</integer>
     <key>germandbls</key>
     <integer>-36</integer>
@@ -7999,11 +7999,11 @@
     <integer>61</integer>
     <key>jcircumflex</key>
     <integer>30</integer>
-    <key>nine</key>
+    <key>nine.pnum</key>
     <integer>-51</integer>
     <key>odieresis</key>
     <integer>-78</integer>
-    <key>one</key>
+    <key>one.pnum</key>
     <integer>-38</integer>
     <key>parenright</key>
     <integer>38</integer>
@@ -8025,7 +8025,7 @@
     <integer>-103</integer>
     <key>scircumflex</key>
     <integer>-70</integer>
-    <key>six</key>
+    <key>six.pnum</key>
     <integer>-27</integer>
     <key>slash</key>
     <integer>-14</integer>
@@ -8037,11 +8037,11 @@
     <integer>-32</integer>
     <key>tecyr</key>
     <integer>-18</integer>
-    <key>three</key>
+    <key>three.pnum</key>
     <integer>-27</integer>
     <key>trademark</key>
     <integer>22</integer>
-    <key>two</key>
+    <key>two.pnum</key>
     <integer>-28</integer>
     <key>ustraightstrokecyr</key>
     <integer>-12</integer>
@@ -8059,7 +8059,7 @@
     <integer>-33</integer>
     <key>zecyr</key>
     <integer>-16</integer>
-    <key>zero</key>
+    <key>zero.pnum</key>
     <integer>-53</integer>
     <key>zhecyr</key>
     <integer>-8</integer>
@@ -8323,7 +8323,7 @@
     <integer>-69</integer>
     <key>egrave</key>
     <integer>-69</integer>
-    <key>eight</key>
+    <key>eight.pnum</key>
     <integer>-16</integer>
     <key>ellipsis</key>
     <integer>-55</integer>
@@ -8371,11 +8371,11 @@
     <integer>-33</integer>
     <key>fi</key>
     <integer>-33</integer>
-    <key>five</key>
+    <key>five.pnum</key>
     <integer>-39</integer>
     <key>fl</key>
     <integer>-33</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>-49</integer>
     <key>g</key>
     <integer>-66</integer>
@@ -8475,7 +8475,7 @@
     <integer>-43</integer>
     <key>ndot</key>
     <integer>-43</integer>
-    <key>nine</key>
+    <key>nine.pnum</key>
     <integer>-30</integer>
     <key>njecyr</key>
     <integer>-43</integer>
@@ -8507,7 +8507,7 @@
     <integer>-69</integer>
     <key>omacron</key>
     <integer>-69</integer>
-    <key>one</key>
+    <key>one.pnum</key>
     <integer>-20</integer>
     <key>oslash</key>
     <integer>-69</integer>
@@ -8575,7 +8575,7 @@
     <integer>-43</integer>
     <key>shchacyr.loclBGR</key>
     <integer>-39</integer>
-    <key>six</key>
+    <key>six.pnum</key>
     <integer>-17</integer>
     <key>slash</key>
     <integer>-75</integer>
@@ -8603,7 +8603,7 @@
     <integer>-14</integer>
     <key>tecyr.loclBGR</key>
     <integer>-43</integer>
-    <key>three</key>
+    <key>three.pnum</key>
     <integer>-16</integer>
     <key>trademark</key>
     <integer>22</integer>
@@ -8611,7 +8611,7 @@
     <integer>-43</integer>
     <key>tsecyr.loclBGR</key>
     <integer>-39</integer>
-    <key>two</key>
+    <key>two.pnum</key>
     <integer>-16</integer>
     <key>u</key>
     <integer>-39</integer>
@@ -8699,7 +8699,7 @@
     <integer>-35</integer>
     <key>zdotbelow</key>
     <integer>-35</integer>
-    <key>zero</key>
+    <key>zero.pnum</key>
     <integer>-31</integer>
   </dict>
   <key>Vecyr</key>
@@ -8759,13 +8759,13 @@
     <integer>-19</integer>
     <key>dotlessi</key>
     <integer>-42</integer>
-    <key>eight</key>
+    <key>eight.pnum</key>
     <integer>-15</integer>
     <key>eth</key>
     <integer>-71</integer>
-    <key>five</key>
+    <key>five.pnum</key>
     <integer>-39</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>-52</integer>
     <key>germandbls</key>
     <integer>-23</integer>
@@ -8787,9 +8787,9 @@
     <integer>70</integer>
     <key>jcircumflex</key>
     <integer>44</integer>
-    <key>nine</key>
+    <key>nine.pnum</key>
     <integer>-31</integer>
-    <key>one</key>
+    <key>one.pnum</key>
     <integer>-19</integer>
     <key>parenright</key>
     <integer>33</integer>
@@ -8805,7 +8805,7 @@
     <integer>-65</integer>
     <key>scircumflex</key>
     <integer>-55</integer>
-    <key>six</key>
+    <key>six.pnum</key>
     <integer>-16</integer>
     <key>slash</key>
     <integer>-80</integer>
@@ -8813,11 +8813,11 @@
     <integer>-35</integer>
     <key>t.ss07</key>
     <integer>-20</integer>
-    <key>three</key>
+    <key>three.pnum</key>
     <integer>-16</integer>
     <key>trademark</key>
     <integer>26</integer>
-    <key>two</key>
+    <key>two.pnum</key>
     <integer>-16</integer>
     <key>v</key>
     <integer>-10</integer>
@@ -8829,7 +8829,7 @@
     <integer>-10</integer>
     <key>zcaron</key>
     <integer>-27</integer>
-    <key>zero</key>
+    <key>zero.pnum</key>
     <integer>-32</integer>
   </dict>
   <key>W.ss09</key>
@@ -9068,7 +9068,7 @@
     <integer>-59</integer>
     <key>egrave</key>
     <integer>-59</integer>
-    <key>eight</key>
+    <key>eight.pnum</key>
     <integer>-12</integer>
     <key>ellipsis</key>
     <integer>-41</integer>
@@ -9116,11 +9116,11 @@
     <integer>-25</integer>
     <key>fi</key>
     <integer>-25</integer>
-    <key>five</key>
+    <key>five.pnum</key>
     <integer>-33</integer>
     <key>fl</key>
     <integer>-25</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>-33</integer>
     <key>g</key>
     <integer>-56</integer>
@@ -9218,7 +9218,7 @@
     <integer>-33</integer>
     <key>ndot</key>
     <integer>-33</integer>
-    <key>nine</key>
+    <key>nine.pnum</key>
     <integer>-21</integer>
     <key>njecyr</key>
     <integer>-33</integer>
@@ -9250,7 +9250,7 @@
     <integer>-59</integer>
     <key>omacron</key>
     <integer>-59</integer>
-    <key>one</key>
+    <key>one.pnum</key>
     <integer>-13</integer>
     <key>oslash</key>
     <integer>-59</integer>
@@ -9318,7 +9318,7 @@
     <integer>-33</integer>
     <key>shchacyr.loclBGR</key>
     <integer>-28</integer>
-    <key>six</key>
+    <key>six.pnum</key>
     <integer>-13</integer>
     <key>slash</key>
     <integer>-56</integer>
@@ -9346,7 +9346,7 @@
     <integer>-8</integer>
     <key>tecyr.loclBGR</key>
     <integer>-33</integer>
-    <key>three</key>
+    <key>three.pnum</key>
     <integer>-11</integer>
     <key>trademark</key>
     <integer>15</integer>
@@ -9354,7 +9354,7 @@
     <integer>-33</integer>
     <key>tsecyr.loclBGR</key>
     <integer>-28</integer>
-    <key>two</key>
+    <key>two.pnum</key>
     <integer>-11</integer>
     <key>u</key>
     <integer>-28</integer>
@@ -9400,7 +9400,7 @@
     <integer>-25</integer>
     <key>zdotbelow</key>
     <integer>-25</integer>
-    <key>zero</key>
+    <key>zero.pnum</key>
     <integer>-24</integer>
   </dict>
   <key>Wacute</key>
@@ -9421,13 +9421,13 @@
     <integer>-19</integer>
     <key>dotlessi</key>
     <integer>-42</integer>
-    <key>eight</key>
+    <key>eight.pnum</key>
     <integer>-15</integer>
     <key>eth</key>
     <integer>-71</integer>
-    <key>five</key>
+    <key>five.pnum</key>
     <integer>-39</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>-52</integer>
     <key>germandbls</key>
     <integer>-23</integer>
@@ -9449,9 +9449,9 @@
     <integer>70</integer>
     <key>jcircumflex</key>
     <integer>44</integer>
-    <key>nine</key>
+    <key>nine.pnum</key>
     <integer>-31</integer>
-    <key>one</key>
+    <key>one.pnum</key>
     <integer>-19</integer>
     <key>parenright</key>
     <integer>33</integer>
@@ -9467,7 +9467,7 @@
     <integer>-65</integer>
     <key>scircumflex</key>
     <integer>-55</integer>
-    <key>six</key>
+    <key>six.pnum</key>
     <integer>-16</integer>
     <key>slash</key>
     <integer>-80</integer>
@@ -9475,11 +9475,11 @@
     <integer>-35</integer>
     <key>t.ss07</key>
     <integer>-20</integer>
-    <key>three</key>
+    <key>three.pnum</key>
     <integer>-16</integer>
     <key>trademark</key>
     <integer>26</integer>
-    <key>two</key>
+    <key>two.pnum</key>
     <integer>-16</integer>
     <key>v</key>
     <integer>-10</integer>
@@ -9491,7 +9491,7 @@
     <integer>-10</integer>
     <key>zcaron</key>
     <integer>-27</integer>
-    <key>zero</key>
+    <key>zero.pnum</key>
     <integer>-32</integer>
   </dict>
   <key>Wcircumflex</key>
@@ -9512,13 +9512,13 @@
     <integer>-19</integer>
     <key>dotlessi</key>
     <integer>-42</integer>
-    <key>eight</key>
+    <key>eight.pnum</key>
     <integer>-15</integer>
     <key>eth</key>
     <integer>-71</integer>
-    <key>five</key>
+    <key>five.pnum</key>
     <integer>-39</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>-52</integer>
     <key>germandbls</key>
     <integer>-23</integer>
@@ -9540,9 +9540,9 @@
     <integer>70</integer>
     <key>jcircumflex</key>
     <integer>44</integer>
-    <key>nine</key>
+    <key>nine.pnum</key>
     <integer>-31</integer>
-    <key>one</key>
+    <key>one.pnum</key>
     <integer>-19</integer>
     <key>parenright</key>
     <integer>33</integer>
@@ -9558,7 +9558,7 @@
     <integer>-65</integer>
     <key>scircumflex</key>
     <integer>-55</integer>
-    <key>six</key>
+    <key>six.pnum</key>
     <integer>-16</integer>
     <key>slash</key>
     <integer>-80</integer>
@@ -9566,11 +9566,11 @@
     <integer>-35</integer>
     <key>t.ss07</key>
     <integer>-20</integer>
-    <key>three</key>
+    <key>three.pnum</key>
     <integer>-16</integer>
     <key>trademark</key>
     <integer>26</integer>
-    <key>two</key>
+    <key>two.pnum</key>
     <integer>-16</integer>
     <key>v</key>
     <integer>-10</integer>
@@ -9582,7 +9582,7 @@
     <integer>-10</integer>
     <key>zcaron</key>
     <integer>-27</integer>
-    <key>zero</key>
+    <key>zero.pnum</key>
     <integer>-32</integer>
   </dict>
   <key>Wdieresis</key>
@@ -9603,13 +9603,13 @@
     <integer>-19</integer>
     <key>dotlessi</key>
     <integer>-42</integer>
-    <key>eight</key>
+    <key>eight.pnum</key>
     <integer>-15</integer>
     <key>eth</key>
     <integer>-71</integer>
-    <key>five</key>
+    <key>five.pnum</key>
     <integer>-39</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>-52</integer>
     <key>germandbls</key>
     <integer>-23</integer>
@@ -9631,9 +9631,9 @@
     <integer>70</integer>
     <key>jcircumflex</key>
     <integer>44</integer>
-    <key>nine</key>
+    <key>nine.pnum</key>
     <integer>-31</integer>
-    <key>one</key>
+    <key>one.pnum</key>
     <integer>-19</integer>
     <key>parenright</key>
     <integer>33</integer>
@@ -9649,7 +9649,7 @@
     <integer>-65</integer>
     <key>scircumflex</key>
     <integer>-55</integer>
-    <key>six</key>
+    <key>six.pnum</key>
     <integer>-16</integer>
     <key>slash</key>
     <integer>-80</integer>
@@ -9657,11 +9657,11 @@
     <integer>-35</integer>
     <key>t.ss07</key>
     <integer>-20</integer>
-    <key>three</key>
+    <key>three.pnum</key>
     <integer>-16</integer>
     <key>trademark</key>
     <integer>26</integer>
-    <key>two</key>
+    <key>two.pnum</key>
     <integer>-16</integer>
     <key>v</key>
     <integer>-10</integer>
@@ -9673,7 +9673,7 @@
     <integer>-10</integer>
     <key>zcaron</key>
     <integer>-27</integer>
-    <key>zero</key>
+    <key>zero.pnum</key>
     <integer>-32</integer>
   </dict>
   <key>Wecyr</key>
@@ -9694,13 +9694,13 @@
     <integer>-19</integer>
     <key>dotlessi</key>
     <integer>-42</integer>
-    <key>eight</key>
+    <key>eight.pnum</key>
     <integer>-15</integer>
     <key>eth</key>
     <integer>-71</integer>
-    <key>five</key>
+    <key>five.pnum</key>
     <integer>-39</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>-52</integer>
     <key>germandbls</key>
     <integer>-23</integer>
@@ -9722,9 +9722,9 @@
     <integer>70</integer>
     <key>jcircumflex</key>
     <integer>44</integer>
-    <key>nine</key>
+    <key>nine.pnum</key>
     <integer>-31</integer>
-    <key>one</key>
+    <key>one.pnum</key>
     <integer>-19</integer>
     <key>parenright</key>
     <integer>33</integer>
@@ -9740,7 +9740,7 @@
     <integer>-65</integer>
     <key>scircumflex</key>
     <integer>-55</integer>
-    <key>six</key>
+    <key>six.pnum</key>
     <integer>-16</integer>
     <key>slash</key>
     <integer>-80</integer>
@@ -9748,11 +9748,11 @@
     <integer>-35</integer>
     <key>t.ss07</key>
     <integer>-20</integer>
-    <key>three</key>
+    <key>three.pnum</key>
     <integer>-16</integer>
     <key>trademark</key>
     <integer>26</integer>
-    <key>two</key>
+    <key>two.pnum</key>
     <integer>-16</integer>
     <key>v</key>
     <integer>-10</integer>
@@ -9764,7 +9764,7 @@
     <integer>-10</integer>
     <key>zcaron</key>
     <integer>-27</integer>
-    <key>zero</key>
+    <key>zero.pnum</key>
     <integer>-32</integer>
   </dict>
   <key>Wgrave</key>
@@ -9785,13 +9785,13 @@
     <integer>-19</integer>
     <key>dotlessi</key>
     <integer>-42</integer>
-    <key>eight</key>
+    <key>eight.pnum</key>
     <integer>-15</integer>
     <key>eth</key>
     <integer>-71</integer>
-    <key>five</key>
+    <key>five.pnum</key>
     <integer>-39</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>-52</integer>
     <key>germandbls</key>
     <integer>-23</integer>
@@ -9813,9 +9813,9 @@
     <integer>70</integer>
     <key>jcircumflex</key>
     <integer>44</integer>
-    <key>nine</key>
+    <key>nine.pnum</key>
     <integer>-31</integer>
-    <key>one</key>
+    <key>one.pnum</key>
     <integer>-19</integer>
     <key>parenright</key>
     <integer>33</integer>
@@ -9831,7 +9831,7 @@
     <integer>-65</integer>
     <key>scircumflex</key>
     <integer>-55</integer>
-    <key>six</key>
+    <key>six.pnum</key>
     <integer>-16</integer>
     <key>slash</key>
     <integer>-80</integer>
@@ -9839,11 +9839,11 @@
     <integer>-35</integer>
     <key>t.ss07</key>
     <integer>-20</integer>
-    <key>three</key>
+    <key>three.pnum</key>
     <integer>-16</integer>
     <key>trademark</key>
     <integer>26</integer>
-    <key>two</key>
+    <key>two.pnum</key>
     <integer>-16</integer>
     <key>v</key>
     <integer>-10</integer>
@@ -9855,7 +9855,7 @@
     <integer>-10</integer>
     <key>zcaron</key>
     <integer>-27</integer>
-    <key>zero</key>
+    <key>zero.pnum</key>
     <integer>-32</integer>
   </dict>
   <key>X</key>
@@ -10080,7 +10080,7 @@
     <integer>-27</integer>
     <key>fl</key>
     <integer>-27</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>21</integer>
     <key>g</key>
     <integer>-40</integer>
@@ -10300,7 +10300,7 @@
     <integer>-11</integer>
     <key>tsecyr.loclBGR</key>
     <integer>-23</integer>
-    <key>two</key>
+    <key>two.pnum</key>
     <integer>5</integer>
     <key>u</key>
     <integer>-23</integer>
@@ -10376,7 +10376,7 @@
     <integer>-29</integer>
     <key>yucyr</key>
     <integer>-11</integer>
-    <key>zero</key>
+    <key>zero.pnum</key>
     <integer>-14</integer>
   </dict>
   <key>Y</key>
@@ -10401,15 +10401,15 @@
     <integer>-63</integer>
     <key>edieresis</key>
     <integer>-77</integer>
-    <key>eight</key>
+    <key>eight.pnum</key>
     <integer>-24</integer>
     <key>eth</key>
     <integer>-84</integer>
     <key>exclam</key>
     <integer>-10</integer>
-    <key>five</key>
+    <key>five.pnum</key>
     <integer>-50</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>-66</integer>
     <key>germandbls</key>
     <integer>-36</integer>
@@ -10431,11 +10431,11 @@
     <integer>61</integer>
     <key>jcircumflex</key>
     <integer>30</integer>
-    <key>nine</key>
+    <key>nine.pnum</key>
     <integer>-51</integer>
     <key>odieresis</key>
     <integer>-78</integer>
-    <key>one</key>
+    <key>one.pnum</key>
     <integer>-38</integer>
     <key>parenright</key>
     <integer>29</integer>
@@ -10451,7 +10451,7 @@
     <integer>-103</integer>
     <key>scircumflex</key>
     <integer>-70</integer>
-    <key>six</key>
+    <key>six.pnum</key>
     <integer>-27</integer>
     <key>slash</key>
     <integer>-75</integer>
@@ -10459,11 +10459,11 @@
     <integer>-37</integer>
     <key>t.ss07</key>
     <integer>-32</integer>
-    <key>three</key>
+    <key>three.pnum</key>
     <integer>-27</integer>
     <key>trademark</key>
     <integer>22</integer>
-    <key>two</key>
+    <key>two.pnum</key>
     <integer>-28</integer>
     <key>v</key>
     <integer>-25</integer>
@@ -10475,7 +10475,7 @@
     <integer>-24</integer>
     <key>zcaron</key>
     <integer>-33</integer>
-    <key>zero</key>
+    <key>zero.pnum</key>
     <integer>-53</integer>
   </dict>
   <key>Yacute</key>
@@ -10500,15 +10500,15 @@
     <integer>-63</integer>
     <key>edieresis</key>
     <integer>-77</integer>
-    <key>eight</key>
+    <key>eight.pnum</key>
     <integer>-24</integer>
     <key>eth</key>
     <integer>-84</integer>
     <key>exclam</key>
     <integer>-10</integer>
-    <key>five</key>
+    <key>five.pnum</key>
     <integer>-50</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>-66</integer>
     <key>germandbls</key>
     <integer>-36</integer>
@@ -10530,11 +10530,11 @@
     <integer>61</integer>
     <key>jcircumflex</key>
     <integer>30</integer>
-    <key>nine</key>
+    <key>nine.pnum</key>
     <integer>-51</integer>
     <key>odieresis</key>
     <integer>-78</integer>
-    <key>one</key>
+    <key>one.pnum</key>
     <integer>-38</integer>
     <key>parenright</key>
     <integer>29</integer>
@@ -10550,7 +10550,7 @@
     <integer>-103</integer>
     <key>scircumflex</key>
     <integer>-70</integer>
-    <key>six</key>
+    <key>six.pnum</key>
     <integer>-27</integer>
     <key>slash</key>
     <integer>-75</integer>
@@ -10558,11 +10558,11 @@
     <integer>-37</integer>
     <key>t.ss07</key>
     <integer>-32</integer>
-    <key>three</key>
+    <key>three.pnum</key>
     <integer>-27</integer>
     <key>trademark</key>
     <integer>22</integer>
-    <key>two</key>
+    <key>two.pnum</key>
     <integer>-28</integer>
     <key>v</key>
     <integer>-25</integer>
@@ -10574,7 +10574,7 @@
     <integer>-24</integer>
     <key>zcaron</key>
     <integer>-33</integer>
-    <key>zero</key>
+    <key>zero.pnum</key>
     <integer>-53</integer>
   </dict>
   <key>Ycircumflex</key>
@@ -10599,15 +10599,15 @@
     <integer>-63</integer>
     <key>edieresis</key>
     <integer>-77</integer>
-    <key>eight</key>
+    <key>eight.pnum</key>
     <integer>-24</integer>
     <key>eth</key>
     <integer>-84</integer>
     <key>exclam</key>
     <integer>-10</integer>
-    <key>five</key>
+    <key>five.pnum</key>
     <integer>-50</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>-66</integer>
     <key>germandbls</key>
     <integer>-36</integer>
@@ -10629,11 +10629,11 @@
     <integer>61</integer>
     <key>jcircumflex</key>
     <integer>30</integer>
-    <key>nine</key>
+    <key>nine.pnum</key>
     <integer>-51</integer>
     <key>odieresis</key>
     <integer>-78</integer>
-    <key>one</key>
+    <key>one.pnum</key>
     <integer>-38</integer>
     <key>parenright</key>
     <integer>29</integer>
@@ -10649,7 +10649,7 @@
     <integer>-103</integer>
     <key>scircumflex</key>
     <integer>-70</integer>
-    <key>six</key>
+    <key>six.pnum</key>
     <integer>-27</integer>
     <key>slash</key>
     <integer>-75</integer>
@@ -10657,11 +10657,11 @@
     <integer>-37</integer>
     <key>t.ss07</key>
     <integer>-32</integer>
-    <key>three</key>
+    <key>three.pnum</key>
     <integer>-27</integer>
     <key>trademark</key>
     <integer>22</integer>
-    <key>two</key>
+    <key>two.pnum</key>
     <integer>-28</integer>
     <key>v</key>
     <integer>-25</integer>
@@ -10673,7 +10673,7 @@
     <integer>-24</integer>
     <key>zcaron</key>
     <integer>-33</integer>
-    <key>zero</key>
+    <key>zero.pnum</key>
     <integer>-53</integer>
   </dict>
   <key>Ydieresis</key>
@@ -10698,15 +10698,15 @@
     <integer>-63</integer>
     <key>edieresis</key>
     <integer>-77</integer>
-    <key>eight</key>
+    <key>eight.pnum</key>
     <integer>-24</integer>
     <key>eth</key>
     <integer>-84</integer>
     <key>exclam</key>
     <integer>-10</integer>
-    <key>five</key>
+    <key>five.pnum</key>
     <integer>-50</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>-66</integer>
     <key>germandbls</key>
     <integer>-36</integer>
@@ -10728,11 +10728,11 @@
     <integer>61</integer>
     <key>jcircumflex</key>
     <integer>30</integer>
-    <key>nine</key>
+    <key>nine.pnum</key>
     <integer>-51</integer>
     <key>odieresis</key>
     <integer>-78</integer>
-    <key>one</key>
+    <key>one.pnum</key>
     <integer>-38</integer>
     <key>parenright</key>
     <integer>29</integer>
@@ -10748,7 +10748,7 @@
     <integer>-103</integer>
     <key>scircumflex</key>
     <integer>-70</integer>
-    <key>six</key>
+    <key>six.pnum</key>
     <integer>-27</integer>
     <key>slash</key>
     <integer>-75</integer>
@@ -10756,11 +10756,11 @@
     <integer>-37</integer>
     <key>t.ss07</key>
     <integer>-32</integer>
-    <key>three</key>
+    <key>three.pnum</key>
     <integer>-27</integer>
     <key>trademark</key>
     <integer>22</integer>
-    <key>two</key>
+    <key>two.pnum</key>
     <integer>-28</integer>
     <key>v</key>
     <integer>-25</integer>
@@ -10772,7 +10772,7 @@
     <integer>-24</integer>
     <key>zcaron</key>
     <integer>-33</integer>
-    <key>zero</key>
+    <key>zero.pnum</key>
     <integer>-53</integer>
   </dict>
   <key>Ygrave</key>
@@ -10797,15 +10797,15 @@
     <integer>-63</integer>
     <key>edieresis</key>
     <integer>-77</integer>
-    <key>eight</key>
+    <key>eight.pnum</key>
     <integer>-24</integer>
     <key>eth</key>
     <integer>-84</integer>
     <key>exclam</key>
     <integer>-10</integer>
-    <key>five</key>
+    <key>five.pnum</key>
     <integer>-50</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>-66</integer>
     <key>germandbls</key>
     <integer>-36</integer>
@@ -10827,11 +10827,11 @@
     <integer>61</integer>
     <key>jcircumflex</key>
     <integer>30</integer>
-    <key>nine</key>
+    <key>nine.pnum</key>
     <integer>-51</integer>
     <key>odieresis</key>
     <integer>-78</integer>
-    <key>one</key>
+    <key>one.pnum</key>
     <integer>-38</integer>
     <key>parenright</key>
     <integer>29</integer>
@@ -10847,7 +10847,7 @@
     <integer>-103</integer>
     <key>scircumflex</key>
     <integer>-70</integer>
-    <key>six</key>
+    <key>six.pnum</key>
     <integer>-27</integer>
     <key>slash</key>
     <integer>-75</integer>
@@ -10855,11 +10855,11 @@
     <integer>-37</integer>
     <key>t.ss07</key>
     <integer>-32</integer>
-    <key>three</key>
+    <key>three.pnum</key>
     <integer>-27</integer>
     <key>trademark</key>
     <integer>22</integer>
-    <key>two</key>
+    <key>two.pnum</key>
     <integer>-28</integer>
     <key>v</key>
     <integer>-25</integer>
@@ -10871,7 +10871,7 @@
     <integer>-24</integer>
     <key>zcaron</key>
     <integer>-33</integer>
-    <key>zero</key>
+    <key>zero.pnum</key>
     <integer>-53</integer>
   </dict>
   <key>Ytilde</key>
@@ -10896,15 +10896,15 @@
     <integer>-63</integer>
     <key>edieresis</key>
     <integer>-77</integer>
-    <key>eight</key>
+    <key>eight.pnum</key>
     <integer>-24</integer>
     <key>eth</key>
     <integer>-84</integer>
     <key>exclam</key>
     <integer>-10</integer>
-    <key>five</key>
+    <key>five.pnum</key>
     <integer>-50</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>-66</integer>
     <key>germandbls</key>
     <integer>-36</integer>
@@ -10926,11 +10926,11 @@
     <integer>61</integer>
     <key>jcircumflex</key>
     <integer>30</integer>
-    <key>nine</key>
+    <key>nine.pnum</key>
     <integer>-51</integer>
     <key>odieresis</key>
     <integer>-78</integer>
-    <key>one</key>
+    <key>one.pnum</key>
     <integer>-38</integer>
     <key>parenright</key>
     <integer>29</integer>
@@ -10946,7 +10946,7 @@
     <integer>-103</integer>
     <key>scircumflex</key>
     <integer>-70</integer>
-    <key>six</key>
+    <key>six.pnum</key>
     <integer>-27</integer>
     <key>slash</key>
     <integer>-75</integer>
@@ -10954,11 +10954,11 @@
     <integer>-37</integer>
     <key>t.ss07</key>
     <integer>-32</integer>
-    <key>three</key>
+    <key>three.pnum</key>
     <integer>-27</integer>
     <key>trademark</key>
     <integer>22</integer>
-    <key>two</key>
+    <key>two.pnum</key>
     <integer>-28</integer>
     <key>v</key>
     <integer>-25</integer>
@@ -10970,7 +10970,7 @@
     <integer>-24</integer>
     <key>zcaron</key>
     <integer>-33</integer>
-    <key>zero</key>
+    <key>zero.pnum</key>
     <integer>-53</integer>
   </dict>
   <key>Yucyr</key>
@@ -11223,7 +11223,7 @@
     <integer>-20</integer>
     <key>eth</key>
     <integer>-30</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>38</integer>
     <key>ibreve</key>
     <integer>45</integer>
@@ -11255,7 +11255,7 @@
     <integer>-26</integer>
     <key>trademark</key>
     <integer>16</integer>
-    <key>two</key>
+    <key>two.pnum</key>
     <integer>22</integer>
     <key>v</key>
     <integer>-38</integer>
@@ -11263,7 +11263,7 @@
     <integer>-38</integer>
     <key>y.ss10</key>
     <integer>-39</integer>
-    <key>zero</key>
+    <key>zero.pnum</key>
     <integer>-11</integer>
   </dict>
   <key>Zhecyr</key>
@@ -11302,7 +11302,7 @@
     <integer>-15</integer>
     <key>eth</key>
     <integer>-30</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>38</integer>
     <key>guillemotleft</key>
     <integer>-16</integer>
@@ -11350,7 +11350,7 @@
     <integer>-46</integer>
     <key>trademark</key>
     <integer>16</integer>
-    <key>two</key>
+    <key>two.pnum</key>
     <integer>22</integer>
     <key>v</key>
     <integer>-38</integer>
@@ -11360,7 +11360,7 @@
     <integer>-39</integer>
     <key>yukrcyr</key>
     <integer>76</integer>
-    <key>zero</key>
+    <key>zero.pnum</key>
     <integer>-11</integer>
   </dict>
   <key>Zhedieresiscyr</key>
@@ -11381,7 +11381,7 @@
     <integer>-20</integer>
     <key>eth</key>
     <integer>-30</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>38</integer>
     <key>ibreve</key>
     <integer>45</integer>
@@ -11413,7 +11413,7 @@
     <integer>-26</integer>
     <key>trademark</key>
     <integer>16</integer>
-    <key>two</key>
+    <key>two.pnum</key>
     <integer>22</integer>
     <key>v</key>
     <integer>-38</integer>
@@ -11421,7 +11421,7 @@
     <integer>-38</integer>
     <key>y.ss10</key>
     <integer>-39</integer>
-    <key>zero</key>
+    <key>zero.pnum</key>
     <integer>-11</integer>
   </dict>
   <key>a</key>
@@ -14575,13 +14575,13 @@
   </dict>
   <key>degree</key>
   <dict>
-    <key>five</key>
+    <key>five.pnum</key>
     <integer>-18</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>-68</integer>
-    <key>nine</key>
+    <key>nine.pnum</key>
     <integer>-18</integer>
-    <key>zero</key>
+    <key>zero.pnum</key>
     <integer>-10</integer>
   </dict>
   <key>djecyr</key>
@@ -14625,7 +14625,7 @@
   </dict>
   <key>dollar</key>
   <dict>
-    <key>three</key>
+    <key>three.pnum</key>
     <integer>-12</integer>
   </dict>
   <key>dotlessi</key>
@@ -15070,7 +15070,7 @@
     <key>y.ss10</key>
     <integer>-19</integer>
   </dict>
-  <key>eight</key>
+  <key>eight.pnum</key>
   <dict>
     <key>A</key>
     <integer>-16</integer>
@@ -15236,7 +15236,7 @@
     <integer>-15</integer>
     <key>hacyr</key>
     <integer>-12</integer>
-    <key>three</key>
+    <key>three.pnum</key>
     <integer>-22</integer>
     <key>v</key>
     <integer>-9</integer>
@@ -15296,7 +15296,7 @@
     <integer>-15</integer>
     <key>hacyr</key>
     <integer>-12</integer>
-    <key>three</key>
+    <key>three.pnum</key>
     <integer>-22</integer>
     <key>v</key>
     <integer>-9</integer>
@@ -16213,7 +16213,7 @@
     <key>quoteright</key>
     <integer>-39</integer>
   </dict>
-  <key>five</key>
+  <key>five.pnum</key>
   <dict>
     <key>AE</key>
     <integer>14</integer>
@@ -16291,7 +16291,7 @@
     <key>y.ss10</key>
     <integer>-34</integer>
   </dict>
-  <key>four</key>
+  <key>four.pnum</key>
   <dict>
     <key>AE</key>
     <integer>23</integer>
@@ -17202,7 +17202,7 @@
     <integer>-15</integer>
     <key>hacyr</key>
     <integer>-12</integer>
-    <key>three</key>
+    <key>three.pnum</key>
     <integer>-22</integer>
     <key>v</key>
     <integer>-9</integer>
@@ -18780,7 +18780,7 @@
   </dict>
   <key>multiply</key>
   <dict>
-    <key>three</key>
+    <key>three.pnum</key>
     <integer>-21</integer>
   </dict>
   <key>n</key>
@@ -18918,7 +18918,7 @@
     <key>y.ss10</key>
     <integer>-8</integer>
   </dict>
-  <key>nine</key>
+  <key>nine.pnum</key>
   <dict>
     <key>Djecyr</key>
     <integer>-35</integer>
@@ -19537,7 +19537,7 @@
     <key>y.ss10</key>
     <integer>-21</integer>
   </dict>
-  <key>one</key>
+  <key>one.pnum</key>
   <dict>
     <key>A</key>
     <integer>10</integer>
@@ -20275,7 +20275,7 @@
     <integer>-11</integer>
     <key>shchacyr.loclBGR</key>
     <integer>-11</integer>
-    <key>six</key>
+    <key>six.pnum</key>
     <integer>-10</integer>
     <key>softcyr.loclBGR</key>
     <integer>-11</integer>
@@ -20347,7 +20347,7 @@
     <integer>5</integer>
     <key>yukrcyr</key>
     <integer>63</integer>
-    <key>zero</key>
+    <key>zero.pnum</key>
     <integer>-15</integer>
     <key>zhecyr</key>
     <integer>23</integer>
@@ -20402,7 +20402,7 @@
   </dict>
   <key>periodcentered</key>
   <dict>
-    <key>three</key>
+    <key>three.pnum</key>
     <integer>-11</integer>
   </dict>
   <key>petailcyr</key>
@@ -20564,9 +20564,9 @@
     <integer>-32</integer>
     <key>eth</key>
     <integer>-22</integer>
-    <key>five</key>
+    <key>five.pnum</key>
     <integer>-18</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>-61</integer>
     <key>icircumflex</key>
     <integer>16</integer>
@@ -20576,7 +20576,7 @@
     <integer>53</integer>
     <key>jcircumflex</key>
     <integer>16</integer>
-    <key>nine</key>
+    <key>nine.pnum</key>
     <integer>-11</integer>
     <key>schwa</key>
     <integer>-18</integer>
@@ -20617,7 +20617,7 @@
     <integer>55</integer>
     <key>jecyr</key>
     <integer>49</integer>
-    <key>seven</key>
+    <key>seven.pnum</key>
     <integer>-16</integer>
     <key>t.ss07</key>
     <integer>-13</integer>
@@ -21396,7 +21396,7 @@
     <integer>55</integer>
     <key>jecyr</key>
     <integer>49</integer>
-    <key>seven</key>
+    <key>seven.pnum</key>
     <integer>-16</integer>
     <key>t.ss07</key>
     <integer>-13</integer>
@@ -21419,9 +21419,9 @@
     <integer>-32</integer>
     <key>eth</key>
     <integer>-22</integer>
-    <key>five</key>
+    <key>five.pnum</key>
     <integer>-18</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>-61</integer>
     <key>icircumflex</key>
     <integer>16</integer>
@@ -21431,7 +21431,7 @@
     <integer>53</integer>
     <key>jcircumflex</key>
     <integer>16</integer>
-    <key>nine</key>
+    <key>nine.pnum</key>
     <integer>-11</integer>
     <key>schwa</key>
     <integer>-18</integer>
@@ -21905,7 +21905,7 @@
     <key>y.ss10</key>
     <integer>-17</integer>
   </dict>
-  <key>seven</key>
+  <key>seven.pnum</key>
   <dict>
     <key>A</key>
     <integer>-31</integer>
@@ -21979,9 +21979,9 @@
     <integer>-16</integer>
     <key>endash</key>
     <integer>-16</integer>
-    <key>five</key>
+    <key>five.pnum</key>
     <integer>-13</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>-29</integer>
     <key>hyphen</key>
     <integer>-16</integer>
@@ -21991,7 +21991,7 @@
     <integer>-46</integer>
     <key>quotesinglbase</key>
     <integer>-46</integer>
-    <key>seven</key>
+    <key>seven.pnum</key>
     <integer>14</integer>
     <key>slash</key>
     <integer>-46</integer>
@@ -22067,7 +22067,7 @@
     <key>y.ss10</key>
     <integer>-8</integer>
   </dict>
-  <key>six</key>
+  <key>six.pnum</key>
   <dict>
     <key>A</key>
     <integer>-10</integer>
@@ -22119,7 +22119,7 @@
     <integer>-11</integer>
     <key>Ytilde</key>
     <integer>-11</integer>
-    <key>three</key>
+    <key>three.pnum</key>
     <integer>-12</integer>
   </dict>
   <key>slash</key>
@@ -22396,7 +22396,7 @@
     <integer>-58</integer>
     <key>egrave</key>
     <integer>-58</integer>
-    <key>eight</key>
+    <key>eight.pnum</key>
     <integer>-14</integer>
     <key>emacron</key>
     <integer>-58</integer>
@@ -22440,11 +22440,11 @@
     <integer>-24</integer>
     <key>fi</key>
     <integer>-24</integer>
-    <key>five</key>
+    <key>five.pnum</key>
     <integer>-39</integer>
     <key>fl</key>
     <integer>-24</integer>
-    <key>four</key>
+    <key>four.pnum</key>
     <integer>-75</integer>
     <key>g</key>
     <integer>-57</integer>
@@ -22528,7 +22528,7 @@
     <integer>-36</integer>
     <key>ndot</key>
     <integer>-36</integer>
-    <key>nine</key>
+    <key>nine.pnum</key>
     <integer>-35</integer>
     <key>njecyr</key>
     <integer>-36</integer>
@@ -22560,7 +22560,7 @@
     <integer>-58</integer>
     <key>omacron</key>
     <integer>-58</integer>
-    <key>one</key>
+    <key>one.pnum</key>
     <integer>-25</integer>
     <key>oslash</key>
     <integer>-58</integer>
@@ -22618,7 +22618,7 @@
     <integer>-36</integer>
     <key>shchacyr.loclBGR</key>
     <integer>-33</integer>
-    <key>six</key>
+    <key>six.pnum</key>
     <integer>-19</integer>
     <key>slash</key>
     <integer>-285</integer>
@@ -22632,13 +22632,13 @@
     <integer>-23</integer>
     <key>tecyr.loclBGR</key>
     <integer>-36</integer>
-    <key>three</key>
+    <key>three.pnum</key>
     <integer>-26</integer>
     <key>tsecyr</key>
     <integer>-36</integer>
     <key>tsecyr.loclBGR</key>
     <integer>-33</integer>
-    <key>two</key>
+    <key>two.pnum</key>
     <integer>-24</integer>
     <key>u</key>
     <integer>-33</integer>
@@ -22734,7 +22734,7 @@
     <integer>-33</integer>
     <key>zecyr</key>
     <integer>-36</integer>
-    <key>zero</key>
+    <key>zero.pnum</key>
     <integer>-44</integer>
     <key>zhecyr</key>
     <integer>-19</integer>
@@ -22759,7 +22759,7 @@
     <integer>-15</integer>
     <key>hacyr</key>
     <integer>-12</integer>
-    <key>three</key>
+    <key>three.pnum</key>
     <integer>-22</integer>
     <key>v</key>
     <integer>-9</integer>
@@ -23375,7 +23375,7 @@
     <key>y.ss10</key>
     <integer>-19</integer>
   </dict>
-  <key>three</key>
+  <key>three.pnum</key>
   <dict>
     <key>AE</key>
     <integer>20</integer>
@@ -23479,7 +23479,7 @@
     <key>y.ss10</key>
     <integer>-8</integer>
   </dict>
-  <key>two</key>
+  <key>two.pnum</key>
   <dict>
     <key>AE</key>
     <integer>18</integer>
@@ -25757,7 +25757,7 @@
     <key>zhecyr</key>
     <integer>-13</integer>
   </dict>
-  <key>zero</key>
+  <key>zero.pnum</key>
   <dict>
     <key>A</key>
     <integer>-18</integer>
@@ -26637,6 +26637,8 @@
     <integer>-6</integer>
     <key>public.kern2.Z2</key>
     <integer>-5</integer>
+    <key>public.kern2.i2</key>
+    <integer>40</integer>
   </dict>
   <key>public.kern1.k</key>
   <dict>

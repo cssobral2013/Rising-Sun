@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Igravecyr" format="2">
+  <advance width="733"/>
+  <unicode hex="040D"/>
+  <anchor x="547" y="0" name="bottomright"/>
+  <anchor x="442" y="916" name="top"/>
+  <outline>
+    <component base="Icyr"/>
+    <component base="gravecomb" xOffset="232" yOffset="186"/>
+  </outline>
+</glyph>

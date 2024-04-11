@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tsecyr.loclBGR" format="2">
   <advance width="650"/>
+  <anchor x="307" y="3" name="bottom"/>
+  <anchor x="582" y="0" name="ogonek"/>
+  <anchor x="301" y="524" name="top"/>
+  <anchor x="562" y="455" name="topright"/>
   <outline>
     <contour>
       <point x="624" y="-127" type="line"/>

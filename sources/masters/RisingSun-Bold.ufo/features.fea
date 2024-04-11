@@ -4,11 +4,11 @@
 @aalt2 = [fraction ordfeminine G.ss11 ordmasculine W.ss09 d.ss03 l.ss05 ordmasculine q.ss06 t.ss07 u.ss08 w.ss09 y.ss10 periodcentered.loclCAT Scommaaccent scommaaccent Tcommaaccent tcommaaccent Decyr.loclBGR Elcyr.loclBGR Efcyr.loclBGR becyr.loclSRB vecyr.loclBGR gecyr.loclBGR decyr.loclBGR zhecyr.loclBGR zecyr.loclBGR icyr.loclBGR ishortcyr.loclBGR kacyr.loclBGR elcyr.loclBGR pecyr.loclBGR tecyr.loclBGR tsecyr.loclBGR shacyr.loclBGR shchacyr.loclBGR hardcyr.loclBGR softcyr.loclBGR igravecyr.loclBGR Gestrokecyr.loclBSH gestrokecyr.loclBSH Zetailcyr.loclBSH zetailcyr.loclBSH];
 @ccmp = [gravecomb acutecomb circumflexcomb tildecomb macroncomb brevecomb dotaccentcomb dieresiscomb ringcomb hungarumlautcomb caroncomb commaturnedabovecomb hookabovecomb dblgravecomb breveinvertedcomb];
 @dnom = [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
-@dnom_numr_ordn_pnum_sinf_subs_sups_tnum = [zero one two three four five six seven eight nine];
+@dnom_numr_ordn_pnum_sinf_subs_sups_tnum = [zero.pnum one.pnum two.pnum three.pnum four.pnum five.pnum six.pnum seven.pnum eight.pnum nine.pnum];
 @locl = [Decyr Elcyr Efcyr vecyr gecyr decyr zhecyr zecyr icyr ishortcyr kacyr elcyr pecyr tecyr tsecyr shacyr shchacyr hardcyr softcyr igravecyr];
 @locl2 = [Decyr.loclBGR Elcyr.loclBGR Efcyr.loclBGR vecyr.loclBGR gecyr.loclBGR decyr.loclBGR zhecyr.loclBGR zecyr.loclBGR icyr.loclBGR ishortcyr.loclBGR kacyr.loclBGR elcyr.loclBGR pecyr.loclBGR tecyr.loclBGR tsecyr.loclBGR shacyr.loclBGR shchacyr.loclBGR hardcyr.loclBGR softcyr.loclBGR igravecyr.loclBGR];
 @numr = [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
-@pnum_tnum = [zero.tnum one.tnum two.tnum three.tnum four.tnum five.tnum six.tnum seven.tnum eight.tnum nine.tnum];
+@pnum_tnum = [zero one two three four five six seven eight nine];
 @sinf_subs = [zero.inferior one.inferior two.inferior three.inferior four.inferior five.inferior six.inferior seven.inferior eight.inferior nine.inferior];
 @sups = [zero.superior onesuperior twosuperior threesuperior four.superior five.superior six.superior seven.superior eight.superior nine.superior];
 #/< otclasses
@@ -336,3 +336,64 @@ feature tnum {
   sub @dnom_numr_ordn_pnum_sinf_subs_sups_tnum by @pnum_tnum;
 
 } tnum;
+feature onum {
+# Oldstyle Figures
+
+#> feature
+  sub eight.pnum by eight.onum;
+  sub eight by eight.onum;
+  sub five.pnum by five.onum;
+  sub five by five.onum;
+  sub four.pnum by four.onum;
+  sub four by four.onum;
+  sub nine.pnum by nine.onum;
+  sub nine by nine.onum;
+  sub one.pnum by one.onum;
+  sub one by one.onum;
+  sub seven.pnum by seven.onum;
+  sub seven by seven.onum;
+  sub six.pnum by six.onum;
+  sub six by six.onum;
+  sub three.pnum by three.onum;
+  sub three by three.onum;
+  sub two.pnum by two.onum;
+  sub two by two.onum;
+  sub zero.pnum by zero.onum;
+  sub zero by zero.onum;
+#< feature
+} onum;
+feature lnum {
+# Lining Figures
+
+#> feature
+  sub eight.onum by eight.pnum;
+  sub five.onum by five.pnum;
+  sub four.onum by four.pnum;
+  sub nine.onum by nine.pnum;
+  sub one.onum by one.pnum;
+  sub seven.onum by seven.pnum;
+  sub six.onum by six.pnum;
+  sub three.onum by three.pnum;
+  sub two.onum by two.pnum;
+  sub zero.onum by zero.pnum;
+#< feature
+} lnum;
+feature calt {
+# Contextual Alternates
+
+#> feature
+  lookup yukrcyr_double {
+    sub yukrcyr' yukrcyr by yukrcyr.calt;
+    sub yukrcyr.calt yukrcyr' by yukrcyr.calt2;
+  } yukrcyr_double;
+
+  lookup Yukrcyr_double {
+    sub Yukrcyr' Yukrcyr by Yukrcyr.calt;
+    sub Yukrcyr.calt Yukrcyr' by Yukrcyr.calt2;
+  } Yukrcyr_double;
+
+lookup yukrcyr_double;
+lookup Yukrcyr_double;
+
+#< feature
+} calt;

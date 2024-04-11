@@ -2,6 +2,8 @@
 <glyph name="gecyr" format="2">
   <advance width="392"/>
   <unicode hex="0433"/>
+  <anchor x="104" y="0" name="bottomright"/>
+  <anchor x="236" y="519" name="top"/>
   <outline>
     <contour>
       <point x="104" y="0" type="line"/>

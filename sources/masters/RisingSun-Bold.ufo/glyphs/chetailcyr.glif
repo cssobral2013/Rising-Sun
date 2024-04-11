@@ -2,6 +2,8 @@
 <glyph name="chetailcyr" format="2">
   <advance width="577"/>
   <unicode hex="04B7"/>
+  <anchor x="265" y="212" name="center"/>
+  <anchor x="272" y="524" name="top"/>
   <outline>
     <contour>
       <point x="487" y="0" type="line"/>

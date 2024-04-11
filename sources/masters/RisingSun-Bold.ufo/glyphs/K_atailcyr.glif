@@ -2,6 +2,9 @@
 <glyph name="Katailcyr" format="2">
   <advance width="693"/>
   <unicode hex="049A"/>
+  <anchor x="507" y="0" name="bottomright"/>
+  <anchor x="258" y="357" name="center"/>
+  <anchor x="342" y="710" name="top"/>
   <outline>
     <contour>
       <point x="679" y="-136" type="line"/>

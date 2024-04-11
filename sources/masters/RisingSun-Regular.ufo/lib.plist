@@ -23,16 +23,16 @@
     <string>hyphen</string>
     <string>period</string>
     <string>slash</string>
-    <string>zero.tnum</string>
-    <string>one.tnum</string>
-    <string>two.tnum</string>
-    <string>three.tnum</string>
-    <string>four.tnum</string>
-    <string>five.tnum</string>
-    <string>six.tnum</string>
-    <string>seven.tnum</string>
-    <string>eight.tnum</string>
-    <string>nine.tnum</string>
+    <string>zero</string>
+    <string>one</string>
+    <string>two</string>
+    <string>three</string>
+    <string>four</string>
+    <string>five</string>
+    <string>six</string>
+    <string>seven</string>
+    <string>eight</string>
+    <string>nine</string>
     <string>colon</string>
     <string>semicolon</string>
     <string>less</string>
@@ -710,7 +710,7 @@
     <string>nlinebelow</string>
     <string>Otildeacute</string>
     <string>otildeacute</string>
-    <string>uni1E4E</string>
+    <string>Otildedieresis</string>
     <string>otildedieresis</string>
     <string>Omacrongrave</string>
     <string>omacrongrave</string>
@@ -933,43 +933,43 @@
     <string>lozenge</string>
     <string>fi</string>
     <string>fl</string>
-    <string>zero</string>
+    <string>zero.pnum</string>
     <string>zero.dnom</string>
     <string>zero.numr</string>
     <string>zero.subs</string>
-    <string>one</string>
+    <string>one.pnum</string>
     <string>one.dnom</string>
     <string>one.numr</string>
     <string>one.subs</string>
-    <string>two</string>
+    <string>two.pnum</string>
     <string>two.dnom</string>
     <string>two.numr</string>
     <string>two.subs</string>
-    <string>three</string>
+    <string>three.pnum</string>
     <string>three.dnom</string>
     <string>three.numr</string>
     <string>three.subs</string>
-    <string>four</string>
+    <string>four.pnum</string>
     <string>four.dnom</string>
     <string>four.numr</string>
     <string>four.subs</string>
-    <string>five</string>
+    <string>five.pnum</string>
     <string>five.dnom</string>
     <string>five.numr</string>
     <string>five.subs</string>
-    <string>six</string>
+    <string>six.pnum</string>
     <string>six.dnom</string>
     <string>six.numr</string>
     <string>six.subs</string>
-    <string>seven</string>
+    <string>seven.pnum</string>
     <string>seven.dnom</string>
     <string>seven.numr</string>
     <string>seven.subs</string>
-    <string>eight</string>
+    <string>eight.pnum</string>
     <string>eight.dnom</string>
     <string>eight.numr</string>
     <string>eight.subs</string>
-    <string>nine</string>
+    <string>nine.pnum</string>
     <string>nine.dnom</string>
     <string>nine.numr</string>
     <string>nine.subs</string>
@@ -1035,6 +1035,20 @@
     <string>brevecomb-cy</string>
     <string>idotaccent</string>
     <string>brevecomb-cy.001</string>
+    <string>zero.onum</string>
+    <string>one.onum</string>
+    <string>two.onum</string>
+    <string>three.onum</string>
+    <string>four.onum</string>
+    <string>five.onum</string>
+    <string>six.onum</string>
+    <string>seven.onum</string>
+    <string>eight.onum</string>
+    <string>nine.onum</string>
+    <string>yukrcyr.calt</string>
+    <string>yukrcyr.calt2</string>
+    <string>Yukrcyr.calt</string>
+    <string>Yukrcyr.calt2</string>
   </array>
 </dict>
 </plist>

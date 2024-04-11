@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravemod" format="2">
+  <advance width="233"/>
+  <unicode hex="02CB"/>
+  <outline>
+    <contour>
+      <point x="213" y="498" type="line"/>
+      <point x="271" y="724" type="line"/>
+      <point x="158" y="724" type="line"/>
+      <point x="128" y="498" type="line"/>
+    </contour>
+  </outline>
+</glyph>

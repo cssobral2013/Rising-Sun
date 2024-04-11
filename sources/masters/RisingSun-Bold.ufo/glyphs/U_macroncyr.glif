@@ -2,6 +2,7 @@
 <glyph name="Umacroncyr" format="2">
   <advance width="638"/>
   <unicode hex="04EE"/>
+  <anchor x="331" y="710" name="top"/>
   <outline>
     <component base="Ucyr"/>
     <component base="macron" xOffset="121" yOffset="186"/>

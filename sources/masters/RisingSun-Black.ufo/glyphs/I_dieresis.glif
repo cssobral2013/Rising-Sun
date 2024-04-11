@@ -3,39 +3,7 @@
   <advance width="317"/>
   <unicode hex="00CF"/>
   <outline>
-    <contour>
-      <point x="256" y="0" type="line"/>
-      <point x="256" y="710" type="line"/>
-      <point x="61" y="710" type="line"/>
-      <point x="61" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="12" y="835" type="qcurve" smooth="yes"/>
-      <point x="12" y="796"/>
-      <point x="50" y="741"/>
-      <point x="78" y="741" type="qcurve" smooth="yes"/>
-      <point x="105" y="741"/>
-      <point x="143" y="796"/>
-      <point x="143" y="835" type="qcurve" smooth="yes"/>
-      <point x="143" y="874"/>
-      <point x="105" y="929"/>
-      <point x="78" y="929" type="qcurve" smooth="yes"/>
-      <point x="51" y="929"/>
-      <point x="12" y="874"/>
-    </contour>
-    <contour>
-      <point x="174" y="835" type="qcurve" smooth="yes"/>
-      <point x="174" y="796"/>
-      <point x="212" y="741"/>
-      <point x="239" y="741" type="qcurve" smooth="yes"/>
-      <point x="267" y="741"/>
-      <point x="305" y="796"/>
-      <point x="305" y="835" type="qcurve" smooth="yes"/>
-      <point x="305" y="874"/>
-      <point x="267" y="929"/>
-      <point x="239" y="929" type="qcurve" smooth="yes"/>
-      <point x="212" y="929"/>
-      <point x="174" y="874"/>
-    </contour>
+    <component base="I"/>
+    <component base="dieresis" xOffset="-125" yOffset="184"/>
   </outline>
 </glyph>

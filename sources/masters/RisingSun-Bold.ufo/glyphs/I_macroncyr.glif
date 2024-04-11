@@ -2,6 +2,8 @@
 <glyph name="Imacroncyr" format="2">
   <advance width="767"/>
   <unicode hex="04E2"/>
+  <anchor x="722" y="0" name="bottomright"/>
+  <anchor x="384" y="710" name="top"/>
   <outline>
     <component base="Icyr"/>
     <component base="macron" xOffset="175" yOffset="186"/>

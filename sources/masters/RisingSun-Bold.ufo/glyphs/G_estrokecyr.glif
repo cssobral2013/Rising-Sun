@@ -2,6 +2,8 @@
 <glyph name="Gestrokecyr" format="2">
   <advance width="560"/>
   <unicode hex="0492"/>
+  <anchor x="138" y="0" name="bottomright"/>
+  <anchor x="355" y="710" name="top"/>
   <outline>
     <contour>
       <point x="408" y="282" type="line"/>

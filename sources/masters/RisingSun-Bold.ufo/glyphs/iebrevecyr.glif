@@ -2,6 +2,7 @@
 <glyph name="iebrevecyr" format="2">
   <advance width="599"/>
   <unicode hex="04D7"/>
+  <anchor x="303" y="524" name="_top"/>
   <outline>
     <component base="iecyr"/>
     <component base="brevecomb-cy" xOffset="98"/>

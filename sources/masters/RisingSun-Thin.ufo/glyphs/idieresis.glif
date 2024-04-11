@@ -3,39 +3,7 @@
   <advance width="188"/>
   <unicode hex="00EF"/>
   <outline>
-    <contour>
-      <point x="104" y="0" type="line"/>
-      <point x="104" y="519" type="line"/>
-      <point x="84" y="519" type="line"/>
-      <point x="84" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="3" y="689" type="qcurve" smooth="yes"/>
-      <point x="3" y="675"/>
-      <point x="23" y="655"/>
-      <point x="37" y="655" type="qcurve" smooth="yes"/>
-      <point x="51" y="655"/>
-      <point x="71" y="675"/>
-      <point x="71" y="689" type="qcurve" smooth="yes"/>
-      <point x="71" y="703"/>
-      <point x="52" y="722"/>
-      <point x="37" y="722" type="qcurve" smooth="yes"/>
-      <point x="23" y="722"/>
-      <point x="3" y="703"/>
-    </contour>
-    <contour>
-      <point x="117" y="689" type="qcurve" smooth="yes"/>
-      <point x="117" y="675"/>
-      <point x="137" y="655"/>
-      <point x="151" y="655" type="qcurve" smooth="yes"/>
-      <point x="165" y="655"/>
-      <point x="185" y="675"/>
-      <point x="185" y="689" type="qcurve" smooth="yes"/>
-      <point x="185" y="703"/>
-      <point x="166" y="722"/>
-      <point x="151" y="722" type="qcurve" smooth="yes"/>
-      <point x="137" y="722"/>
-      <point x="117" y="703"/>
-    </contour>
+    <component base="dotlessi"/>
+    <component base="dieresis" xOffset="-23"/>
   </outline>
 </glyph>

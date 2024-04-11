@@ -2,6 +2,7 @@
 <glyph name="adieresiscyr" format="2">
   <advance width="574"/>
   <unicode hex="04D3"/>
+  <anchor x="289" y="721" name="top"/>
   <outline>
     <component base="acyr"/>
     <component base="dieresiscomb" xOffset="58" yOffset="1"/>

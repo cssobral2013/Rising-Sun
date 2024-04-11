@@ -2,6 +2,7 @@
 <glyph name="chekhakascyr" format="2">
   <advance width="538"/>
   <unicode hex="04CC"/>
+  <anchor x="268" y="524" name="top"/>
   <outline>
     <contour>
       <point x="382" y="-127" type="line"/>

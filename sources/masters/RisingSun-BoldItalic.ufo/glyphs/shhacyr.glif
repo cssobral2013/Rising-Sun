@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shhacyr" format="2">
+  <advance width="585"/>
+  <unicode hex="04BB"/>
+  <anchor x="237" y="0" name="bottom"/>
+  <anchor x="293" y="262" name="center"/>
+  <anchor x="389" y="710" name="top"/>
+  <outline>
+    <component base="h"/>
+  </outline>
+</glyph>

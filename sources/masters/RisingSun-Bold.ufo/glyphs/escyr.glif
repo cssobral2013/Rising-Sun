@@ -2,6 +2,8 @@
 <glyph name="escyr" format="2">
   <advance width="564"/>
   <unicode hex="0441"/>
+  <anchor x="305" y="0" name="bottom"/>
+  <anchor x="304" y="524" name="top"/>
   <outline>
     <component base="c"/>
   </outline>

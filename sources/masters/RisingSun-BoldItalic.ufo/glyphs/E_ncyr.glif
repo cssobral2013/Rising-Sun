@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Encyr" format="2">
+  <advance width="719"/>
+  <unicode hex="041D"/>
+  <anchor x="474" y="0" name="bottomright"/>
+  <anchor x="304" y="0" name="bottom"/>
+  <anchor x="380" y="355" name="center"/>
+  <anchor x="455" y="710" name="top"/>
+  <anchor x="115" y="710" name="topleft"/>
+  <outline>
+    <component base="H"/>
+  </outline>
+</glyph>

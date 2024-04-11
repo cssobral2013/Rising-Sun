@@ -2,6 +2,9 @@
 <glyph name="Ustraightcyr" format="2">
   <advance width="660"/>
   <unicode hex="04AE"/>
+  <anchor x="331" y="0" name="bottom"/>
+  <anchor x="330" y="709" name="top"/>
+  <anchor x="20" y="710" name="topleft"/>
   <outline>
     <component base="Y"/>
   </outline>

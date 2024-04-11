@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="igravecyr.loclBGR" format="2">
   <advance width="617"/>
+  <anchor x="466" y="524" name="bottom"/>
+  <anchor x="466" y="0" name="top"/>
   <outline>
     <component base="ugrave"/>
   </outline>

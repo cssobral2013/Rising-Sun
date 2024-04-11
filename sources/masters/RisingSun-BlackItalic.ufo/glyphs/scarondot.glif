@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="scarondot" format="2">
+  <advance width="485"/>
+  <unicode hex="1E67"/>
+  <outline>
+    <component base="s"/>
+    <component base="caroncomb" xOffset="55" yOffset="-4"/>
+    <component base="dotaccentcomb" xOffset="167" yOffset="200"/>
+  </outline>
+</glyph>
