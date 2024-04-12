@@ -1,24 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="r" format="2">
-  <advance width="323"/>
+  <advance width="324"/>
   <unicode hex="0072"/>
   <outline>
     <contour>
-      <point x="306" y="519" type="line"/>
-      <point x="300" y="519"/>
-      <point x="283" y="518"/>
-      <point x="273" y="517" type="qcurve" smooth="yes"/>
-      <point x="222" y="511"/>
-      <point x="131" y="440"/>
-      <point x="104" y="385" type="qcurve"/>
+      <point x="314" y="520" type="line"/>
+      <point x="308" y="524"/>
+      <point x="289" y="527"/>
+      <point x="273" y="527" type="curve" smooth="yes"/>
+      <point x="214" y="527"/>
+      <point x="146" y="470"/>
+      <point x="104" y="385" type="curve"/>
       <point x="104" y="519" type="line"/>
       <point x="84" y="519" type="line"/>
       <point x="84" y="0" type="line"/>
       <point x="104" y="0" type="line"/>
       <point x="104" y="328" type="line"/>
-      <point x="125" y="406"/>
-      <point x="232" y="496"/>
-      <point x="306" y="499" type="qcurve"/>
+      <point x="117" y="377"/>
+      <point x="138" y="417"/>
+      <point x="170" y="453" type="curve" smooth="yes"/>
+      <point x="202" y="490"/>
+      <point x="239" y="510"/>
+      <point x="266" y="510" type="curve" smooth="yes"/>
+      <point x="277" y="510"/>
+      <point x="290" y="508"/>
+      <point x="306" y="502" type="curve"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>=10</string>
+  </dict>
+  </lib>
 </glyph>

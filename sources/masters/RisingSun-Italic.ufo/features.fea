@@ -85,11 +85,6 @@ feature aalt useExtension {
   sub Estailcyr from [Estailcyr.loclCHU Estailcyr.loclBSH];
   sub estailcyr from [estailcyr.loclCHU estailcyr.loclBSH];
 } aalt;
-
-
-
-
-
 feature ccmp {
 # GSUB feature: Glyph Composition / Decomposition
 # Lookups: 3
@@ -161,11 +156,6 @@ feature ccmp {
     language CHU ; # Chuvash
 
 } ccmp;
-
-
-
-
-
 feature locl {
 # GSUB feature: Localized Forms
 # Lookups: 13
@@ -216,11 +206,6 @@ feature locl {
 
 
 } locl;
-
-
-
-
-
 feature subs {
 # GSUB feature: Subscript
 # Lookups: 1
@@ -228,11 +213,6 @@ feature subs {
   sub @dnom_numr_ordn_pnum_sinf_subs_sups_tnum by @subs;
 
 } subs;
-
-
-
-
-
 feature sinf {
 # GSUB feature: Scientific Inferiors
 # Lookups: 1
@@ -240,11 +220,6 @@ feature sinf {
   sub @dnom_numr_ordn_pnum_sinf_subs_sups_tnum by @sinf;
 
 } sinf;
-
-
-
-
-
 feature sups {
 # GSUB feature: Superscript
 # Lookups: 1
@@ -252,11 +227,6 @@ feature sups {
   sub @dnom_numr_ordn_pnum_sinf_subs_sups_tnum by @sups;
 
 } sups;
-
-
-
-
-
 feature numr {
 # GSUB feature: Numerators
 # Lookups: 1
@@ -264,11 +234,6 @@ feature numr {
   sub @dnom_numr_ordn_pnum_sinf_subs_sups_tnum by @frac_numr;
 
 } numr;
-
-
-
-
-
 feature dnom {
 # GSUB feature: Denominators
 # Lookups: 1
@@ -276,11 +241,6 @@ feature dnom {
   sub @dnom_numr_ordn_pnum_sinf_subs_sups_tnum by @dnom_frac;
 
 } dnom;
-
-
-
-
-
 feature frac {
 # GSUB feature: Fractions
 # Lookups: 2
@@ -290,11 +250,6 @@ feature frac {
   sub @dnom_frac @frac_numr' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
 
 } frac;
-
-
-
-
-
 feature ordn {
 # GSUB feature: Ordinals
 # Lookups: 2
@@ -304,11 +259,6 @@ feature ordn {
   sub N o period by numero;
 
 } ordn;
-
-
-
-
-
 feature dlig {
 # GSUB feature: Discretionary Ligatures
 # Lookups: 1
@@ -317,11 +267,6 @@ feature dlig {
   sub s t by s_t;
 
 } dlig;
-
-
-
-
-
 feature case {
 # GSUB feature: Case-Sensitive Forms
 # Lookups: 1
@@ -329,11 +274,6 @@ feature case {
   sub brevecomb-cy by brevecomb-cy.case;
 
 } case;
-
-
-
-
-
 feature liga {
 # GSUB feature: Standard Ligatures
 # Lookups: 1
@@ -345,11 +285,6 @@ feature liga {
   sub f l by fl;
 
 } liga;
-
-
-
-
-
 feature salt {
 # GSUB feature: Stylistic Alternates
 # Lookups: 1
@@ -357,11 +292,6 @@ feature salt {
   sub a by a.ss01;
 
 } salt;
-
-
-
-
-
 feature ss01 {
 # GSUB feature: Stylistic Set 1
 # Lookups: 1
@@ -369,11 +299,6 @@ feature ss01 {
   sub a by a.ss01;
 
 } ss01;
-
-
-
-
-
 feature ss02 {
 # GSUB feature: Stylistic Set 2
 # Lookups: 1
@@ -381,11 +306,6 @@ feature ss02 {
   sub a by a.ss02;
 
 } ss02;
-
-
-
-
-
 feature ss03 {
 # GSUB feature: Stylistic Set 3
 # Lookups: 1
@@ -393,11 +313,6 @@ feature ss03 {
   sub d by d.ss03;
 
 } ss03;
-
-
-
-
-
 feature ss04 {
 # GSUB feature: Stylistic Set 4
 # Lookups: 1
@@ -405,11 +320,6 @@ feature ss04 {
   sub j by j.ss04;
 
 } ss04;
-
-
-
-
-
 feature ss05 {
 # GSUB feature: Stylistic Set 5
 # Lookups: 1
@@ -417,11 +327,6 @@ feature ss05 {
   sub l by l.ss05;
 
 } ss05;
-
-
-
-
-
 feature ss06 {
 # GSUB feature: Stylistic Set 6
 # Lookups: 1
@@ -429,11 +334,6 @@ feature ss06 {
   sub q by q.ss06;
 
 } ss06;
-
-
-
-
-
 feature ss07 {
 # GSUB feature: Stylistic Set 7
 # Lookups: 1
@@ -441,11 +341,6 @@ feature ss07 {
   sub t by t.ss07;
 
 } ss07;
-
-
-
-
-
 feature ss08 {
 # GSUB feature: Stylistic Set 8
 # Lookups: 1
@@ -453,11 +348,6 @@ feature ss08 {
   sub u by u.ss08;
 
 } ss08;
-
-
-
-
-
 feature ss09 {
 # GSUB feature: Stylistic Set 9
 # Lookups: 1
@@ -465,11 +355,6 @@ feature ss09 {
   sub [W w] by [W.ss09 w.ss09];
 
 } ss09;
-
-
-
-
-
 feature ss10 {
 # GSUB feature: Stylistic Set 10
 # Lookups: 1
@@ -477,11 +362,6 @@ feature ss10 {
   sub y by y.ss10;
 
 } ss10;
-
-
-
-
-
 feature ss11 {
 # GSUB feature: Stylistic Set 11
 # Lookups: 1
@@ -489,11 +369,6 @@ feature ss11 {
   sub G by G.ss11;
 
 } ss11;
-
-
-
-
-
 feature pnum {
 # GSUB feature: Proportional Figures
 # Lookups: 1
@@ -501,11 +376,6 @@ feature pnum {
   sub @pnum_tnum by @dnom_numr_ordn_pnum_sinf_subs_sups_tnum;
 
 } pnum;
-
-
-
-
-
 feature tnum {
 # GSUB feature: Tabular Figures
 # Lookups: 1
@@ -513,11 +383,6 @@ feature tnum {
   sub @dnom_numr_ordn_pnum_sinf_subs_sups_tnum by @pnum_tnum;
 
 } tnum;
-
-
-
-
-
 feature onum {
 # Oldstyle Figures
 
@@ -544,10 +409,6 @@ feature onum {
   sub zero by zero.onum;
 #< feature
 } onum;
-
-
-
-
 feature lnum {
 # Lining Figures
 
@@ -564,10 +425,327 @@ feature lnum {
   sub zero.onum by zero.pnum;
 #< feature
 } lnum;
+feature mark {
+# GPOS feature : Mark Positioning
+    markClass dieresiscomb <anchor 220 522> @top;
+    markClass dotaccentcomb <anchor 145 522> @top;
+    markClass gravecomb <anchor 241 522> @top;
+    markClass acutecomb <anchor 142 522> @top;
+    markClass hungarumlautcomb <anchor 205 522> @top;
+    markClass caroncomb.alt <anchor 148 522> @topright;
+    markClass circumflexcomb <anchor 234 522> @top;
+    markClass caroncomb <anchor 241 522> @top;
+    markClass brevecomb <anchor 212 522> @top;
+    markClass ringcomb <anchor 184 522> @top;
+    markClass tildecomb <anchor 267 522> @top;
+    markClass macroncomb <anchor 245 522> @top;
+    markClass hookabovecomb <anchor 191 522> @top;
+    markClass dblgravecomb <anchor 278 521> @top;
+    markClass breveinvertedcomb <anchor 213 522> @top;
+    markClass commaturnedabovecomb <anchor 136 522> @top;
+    markClass horncomb <anchor 169 522> @topright;
+    markClass dotbelowcomb <anchor 34 0> @bottom;
+    markClass dieresisbelowcomb <anchor 121 0> @bottom;
+    markClass commaaccentcomb <anchor 32 0> @bottom;
+    markClass cedillacomb <anchor 110 0> @bottom;
+    markClass ogonekcomb <anchor 108 0> @ogonek;
+    markClass brevebelowcomb <anchor 81 0> @bottom;
+    markClass macronbelowcomb <anchor 130 0> @bottom;
+    markClass strokeshortcomb <anchor 172 300> @center;
+    markClass apostrophemod <anchor 134 522> @top;
+    markClass firsttonechinese <anchor 243 522> @top;
+    markClass brevecomb-cy <anchor 230 522> @top;
+    markClass brevecomb-cy.case <anchor 330 710> @top;
+    markClass descender-cy <anchor -55 0> @bottomright;
+    markClass descender-cy.case <anchor -35 0> @bottomright;
+    markClass brevecomb_acutecomb <anchor 234 522> @top;
+    markClass brevecomb_gravecomb <anchor 199 522> @top;
+    markClass brevecomb_hookabovecomb <anchor 214 522> @top;
+    markClass brevecomb_tildecomb <anchor 234 522> @top;
+    markClass circumflexcomb_acutecomb <anchor 232 522> @top;
+    markClass circumflexcomb_gravecomb <anchor 325 522> @top;
+    markClass circumflexcomb_hookabovecomb <anchor 232 522> @top;
+    markClass circumflexcomb_tildecomb <anchor 250 522> @top;
+    markClass verticalbar-cy <anchor 82 226> @center;
+    markClass verticalbar-cy.case <anchor 132 310> @center;
 
+  lookup markLTR {
+      pos base A
+          <anchor 271 0> mark @bottom
+          <anchor 578 0> mark @ogonek
+          <anchor 419 710> mark @top;
+      pos base AE
+          <anchor 607 708> mark @top;
+      pos base C
+          <anchor 272 0> mark @bottom
+          <anchor 422 710> mark @top;
+      pos base D
+          <anchor 241 0> mark @bottom
+          <anchor 319 355> mark @center
+          <anchor 391 708> mark @top;
+      pos base E
+          <anchor 235 0> mark @bottom
+          <anchor 479 0> mark @ogonek
+          <anchor 385 710> mark @top;
+      pos base G
+          <anchor 316 0> mark @bottom
+          <anchor 447 708> mark @top;
+      pos base H
+          <anchor 302 0> mark @bottom
+          <anchor 377 355> mark @center
+          <anchor 452 710> mark @top;
+      pos base I
+          <anchor 65 0> mark @bottom
+          <anchor 110 0> mark @ogonek
+          <anchor 216 710> mark @top;
+      pos base J
+          <anchor 439 708> mark @top;
+      pos base K
+          <anchor 278 0> mark @bottom;
+      pos base L
+          <anchor 252 0> mark @bottom
+          <anchor 300 355> mark @center
+          <anchor 208 710> mark @top
+          <anchor 476 522> mark @topright;
+      pos base M
+          <anchor 364 0> mark @bottom
+          <anchor 514 710> mark @top;
+      pos base N
+          <anchor 316 0> mark @bottom
+          <anchor 472 708> mark @top;
+      pos base O
+          <anchor 314 0> mark @bottom
+          <anchor 361 355> mark @center
+          <anchor 336 0> mark @ogonek
+          <anchor 451 708> mark @top
+          <anchor 555 674> mark @topright;
+      pos base R
+          <anchor 252 0> mark @bottom
+          <anchor 393 710> mark @top;
+      pos base S
+          <anchor 239 0> mark @bottom
+          <anchor 393 721> mark @top;
+      pos base T
+          <anchor 229 0> mark @bottom
+          <anchor 380 708> mark @top;
+      pos base U
+          <anchor 303 0> mark @bottom
+          <anchor 347 0> mark @ogonek
+          <anchor 444 708> mark @top
+          <anchor 748 674> mark @topright;
+      pos base W
+          <anchor 582 708> mark @top;
+      pos base Y
+          <anchor 372 708> mark @top;
+      pos base Z
+          <anchor 245 0> mark @bottom
+          <anchor 395 710> mark @top;
+      pos base a
+          <anchor 248 0> mark @bottom
+          <anchor 494 0> mark @ogonek
+          <anchor 358 522> mark @top;
+      pos base ae
+          <anchor 456 522> mark @top;
+      pos base c
+          <anchor 242 0> mark @bottom
+          <anchor 339 522> mark @top;
+      pos base d
+          <anchor 248 0> mark @bottom
+          <anchor 303 261> mark @center
+          <anchor 358 522> mark @top
+          <anchor 641 522> mark @topright;
+      pos base e
+          <anchor 230 0> mark @bottom
+          <anchor 300 0> mark @ogonek
+          <anchor 341 522> mark @top;
+      pos base g
+          <anchor 333 522> mark @top;
+      pos base h
+          <anchor 229 0> mark @bottom
+          <anchor 284 261> mark @center
+          <anchor 382 710> mark @top;
+      pos base i
+          <anchor 48 0> mark @bottom
+          <anchor 93 0> mark @ogonek;
+      pos base idotless
+          <anchor 48 0> mark @bottom
+          <anchor 148 10> mark @ogonek
+          <anchor 158 522> mark @top;
+      pos base jdotless
+          <anchor 58 0> mark @bottom
+          <anchor 168 522> mark @top;
+      pos base k
+          <anchor 218 0> mark @bottom;
+      pos base l
+          <anchor 124 0> mark @bottom
+          <anchor 140 261> mark @center
+          <anchor 204 730> mark @top
+          <anchor 272 522> mark @topright;
+      pos base m
+          <anchor 387 0> mark @bottom
+          <anchor 497 522> mark @top;
+      pos base n
+          <anchor 232 0> mark @bottom
+          <anchor 403 522> mark @top;
+      pos base o
+          <anchor 239 0> mark @bottom
+          <anchor 289 261> mark @center
+          <anchor 277 0> mark @ogonek
+          <anchor 337 522> mark @top
+          <anchor 456 488> mark @topright;
+      pos base r
+          <anchor 50 0> mark @bottom
+          <anchor 235 522> mark @top;
+      pos base s
+          <anchor 187 0> mark @bottom
+          <anchor 293 522> mark @top;
+      pos base t
+          <anchor 114 0> mark @bottom
+          <anchor 169 261> mark @center
+          <anchor 232 710> mark @top
+          <anchor 313 522> mark @topright;
+      pos base u
+          <anchor 234 0> mark @bottom
+          <anchor 465 0> mark @ogonek
+          <anchor 344 522> mark @top
+          <anchor 559 483> mark @topright;
+      pos base w
+          <anchor 423 522> mark @top;
+      pos base y
+          <anchor 321 0> mark @bottom
+          <anchor 284 522> mark @top;
+      pos base z
+          <anchor 180 0> mark @bottom
+          <anchor 290 522> mark @top;
+      pos base a.sc
+          <anchor 570 8> mark @bottom
+          <anchor 266 707> mark @top;
+      pos base c.sc
+          <anchor 317 0> mark @bottom
+          <anchor 318 707> mark @top;
+      pos base d.sc
+          <anchor 294 707> mark @top;
+      pos base e.sc
+          <anchor 285 0> mark @bottom
+          <anchor 285 707> mark @top;
+      pos base g.sc
+          <anchor 320 0> mark @bottom
+          <anchor 308 707> mark @top;
+      pos base h.sc
+          <anchor 308 707> mark @top;
+      pos base i.sc
+          <anchor 51 0> mark @bottom
+          <anchor 50 707> mark @top;
+      pos base j.sc
+          <anchor 307 707> mark @top;
+      pos base k.sc
+          <anchor 255 0> mark @bottom;
+      pos base l.sc
+          <anchor 272 0> mark @bottom
+          <anchor 272 707> mark @top;
+      pos base n.sc
+          <anchor 335 0> mark @bottom
+          <anchor 334 707> mark @top;
+      pos base o.sc
+          <anchor 315 0> mark @bottom
+          <anchor 315 707> mark @top;
+      pos base r.sc
+          <anchor 257 0> mark @bottom
+          <anchor 257 710> mark @top;
+      pos base s.sc
+          <anchor 248 0> mark @bottom
+          <anchor 248 729> mark @top;
+      pos base t.sc
+          <anchor 236 0> mark @bottom
+          <anchor 236 707> mark @top;
+      pos base u.sc
+          <anchor 319 0> mark @bottom
+          <anchor 319 707> mark @top;
+      pos base w.sc
+          <anchor 435 707> mark @top;
+      pos base y.sc
+          <anchor 226 707> mark @top;
+      pos base z.sc
+          <anchor 274 707> mark @top;
+      pos base ordfeminine
+          <anchor 384 11> mark @bottom
+          <anchor 191 519> mark @top;
+      pos base ordmasculine
+          <anchor 224 0> mark @bottom
+          <anchor 225 519> mark @top;
+      pos base A-cy
+          <anchor 419 710> mark @top;
+      pos base Ge-cy
+          <anchor 15 0> mark @bottomright
+          <anchor 387 710> mark @top;
+      pos base Zhe-cy
+          <anchor 825 0> mark @bottomright
+          <anchor 573 710> mark @top;
+      pos base Ze-cy
+          <anchor 226 0> mark @bottom
+          <anchor 353 710> mark @top;
+      pos base Ii-cy
+          <anchor 553 0> mark @bottomright
+          <anchor 446 710> mark @top;
+      pos base Ka-cy
+          <anchor 472 0> mark @bottomright
+          <anchor 395 710> mark @top;
+      pos base En-cy
+          <anchor 494 0> mark @bottomright;
+      pos base O-cy
+          <anchor 463 710> mark @top;
+      pos base Pe-cy
+          <anchor 499 0> mark @bottomright;
+      pos base Te-cy
+          <anchor 213 0> mark @bottomright;
+      pos base U-cy
+          <anchor 387 710> mark @top;
+      pos base Che-cy
+          <anchor 436 0> mark @bottomright
+          <anchor 339 302> mark @center
+          <anchor 423 710> mark @top;
+      pos base Yeru-cy
+          <anchor 493 710> mark @top;
+      pos base a-cy
+          <anchor 379 522> mark @top;
+      pos base ge-cy
+          <anchor 210 0> mark @bottomright
+          <anchor 285 522> mark @top;
+      pos base ie-cy
+          <anchor 337 522> mark @top;
+      pos base zhe-cy
+          <anchor 612 0> mark @bottomright
+          <anchor 432 522> mark @top;
+      pos base ze-cy
+          <anchor 184 0> mark @bottom
+          <anchor 279 522> mark @top;
+      pos base ii-cy
+          <anchor 472 0> mark @bottomright
+          <anchor 354 522> mark @top;
+      pos base ka-cy
+          <anchor 345 0> mark @bottomright
+          <anchor 254 261> mark @center
+          <anchor 301 522> mark @top;
+      pos base en-cy
+          <anchor 373 0> mark @bottomright;
+      pos base o-cy
+          <anchor 360 520> mark @top;
+      pos base pe-cy
+          <anchor 369 0> mark @bottomright;
+      pos base u-cy
+          <anchor 304 522> mark @top;
+      pos base che-cy
+          <anchor 320 0> mark @bottomright
+          <anchor 257 223> mark @center
+          <anchor 321 522> mark @top;
+      pos base yeru-cy
+          <anchor 404 522> mark @top;
+      pos base ge-cy.loclSRB
+          <anchor 171 657> mark @top;
+  } markLTR;
 
-
-
+  lookup markLTR;
+} mark;
 feature calt {
 # Contextual Alternates
 
@@ -587,4 +765,3 @@ lookup Yukrcyr_double;
 
 #< feature
 } calt;
-

@@ -933,45 +933,55 @@
     <string>lozenge</string>
     <string>fi</string>
     <string>fl</string>
-    <string>zero.pnum</string>
     <string>zero.dnom</string>
     <string>zero.numr</string>
+    <string>zero.onum</string>
+    <string>zero.pnum</string>
     <string>zero.subs</string>
-    <string>one.pnum</string>
     <string>one.dnom</string>
     <string>one.numr</string>
+    <string>one.onum</string>
+    <string>one.pnum</string>
     <string>one.subs</string>
-    <string>two.pnum</string>
     <string>two.dnom</string>
     <string>two.numr</string>
+    <string>two.onum</string>
+    <string>two.pnum</string>
     <string>two.subs</string>
-    <string>three.pnum</string>
     <string>three.dnom</string>
     <string>three.numr</string>
+    <string>three.onum</string>
+    <string>three.pnum</string>
     <string>three.subs</string>
-    <string>four.pnum</string>
     <string>four.dnom</string>
     <string>four.numr</string>
+    <string>four.onum</string>
+    <string>four.pnum</string>
     <string>four.subs</string>
-    <string>five.pnum</string>
     <string>five.dnom</string>
     <string>five.numr</string>
+    <string>five.onum</string>
+    <string>five.pnum</string>
     <string>five.subs</string>
-    <string>six.pnum</string>
     <string>six.dnom</string>
     <string>six.numr</string>
+    <string>six.onum</string>
+    <string>six.pnum</string>
     <string>six.subs</string>
-    <string>seven.pnum</string>
     <string>seven.dnom</string>
     <string>seven.numr</string>
+    <string>seven.onum</string>
+    <string>seven.pnum</string>
     <string>seven.subs</string>
-    <string>eight.pnum</string>
     <string>eight.dnom</string>
     <string>eight.numr</string>
+    <string>eight.onum</string>
+    <string>eight.pnum</string>
     <string>eight.subs</string>
-    <string>nine.pnum</string>
     <string>nine.dnom</string>
     <string>nine.numr</string>
+    <string>nine.onum</string>
+    <string>nine.pnum</string>
     <string>nine.subs</string>
     <string>G.ss11</string>
     <string>W.ss09</string>
@@ -1002,6 +1012,8 @@
     <string>caroncomb.alt</string>
     <string>dotbelowcomb.1</string>
     <string>tonos.cap</string>
+    <string>Yukrcyr.calt</string>
+    <string>Yukrcyr.calt2</string>
     <string>Decyr.loclBGR</string>
     <string>Elcyr.loclBGR</string>
     <string>Efcyr.loclBGR</string>
@@ -1022,6 +1034,8 @@
     <string>shchacyr.loclBGR</string>
     <string>hardcyr.loclBGR</string>
     <string>softcyr.loclBGR</string>
+    <string>yukrcyr.calt</string>
+    <string>yukrcyr.calt2</string>
     <string>igravecyr.loclBGR</string>
     <string>Gestrokecyr.loclBSH</string>
     <string>gestrokecyr.loclBSH</string>
@@ -1035,20 +1049,6 @@
     <string>brevecomb-cy</string>
     <string>idotaccent</string>
     <string>brevecomb-cy.001</string>
-    <string>zero.onum</string>
-    <string>one.onum</string>
-    <string>two.onum</string>
-    <string>three.onum</string>
-    <string>four.onum</string>
-    <string>five.onum</string>
-    <string>six.onum</string>
-    <string>seven.onum</string>
-    <string>eight.onum</string>
-    <string>nine.onum</string>
-    <string>yukrcyr.calt</string>
-    <string>yukrcyr.calt2</string>
-    <string>Yukrcyr.calt</string>
-    <string>Yukrcyr.calt2</string>
   </array>
 </dict>
 </plist>

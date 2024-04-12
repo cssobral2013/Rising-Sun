@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eight.onum" format="2">
-  <advance width="584"/>
+  <advance width="576"/>
   <outline>
     <contour>
       <point x="220" y="-8" type="curve" smooth="yes"/>

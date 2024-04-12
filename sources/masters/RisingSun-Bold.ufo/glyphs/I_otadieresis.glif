@@ -1,41 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iotadieresis" format="2">
-  <advance width="343"/>
+  <advance width="306"/>
   <unicode hex="03AA"/>
   <outline>
-    <contour>
-      <point x="208" y="0" type="line"/>
-      <point x="208" y="698" type="line"/>
-      <point x="74" y="698" type="line"/>
-      <point x="74" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="12" y="836" type="qcurve" smooth="yes"/>
-      <point x="12" y="806"/>
-      <point x="43" y="764"/>
-      <point x="67" y="764" type="qcurve" smooth="yes"/>
-      <point x="89" y="764"/>
-      <point x="122" y="806"/>
-      <point x="122" y="836" type="qcurve" smooth="yes"/>
-      <point x="122" y="866"/>
-      <point x="89" y="907"/>
-      <point x="67" y="907" type="qcurve" smooth="yes"/>
-      <point x="43" y="907"/>
-      <point x="12" y="866"/>
-    </contour>
-    <contour>
-      <point x="158" y="836" type="qcurve" smooth="yes"/>
-      <point x="158" y="806"/>
-      <point x="191" y="764"/>
-      <point x="214" y="764" type="qcurve" smooth="yes"/>
-      <point x="237" y="764"/>
-      <point x="269" y="806"/>
-      <point x="269" y="836" type="qcurve" smooth="yes"/>
-      <point x="269" y="866"/>
-      <point x="237" y="907"/>
-      <point x="214" y="907" type="qcurve" smooth="yes"/>
-      <point x="191" y="907"/>
-      <point x="158" y="866"/>
-    </contour>
+    <component base="Iota"/>
+    <component base="dieresis" xOffset="-76" yOffset="186"/>
   </outline>
 </glyph>

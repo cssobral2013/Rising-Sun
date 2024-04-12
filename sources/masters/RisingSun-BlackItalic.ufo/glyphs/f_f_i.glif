@@ -49,7 +49,7 @@
     </contour>
     <contour>
       <point x="307" y="465" type="line"/>
-      <point x="313" y="495" type="line" smooth="yes"/>
+      <point x="313" y="495" type="line"/>
       <point x="316" y="508"/>
       <point x="325" y="527"/>
       <point x="337" y="540"/>
