@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dblgravecomb" format="2">
-  <advance width="349"/>
+  <advance width="347"/>
   <unicode hex="030F"/>
   <outline>
-    <contour>
-      <point x="216" y="760" type="line"/>
-      <point x="303" y="600" type="line"/>
-      <point x="359" y="600" type="line"/>
-      <point x="318" y="760" type="line"/>
-    </contour>
-    <contour>
-      <point x="35" y="760" type="line"/>
-      <point x="122" y="600" type="line"/>
-      <point x="179" y="600" type="line"/>
-      <point x="137" y="760" type="line"/>
-    </contour>
+    <component base="acutecomb" xScale="-1" xOffset="172"/>
+    <component base="acutecomb" xScale="-1" xOffset="352"/>
   </outline>
 </glyph>

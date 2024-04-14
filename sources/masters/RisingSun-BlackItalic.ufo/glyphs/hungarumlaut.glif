@@ -3,17 +3,6 @@
   <advance width="399"/>
   <unicode hex="02DD"/>
   <outline>
-    <contour>
-      <point x="491" y="730" type="line"/>
-      <point x="322" y="730" type="line"/>
-      <point x="225" y="556" type="line"/>
-      <point x="315" y="556" type="line"/>
-    </contour>
-    <contour>
-      <point x="300" y="730" type="line"/>
-      <point x="131" y="730" type="line"/>
-      <point x="34" y="556" type="line"/>
-      <point x="124" y="556" type="line"/>
-    </contour>
+    <component base="hungarumlautcomb"/>
   </outline>
 </glyph>
