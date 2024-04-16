@@ -4,9 +4,14 @@
   <unicode hex="045C"/>
   <anchor x="340" y="0" name="bottomright"/>
   <anchor x="272" y="262" name="center"/>
-  <anchor x="403" y="732" name="top"/>
   <outline>
     <component base="kacyr"/>
-    <component base="acutecomb" xOffset="242"/>
+    <component base="acutecomb" xOffset="285"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>kacyr+acutecomb</string>
+  </dict>
+  </lib>
 </glyph>

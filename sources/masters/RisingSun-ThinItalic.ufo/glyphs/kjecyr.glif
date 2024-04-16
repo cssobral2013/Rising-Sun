@@ -2,8 +2,16 @@
 <glyph name="kjecyr" format="2">
   <advance width="462"/>
   <unicode hex="045C"/>
+  <anchor x="352" y="0" name="bottomright"/>
+  <anchor x="231" y="260" name="center"/>
   <outline>
     <component base="kacyr"/>
-    <component base="acutecomb" xOffset="204"/>
+    <component base="acutecomb" xOffset="257"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>kacyr+acutecomb</string>
+  </dict>
+  </lib>
 </glyph>

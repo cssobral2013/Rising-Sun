@@ -4,6 +4,12 @@
   <unicode hex="00D9"/>
   <outline>
     <component base="U"/>
-    <component base="gravecomb" xOffset="218" yOffset="184"/>
+    <component base="gravecomb" xOffset="259" yOffset="186"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>U+gravecomb</string>
+  </dict>
+  </lib>
 </glyph>

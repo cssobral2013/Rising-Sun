@@ -1,4 +1,24 @@
-#> classes
+#/> classes
+#/> otclasses
+@aalt = [slash A G O W d l o q t u w y periodcentered Scedilla scedilla Tcedilla tcedilla Decyr Elcyr Efcyr becyr vecyr gecyr zhecyr zecyr kacyr tecyr yucyr gjecyr Gestrokecyr gestrokecyr Zetailcyr zetailcyr zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr brevecomb-cy];
+@aalt2 = [fraction ordfeminine G.ss11 ordmasculine W.ss09 d.ss03 l.ss05 ordmasculine q.ss06 t.ss07 u.ss08 w.ss09 y.ss10 periodcentered.loclCAT Scommaaccent scommaaccent Tcommaaccent tcommaaccent Decyr.loclBGR Elcyr.loclBGR Efcyr.loclBGR becyr.loclSRB vecyr.loclBGR gecyr.loclSRB zhecyr.loclBGR zecyr.loclBGR kacyr.loclBGR tecyr.loclBGR yucyr.loclBGR gjecyr.loclMKD Gestrokecyr.loclBSH gestrokecyr.loclBSH Zetailcyr.loclBSH zetailcyr.loclBSH zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom brevecomb-cy.case];
+@ccmp = [gravecomb acutecomb circumflexcomb tildecomb macroncomb brevecomb dotaccentcomb dieresiscomb ringcomb hungarumlautcomb caroncomb commaturnedabovecomb hookabovecomb dblgravecomb breveinvertedcomb];
+@ccmp2 = [Lslash Zcaron A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Scaron OE Ydieresis Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn Amacron Aogonek Ccaron Cacute Zacute Dcaron Emacron Edotaccent Ecaron Eogonek Iogonek Imacron Kcommaaccent Lcommaaccent Lcaron Lacute Ncommaaccent Nacute Ncaron Ohungarumlaut Omacron Racute Rcaron Rcommaaccent Sacute Tcaron Umacron Uring Uhungarumlaut Uogonek Zdotaccent Gcommaaccent Dcroat Acyr Becyr Vecyr Gecyr Decyr Iecyr Zhecyr Zecyr Icyr Ishortcyr Kacyr Elcyr Emcyr Encyr Ocyr Pecyr Ercyr Escyr Tecyr Ucyr Efcyr Hacyr Tsecyr Checyr Shacyr Shchacyr Hardcyr Ylongcyr Softcyr Ereversedcyr Yucyr Yacyr Geupcyr Iukrcyr Djecyr Gjecyr Jecyr Eukrcyr Yukrcyr Ljecyr Njecyr Dzecyr Tshecyr Kjecyr Ushortcyr Dzhecyr Iocyr Abreve Scommaaccent Tcommaaccent Gbreve Idotaccent Scedilla Ccircumflex Cdotaccent Ebreve Gcircumflex Gdotaccent Hcircumflex Hbar Itilde Ibreve Jcircumflex Ldot Eng Obreve Scircumflex Tcedilla Tbar Utilde Ubreve Wcircumflex Ycircumflex Aringacute AEacute Oslashacute Iegravecyr Igravecyr Yatcyr Fitacyr Izhitsacyr Wgrave Wacute Wdieresis Ygrave Gestrokecyr Gehookcyr Zhetailcyr Zetailcyr Katailcyr Kaverticalstrokecyr Kabashkcyr Entailcyr Engecyr Estailcyr Ustraightcyr Ustraightstrokecyr Chetailcyr Chevertcyr Shhacyr Palochkacyr Chekhakascyr Abrevecyr Adieresiscyr Aiecyr Iebrevecyr Schwacyr Zhedieresiscyr Zedieresiscyr Imacroncyr Idieresiscyr Odieresiscyr Obarcyr Umacroncyr Udieresiscyr Uacutedblcyr Chedieresiscyr Getailcyr Ylongdieresiscyr Wecyr Ohorn Uhorn Gcaron Oogonek Adblgrave Ainvertedbreve Edblgrave Einvertedbreve Idblgrave Iinvertedbreve Odblgrave Oinvertedbreve Rdblgrave Rinvertedbreve Udblgrave Uinvertedbreve Odieresismacron Otildemacron Odotaccentmacron Ymacron Zhebrevecyr Ccedillaacute Ddotbelow Dlinebelow Emacrongrave Emacronacute Ecedillabreve Gmacron Hdotbelow Hbrevebelow Idieresisacute Ldotbelow Llinebelow Mdotbelow Ndot Ndotbelow Nlinebelow Otildeacute Otildedieresis Omacrongrave Omacronacute Rdotbelow Rlinebelow Sdot Sdotbelow Sacutedotaccent Scarondot Sdotbelowdotabove Tdotbelow Tlinebelow Utildeacute Umacrondieresis Ydot Zdotbelow Adotbelow Ahoi Acircumflexacute Acircumflexgrave Acircumflexhoi Acircumflextilde Acircumflexdotbelow Abreveacute Abrevegrave Abrevehoi Abrevetilde Abrevedotbelow Edotbelow Ehoi Etilde Ecircumflexacute Ecircumflexgrave Ecircumflexhoi Ecircumflextilde Ecircumflexdotbelow Ihoi Idotbelow Odotbelow Ohoi Ocircumflexacute Ocircumflexgrave Ocircumflexhoi Ocircumflextilde Ocircumflexdotbelow Ohornacute Ohorngrave Ohornhoi Ohorntilde Ohorndotbelow Udotbelow Uhoi Uhornacute Uhorngrave Uhornhoi Uhorntilde Uhorndotbelow Ydotbelow Yhoi Ytilde Germandbls G.ss11 W.ss09 Schwa Yusbigcyr Qacyr Petailcyr Decyr.loclBGR Elcyr.loclBGR Efcyr.loclBGR Gestrokecyr.loclBSH Zetailcyr.loclBSH Estailcyr.loclBSH Estailcyr.loclCHU];
+@dnom_frac = [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
+@dnom_numr_ordn_pnum_sinf_subs_sups_tnum = [zero.pnum one.pnum two.pnum three.pnum four.pnum five.pnum six.pnum seven.pnum eight.pnum nine.pnum];
+@frac = [slash zero.pnum one.pnum two.pnum three.pnum four.pnum five.pnum six.pnum seven.pnum eight.pnum nine.pnum];
+@frac2 = [fraction zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
+@frac_numr = [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
+@locl2 = [Decyr.loclBGR Elcyr.loclBGR Efcyr.loclBGR vecyr.loclBGR decyr.loclBGR zhecyr.loclBGR zecyr.loclBGR kacyr.loclBGR pecyr.loclBGR tecyr.loclBGR yucyr.loclBGR];
+@pnum_tnum = [zero one two three four five six seven eight nine];
+@sinf = [zero.subs one.subs two.subs three.subs four.subs five.subs six.subs seven.subs eight.subs nine.subs];
+@subs = [zero.inferior one.inferior two.inferior three.inferior four.inferior five.inferior six.inferior seven.inferior eight.inferior nine.inferior];
+@sups = [zero.superior onesuperior twosuperior threesuperior four.superior five.superior six.superior seven.superior eight.superior nine.superior];
+@locl = [Decyr Elcyr Efcyr vecyr decyr zhecyr zecyr kacyr pecyr tecyr yucyr igravecyr];
+#/< otclasses
+#/< classes
+
+#/> classes
 #/> otclasses
 @aalt = [slash A G O W d l o q t u w y periodcentered Scedilla scedilla Tcedilla tcedilla Decyr Elcyr Efcyr becyr vecyr gecyr zhecyr zecyr kacyr tecyr yucyr gjecyr Gestrokecyr gestrokecyr Zetailcyr zetailcyr zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr brevecomb-cy];
 @aalt2 = [fraction ordfeminine G.ss11 ordmasculine W.ss09 d.ss03 l.ss05 ordmasculine q.ss06 t.ss07 u.ss08 w.ss09 y.ss10 periodcentered.loclCAT Scommaaccent scommaaccent Tcommaaccent tcommaaccent Decyr.loclBGR Elcyr.loclBGR Efcyr.loclBGR becyr.loclSRB vecyr.loclBGR gecyr.loclSRB zhecyr.loclBGR zecyr.loclBGR kacyr.loclBGR tecyr.loclBGR yucyr.loclBGR gjecyr.loclMKD Gestrokecyr.loclBSH gestrokecyr.loclBSH Zetailcyr.loclBSH zetailcyr.loclBSH zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom brevecomb-cy.case];
@@ -16,7 +36,7 @@
 @subs = [zero.inferior one.inferior two.inferior three.inferior four.inferior five.inferior six.inferior seven.inferior eight.inferior nine.inferior];
 @sups = [zero.superior onesuperior twosuperior threesuperior four.superior five.superior six.superior seven.superior eight.superior nine.superior];
 #/< otclasses
-#< classes
+#/< classes
 
 ###
 # OpenType Layout feature definitions
