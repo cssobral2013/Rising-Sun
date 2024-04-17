@@ -71,7 +71,7 @@
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Italic</string>
   <key>openTypeNameVersion</key>
-  <string>Version 4.327</string>
+  <string>Version 4.328</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -198,7 +198,7 @@
   <key>versionMajor</key>
   <integer>4</integer>
   <key>versionMinor</key>
-  <integer>327</integer>
+  <integer>328</integer>
   <key>xHeight</key>
   <integer>522</integer>
 </dict>

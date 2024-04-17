@@ -7,10 +7,10 @@
       <point x="190" y="259" type="line"/>
       <point x="198" y="268"/>
       <point x="207" y="275"/>
-      <point x="217" y="282" type="curve"/>
+      <point x="217" y="282" type="curve" smooth="yes"/>
       <point x="228" y="289"/>
       <point x="241" y="296"/>
-      <point x="258" y="302" type="curve"/>
+      <point x="258" y="302" type="curve" smooth="yes"/>
       <point x="311" y="323"/>
       <point x="353" y="345"/>
       <point x="385" y="369" type="curve" smooth="yes"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="six.onum" format="2">
-  <advance width="593"/>
+  <advance width="592"/>
   <outline>
     <contour>
       <point x="234" y="-10" type="curve" smooth="yes"/>
