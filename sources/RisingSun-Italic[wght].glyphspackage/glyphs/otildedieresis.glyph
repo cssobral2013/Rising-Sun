@@ -1,0 +1,86 @@
+{
+glyphname = otildedieresis;
+layers = (
+{
+layerId = "6B4679EA-1538-464C-A512-98F14834F464";
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+alignment = -1;
+pos = (34,-4);
+ref = tildecomb;
+},
+{
+alignment = -1;
+pos = (74,255);
+ref = dieresiscomb;
+}
+);
+width = 596;
+},
+{
+layerId = "4F5CF608-1EEA-44EF-A1BF-A33612F34277";
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+alignment = -1;
+pos = (51,-2);
+ref = tildecomb;
+},
+{
+alignment = -1;
+pos = (118,207);
+ref = dieresiscomb;
+}
+);
+width = 587;
+},
+{
+layerId = "512638AB-0945-465F-960D-EDDBC987F200";
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+alignment = -1;
+pos = (70,0);
+ref = tildecomb;
+},
+{
+alignment = -1;
+pos = (165,160);
+ref = dieresiscomb;
+}
+);
+width = 578;
+},
+{
+layerId = "15C3E3D4-46BF-4B0F-AE9B-5C85901FC252";
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+alignment = -1;
+pos = (89,0);
+ref = tildecomb;
+},
+{
+alignment = -1;
+pos = (189,120);
+ref = dieresiscomb;
+}
+);
+width = 561;
+}
+);
+unicode = 7759;
+}

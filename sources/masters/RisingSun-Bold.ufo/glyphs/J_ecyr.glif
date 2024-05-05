@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Jecyr" format="2">
-  <advance width="554"/>
-  <unicode hex="0408"/>
-  <anchor x="357" y="709" name="top"/>
-  <outline>
-    <component base="J"/>
-  </outline>
-</glyph>

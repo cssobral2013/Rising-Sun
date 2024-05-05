@@ -1,0 +1,81 @@
+{
+glyphname = Kjecyr;
+layers = (
+{
+layerId = "5E4EADAD-7388-43B2-8587-4ACDB97AF5A7";
+shapes = (
+{
+alignment = -1;
+ref = Kacyr;
+},
+{
+alignment = -1;
+pos = (277,184);
+ref = acutecomb;
+}
+);
+width = 733;
+},
+{
+anchors = (
+{
+name = bottomright;
+position = "{507, 0}";
+},
+{
+name = center;
+position = "{258, 357}";
+},
+{
+name = top;
+position = "{390, 916}";
+}
+);
+layerId = "0F9D8F62-E123-4F46-ABBA-A231400EE57C";
+shapes = (
+{
+alignment = -1;
+ref = Kacyr;
+},
+{
+alignment = -1;
+pos = (269,186);
+ref = acutecomb;
+}
+);
+width = 688;
+},
+{
+layerId = "AAD2D087-92DF-47CC-BD2E-C3459023509F";
+shapes = (
+{
+alignment = -1;
+ref = Kacyr;
+},
+{
+alignment = -1;
+pos = (263,188);
+ref = acutecomb;
+}
+);
+width = 651;
+},
+{
+layerId = "E0F2885E-F498-4F39-8517-E15A921A69AE";
+shapes = (
+{
+alignment = -1;
+ref = Kacyr;
+},
+{
+alignment = -1;
+pos = (252,191);
+ref = acutecomb;
+}
+);
+width = 594;
+}
+);
+rightKerningGroup = K;
+unicode = 1036;
+}

@@ -1,0 +1,87 @@
+{
+glyphname = Omacrongrave;
+widthMetricsKey = O;
+layers = (
+{
+layerId = "5E4EADAD-7388-43B2-8587-4ACDB97AF5A7";
+shapes = (
+{
+alignment = -1;
+ref = O;
+},
+{
+alignment = -1;
+pos = (167,184);
+ref = macroncomb;
+},
+{
+alignment = -1;
+pos = (156,378);
+ref = gravecomb;
+}
+);
+width = 796;
+},
+{
+layerId = "0F9D8F62-E123-4F46-ABBA-A231400EE57C";
+shapes = (
+{
+alignment = -1;
+ref = O;
+},
+{
+alignment = -1;
+pos = (171,185);
+ref = macroncomb;
+},
+{
+alignment = -1;
+pos = (173,378);
+ref = gravecomb;
+}
+);
+width = 780;
+},
+{
+layerId = "AAD2D087-92DF-47CC-BD2E-C3459023509F";
+shapes = (
+{
+alignment = -1;
+ref = O;
+},
+{
+alignment = -1;
+pos = (174,186);
+ref = macroncomb;
+},
+{
+alignment = -1;
+pos = (188,377);
+ref = gravecomb;
+}
+);
+width = 762;
+},
+{
+layerId = "E0F2885E-F498-4F39-8517-E15A921A69AE";
+shapes = (
+{
+alignment = -1;
+ref = O;
+},
+{
+alignment = -1;
+pos = (189,188);
+ref = macroncomb;
+},
+{
+alignment = -1;
+pos = (205,375);
+ref = gravecomb;
+}
+);
+width = 753;
+}
+);
+unicode = 7760;
+}

@@ -1,0 +1,14 @@
+{
+glyphname = CR;
+layers = (
+{
+layerId = "4F5CF608-1EEA-44EF-A1BF-A33612F34277";
+width = 0;
+},
+{
+layerId = "512638AB-0945-465F-960D-EDDBC987F200";
+width = 0;
+}
+);
+unicode = 13;
+}

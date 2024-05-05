@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Imacroncyr" format="2">
-  <advance width="728"/>
-  <unicode hex="04E2"/>
-  <outline>
-    <component base="Icyr"/>
-    <component base="macroncomb" xOffset="200" yOffset="188"/>
-  </outline>
-</glyph>

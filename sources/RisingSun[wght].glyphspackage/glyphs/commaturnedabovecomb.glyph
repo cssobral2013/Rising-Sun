@@ -1,0 +1,66 @@
+{
+glyphname = commaturnedabovecomb;
+layers = (
+{
+layerId = "5E4EADAD-7388-43B2-8587-4ACDB97AF5A7";
+shapes = (
+{
+closed = 1;
+nodes = (
+(8,572,l),
+(199,572,l),
+(256,755,l),
+(155,755,l)
+);
+}
+);
+width = 261;
+},
+{
+layerId = "0F9D8F62-E123-4F46-ABBA-A231400EE57C";
+shapes = (
+{
+closed = 1;
+nodes = (
+(15,579,l),
+(161,579,l),
+(224,744,l),
+(145,744,l)
+);
+}
+);
+width = 221;
+},
+{
+layerId = "AAD2D087-92DF-47CC-BD2E-C3459023509F";
+shapes = (
+{
+closed = 1;
+nodes = (
+(22,586,l),
+(122,586,l),
+(190,731,l),
+(135,731,l)
+);
+}
+);
+width = 179;
+},
+{
+layerId = "E0F2885E-F498-4F39-8517-E15A921A69AE";
+shapes = (
+{
+closed = 1;
+nodes = (
+(33,613,l),
+(67,613,l),
+(146,728,l),
+(127,728,l)
+);
+}
+);
+width = 120;
+}
+);
+unicode = 786;
+}

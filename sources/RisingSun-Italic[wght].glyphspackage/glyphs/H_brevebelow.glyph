@@ -1,0 +1,66 @@
+{
+glyphname = Hbrevebelow;
+layers = (
+{
+layerId = "6B4679EA-1538-464C-A512-98F14834F464";
+shapes = (
+{
+alignment = -1;
+ref = H;
+},
+{
+alignment = -1;
+pos = (189,0);
+ref = brevebelowcomb;
+}
+);
+width = 724;
+},
+{
+layerId = "4F5CF608-1EEA-44EF-A1BF-A33612F34277";
+shapes = (
+{
+alignment = -1;
+ref = H;
+},
+{
+alignment = -1;
+pos = (204,0);
+ref = brevebelowcomb;
+}
+);
+width = 719;
+},
+{
+layerId = "512638AB-0945-465F-960D-EDDBC987F200";
+shapes = (
+{
+alignment = -1;
+ref = H;
+},
+{
+alignment = -1;
+pos = (221,0);
+ref = brevebelowcomb;
+}
+);
+width = 713;
+},
+{
+layerId = "15C3E3D4-46BF-4B0F-AE9B-5C85901FC252";
+shapes = (
+{
+alignment = -1;
+ref = H;
+},
+{
+alignment = -1;
+pos = (240,0);
+ref = brevebelowcomb;
+}
+);
+width = 701;
+}
+);
+unicode = 7722;
+}

@@ -1,0 +1,62 @@
+{
+glyphname = shhacyr;
+layers = (
+{
+layerId = "6B4679EA-1538-464C-A512-98F14834F464";
+shapes = (
+{
+alignment = -1;
+ref = h;
+}
+);
+width = 601;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{237, 0}";
+},
+{
+name = center;
+position = "{293, 262}";
+},
+{
+name = top;
+position = "{389, 710}";
+}
+);
+layerId = "4F5CF608-1EEA-44EF-A1BF-A33612F34277";
+shapes = (
+{
+alignment = -1;
+ref = h;
+}
+);
+width = 585;
+},
+{
+layerId = "512638AB-0945-465F-960D-EDDBC987F200";
+shapes = (
+{
+alignment = -1;
+ref = h;
+}
+);
+width = 567;
+},
+{
+layerId = "15C3E3D4-46BF-4B0F-AE9B-5C85901FC252";
+shapes = (
+{
+alignment = -1;
+ref = h;
+}
+);
+width = 540;
+}
+);
+leftKerningGroup = b2;
+rightKerningGroup = h;
+unicode = 1211;
+}

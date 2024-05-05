@@ -1,0 +1,70 @@
+{
+glyphname = Iotatonos;
+layers = (
+{
+layerId = "6B4679EA-1538-464C-A512-98F14834F464";
+shapes = (
+{
+alignment = -1;
+pos = (108,0);
+ref = Iota;
+},
+{
+alignment = -1;
+pos = (-10,-5);
+ref = tonos.cap;
+}
+);
+width = 454;
+},
+{
+layerId = "4F5CF608-1EEA-44EF-A1BF-A33612F34277";
+shapes = (
+{
+alignment = -1;
+pos = (80,0);
+ref = Iota;
+},
+{
+alignment = -1;
+pos = (-10,-4);
+ref = tonos.cap;
+}
+);
+width = 398;
+},
+{
+layerId = "512638AB-0945-465F-960D-EDDBC987F200";
+shapes = (
+{
+alignment = -1;
+pos = (49,0);
+ref = Iota;
+},
+{
+alignment = -1;
+pos = (-11,-2);
+ref = tonos.cap;
+}
+);
+width = 338;
+},
+{
+layerId = "15C3E3D4-46BF-4B0F-AE9B-5C85901FC252";
+shapes = (
+{
+alignment = -1;
+pos = (-8,0);
+ref = Iota;
+},
+{
+alignment = -1;
+pos = (-12,0);
+ref = tonos.cap;
+}
+);
+width = 224;
+}
+);
+unicode = 906;
+}

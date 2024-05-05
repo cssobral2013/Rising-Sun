@@ -1,0 +1,68 @@
+{
+glyphname = Emacron;
+layers = (
+{
+layerId = "5E4EADAD-7388-43B2-8587-4ACDB97AF5A7";
+shapes = (
+{
+alignment = -1;
+ref = E;
+},
+{
+alignment = -1;
+pos = (98,184);
+ref = macroncomb;
+}
+);
+width = 597;
+},
+{
+layerId = "0F9D8F62-E123-4F46-ABBA-A231400EE57C";
+shapes = (
+{
+alignment = -1;
+ref = E;
+},
+{
+alignment = -1;
+pos = (117,185);
+ref = macroncomb;
+}
+);
+width = 602;
+},
+{
+layerId = "AAD2D087-92DF-47CC-BD2E-C3459023509F";
+shapes = (
+{
+alignment = -1;
+ref = E;
+},
+{
+alignment = -1;
+pos = (133,186);
+ref = macroncomb;
+}
+);
+width = 605;
+},
+{
+layerId = "E0F2885E-F498-4F39-8517-E15A921A69AE";
+shapes = (
+{
+alignment = -1;
+ref = E;
+},
+{
+alignment = -1;
+pos = (154,188);
+ref = macroncomb;
+}
+);
+width = 617;
+}
+);
+leftKerningGroup = B;
+rightKerningGroup = E;
+unicode = 274;
+}

@@ -1,0 +1,68 @@
+{
+glyphname = brevecomb_hookabovecomb;
+layers = (
+{
+layerId = "6B4679EA-1538-464C-A512-98F14834F464";
+shapes = (
+{
+alignment = -1;
+ref = brevecomb;
+},
+{
+alignment = -1;
+pos = (63,157);
+ref = hookabovecomb;
+}
+);
+width = 412;
+},
+{
+layerId = "4F5CF608-1EEA-44EF-A1BF-A33612F34277";
+shapes = (
+{
+alignment = -1;
+pos = (-3,-12);
+ref = brevecomb;
+},
+{
+alignment = -1;
+pos = (61,145);
+ref = hookabovecomb;
+}
+);
+width = 363;
+},
+{
+layerId = "512638AB-0945-465F-960D-EDDBC987F200";
+shapes = (
+{
+alignment = -1;
+pos = (-6,-26);
+ref = brevecomb;
+},
+{
+alignment = -1;
+pos = (59,131);
+ref = hookabovecomb;
+}
+);
+width = 310;
+},
+{
+layerId = "15C3E3D4-46BF-4B0F-AE9B-5C85901FC252";
+shapes = (
+{
+alignment = -1;
+pos = (-12,-56);
+ref = brevecomb;
+},
+{
+alignment = -1;
+pos = (39,139);
+ref = hookabovecomb;
+}
+);
+width = 260;
+}
+);
+}

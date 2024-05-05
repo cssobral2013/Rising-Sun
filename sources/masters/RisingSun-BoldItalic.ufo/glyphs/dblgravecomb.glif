@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dblgravecomb" format="2">
-  <advance width="383"/>
-  <unicode hex="030F"/>
-  <outline>
-    <component base="acutecomb" xScale="-1" xOffset="202"/>
-    <component base="acutecomb" xScale="-1" xOffset="404"/>
-  </outline>
-</glyph>

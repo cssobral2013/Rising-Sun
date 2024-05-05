@@ -1,0 +1,119 @@
+{
+glyphname = guarani;
+widthMetricsKey = G;
+layers = (
+{
+layerId = "5E4EADAD-7388-43B2-8587-4ACDB97AF5A7";
+shapes = (
+{
+closed = 1;
+nodes = (
+(341,-129,l),
+(421,-129,l),
+(421,95,l),
+(341,95,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(341,609,l),
+(421,623,l),
+(421,815,l),
+(341,815,l)
+);
+},
+{
+alignment = -1;
+ref = G;
+}
+);
+width = 775;
+},
+{
+layerId = "0F9D8F62-E123-4F46-ABBA-A231400EE57C";
+shapes = (
+{
+closed = 1;
+nodes = (
+(342,-117,l),
+(409,-117,l),
+(409,64,l),
+(342,64,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(342,640,l),
+(409,650,l),
+(409,815,l),
+(342,815,l)
+);
+},
+{
+alignment = -1;
+ref = G;
+}
+);
+width = 754;
+},
+{
+layerId = "AAD2D087-92DF-47CC-BD2E-C3459023509F";
+shapes = (
+{
+closed = 1;
+nodes = (
+(343,-107,l),
+(399,-107,l),
+(399,38,l),
+(343,39,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(343,665,l),
+(399,672,l),
+(399,815,l),
+(343,815,l)
+);
+},
+{
+alignment = -1;
+ref = G;
+}
+);
+width = 732;
+},
+{
+layerId = "E0F2885E-F498-4F39-8517-E15A921A69AE";
+shapes = (
+{
+closed = 1;
+nodes = (
+(364,-93,l),
+(384,-93,l),
+(384,0,l),
+(364,1,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(364,702,l),
+(384,704,l),
+(384,815,l),
+(364,815,l)
+);
+},
+{
+alignment = -1;
+ref = G;
+}
+);
+width = 762;
+}
+);
+unicode = 8370;
+}

@@ -1,0 +1,68 @@
+{
+glyphname = Oslash;
+layers = (
+{
+layerId = "6B4679EA-1538-464C-A512-98F14834F464";
+shapes = (
+{
+alignment = -1;
+ref = O;
+},
+{
+alignment = -1;
+pos = (12,0);
+ref = slash;
+}
+);
+width = 784;
+},
+{
+layerId = "4F5CF608-1EEA-44EF-A1BF-A33612F34277";
+shapes = (
+{
+alignment = -1;
+ref = O;
+},
+{
+alignment = -1;
+pos = (39,0);
+ref = slash;
+}
+);
+width = 774;
+},
+{
+layerId = "512638AB-0945-465F-960D-EDDBC987F200";
+shapes = (
+{
+alignment = -1;
+ref = O;
+},
+{
+alignment = -1;
+pos = (48,0);
+ref = slash;
+}
+);
+width = 751;
+},
+{
+layerId = "15C3E3D4-46BF-4B0F-AE9B-5C85901FC252";
+shapes = (
+{
+alignment = -1;
+ref = O;
+},
+{
+alignment = -1;
+pos = (97,0);
+ref = slash;
+}
+);
+width = 741;
+}
+);
+leftKerningGroup = C2;
+rightKerningGroup = O;
+unicode = 216;
+}

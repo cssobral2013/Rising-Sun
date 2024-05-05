@@ -145,7 +145,7 @@
     src: url('web/RisingSun-ExtraBold.woff2') format('woff2'),
         url('web/RisingSun-ExtraBold.woff') format('woff'),
         url('ttf/RisingSun-ExtraBold.ttf') format('truetype');
-    font-weight: bold;
+    font-weight: 800;
     font-style: normal;
     font-display: swap;
 }
@@ -155,7 +155,7 @@
     src: url('web/RisingSun-ExtraBoldItalic.woff2') format('woff2'),
         url('web/RisingSun-ExtraBoldItalic.woff') format('woff'),
         url('ttf/RisingSun-ExtraBoldItalic.ttf') format('truetype');
-    font-weight: bold;
+    font-weight: 800;
     font-style: italic;
     font-display: swap;
 }

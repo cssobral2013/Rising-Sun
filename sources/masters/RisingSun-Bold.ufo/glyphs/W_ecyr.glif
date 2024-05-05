@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Wecyr" format="2">
-  <advance width="1052"/>
-  <unicode hex="051C"/>
-  <anchor x="526" y="709" name="top"/>
-  <outline>
-    <component base="W"/>
-  </outline>
-</glyph>

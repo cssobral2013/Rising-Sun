@@ -1,0 +1,68 @@
+{
+glyphname = Wacute;
+layers = (
+{
+layerId = "5E4EADAD-7388-43B2-8587-4ACDB97AF5A7";
+shapes = (
+{
+alignment = -1;
+ref = W;
+},
+{
+alignment = -1;
+pos = (351,184);
+ref = acutecomb;
+}
+);
+width = 1010;
+},
+{
+layerId = "0F9D8F62-E123-4F46-ABBA-A231400EE57C";
+shapes = (
+{
+alignment = -1;
+ref = W;
+},
+{
+alignment = -1;
+pos = (388,186);
+ref = acutecomb;
+}
+);
+width = 1047;
+},
+{
+layerId = "AAD2D087-92DF-47CC-BD2E-C3459023509F";
+shapes = (
+{
+alignment = -1;
+ref = W;
+},
+{
+alignment = -1;
+pos = (418,188);
+ref = acutecomb;
+}
+);
+width = 1077;
+},
+{
+layerId = "E0F2885E-F498-4F39-8517-E15A921A69AE";
+shapes = (
+{
+alignment = -1;
+ref = W;
+},
+{
+alignment = -1;
+pos = (458,188);
+ref = acutecomb;
+}
+);
+width = 1038;
+}
+);
+leftKerningGroup = W2;
+rightKerningGroup = W;
+unicode = 7810;
+}

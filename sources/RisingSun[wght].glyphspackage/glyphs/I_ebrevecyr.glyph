@@ -1,0 +1,74 @@
+{
+glyphname = Iebrevecyr;
+layers = (
+{
+layerId = "5E4EADAD-7388-43B2-8587-4ACDB97AF5A7";
+shapes = (
+{
+alignment = -1;
+ref = Iecyr;
+},
+{
+alignment = -1;
+pos = (85,184);
+ref = "brevecomb-cy";
+}
+);
+width = 597;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{325, 709}";
+}
+);
+layerId = "0F9D8F62-E123-4F46-ABBA-A231400EE57C";
+shapes = (
+{
+alignment = -1;
+ref = Iecyr;
+},
+{
+alignment = -1;
+pos = (117,186);
+ref = "brevecomb-cy";
+}
+);
+width = 602;
+},
+{
+layerId = "AAD2D087-92DF-47CC-BD2E-C3459023509F";
+shapes = (
+{
+alignment = -1;
+ref = Iecyr;
+},
+{
+alignment = -1;
+pos = (144,188);
+ref = "brevecomb-cy";
+}
+);
+width = 605;
+},
+{
+layerId = "E0F2885E-F498-4F39-8517-E15A921A69AE";
+shapes = (
+{
+alignment = -1;
+ref = Iecyr;
+},
+{
+alignment = -1;
+pos = (174,191);
+ref = "brevecomb-cy";
+}
+);
+width = 617;
+}
+);
+leftKerningGroup = B;
+rightKerningGroup = E;
+unicode = 1238;
+}

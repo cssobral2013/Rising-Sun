@@ -1,0 +1,88 @@
+{
+glyphname = Encyr;
+layers = (
+{
+anchors = (
+{
+name = bottomright;
+position = "{455, 0}";
+}
+);
+layerId = "6B4679EA-1538-464C-A512-98F14834F464";
+shapes = (
+{
+alignment = -1;
+ref = H;
+}
+);
+width = 724;
+},
+{
+anchors = (
+{
+name = bottomright;
+position = "{474, 0}";
+},
+{
+name = bottom;
+position = "{304, 0}";
+},
+{
+name = center;
+position = "{380, 355}";
+},
+{
+name = top;
+position = "{455, 710}";
+},
+{
+name = topleft;
+position = "{115, 710}";
+}
+);
+layerId = "4F5CF608-1EEA-44EF-A1BF-A33612F34277";
+shapes = (
+{
+alignment = -1;
+ref = H;
+}
+);
+width = 719;
+},
+{
+anchors = (
+{
+name = bottomright;
+position = "{494, 0}";
+}
+);
+layerId = "512638AB-0945-465F-960D-EDDBC987F200";
+shapes = (
+{
+alignment = -1;
+ref = H;
+}
+);
+width = 713;
+},
+{
+anchors = (
+{
+name = bottomright;
+position = "{520, 0}";
+}
+);
+layerId = "15C3E3D4-46BF-4B0F-AE9B-5C85901FC252";
+shapes = (
+{
+alignment = -1;
+ref = H;
+}
+);
+width = 701;
+}
+);
+leftKerningGroup = B;
+rightKerningGroup = H;
+unicode = 1053;
+}
