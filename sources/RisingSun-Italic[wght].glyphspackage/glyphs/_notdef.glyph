@@ -2,7 +2,7 @@
 glyphname = .notdef;
 layers = (
 {
-layerId = "4F5CF608-1EEA-44EF-A1BF-A33612F34277";
+layerId = "6CACC3E8-1186-4EB0-A2A8-4BD415D54668";
 shapes = (
 {
 closed = 1;
@@ -59,7 +59,7 @@ nodes = (
 width = 608;
 },
 {
-layerId = "512638AB-0945-465F-960D-EDDBC987F200";
+layerId = "B3B3342E-4496-4A80-862B-130DC1F18985";
 shapes = (
 {
 closed = 1;

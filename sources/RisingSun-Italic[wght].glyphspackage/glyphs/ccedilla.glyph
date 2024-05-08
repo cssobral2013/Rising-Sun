@@ -2,60 +2,80 @@
 glyphname = ccedilla;
 layers = (
 {
-layerId = "6B4679EA-1538-464C-A512-98F14834F464";
+anchors = (
+{
+name = bottom;
+position = "{232, 0}";
+}
+);
+layerId = "68D2A8DE-6F11-4A84-BF04-375CFF6FEE1E";
 shapes = (
 {
 alignment = -1;
 ref = c;
 },
 {
-alignment = -1;
-pos = (261,0);
+pos = (172,0);
 ref = cedillacomb;
 }
 );
 width = 555;
 },
 {
-layerId = "4F5CF608-1EEA-44EF-A1BF-A33612F34277";
+anchors = (
+{
+name = bottom;
+position = "{230, 0}";
+}
+);
+layerId = "6CACC3E8-1186-4EB0-A2A8-4BD415D54668";
 shapes = (
 {
 alignment = -1;
 ref = c;
 },
 {
-alignment = -1;
-pos = (270,0);
+pos = (176,0);
 ref = cedillacomb;
 }
 );
 width = 543;
 },
 {
-layerId = "512638AB-0945-465F-960D-EDDBC987F200";
+anchors = (
+{
+name = bottom;
+position = "{227, 0}";
+}
+);
+layerId = "B3B3342E-4496-4A80-862B-130DC1F18985";
 shapes = (
 {
 alignment = -1;
 ref = c;
 },
 {
-alignment = -1;
-pos = (248,0);
+pos = (160,0);
 ref = cedillacomb;
 }
 );
 width = 531;
 },
 {
-layerId = "15C3E3D4-46BF-4B0F-AE9B-5C85901FC252";
+anchors = (
+{
+name = bottom;
+position = "{220, 0}";
+}
+);
+layerId = "2522108A-DE4B-44CE-9E75-EC5F4698DB13";
 shapes = (
 {
 alignment = -1;
 ref = c;
 },
 {
-alignment = -1;
-pos = (265,0);
+pos = (187,0);
 ref = cedillacomb;
 }
 );

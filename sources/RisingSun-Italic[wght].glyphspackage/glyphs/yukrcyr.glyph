@@ -2,7 +2,7 @@
 glyphname = yukrcyr;
 layers = (
 {
-layerId = "6B4679EA-1538-464C-A512-98F14834F464";
+layerId = "68D2A8DE-6F11-4A84-BF04-375CFF6FEE1E";
 shapes = (
 {
 alignment = -1;
@@ -26,7 +26,7 @@ name = top;
 position = "{218, 723}";
 }
 );
-layerId = "4F5CF608-1EEA-44EF-A1BF-A33612F34277";
+layerId = "6CACC3E8-1186-4EB0-A2A8-4BD415D54668";
 shapes = (
 {
 alignment = -1;
@@ -36,7 +36,7 @@ ref = idieresis;
 width = 257;
 },
 {
-layerId = "512638AB-0945-465F-960D-EDDBC987F200";
+layerId = "B3B3342E-4496-4A80-862B-130DC1F18985";
 shapes = (
 {
 alignment = -1;
@@ -46,7 +46,7 @@ ref = idieresis;
 width = 226;
 },
 {
-layerId = "15C3E3D4-46BF-4B0F-AE9B-5C85901FC252";
+layerId = "2522108A-DE4B-44CE-9E75-EC5F4698DB13";
 shapes = (
 {
 alignment = -1;
