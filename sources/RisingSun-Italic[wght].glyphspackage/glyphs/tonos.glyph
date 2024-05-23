@@ -2,7 +2,7 @@
 glyphname = tonos;
 layers = (
 {
-layerId = "68D2A8DE-6F11-4A84-BF04-375CFF6FEE1E";
+layerId = "663159C9-C83B-4866-AFA9-61BEC837CED7";
 shapes = (
 {
 closed = 1;
@@ -17,7 +17,7 @@ nodes = (
 width = 236;
 },
 {
-layerId = "6CACC3E8-1186-4EB0-A2A8-4BD415D54668";
+layerId = "54B87C9A-462E-42C9-AEC5-5A5E0710E518";
 shapes = (
 {
 closed = 1;
@@ -32,7 +32,7 @@ nodes = (
 width = 210;
 },
 {
-layerId = "B3B3342E-4496-4A80-862B-130DC1F18985";
+layerId = "1D6717FC-5AC9-4BBE-8680-FC6F3D82D580";
 shapes = (
 {
 closed = 1;
@@ -47,7 +47,7 @@ nodes = (
 width = 182;
 },
 {
-layerId = "2522108A-DE4B-44CE-9E75-EC5F4698DB13";
+layerId = "73B0DD54-F6B5-4573-A702-793D40DE474E";
 shapes = (
 {
 closed = 1;

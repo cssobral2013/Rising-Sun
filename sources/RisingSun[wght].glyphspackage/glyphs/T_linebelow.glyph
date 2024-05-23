@@ -2,7 +2,7 @@
 glyphname = Tlinebelow;
 layers = (
 {
-layerId = "A1D59E7A-5670-42BF-A05A-107786DC0B54";
+layerId = "F1805DF7-0D9E-4187-8A83-B69D704A9735";
 shapes = (
 {
 alignment = -1;
@@ -17,7 +17,7 @@ ref = macronbelowcomb;
 width = 624;
 },
 {
-layerId = "CAFD8978-E778-495C-982C-26B6EF852C6C";
+layerId = "99E4F3B4-B40F-4043-B39D-CE849B4BF900";
 shapes = (
 {
 alignment = -1;
@@ -32,7 +32,7 @@ ref = macronbelowcomb;
 width = 618;
 },
 {
-layerId = "686A46FD-64D2-4757-82FE-AF99F4D7398B";
+layerId = "6651FDBC-8478-40E0-9DBA-693A8E97AE15";
 shapes = (
 {
 alignment = -1;
@@ -47,7 +47,7 @@ ref = macronbelowcomb;
 width = 614;
 },
 {
-layerId = "D7867C73-15B7-4B49-9A19-4ACD440B4ADB";
+layerId = "7B6D86F7-B349-45E2-8BDE-B45D4AB74D73";
 shapes = (
 {
 alignment = -1;
