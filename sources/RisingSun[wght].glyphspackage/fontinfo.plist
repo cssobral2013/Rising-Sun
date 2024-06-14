@@ -1008,55 +1008,65 @@ lozenge,
 fi,
 fl,
 zero.dnom,
+zero.lf,
 zero.numr,
 zero.osf,
-zero.lf,
 zero.subs,
+zero.tosf,
 one.dnom,
+one.lf,
 one.numr,
 one.osf,
-one.lf,
 one.subs,
+one.tosf,
 two.dnom,
+two.lf,
 two.numr,
 two.osf,
-two.lf,
 two.subs,
+two.tosf,
 three.dnom,
+three.lf,
 three.numr,
 three.osf,
-three.lf,
 three.subs,
+three.tosf,
 four.dnom,
+four.lf,
 four.numr,
 four.osf,
-four.lf,
 four.subs,
+four.tosf,
 five.dnom,
+five.lf,
 five.numr,
 five.osf,
-five.lf,
 five.subs,
+five.tosf,
 six.dnom,
+six.lf,
 six.numr,
 six.osf,
-six.lf,
 six.subs,
+six.tosf,
 seven.dnom,
+seven.lf,
 seven.numr,
 seven.osf,
-seven.lf,
 seven.subs,
+seven.tosf,
 eight.dnom,
+eight.lf,
 eight.numr,
 eight.osf,
-eight.lf,
 eight.subs,
+eight.tosf,
 nine.dnom,
+nine.lf,
 nine.numr,
 nine.osf,
-nine.lf,
 nine.subs,
+nine.tosf,
 G.ss11,
 W.ss09,
 a.ss01,
@@ -1120,17 +1130,7 @@ estailcyr.loclBSH,
 estailcyr.loclCHU,
 ruble.001,
 "brevecomb-cy",
-idotaccent,
-zero.tosf,
-one.tosf,
-two.tosf,
-three.tosf,
-four.tosf,
-five.tosf,
-six.tosf,
-seven.tosf,
-eight.tosf,
-nine.tosf
+idotaccent
 );
 },
 {
@@ -1671,7 +1671,7 @@ guides = (
 position = "{0, 250}";
 }
 );
-id = "7B6D86F7-B349-45E2-8BDE-B45D4AB74D73";
+id = "2A316D4F-4BEF-4BE9-A3B9-E571F85D101B";
 metricValues = (
 {
 pos = 923;
@@ -1783,7 +1783,7 @@ guides = (
 position = "{0, 250}";
 }
 );
-id = "6651FDBC-8478-40E0-9DBA-693A8E97AE15";
+id = "0B87BE38-3A81-4412-8FB3-6E94EBED6407";
 metricValues = (
 {
 pos = 923;
@@ -1893,7 +1893,7 @@ guides = (
 position = "{0, 250}";
 }
 );
-id = "99E4F3B4-B40F-4043-B39D-CE849B4BF900";
+id = "312F7D9C-0D90-48D5-9D65-D0D599838986";
 metricValues = (
 {
 pos = 923;
@@ -2005,7 +2005,7 @@ guides = (
 position = "{0, 250}";
 }
 );
-id = "F1805DF7-0D9E-4187-8A83-B69D704A9735";
+id = "E32D38C3-58D0-428E-A268-4E2A4D55D6BB";
 metricValues = (
 {
 pos = 923;
@@ -2101,7 +2101,7 @@ weightClass = Black;
 }
 );
 kerningLTR = {
-"6651FDBC-8478-40E0-9DBA-693A8E97AE15" = {
+"0B87BE38-3A81-4412-8FB3-6E94EBED6407" = {
 "@MMK_L_A" = {
 "@MMK_R_C2" = -26;
 "@MMK_R_S2" = -10;
@@ -17263,7 +17263,7 @@ slash = 8;
 softhyphen = -10;
 };
 };
-"7B6D86F7-B349-45E2-8BDE-B45D4AB74D73" = {
+"2A316D4F-4BEF-4BE9-A3B9-E571F85D101B" = {
 "@MMK_L_A" = {
 "@MMK_R_C2" = -26;
 "@MMK_R_S2" = -11;
@@ -28657,7 +28657,7 @@ hyphen = -18;
 softhyphen = -18;
 };
 };
-"99E4F3B4-B40F-4043-B39D-CE849B4BF900" = {
+"312F7D9C-0D90-48D5-9D65-D0D599838986" = {
 "@MMK_L_A" = {
 "@MMK_R_C2" = -28;
 "@MMK_R_S2" = -9;
@@ -43813,7 +43813,7 @@ slash = 15;
 softhyphen = -13;
 };
 };
-"F1805DF7-0D9E-4187-8A83-B69D704A9735" = {
+"E32D38C3-58D0-428E-A268-4E2A4D55D6BB" = {
 "@MMK_L_A" = {
 "@MMK_R_C2" = -29;
 "@MMK_R_S2" = -8;
@@ -57595,7 +57595,7 @@ value = "The Rising Sun Project Authors";
 unitsPerEm = 1000;
 userData = {
 GSDimensionPlugin.Dimensions = {
-"7B6D86F7-B349-45E2-8BDE-B45D4AB74D73" = {
+"2A316D4F-4BEF-4BE9-A3B9-E571F85D101B" = {
 HV = 20;
 HH = 20;
 OV = 20;
@@ -57605,7 +57605,7 @@ oH = 20;
 nV = 20;
 tH = 20;
 };
-"6651FDBC-8478-40E0-9DBA-693A8E97AE15" = {
+"0B87BE38-3A81-4412-8FB3-6E94EBED6407" = {
 HV = 90;
 HH = 80;
 OV = 91;
@@ -57615,7 +57615,7 @@ oH = 76;
 nV = 80;
 tH = 69;
 };
-"99E4F3B4-B40F-4043-B39D-CE849B4BF900" = {
+"312F7D9C-0D90-48D5-9D65-D0D599838986" = {
 HV = 136;
 HH = 120;
 OV = 140;
@@ -57625,7 +57625,7 @@ oH = 114;
 nV = 120;
 tH = 102;
 };
-"F1805DF7-0D9E-4187-8A83-B69D704A9735" = {
+"E32D38C3-58D0-428E-A268-4E2A4D55D6BB" = {
 HV = 195;
 HH = 170;
 OV = 198;
@@ -57638,5 +57638,5 @@ tH = 143;
 };
 };
 versionMajor = 4;
-versionMinor = 330;
+versionMinor = 331;
 }

@@ -2,7 +2,7 @@
 glyphname = Uhornhoi;
 layers = (
 {
-layerId = "663159C9-C83B-4866-AFA9-61BEC837CED7";
+layerId = "84826E47-C347-43FA-9846-D83643EB9219";
 shapes = (
 {
 alignment = -1;
@@ -17,7 +17,7 @@ ref = hookabovecomb;
 width = 713;
 },
 {
-layerId = "54B87C9A-462E-42C9-AEC5-5A5E0710E518";
+layerId = "28FDC922-10A4-4932-8D00-292C295E4E95";
 shapes = (
 {
 alignment = -1;
@@ -32,7 +32,7 @@ ref = hookabovecomb;
 width = 719;
 },
 {
-layerId = "1D6717FC-5AC9-4BBE-8680-FC6F3D82D580";
+layerId = "93EFEBCA-1FA1-4D7B-83D8-D678058D7A50";
 shapes = (
 {
 alignment = -1;
@@ -47,7 +47,7 @@ ref = hookabovecomb;
 width = 725;
 },
 {
-layerId = "73B0DD54-F6B5-4573-A702-793D40DE474E";
+layerId = "52D7F265-9369-4F5C-ACDA-B6F8989E370A";
 shapes = (
 {
 alignment = -1;

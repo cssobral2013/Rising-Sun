@@ -2,7 +2,7 @@
 glyphname = circumflexcomb_acutecomb;
 layers = (
 {
-layerId = "F1805DF7-0D9E-4187-8A83-B69D704A9735";
+layerId = "E32D38C3-58D0-428E-A268-4E2A4D55D6BB";
 shapes = (
 {
 alignment = -1;
@@ -17,7 +17,7 @@ ref = acutecomb;
 width = 550;
 },
 {
-layerId = "99E4F3B4-B40F-4043-B39D-CE849B4BF900";
+layerId = "312F7D9C-0D90-48D5-9D65-D0D599838986";
 shapes = (
 {
 alignment = -1;
@@ -33,7 +33,7 @@ ref = acutecomb;
 width = 514;
 },
 {
-layerId = "6651FDBC-8478-40E0-9DBA-693A8E97AE15";
+layerId = "0B87BE38-3A81-4412-8FB3-6E94EBED6407";
 shapes = (
 {
 alignment = -1;
@@ -49,7 +49,7 @@ ref = acutecomb;
 width = 485;
 },
 {
-layerId = "7B6D86F7-B349-45E2-8BDE-B45D4AB74D73";
+layerId = "2A316D4F-4BEF-4BE9-A3B9-E571F85D101B";
 shapes = (
 {
 alignment = -1;
