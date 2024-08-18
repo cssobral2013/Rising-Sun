@@ -2,7 +2,7 @@
 glyphname = Ecircumflexhoi;
 layers = (
 {
-layerId = "84826E47-C347-43FA-9846-D83643EB9219";
+layerId = "829D35E2-4F0E-459D-BB92-9D4F0A8E3AE2";
 shapes = (
 {
 alignment = -1;
@@ -17,7 +17,7 @@ ref = circumflexcomb_hookabovecomb;
 width = 575;
 },
 {
-layerId = "28FDC922-10A4-4932-8D00-292C295E4E95";
+layerId = "B1DF4D4A-FAE4-4CE7-A291-C8F8FE6C3ED7";
 shapes = (
 {
 alignment = -1;
@@ -32,7 +32,7 @@ ref = circumflexcomb_hookabovecomb;
 width = 577;
 },
 {
-layerId = "93EFEBCA-1FA1-4D7B-83D8-D678058D7A50";
+layerId = "8816FCDF-276B-4395-962E-E4B413D6AA91";
 shapes = (
 {
 alignment = -1;
@@ -47,7 +47,7 @@ ref = circumflexcomb_hookabovecomb;
 width = 580;
 },
 {
-layerId = "52D7F265-9369-4F5C-ACDA-B6F8989E370A";
+layerId = "45717230-BFA1-47C7-AD18-B1F1F9D40B6E";
 shapes = (
 {
 alignment = -1;

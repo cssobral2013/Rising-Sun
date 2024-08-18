@@ -2,7 +2,7 @@
 glyphname = nine.dnom;
 layers = (
 {
-layerId = "E32D38C3-58D0-428E-A268-4E2A4D55D6BB";
+layerId = "668C37D9-4961-4F3F-9780-21F6A1EC3783";
 shapes = (
 {
 closed = 1;
@@ -76,7 +76,7 @@ nodes = (
 width = 441;
 },
 {
-layerId = "312F7D9C-0D90-48D5-9D65-D0D599838986";
+layerId = "52356164-728E-4EDF-85F4-26EBF58E890E";
 shapes = (
 {
 closed = 1;
@@ -150,7 +150,7 @@ nodes = (
 width = 425;
 },
 {
-layerId = "0B87BE38-3A81-4412-8FB3-6E94EBED6407";
+layerId = "2612652E-A4B2-40AC-81D7-4496E375EE70";
 shapes = (
 {
 closed = 1;
@@ -224,7 +224,7 @@ nodes = (
 width = 411;
 },
 {
-layerId = "2A316D4F-4BEF-4BE9-A3B9-E571F85D101B";
+layerId = "812E9E33-C7F5-44D3-9FFB-797E61E0F284";
 shapes = (
 {
 closed = 1;
