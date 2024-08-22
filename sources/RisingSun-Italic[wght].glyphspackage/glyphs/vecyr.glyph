@@ -2,7 +2,7 @@
 glyphname = vecyr;
 layers = (
 {
-layerId = "829D35E2-4F0E-459D-BB92-9D4F0A8E3AE2";
+layerId = "E296BAA0-45A4-4932-800E-6E857181851D";
 shapes = (
 {
 closed = 1;
@@ -90,7 +90,7 @@ nodes = (
 width = 590;
 },
 {
-layerId = "B1DF4D4A-FAE4-4CE7-A291-C8F8FE6C3ED7";
+layerId = "AF98CA5E-7337-49EA-BF10-5CC08DD61F92";
 shapes = (
 {
 closed = 1;
@@ -178,7 +178,7 @@ nodes = (
 width = 586;
 },
 {
-layerId = "8816FCDF-276B-4395-962E-E4B413D6AA91";
+layerId = "2DE687CC-A0D8-417D-9F8E-705FCA76A462";
 shapes = (
 {
 closed = 1;
@@ -266,7 +266,7 @@ nodes = (
 width = 581;
 },
 {
-layerId = "45717230-BFA1-47C7-AD18-B1F1F9D40B6E";
+layerId = "6776DA21-5DA6-4C5F-9F9A-BFA80D56BD48";
 shapes = (
 {
 closed = 1;

@@ -2,7 +2,7 @@
 glyphname = phi;
 layers = (
 {
-layerId = "668C37D9-4961-4F3F-9780-21F6A1EC3783";
+layerId = "D4ADDFEC-F570-4A06-AEB5-B9A2307E2D80";
 shapes = (
 {
 closed = 1;
@@ -75,7 +75,7 @@ nodes = (
 width = 767;
 },
 {
-layerId = "52356164-728E-4EDF-85F4-26EBF58E890E";
+layerId = "47F0CD44-C542-4DA4-8943-4AF698D2A17D";
 shapes = (
 {
 closed = 1;
@@ -148,7 +148,7 @@ nodes = (
 width = 746;
 },
 {
-layerId = "2612652E-A4B2-40AC-81D7-4496E375EE70";
+layerId = "96DD196C-ABEA-4697-8A9B-9CD5F5F5B240";
 shapes = (
 {
 closed = 1;
@@ -221,7 +221,7 @@ nodes = (
 width = 729;
 },
 {
-layerId = "812E9E33-C7F5-44D3-9FFB-797E61E0F284";
+layerId = "B194F41A-4796-408D-B973-D0417AA85C89";
 shapes = (
 {
 closed = 1;
