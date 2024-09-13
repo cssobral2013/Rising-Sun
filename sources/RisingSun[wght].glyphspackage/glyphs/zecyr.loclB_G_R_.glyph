@@ -2,7 +2,7 @@
 glyphname = zecyr.loclBGR;
 layers = (
 {
-layerId = "D4ADDFEC-F570-4A06-AEB5-B9A2307E2D80";
+layerId = "6BD95F67-E3AF-4856-AA99-9B8513D4E753";
 shapes = (
 {
 closed = 1;
@@ -84,7 +84,7 @@ name = top;
 position = "{314, 524}";
 }
 );
-layerId = "47F0CD44-C542-4DA4-8943-4AF698D2A17D";
+layerId = "F093C228-C265-45C8-8418-4C67D3A6676B";
 shapes = (
 {
 closed = 1;
@@ -160,7 +160,7 @@ nodes = (
 width = 511;
 },
 {
-layerId = "96DD196C-ABEA-4697-8A9B-9CD5F5F5B240";
+layerId = "63942582-3B2C-4F91-9451-B4264674D71E";
 shapes = (
 {
 closed = 1;
@@ -236,7 +236,7 @@ nodes = (
 width = 494;
 },
 {
-layerId = "B194F41A-4796-408D-B973-D0417AA85C89";
+layerId = "FE002BD1-73B1-44E9-AD27-98C6005D04D1";
 shapes = (
 {
 closed = 1;
