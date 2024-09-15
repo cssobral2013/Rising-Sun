@@ -2,7 +2,7 @@
 glyphname = izhitsacyr;
 layers = (
 {
-layerId = "C2B0D979-16E5-4ED1-92C5-6A5490F28FD9";
+layerId = "E1F67D51-A14C-497C-A431-4BDDBFFF23F8";
 shapes = (
 {
 closed = 1;
@@ -28,7 +28,7 @@ nodes = (
 width = 603;
 },
 {
-layerId = "1F3B87B5-577D-46CF-BF63-155FF312A020";
+layerId = "B37400A5-5F92-4160-A861-AA7CB54C8103";
 shapes = (
 {
 closed = 1;
@@ -54,7 +54,7 @@ nodes = (
 width = 584;
 },
 {
-layerId = "6C7DE992-65F7-475D-B35F-AEA8ACF73DA1";
+layerId = "C3BEEA8A-7576-4FC7-B8AE-316A10245B6F";
 shapes = (
 {
 closed = 1;
@@ -80,7 +80,7 @@ nodes = (
 width = 568;
 },
 {
-layerId = "078D7706-D79D-45E9-882F-7766C51D62F7";
+layerId = "54CFE471-89F5-4425-AB10-EA4F3BC8CE99";
 shapes = (
 {
 closed = 1;

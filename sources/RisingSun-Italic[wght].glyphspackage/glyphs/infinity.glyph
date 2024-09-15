@@ -2,7 +2,7 @@
 glyphname = infinity;
 layers = (
 {
-layerId = "A6DA400E-6ECD-48CB-AC27-997324CD676C";
+layerId = "C309CA5C-CC6F-4640-9CEC-6125DC67C385";
 shapes = (
 {
 closed = 1;
@@ -119,7 +119,7 @@ nodes = (
 width = 760;
 },
 {
-layerId = "957D94EC-EEFB-4C6C-ADFA-DD02975C89E7";
+layerId = "518F2C15-39A0-45C9-9A8E-07F3F2274643";
 shapes = (
 {
 closed = 1;
@@ -236,7 +236,7 @@ nodes = (
 width = 725;
 },
 {
-layerId = "CD63CFE9-C249-49C9-BEFF-C93A03CD18B7";
+layerId = "ED70FC97-A292-4A66-984B-8A6912A50EDD";
 shapes = (
 {
 closed = 1;
@@ -353,7 +353,7 @@ nodes = (
 width = 688;
 },
 {
-layerId = "545D56E4-37CD-4603-BFD1-F1AADE3A64B0";
+layerId = "C13A9FFF-3B85-4649-95FE-B3E98CFB4DB0";
 shapes = (
 {
 closed = 1;

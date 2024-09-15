@@ -1611,7 +1611,6 @@ languagesystem cyrl SRB ; # Cyrillic Serbian
 #
 # Feature definitions
 #
-
 ";
 tag = Languagesystems;
 }
@@ -2337,7 +2336,7 @@ guides = (
 position = "{0, 250}";
 }
 );
-id = "078D7706-D79D-45E9-882F-7766C51D62F7";
+id = "54CFE471-89F5-4425-AB10-EA4F3BC8CE99";
 metricValues = (
 {
 pos = 923;
@@ -2449,7 +2448,7 @@ guides = (
 position = "{0, 250}";
 }
 );
-id = "6C7DE992-65F7-475D-B35F-AEA8ACF73DA1";
+id = "C3BEEA8A-7576-4FC7-B8AE-316A10245B6F";
 metricValues = (
 {
 pos = 923;
@@ -2559,7 +2558,7 @@ guides = (
 position = "{0, 250}";
 }
 );
-id = "1F3B87B5-577D-46CF-BF63-155FF312A020";
+id = "B37400A5-5F92-4160-A861-AA7CB54C8103";
 metricValues = (
 {
 pos = 923;
@@ -2671,7 +2670,7 @@ guides = (
 position = "{0, 250}";
 }
 );
-id = "C2B0D979-16E5-4ED1-92C5-6A5490F28FD9";
+id = "E1F67D51-A14C-497C-A431-4BDDBFFF23F8";
 metricValues = (
 {
 pos = 923;
@@ -2767,7 +2766,7 @@ weightClass = Black;
 }
 );
 kerningLTR = {
-"078D7706-D79D-45E9-882F-7766C51D62F7" = {
+"54CFE471-89F5-4425-AB10-EA4F3BC8CE99" = {
 "@MMK_L_A" = {
 "@MMK_R_C2" = -38;
 "@MMK_R_S2" = -11;
@@ -13456,7 +13455,7 @@ hyphen = -18;
 softhyphen = -18;
 };
 };
-"1F3B87B5-577D-46CF-BF63-155FF312A020" = {
+"B37400A5-5F92-4160-A861-AA7CB54C8103" = {
 "@MMK_L_A" = {
 "@MMK_R_C2" = -34;
 "@MMK_R_S2" = -9;
@@ -27628,7 +27627,7 @@ slash = 15;
 softhyphen = -13;
 };
 };
-"6C7DE992-65F7-475D-B35F-AEA8ACF73DA1" = {
+"C3BEEA8A-7576-4FC7-B8AE-316A10245B6F" = {
 "@MMK_L_A" = {
 "@MMK_R_C2" = -37;
 "@MMK_R_S2" = -10;
@@ -41783,7 +41782,7 @@ slash = 8;
 softhyphen = -10;
 };
 };
-"C2B0D979-16E5-4ED1-92C5-6A5490F28FD9" = {
+"E1F67D51-A14C-497C-A431-4BDDBFFF23F8" = {
 "@MMK_L_A" = {
 "@MMK_R_C2" = -29;
 "@MMK_R_S2" = -8;
@@ -47463,7 +47462,7 @@ value = "The Rising Sun Project Authors";
 unitsPerEm = 1000;
 userData = {
 GSDimensionPlugin.Dimensions = {
-"078D7706-D79D-45E9-882F-7766C51D62F7" = {
+"54CFE471-89F5-4425-AB10-EA4F3BC8CE99" = {
 HV = 20;
 HH = 20;
 OV = 20;
@@ -47473,7 +47472,7 @@ oH = 20;
 nV = 20;
 tH = 20;
 };
-"6C7DE992-65F7-475D-B35F-AEA8ACF73DA1" = {
+"C3BEEA8A-7576-4FC7-B8AE-316A10245B6F" = {
 HV = 90;
 HH = 80;
 OV = 91;
@@ -47483,7 +47482,7 @@ oH = 76;
 nV = 80;
 tH = 69;
 };
-"1F3B87B5-577D-46CF-BF63-155FF312A020" = {
+"B37400A5-5F92-4160-A861-AA7CB54C8103" = {
 HV = 136;
 HH = 120;
 OV = 140;
@@ -47493,7 +47492,7 @@ oH = 114;
 nV = 120;
 tH = 102;
 };
-"C2B0D979-16E5-4ED1-92C5-6A5490F28FD9" = {
+"E1F67D51-A14C-497C-A431-4BDDBFFF23F8" = {
 HV = 195;
 HH = 170;
 OV = 198;

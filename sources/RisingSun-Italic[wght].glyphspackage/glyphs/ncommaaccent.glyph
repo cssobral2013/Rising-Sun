@@ -2,7 +2,7 @@
 glyphname = ncommaaccent;
 layers = (
 {
-layerId = "A6DA400E-6ECD-48CB-AC27-997324CD676C";
+layerId = "C309CA5C-CC6F-4640-9CEC-6125DC67C385";
 shapes = (
 {
 alignment = -1;
@@ -17,7 +17,7 @@ ref = commaaccentcomb;
 width = 601;
 },
 {
-layerId = "957D94EC-EEFB-4C6C-ADFA-DD02975C89E7";
+layerId = "518F2C15-39A0-45C9-9A8E-07F3F2274643";
 shapes = (
 {
 alignment = -1;
@@ -32,7 +32,7 @@ ref = commaaccentcomb;
 width = 585;
 },
 {
-layerId = "CD63CFE9-C249-49C9-BEFF-C93A03CD18B7";
+layerId = "ED70FC97-A292-4A66-984B-8A6912A50EDD";
 shapes = (
 {
 alignment = -1;
@@ -47,7 +47,7 @@ ref = commaaccentcomb;
 width = 567;
 },
 {
-layerId = "545D56E4-37CD-4603-BFD1-F1AADE3A64B0";
+layerId = "C13A9FFF-3B85-4649-95FE-B3E98CFB4DB0";
 shapes = (
 {
 alignment = -1;
