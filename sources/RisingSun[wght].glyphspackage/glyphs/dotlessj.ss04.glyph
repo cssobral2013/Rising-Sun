@@ -1,0 +1,67 @@
+{
+glyphname = dotlessj.ss04;
+layers = (
+{
+layerId = "C2B0D979-16E5-4ED1-92C5-6A5490F28FD9";
+shapes = (
+{
+closed = 1;
+nodes = (
+(48,-213,l),
+(238,-213,l),
+(238,517,l),
+(48,517,l)
+);
+}
+);
+width = 286;
+},
+{
+layerId = "1F3B87B5-577D-46CF-BF63-155FF312A020";
+shapes = (
+{
+closed = 1;
+nodes = (
+(61,-213,l),
+(195,-213,l),
+(195,517,l),
+(61,517,l)
+);
+}
+);
+width = 255;
+},
+{
+layerId = "6C7DE992-65F7-475D-B35F-AEA8ACF73DA1";
+shapes = (
+{
+closed = 1;
+nodes = (
+(71,-213,l),
+(159,-213,l),
+(159,517,l),
+(71,517,l)
+);
+}
+);
+width = 230;
+},
+{
+layerId = "078D7706-D79D-45E9-882F-7766C51D62F7";
+shapes = (
+{
+closed = 1;
+nodes = (
+(84,-213,l),
+(104,-213,l),
+(104,517,l),
+(84,517,l)
+);
+}
+);
+width = 188;
+}
+);
+leftKerningGroup = i2;
+rightKerningGroup = i;
+}

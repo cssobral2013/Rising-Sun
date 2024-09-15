@@ -1,0 +1,76 @@
+{
+glyphname = acircumflexhoi.ss01;
+layers = (
+{
+layerId = "C2B0D979-16E5-4ED1-92C5-6A5490F28FD9";
+shapes = (
+{
+alignment = -1;
+ref = a.ss01;
+},
+{
+pos = (69,0);
+ref = circumflexcomb_hookabovecomb;
+}
+);
+width = 599;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{299, 0}";
+},
+{
+name = ogonek;
+position = "{542, 0}";
+},
+{
+name = top;
+position = "{272, 857}";
+}
+);
+layerId = "1F3B87B5-577D-46CF-BF63-155FF312A020";
+shapes = (
+{
+alignment = -1;
+ref = a.ss01;
+},
+{
+alignment = -1;
+pos = (77,0);
+ref = circumflexcomb_hookabovecomb;
+}
+);
+width = 574;
+},
+{
+layerId = "6C7DE992-65F7-475D-B35F-AEA8ACF73DA1";
+shapes = (
+{
+alignment = -1;
+ref = a.ss01;
+},
+{
+pos = (83,0);
+ref = circumflexcomb_hookabovecomb;
+}
+);
+width = 554;
+},
+{
+layerId = "078D7706-D79D-45E9-882F-7766C51D62F7";
+shapes = (
+{
+alignment = -1;
+ref = a.ss01;
+},
+{
+pos = (85,0);
+ref = circumflexcomb_hookabovecomb;
+}
+);
+width = 524;
+}
+);
+}

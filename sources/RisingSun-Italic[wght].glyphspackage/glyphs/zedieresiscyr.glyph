@@ -2,7 +2,7 @@
 glyphname = zedieresiscyr;
 layers = (
 {
-layerId = "0BF33416-4217-4406-991B-DF872C3F464B";
+layerId = "A6DA400E-6ECD-48CB-AC27-997324CD676C";
 shapes = (
 {
 alignment = -1;
@@ -27,7 +27,7 @@ name = top;
 position = "{324, 723}";
 }
 );
-layerId = "90385DA8-8495-4360-A6AD-D0689E3825C9";
+layerId = "957D94EC-EEFB-4C6C-ADFA-DD02975C89E7";
 shapes = (
 {
 alignment = -1;
@@ -42,7 +42,7 @@ ref = dieresiscomb;
 width = 502;
 },
 {
-layerId = "8A699229-7322-4274-B7E8-C577472E6477";
+layerId = "CD63CFE9-C249-49C9-BEFF-C93A03CD18B7";
 shapes = (
 {
 alignment = -1;
@@ -57,7 +57,7 @@ ref = dieresiscomb;
 width = 503;
 },
 {
-layerId = "2F6309D4-6218-44A1-972D-3DE7BE97489D";
+layerId = "545D56E4-37CD-4603-BFD1-F1AADE3A64B0";
 shapes = (
 {
 alignment = -1;
